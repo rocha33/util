@@ -48,7 +48,7 @@
 "contactpage": ""
 },
 {
-"channelName": "TV Globo",
+"channelName": "TV GLOBO",
 "link": "8oW6UgwBaQQI5nmbMxt0HNPz7J3fjTyYnPIlT810fCbTtSHx6eRimJQ945qM+K03O7s5XO6efy6jTQvFq9srlw==",
 "ativo": 1, 
 "contactpage": ""
@@ -105,6 +105,24 @@
 "channelName": "CANÇÃO NOVA",
 "link": "g9/sHnZaxsMDIl1wCDdaJ6D9wSo5htNiF+R0+Oubiul28uyBizOiBxLJRSzFc1iWySAzuLVsrqsdwXgn62w0ng==",
 "ativo": 1, 
+"contactpage": ""
+},
+{
+"channelName": "TOPTV",
+"link": "diuC0Smg3hfxlza3D975Uc3DlNmSh7yEo8mnLWRs0S+I9hXt3ZdzH2G/oOVEz42o14R1qxuTEo5yJJGYkgwuKw==",
+"ativo": 0, 
+"contactpage": ""
+},
+{
+"channelName": "ANIME TV",
+"link": "6/TXGFS2JVJghNfkZ5qAixP+clKiyhjJSYKUeQ9vr9Y3+02Ul7BTG+jDPm+hKXDNFwZAIdH9gfpxnATuJJmZIQ==",
+"ativo": 0, 
+"contactpage": ""
+},
+{
+"channelName": "RETRO TV CARTOON",
+"link": "6/TXGFS2JVJghNfkZ5qAi8zRhZ10QykO6UFzWBNMC/SfqTbjg5m3rcQzIMYVuhM3bByOf0UTspolhI/J7etKcw==",
+"ativo": 0, 
 "contactpage": ""
 }
 ]
