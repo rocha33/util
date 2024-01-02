@@ -50,7 +50,7 @@
 {
 "channelName": "TV GLOBO",
 "link": "8oW6UgwBaQQI5nmbMxt0HNPz7J3fjTyYnPIlT810fCbTtSHx6eRimJQ945qM+K03O7s5XO6efy6jTQvFq9srlw==",
-"ativo": 1, 
+"ativo": 0, 
 "contactpage": ""
 },
 {
@@ -122,6 +122,30 @@
 {
 "channelName": "RETRO TV CARTOON",
 "link": "6/TXGFS2JVJghNfkZ5qAi8zRhZ10QykO6UFzWBNMC/SfqTbjg5m3rcQzIMYVuhM3bByOf0UTspolhI/J7etKcw==",
+"ativo": 0, 
+"contactpage": ""
+},
+{
+"channelName": "HTO Filmes",
+"link": "8oW6UgwBaQQI5nmbMxt0HBudu418MfQFD4XCf11KgVejgsM/dGOqJrEG467Wt4gb7B+AjNJ5PucPapWEsEC9SA==",
+"ativo": 0, 
+"contactpage": ""
+},
+{
+"channelName": "Play +",
+"link": "KNfAs7rnkFUXRqDkqoRJmH9pbJNiYRKShmIFcvtbldglMpYGlo9vs6R7qxulwahk+85YPfKxod34DT+Keum6VLxcQ9jbgadL+4Ca/yNg92k=",
+"ativo": 0, 
+"contactpage": ""
+},
+{
+"channelName": "Tv Espírita Do Paraná",
+"link": "5JZOGzk4NdYX00ibMK3UxZF15NhZLonwQTOpVqDpuwYzi+v0lp4PWwE+DYeq5nuiYkadRADtttDXViRJiH3q5otJvK9giSpIAItd3hFsnO0=",
+"ativo": 0, 
+"contactpage": ""
+},
+{
+"channelName": "CinePIX TV",
+"link": "e5Gp+eSLeCsIMxWHJ9euXUmoe+B59Cp70x2CaobYp6nTLx9S9aM4kiEVHWReWSJJhTazEpdyE9Ly1LzdAIdDJQBUuYIagaWzxMA+gftOhy8=",
 "ativo": 0, 
 "contactpage": ""
 }
