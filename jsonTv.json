@@ -176,13 +176,6 @@
 "categoria": "filmes"
 },
 {
-"channelName": "TV GLOBO RJ",
-"link": "uZARfmRJ8y1lRCEephsgmbI99iZxWEqsklNJtWdr/zagy4+ilWqZLUW6DBxtNHtT",
-"ativo": 0, 
-"contactpage": "",
-"categoria": "outros"
-},
-{
 "channelName": "TV GLOBO BA",
 "link": "Au88QDvx6u6yoINgsTkE3920zxfdxvdT1wNLHWpUVCT9T7MkOFtuGlVvjsnAAGmEmMZ+2z8iW+eXxiQJSIiYfSMJSTE76rdcNVC4RzBsad3fAIaPARVQwcl/+TRyQVuP",
 "ativo": 0, 
@@ -258,6 +251,27 @@
 "ativo": 0, 
 "contactpage": "",
 "categoria": "esportes"
+},
+{
+"channelName": "SPARK TV",
+"link": "uTzOizMrjmDLVAI8V0/Rb901wEpht0bB5kxiemLHdH3gRo8YjSLqMjhxuRGgMwnJvg/J03hp6V6rWEOB6TTPQQ==",
+"ativo": 0, 
+"contactpage": "",
+"categoria": "filmes"
+},
+{
+"channelName": "HALLO MOVIES",
+"link": "KNfAs7rnkFUXRqDkqoRJmKdWgouqsRMqyHfACHgOfVB3cxdYckBV/y8AAYwA4ozDyl6JoNK/n2QM6XgNqJ93pA==",
+"ativo": 0, 
+"contactpage": "",
+"categoria": "filmes"
+},
+{
+"channelName": "TV GLOBO SP (TV TEM)",
+"link": "2/d59RKtjqrF0H5rwkcpRJlZ0Ns7u4uAS4RA5B+XiOa/N2cjROoHD26QYvrRuIU6ErC0DZpYytPi3W64KkJ7sw==",
+"ativo": 0, 
+"contactpage": "",
+"categoria": "outros"
 }
 
 
