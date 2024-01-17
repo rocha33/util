@@ -272,6 +272,27 @@
 "ativo": 0, 
 "contactpage": "",
 "categoria": "outros"
+},
+{
+"channelName": "TV Record RJ",
+"link": "snlT4ugD0tqMYbs6F29P2PnIgz+iH33a3WABfKBNMGVrJeXU7Pykhe1Uxs7Tte29hK6h7iSiXg1z4QfJuTnItw==",
+"ativo": 1, 
+"contactpage": "",
+"categoria": "outros"
+},
+{
+"channelName": "TV Record BA",
+"link": "Cc4FI29HGIPrAXXw3tTlv+V6NOih1FVD5dlmQ/kavQdIAKNsr7vsNhRVPs91FAGfXpbVryejdpGxRGbo4ugVjQ==",
+"ativo": 1, 
+"contactpage": "",
+"categoria": "outros"
+},
+{
+"channelName": "TV Record MG",
+"link": "BLx5VSrWoo9BprtogpVK4OOeJ064TmqcWjpocwD8d+qHI84D77eGkaxgvVqlFIuzbAYhN2NWqSD6kyx0mkEhQg==",
+"ativo": 1, 
+"contactpage": "",
+"categoria": "outros"
 }
 
 
