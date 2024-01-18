@@ -273,8 +273,15 @@
         "categoria": "outros"
     },
     {
-        "channelName": "RECORD MINAS",
+        "channelName": "TV RECORD MINAS",
         "link": "g9/sHnZaxsMDIl1wCDdaJ6D9wSo5htNiF+R0+Oubiul0Nf4rCmABsDncAiYniUNUw92xG4Lw+ZfX2sTwuVtRtg==",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros"
+    },
+    {
+        "channelName": "TV RECORD RN",
+        "link": "EMk/nSystzkWwSnoVK6Hb5lEeE8uX9xdbQ9pgQmAYjWTwLmFD4g1DexcOE1m8ShLTqoP0nVs68AgRSemtA2P+hVX1d42FG+uH9CyYdftTwF9meSSAdMJMkuT6gX8zw3+",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
