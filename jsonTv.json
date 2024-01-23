@@ -298,6 +298,35 @@
         "link": "7X6JvAlqxG035lv6FicHHboWV0PBZvUOEyL473/19O0gvg4HI6h04QbGFRn2BZI1",
         "ativo": 0,
         "contactpage": "",
-        "categoria": "animacao"
+        "categoria": "outros"
+    },
+    {
+        "channelName": "BAND BAHIA",
+        "link": "7X6JvAlqxG035lv6FicHHboWV0PBZvUOEyL473/19O2jUGMqPQROJVt8D/KrTJMA",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros"
+    }
+    ,
+    {
+        "channelName": "JOGO AO VIVO AGORA 5 (Não é 24 horas)",
+        "link": "ZityHpuCATPGnj9++Q2Eug7rPmWkr8dRi88BT822q7c/P0Jzb4i6+KWDnG8WakgVHTLI5WSCaVEgyuLHAYXoFA==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes"
+    },
+    {
+        "channelName": "SBT BA",
+        "link": "SbZQLvTq+H8KDNlwhEFKUEkmB6X/xEwnu50wZrIhec5EaPhJZ+EZERktwFBEsqW54rgYVDN/4XkKSnnI64yB026KBJVN/oGBi0V+ubzU2+o=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros"
+    },
+    {
+        "channelName": "RECORD RJ",
+        "link": "7X6JvAlqxG035lv6FicHHboWV0PBZvUOEyL473/19O1fJmr6Q2HwcdXNr2cnomi4",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros"
     }
 ]
