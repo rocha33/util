@@ -42,13 +42,6 @@
         "categoria": "outros"
     },
     {
-        "channelName": "TV Sport2",
-        "link": "6VnnwQhI8zXdKGfE/Hgx2uvAr/ySQrjpr/cGBRUGuf54ufqLli8uYaV0zWqBVvaID2k+Gg62KKRXP7VnfeMa5g==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "esportes"
-    },
-    {
         "channelName": "SBT",
         "link": "ALmvxOVJpREniHCF8mdGJZgXSqLzypqW9ewxG9xGibJCZMM75TQpvndfBhWqNJ0Swfh0vxrl8FKz60GlJIQdCJ+GDyO2ga/h+A+3VUpl775ai8Nm/RW8JPRiBYu69nhi",
         "ativo": 1,
@@ -328,5 +321,12 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
+    },    
+    {
+        "channelName": "SporTV 2",
+        "link": "7X6JvAlqxG035lv6FicHHboWV0PBZvUOEyL473/19O0oHAiSeJ5foVLlO59dYr68",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "esportes"
     }
 ]
