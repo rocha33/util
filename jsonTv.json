@@ -1,6 +1,6 @@
 [
     {
-        "channelName": "TV Record",
+        "channelName": "Record",
         "link": "SbZQLvTq+H8KDNlwhEFKUEkmB6X/xEwnu50wZrIhec4BOYwOR2vzny6yBJtTAgl58Y//zPomaQkaR90SGJKBis/M1EoFGUubJ27zBk8+5U8=",
         "ativo": 1,
         "contactpage": "",
@@ -28,7 +28,7 @@
         "categoria": "esportes"
     },
     {
-        "channelName": "TV Brasil Central",
+        "channelName": "Brasil Central",
         "link": "IGB9vh1bDxk3zn+NHCQNUAkQsgim51f7QzDSifoGzN3Q3wjhrlMy0A4wqO5BEIg4",
         "ativo": 1,
         "contactpage": "",
@@ -49,7 +49,7 @@
         "categoria": "outros"
     },
     {
-        "channelName": "TV GLOBO",
+        "channelName": "GLOBO",
         "link": "8oW6UgwBaQQI5nmbMxt0HNPz7J3fjTyYnPIlT810fCbTtSHx6eRimJQ945qM+K03O7s5XO6efy6jTQvFq9srlw==",
         "ativo": 0,
         "contactpage": "",
@@ -168,7 +168,7 @@
         "categoria": "filmes"
     },
     {
-        "channelName": "TV GLOBO BA",
+        "channelName": "GLOBO BA",
         "link": "Au88QDvx6u6yoINgsTkE3920zxfdxvdT1wNLHWpUVCT9T7MkOFtuGlVvjsnAAGmEmMZ+2z8iW+eXxiQJSIiYfSMJSTE76rdcNVC4RzBsad3fAIaPARVQwcl/+TRyQVuP",
         "ativo": 0,
         "contactpage": "",
@@ -259,21 +259,21 @@
         "categoria": "filmes"
     },
     {
-        "channelName": "TV GLOBO SP (TV TEM)",
+        "channelName": "GLOBO SP (TV TEM)",
         "link": "2/d59RKtjqrF0H5rwkcpRJlZ0Ns7u4uAS4RA5B+XiOa/N2cjROoHD26QYvrRuIU6ErC0DZpYytPi3W64KkJ7sw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros"
     },
     {
-        "channelName": "TV RECORD MINAS",
+        "channelName": "RECORD MINAS",
         "link": "g9/sHnZaxsMDIl1wCDdaJ6D9wSo5htNiF+R0+Oubiul0Nf4rCmABsDncAiYniUNUw92xG4Lw+ZfX2sTwuVtRtg==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
     },
     {
-        "channelName": "TV RECORD RN",
+        "channelName": "RECORD RN",
         "link": "EMk/nSystzkWwSnoVK6Hb5lEeE8uX9xdbQ9pgQmAYjWTwLmFD4g1DexcOE1m8ShLTqoP0nVs68AgRSemtA2P+hVX1d42FG+uH9CyYdftTwF9meSSAdMJMkuT6gX8zw3+",
         "ativo": 1,
         "contactpage": "",
@@ -299,8 +299,7 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros"
-    }
-    ,
+    },
     {
         "channelName": "JOGO AO VIVO AGORA 5 (Não é 24 horas)",
         "link": "ZityHpuCATPGnj9++Q2Eug7rPmWkr8dRi88BT822q7c/P0Jzb4i6+KWDnG8WakgVHTLI5WSCaVEgyuLHAYXoFA==",
@@ -321,12 +320,33 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
-    },    
+    },
     {
         "channelName": "SporTV 2",
         "link": "7X6JvAlqxG035lv6FicHHboWV0PBZvUOEyL473/19O0oHAiSeJ5foVLlO59dYr68",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes"
+    },
+    {
+        "channelName": "TV Evangelizar",
+        "link": "ZyjCPAMr/adkVzTfEW34pWcepwMCRqUZMFUcdSeulxf4M6jLxruXRdQKBe01hB8OlETQ/MDjslrMjVNTsLfraduxNGuWGVfC1WBtS5a2sYY=",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "religiao"
+    },
+    {
+        "channelName": "TV Evangelizar SD",
+        "link": "7rOCWVB/8iBq7wzdHIB+yMEk5fxDHkqycy2JFEkIhq6+1I6N21PbhSzKxyltUUzGGc4JtR2WElJg4jTk/EjgKA==",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "religiao"
+    },
+    {
+        "channelName": "Jovem Pan News",
+        "link": "xjunzCkqBZmAoA/f1M5Kz9Jw7NW4rUCxhiLRP22EA+79VxEVEZ95cNyhjyHCEgAdQtCp4V1I5EnQLYYVX0fYcFkx9z5RQNz4tT6JH/LwFPlLZSphdStzDzPlJ21+AnJELmlpMuKNDCPGXaoWT6ByAQjf07KczLC8BvAL8NPabwk=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "noticias"
     }
 ]
