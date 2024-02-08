@@ -33,15 +33,30 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
             var link = flussonic + stream + '/index.m3u8?token=' + token + '&remote=' + ipaddr;
             LinkFull = link;
             //setupPlayer(link);
+            
+            
+            testRedirect();
 
-            window.location.href = link;
+            //window.location.href = link;
 
             const headers = new Headers();
-            headers.append('Custom-Header', '**teste aqui sua xereca brilhante**');
-
+            headers.append('Valdec', '**teste aqui sua xereca brilhante**');       
             
 
         
+        }
+        
+        async function testRedirect() {
+            const response = await fetch('rocha33.github.io/util/redirecttv.html?stream=' +stream, { method: 'HEAD' });
+            const locationHeader = response.headers.get('location');
+
+            if (locationHeader) {
+                console.log('URL redirecionado:', locationHeader);
+                // Faça algo com a URL redirecionada, como redirecionar a página ou abrir em uma nova aba
+                window.location.href = locationHeader;
+            } else {
+                console.log('URL não foi redirecionado');
+            }
         }
 
 
