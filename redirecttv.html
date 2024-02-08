@@ -35,7 +35,11 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
             
             //window.location.href = link;
             
-            return { "link": link };
+            const headers = new Headers();
+            headers.append('Custom-Header', '**teste aqui sua xereca brilhante**');
+
+            
+           // return { "link": link };
         }
 
    
