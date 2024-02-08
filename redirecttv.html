@@ -14,7 +14,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
     <script>
         var flussonicServers = ["https://cdn-1.livestreamgratis.com/", "https://cdn-1.livestreamgratis.com/"];
         var key = '20102023';
-        var lifetime = 360 * 1;
+        var lifetime = 3600 * 3;
         var desync = 300;
         var stream = new URLSearchParams(window.location.search).get('stream');
         var LinkFull = 'não deu tempo';
@@ -31,42 +31,21 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
             var token = hash + '-' + salt + '-' + endtime + '-' + starttime;
             var flussonic = flussonicServers[Math.floor(Math.random() * flussonicServers.length)];
             var link = flussonic + stream + '/index.m3u8?token=' + token + '&remote=' + ipaddr;
-            LinkFull = link;
-            //setupPlayer(link);
+            LinkFull = link;           
             
-            
-            testRedirect();
 
-            //window.location.href = link;
+            window.location.href = link;
 
             const headers = new Headers();
-            headers.append('Valdec', '***teste aqui sua xereca brilhante**');       
-            
+            headers.append('Custom-Header', '**teste aqui sua xereca brilhante**');            
 
         
         }
-        
-        async function testRedirect() {
-            const response = await fetch('rocha33.github.io/util/redirecttv.html?stream=' +stream, { method: 'HEAD' });
-            const locationHeader = response.headers.get('location');
-
-            if (locationHeader) {
-                console.log('URL redirecionado:', locationHeader);
-                // Faça algo com a URL redirecionada, como redirecionar a página ou abrir em uma nova aba
-                window.location.href = locationHeader;
-            } else {
-                console.log('URL não foi redirecionado');
-            }
-        }
-
-
         var script = document.createElement('script');
         script.src = 'https://api.ipify.org?format=jsonp&callback=getIP';
         document.getElementsByTagName('head')[0].appendChild(script);
 
-        function GetLink() {
-            Toaster.GetLink(LinkFull);
-        }
+        
 
 
     </script>
