@@ -40,7 +40,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
             headers.append('Custom-Header', '**teste aqui sua xereca brilhante**');
 
             // Receive data from Flutter
-            window.addEventListener('message', function (event) {
+            window.addEventListener('Toaster', function (event) {
                 var receivedData = event.data;
                 // Handle the received data in JavaScript
                 console.log(receivedData);
@@ -48,7 +48,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
             });
 
 
-
+          GetLink();
         }
 
 
@@ -57,7 +57,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
         document.getElementsByTagName('head')[0].appendChild(script);
 
         function GetLink() {
-            return LinkFull;
+            Toaster.GetLink(LinkFull);
         }
 
 
