@@ -373,7 +373,7 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
-        "pausado": 1
+        "pausado": 0
     },
     {
         "channelName": "TV Evangelizar SD",
@@ -381,7 +381,7 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
-        "pausado": 1
+        "pausado": 0
     },
     {
         "channelName": "Jovem Pan News",
