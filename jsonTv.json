@@ -1,7 +1,14 @@
 [
     {
+        "channelName": "Record SP",
+        "link": "7X6JvAlqxG035lv6FicHHboWV0PBZvUOEyL473/19O0bpMnyHWArgJYiqeOeSIAf",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros"
+    },
+    {
         "channelName": "Record",
-        "link": "SbZQLvTq+H8KDNlwhEFKUEkmB6X/xEwnu50wZrIhec4BOYwOR2vzny6yBJtTAgl58Y//zPomaQkaR90SGJKBis/M1EoFGUubJ27zBk8+5U8=",
+        "link": "7X6JvAlqxG035lv6FicHHboWV0PBZvUOEyL473/19O1X/PLogNDlaN+Ujh1Qwmwl",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
@@ -330,10 +337,12 @@
     },
     {
         "channelName": "TV Evangelizar SD",
-        "link": "7rOCWVB/8iBq7wzdHIB+yMEk5fxDHkqycy2JFEkIhq6+1I6N21PbhSzKxyltUUzGGc4JtR2WElJg4jTk/EjgKA==",
+        "link": "7X6JvAlqxG035lv6FicHHboWV0PBZvUOEyL473/19O3Wn4OF1p/ZdqykCYmSYw3a",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao"
+
+        
     },
     {
         "channelName": "Jovem Pan News",
@@ -366,6 +375,14 @@
     {
         "channelName": "CNT",
         "link": "7rOCWVB/8iBq7wzdHIB+yMEk5fxDHkqycy2JFEkIhq6+1I6N21PbhSzKxyltUUzGs5AxRsHwA2mmHolt7enwSQ==",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros"
+    }
+    ,
+    {
+        "channelName": "CNT FHD",
+        "link": "ZsVw+QXk/NRjHdIgyPAXFNMV96SlfDinXYGcy4sQ/UZ3yk4SzNRSXjPLO4pOLJldfypccWA4XygdUtdLlGemcA==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
