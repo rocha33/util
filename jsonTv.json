@@ -341,8 +341,6 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao"
-
-        
     },
     {
         "channelName": "Jovem Pan News",
@@ -378,14 +376,33 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
-    }
-    ,
+    },
     {
         "channelName": "CNT FHD",
         "link": "ZsVw+QXk/NRjHdIgyPAXFNMV96SlfDinXYGcy4sQ/UZ3yk4SzNRSXjPLO4pOLJldfypccWA4XygdUtdLlGemcA==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
+    },
+    {
+        "channelName": "SBT SP SD",
+        "link": "7X6JvAlqxG035lv6FicHHboWV0PBZvUOEyL473/19O3VfqUlfHbn4x5MzLlCLqK5",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros"
+    },
+    {
+        "channelName": "SBT RJ HD",
+        "link": "7X6JvAlqxG035lv6FicHHboWV0PBZvUOEyL473/19O1N/xQFMU81/vC4HG0cEVXG",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros"
+    },
+    {
+        "channelName": "Todo Mundo Odeia o Chris",
+        "link": "7X6JvAlqxG035lv6FicHHboWV0PBZvUOEyL473/19O2HXBgpGsaXaaNTS1bd5JD1",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "animacao"
     }
-    
 ]
