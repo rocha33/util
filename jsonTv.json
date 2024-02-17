@@ -1,7 +1,8 @@
 [
+    
     {
-        "channelName": "Record SP",
-        "link": "ZsVw+QXk/NRjHdIgyPAXFNMV96SlfDinXYGcy4sQ/UZ3yk4SzNRSXjPLO4pOLJldctESQMBXDZwe0c91NYBmwg==",
+        "channelName": "Record MT",
+        "link": "wiC7mG02B432FmXmauFL8zvddp1NdOd4SajhXyvGZrLw6raeypUiW6jZ94a2Ih6wBX+jmQeVFJJlBlc6Nbij6ZJhP6HayXgHYjWXvaEs7EP2pfOpiaqA2ztZqY/i/+M1",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
@@ -279,7 +280,6 @@
         "contactpage": "",
         "categoria": "animacao"
     },
-    
     {
         "channelName": "JOGO AO VIVO AGORA 5 (Não é 24 horas)",
         "link": "ZityHpuCATPGnj9++Q2Eug7rPmWkr8dRi88BT822q7c/P0Jzb4i6+KWDnG8WakgVHTLI5WSCaVEgyuLHAYXoFA==",
@@ -295,20 +295,6 @@
         "categoria": "outros"
     },
     {
-        "channelName": "RECORD RJ",
-        "link": "ZsVw+QXk/NRjHdIgyPAXFNMV96SlfDinXYGcy4sQ/UZ3yk4SzNRSXjPLO4pOLJld1bjBFXg2Tij3CjFBkazEng==",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros"
-    },
-    {
-        "channelName": "SporTV 2",
-        "link": "ZsVw+QXk/NRjHdIgyPAXFNMV96SlfDinXYGcy4sQ/UZ3yk4SzNRSXjPLO4pOLJldv6+DSo1YLzalfzxbTxTgWg==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "esportes"
-    },
-    {
         "channelName": "TV Evangelizar",
         "link": "ZyjCPAMr/adkVzTfEW34pWcepwMCRqUZMFUcdSeulxf4M6jLxruXRdQKBe01hB8OlETQ/MDjslrMjVNTsLfraduxNGuWGVfC1WBtS5a2sYY=",
         "ativo": 1,
@@ -317,7 +303,7 @@
     },
     {
         "channelName": "TV Evangelizar SD",
-        "link": "ZsVw+QXk/NRjHdIgyPAXFNMV96SlfDinXYGcy4sQ/UZ3yk4SzNRSXjPLO4pOLJldJP8zVhOZGMrQrQ/7DEQaJA==",
+        "link": "ZyjCPAMr/adkVzTfEW34pWcepwMCRqUZMFUcdSeulxf4M6jLxruXRdQKBe01hB8OlETQ/MDjslrMjVNTsLfraduxNGuWGVfC1WBtS5a2sYY=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao"
@@ -359,14 +345,14 @@
     },
     {
         "channelName": "CNT FHD",
-        "link": "ZsVw+QXk/NRjHdIgyPAXFNMV96SlfDinXYGcy4sQ/UZ3yk4SzNRSXjPLO4pOLJldfypccWA4XygdUtdLlGemcA==",
+        "link": "Ib6lG8w41GgJ0Bb2YdZFlbzZ781u94SSPrv0f6Z33KdUBfVkynl6CHwdF7Qp5ySbMk+23THVSNshhU+Gl0A2M/D+f5tGlg2YvKF1Fr8dQ8ISDYoYhNMQaI6w6TbCwHneEI8pS3q2c53xCrFvVA8yHe5CPsVENeTTGLo45U9ojinyl9vSj4eb7bv+5H7VRsx4+n3OmuRgYzqP0RIkYJpU+PvV2KKwGGuNUHwmS8ty7mc=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
     },
     {
         "channelName": "SBT SP SD",
-        "link": "ZsVw+QXk/NRjHdIgyPAXFNMV96SlfDinXYGcy4sQ/UZ3yk4SzNRSXjPLO4pOLJldsdnjwKm7xhbvOcgv5lTeZA==",
+        "link": "wiC7mG02B432FmXmauFL8zvddp1NdOd4SajhXyvGZrJLaclLECGr6y/w7ZuvJ+8b2jmNP9vYjU17GEL250qO5iCFUoZe3GBlSEmxF7UjmbK4apxy6VNIsAVH3d9WRXQU",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
@@ -379,30 +365,29 @@
         "categoria": "outros"
     },
     {
-        "channelName": "Todo Mundo Odeia o Chris",
-        "link": "ZsVw+QXk/NRjHdIgyPAXFNMV96SlfDinXYGcy4sQ/UZ3yk4SzNRSXjPLO4pOLJldmwqfuHiIsXdRpss+7l/U+A==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "animacao"
-    }
-    ,
-    {
         "channelName": "REDE TV",
         "link": "QsUUk9w9X3Ep4E0pYEjDWCn+xMsU0bg2KeAOeTGaw9BU+pXq3IKxVN1E4+OXptvmwnO0pcx6ZmIwoIa5bpl6K8MCSL1XNI3vdOfqakpL58zijgcx2HpmrJYaCDf7Zil2",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
-    }
-    ,{
-        "channelName": "BAND SP",
-        "link": "ZsVw+QXk/NRjHdIgyPAXFNMV96SlfDinXYGcy4sQ/UZ3yk4SzNRSXjPLO4pOLJldTbdZ1lGsEK2Kweu96egQNQ==",
+    },
+    {
+        "channelName": "BAND PB",
+        "link": "N5aT6Ico4s4Ac2i6MVP/bQNNohm2lXuMDpHERRkxoqocrM5sdKvlUk5/CuQ527ebcwccVmIxoUX6SjkQESSRH1iQPd8aB9VdxLRKpsET6UvmPZv0BxU77kyQ1QbK0vTVcS7K7BUR5s6ErUtedrNXsA==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
-    }
-    ,{
-        "channelName": "BAND CURITIBA",
-        "link": "ZsVw+QXk/NRjHdIgyPAXFNMV96SlfDinXYGcy4sQ/UZ3yk4SzNRSXjPLO4pOLJldi7qlu13RETaEPaWsDYHSdA==",
+    },
+    {
+        "channelName": "BAND PA",
+        "link": "wiC7mG02B432FmXmauFL8zvddp1NdOd4SajhXyvGZrJEes2XDRit5c+tZPF+8Qn3BVHEmFCY5b3aARBsu48Tgl6HxipEwMB0jUMEXdD2IrQbJwOJJlrZvi/nAqeXdM4l",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros"
+    },
+    {
+        "channelName": "BAND SP",
+        "link": "GqhWTFu/S4hwKPK3Ov9gbOGPwoVMeQOFUBQwWbkCbTHNcwRF5EfT5PTkjIGwpfI+1tgAGZbCi9fiTe6qw5KEk1t0F7Nd7ow36+o9Rd9oRLFzsE4APnvp5+dlEubH5CB5bUJGtzoT1pqfUUpgDIJ9fBkDNPOXsNZRZRF2mlpHLUR2Rmvgwwc0kw18NcVY1kOKTxiVupoTK6IHPT8Cnypirg==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
