@@ -345,7 +345,7 @@
     },
     {
         "channelName": "CNT FHD",
-        "link": "Ib6lG8w41GgJ0Bb2YdZFlbzZ781u94SSPrv0f6Z33KdUBfVkynl6CHwdF7Qp5ySbMk+23THVSNshhU+Gl0A2M/D+f5tGlg2YvKF1Fr8dQ8ISDYoYhNMQaI6w6TbCwHneEI8pS3q2c53xCrFvVA8yHe5CPsVENeTTGLo45U9ojinyl9vSj4eb7bv+5H7VRsx4+n3OmuRgYzqP0RIkYJpU+PvV2KKwGGuNUHwmS8ty7mc=",
+        "link": "lzxxntf61wwsUiuIP9u5r6qcuZBjs2l0VUWvQ3Oxb4XTr0r97ZEu/tlDby8ebTd3jYOLTwVkTuT8r8gDtA98sfkVss8oFE1pgTwDNGkMVrpZunwNQLjIvc4qg2iKtwUk0woRiP/NfcEFqvah+exP0w==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
@@ -391,5 +391,13 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
+    },
+    
+    {
+        "channelName": "GLOBO NEWS",
+        "link": "4HkEckbmpc1hTJddkmCpoUQ+x0Cu+dwSGqsZse7MM9G+Q9e5hxW+037DOhsLfva/",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "noticias"
     }
 ]
