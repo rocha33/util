@@ -1,0 +1,461 @@
+[
+    {
+        "id": "1",
+        "nome": "All Sports",
+        "link": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1250047806.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/allsports_logo.png?alt=media&token=21932817-3883-4a85-bc47-d0fa04992634",
+        "categoria": "Esportes",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "2",
+        "nome": "Arirang",
+        "link": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/arirang_logo.png?alt=media&token=34edd6fa-7230-48bf-a99f-4edb8ff4b7e5",
+        "categoria": "Internacional",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "106",
+        "nome": "Band",
+        "link": "https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4-DUOTOY943nE_dbnut67my_mkuTmMbhSqHTSmXgETNx)/dm/3/x83vbd6/s/live-0.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1277px-Rede_Bandeirantes_logo_2011.svg.png",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "tv aberta"
+    },
+    {
+        "id": "5",
+        "nome": "Bloomberg",
+        "link": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/logo_bloomberg_tv.png?alt=media&token=81abead3-84b8-49a9-b028-226f01772e97",
+        "categoria": "Internacional",
+        "programacao": "https://meuguia.tv/programacao/canal/BIT",
+        "tipo": "inter"
+    },
+    {
+        "id": "68",
+        "nome": "Canal Motor",
+        "link": "http://digicom.hls.iptvdc.com/canalmotor/tracks-v2a1/mono.m3u8",
+        "logo": "https://lh3.googleusercontent.com/Yqyionm1ylToeX8lqKnr-4H3IKusrnXAchMrbigMuJ_9zptz8WscqRynHTHplzphujXn",
+        "categoria": "Esportes",
+        "programacao": "",
+        "tipo": "inter"
+    },
+    {
+        "id": "100",
+        "nome": "CNT",
+        "link": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8",
+        "logo": "http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png",
+        "categoria": "Tv Aberta",
+        "programacao": "https://meuguia.tv/programacao/canal/CNT",
+        "tipo": "webtv"
+    },
+    {
+        "id": "10",
+        "nome": "DW News (Alemanha)",
+        "link": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/logo_dw_alemanha.png?alt=media&token=6b5dcce1-00f9-4b0f-8fde-aafb2bab8337",
+        "categoria": "Internacional",
+        "programacao": "https://meuguia.tv/programacao/canal/DWL",
+        "tipo": "webtv"
+    },
+    {
+        "id": "12",
+        "nome": "Gospel Cartoon",
+        "link": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/gospel_cartoon_logo.png?alt=media&token=11c89305-bcb7-43dd-8849-a6a5d98ad9fa",
+        "categoria": "Kids",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "72",
+        "nome": "Gospel Movies",
+        "link": "https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1798231438.m3u8",
+        "logo": "https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png",
+        "categoria": "Filmes",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "61",
+        "nome": "Kpop",
+        "link": "https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8",
+        "logo": "https://media.istockphoto.com/vectors/kpop-handwritten-inscription-kpop-music-style-vector-id1178119669?k=6&m=1178119669&s=612x612&w=0&h=Yu_7zPawpk5d1umrNjp3EWrRVNhaj_iafTUTSc5PORI=",
+        "categoria": "Mu00fasica",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "105",
+        "nome": "Kuriakos Cine",
+        "link": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
+        "logo": "https://listaiptv.gratis/logos/imagens/cinekuriakos.png",
+        "categoria": "Filmes",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "53",
+        "nome": "Kuriakos Kids",
+        "link": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+        "logo": "http://www.cxtv.com.br/img/Tvs/Logo/05ad1060b11abe78c4958ca305b2d168.png",
+        "categoria": "Kids",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "59",
+        "nome": "M20 TV",
+        "link": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3279788.m3u8",
+        "logo": "http://www.cxtv.com.br/img/Tvs/Logo/5081ee01b6a6d0b57910baf19696da0a.png",
+        "categoria": "Mu00fasica",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "13",
+        "nome": "Multirio",
+        "link": "http://187.111.97.45:1935/webtv/webtv/playlist.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/multi_rio_logo.png?alt=media&token=db470e2b-06c8-45e2-a0ad-b1622e37eb1e",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "14",
+        "nome": "Music Top",
+        "link": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w468795461_b2028000_sleng.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/music_top_tv.png?alt=media&token=6a317d19-79b1-463b-b750-744ca095f7f0",
+        "categoria": "Mu00fasica",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "16",
+        "nome": "NHK World",
+        "link": "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/logo_nhk_world.png?alt=media&token=ae808c42-5780-4f6c-9103-ff84a012c5e4",
+        "categoria": "Internacional",
+        "programacao": "https://meuguia.tv/programacao/canal/NHK",
+        "tipo": "webtv"
+    },
+    {
+        "id": "63",
+        "nome": "RBA TV - Band(PA)",
+        "link": "https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8",
+        "logo": "https://pbs.twimg.com/profile_images/469171318970019840/ya60EbQQ_400x400.png",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "104",
+        "nome": "Record MT",
+        "link": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/record_logo.png?alt=media&token=ac12fc3d-2105-4a1e-a50c-5373a36929b6",
+        "categoria": "Tv Aberta",
+        "programacao": "https://meuguia.tv/programacao/canal/REC",
+        "tipo": "tv aberta"
+    },
+    {
+        "id": "99",
+        "nome": "Record News",
+        "link": "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png",
+        "categoria": "Notu00edcias",
+        "programacao": "https://meuguia.tv/programacao/canal/RCN",
+        "tipo": "webtv"
+    },
+    {
+        "id": "80",
+        "nome": "Record RN - TV Tropical",
+        "link": "https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w384430080.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/record_logo.png?alt=media&token=ac12fc3d-2105-4a1e-a50c-5373a36929b6",
+        "categoria": "Tv Aberta",
+        "programacao": "https://meuguia.tv/programacao/canal/REC",
+        "tipo": "webtv"
+    },
+    {
+        "id": "46",
+        "nome": "Redbull TV",
+        "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/logo_redbulltv.png?alt=media&token=34b0850f-32c7-44c5-9ff9-abceb5133053",
+        "categoria": "Esportes",
+        "programacao": "",
+        "tipo": "inter"
+    },
+    {
+        "id": "22",
+        "nome": "Rede Brasil",
+        "link": "https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1037164280.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/redebrasil_logo.png?alt=media&token=17e3b415-d6b7-4b31-9604-da9abfdb82d8",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "78",
+        "nome": "Rede Famu00edlia",
+        "link": "https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/chunklist_w1369262911_b2270208.m3u8",
+        "logo": "https://4.bp.blogspot.com/-cKH-ynWjJR0/XRvomcjGi8I/AAAAAAAABR0/SebKj-HtO18DkqsOM1odOsBD0dULO5h9ACLcBGAs/s320/Screenshot_2019-07-02-20-26-39.png",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "23",
+        "nome": "Rede Gospel",
+        "link": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/redegospel_logo.png?alt=media&token=184c7e9d-d621-4e40-b5d9-74c88fb4fa0b",
+        "categoria": "Religioso",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "88",
+        "nome": "Rede Novo Tempo",
+        "link": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/novotempo_logo.png?alt=media&token=4b3ccdeb-ad79-4c89-a507-4f8e36cd2fed",
+        "categoria": "Religioso",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "31",
+        "nome": "Rede Su00e9culo 21",
+        "link": "https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b978000.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/tvseculo21_logo.png?alt=media&token=897eaa70-a0e6-4d28-bc59-d3bd61e9e858",
+        "categoria": "Religioso",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "27",
+        "nome": "Rede TV",
+        "link": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/redetv_logo.png?alt=media&token=5f0685fd-9740-44be-a019-86dc7d0e6be5",
+        "categoria": "Tv Aberta",
+        "programacao": "https://meuguia.tv/programacao/canal/RTV",
+        "tipo": "webtv"
+    },
+    {
+        "id": "28",
+        "nome": "Rede Vida",
+        "link": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/redevida_logo.png?alt=media&token=d6f2104c-894d-49d4-ac07-11dfafb30be4",
+        "categoria": "Religioso",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "93",
+        "nome": "Retro Cartoon",
+        "link": "https://stmv1.srvif.com/retrotv/retrotv/chunklist_w221366426.m3u8",
+        "logo": "http://www.cxtv.com.br/img/Tvs/Logo/205e5b4ec50d4113bf2ce13ea32fa2ea.png",
+        "categoria": "Kids",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "32",
+        "nome": "Sesc TV",
+        "link": "https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/sesc_tv_logo.png?alt=media&token=633a9cb3-da69-481c-9dc1-81c7819b66c4",
+        "categoria": "Tv Aberta",
+        "programacao": "https://meuguia.tv/programacao/canal/NAC",
+        "tipo": "webtv"
+    },
+    {
+        "id": "35",
+        "nome": "TV Aparecida",
+        "link": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/tvaparecida_logo.png?alt=media&token=1a2583bf-542a-4548-8656-736345769e90",
+        "categoria": "Religioso",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "36",
+        "nome": "TV Aracati",
+        "link": "https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8",
+        "logo": "https://listaiptv.gratis/logos/imagens/logo2btv-0.png",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "37",
+        "nome": "TV Birigui",
+        "link": "https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w857959706.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/logo_tv_birigui.png?alt=media&token=45214e67-f39b-418a-bf2f-0b80cc8996e1",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "38",
+        "nome": "TV Brasil",
+        "link": "https://tvbrasil-stream.ebc.com.br/chunks.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/tvbrasil_logo.png?alt=media&token=4095618b-bd55-44c1-a0ee-18b710231ff4",
+        "categoria": "Tv Aberta",
+        "programacao": "https://meuguia.tv/programacao/canal/TED",
+        "tipo": "webtv"
+    },
+    {
+        "id": "39",
+        "nome": "TV Cu00e2mara",
+        "link": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/tv_camara_logo.png?alt=media&token=34c632e3-d8f7-4ae9-999b-bf76eb693ac8",
+        "categoria": "Tv Aberta",
+        "programacao": "https://meuguia.tv/programacao/canal/CAM",
+        "tipo": "webtv"
+    },
+    {
+        "id": "41",
+        "nome": "TV Cascavel",
+        "link": "https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1519295715.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/catve_logo.png?alt=media&token=8f55a315-7511-4bb3-9823-956f6a1839fb",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "42",
+        "nome": "TV Cultura",
+        "link": "https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1519295715.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/cultura_png.png?alt=media&token=207bcd07-c62a-4c90-a03f-73736cd0aa7f",
+        "categoria": "Tv Aberta",
+        "programacao": "https://meuguia.tv/programacao/canal/CUL",
+        "tipo": "webtv"
+    },
+    {
+        "id": "94",
+        "nome": "TV Dubai Racing",
+        "link": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b2500000.m3u8",
+        "logo": "https://photos.live-tv-channels.org/tv-logo/dubai-racing-9206.jpg",
+        "categoria": "Esportes",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "44",
+        "nome": "TV Evangelizar",
+        "link": "https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w763876029.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/tvevangelizar_logo.png?alt=media&token=b3ee18de-86b4-4232-931b-6c15ac325d87",
+        "categoria": "Religioso",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "91",
+        "nome": "Tv Germana",
+        "link": "https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/playlist.m3u8",
+        "logo": "https://lh3.googleusercontent.com/GLpDFHMrvGlQGc8SMdEiQtvZz9cnRdZEFmbU_5Bs3qYptNa_IW_5tnvyHodyO-rfADM",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "71",
+        "nome": "Tv Japi",
+        "link": "https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w842641171.m3u8",
+        "logo": "https://1.bp.blogspot.com/-3ge0TRG4CcU/XRkKMV3Kd_I/AAAAAAAABP0/0iOri3AC3wUU_xeZLpDwsBlgDIiE_2zwgCPcBGAYYCw/s320/Screenshot_2019-06-30-16-12-22.png",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "79",
+        "nome": "Tv Metru00f3pole",
+        "link": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1419297550.m3u8",
+        "logo": "https://3.bp.blogspot.com/-qZtCcf1Mrio/XR5IuOu9bSI/AAAAAAAABS8/NS1TgWJjkHwr5ho55q3cFgdP_o1qmFvLQCLcBGAs/s320/Screenshot_2019-07-04-15-38-25.png",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "45",
+        "nome": "TV Pampa",
+        "link": "https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1852040362.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/logo_tv_pampa.png?alt=media&token=ed818c8d-1531-4d04-9d69-c712c9c0ca0d",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "18",
+        "nome": "TV Pantanal",
+        "link": "https://59d39900ebfb8.streamlock.net/8040/8040/chunklist_w2102319556.m3u8",
+        "logo": "https://www.tvpantanalms.com.br/wp-content/uploads/2019/09/logo_menor.png",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "67",
+        "nome": "Tv Paranu00e1",
+        "link": "http://200.189.113.201/hls/tve.m3u8",
+        "logo": "https://www.opresente.com.br/wp-content/uploads/2019/05/3-2.jpg",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "47",
+        "nome": "TV Rock",
+        "link": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w1813594299_b300000.m3u8?publisher=83",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/tv_rock_logo.png?alt=media&token=5ba4c198-5abc-4ed9-ac70-f35408ac2df4",
+        "categoria": "Mu00fasica",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "49",
+        "nome": "TV Videonews",
+        "link": "https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1359564637.m3u8",
+        "logo": "https://uploaddeimagens.com.br/images/002/901/316/full/logo_tv_videonews.png?1601414537",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "33",
+        "nome": "TV5 Monde (Franu00e7a)",
+        "link": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/tv5monde_logo.png?alt=media&token=f9d4a818-d3fb-48c9-8d83-814422b4c521",
+        "categoria": "Internacional",
+        "programacao": "https://meuguia.tv/programacao/canal/TV5",
+        "tipo": "webtv"
+    },
+    {
+        "id": "65",
+        "nome": "TVE Bahia",
+        "link": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png",
+        "categoria": "Kids",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "51",
+        "nome": "Via Morena",
+        "link": "https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chunklist_w1782205976.m3u8",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/tv-aberta-online-67d84.appspot.com/o/logo_via_morena.png?alt=media&token=9c7625c0-ba4b-4edc-a43c-d74fab2d17c3",
+        "categoria": "Tv Aberta",
+        "programacao": "",
+        "tipo": "webtv"
+    },
+    {
+        "id": "73",
+        "nome": "Viva Web Tv",
+        "link": "https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w1101580358.m3u8",
+        "logo": "https://1.bp.blogspot.com/-fyaxU5RL4f0/XbJFyWknp4I/AAAAAAAACME/4r9Ukgaw9gwdIDAbc5qykuIPaUWtM5HZgCLcBGAsYHQ/s320/Screenshot_2019-10-24-21-43-30.png",
+        "categoria": "Filmes",
+        "programacao": "",
+        "tipo": "webtv"
+    }
+]

@@ -316,20 +316,6 @@
         "categoria": "noticias"
     },
     {
-        "channelName": "GLOBO EPTV Campinas",
-        "link": "7rOCWVB/8iBq7wzdHIB+yMEk5fxDHkqycy2JFEkIhq6+1I6N21PbhSzKxyltUUzGhGMFiuElzAJPEChNOSOx9Q==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "outros"
-    },
-    {
-        "channelName": "GLOBO EPTV Central Sao Carlos",
-        "link": "7rOCWVB/8iBq7wzdHIB+yMEk5fxDHkqycy2JFEkIhq6+1I6N21PbhSzKxyltUUzGokReqQb6UpPnY+7vaOMnCw==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "outros"
-    },
-    {
         "channelName": "GLOBO EPTV Campinas SD",
         "link": "OcAekgAlwyYYau2UB0mLJKwxf4lBGDJwJ9GJ42Dc1qHAHXtcbvmwpvLgLUqiFXicaJ3tN850EyLqu2CSq2cIdpAaaKBTFD+9HtDjmwrMVME=",
         "ativo": 0,
@@ -358,22 +344,8 @@
         "categoria": "outros"
     },
     {
-        "channelName": "SBT Serra Durada",
-        "link": "OcAekgAlwyYYau2UB0mLJKwxf4lBGDJwJ9GJ42Dc1qHAHXtcbvmwpvLgLUqiFXicaJ3tN850EyLqu2CSq2cIdkunQnzAUuFMXKm6yNlXll4=",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros"
-    },
-    {
         "channelName": "REDE TV",
         "link": "QsUUk9w9X3Ep4E0pYEjDWCn+xMsU0bg2KeAOeTGaw9BU+pXq3IKxVN1E4+OXptvmwnO0pcx6ZmIwoIa5bpl6K8MCSL1XNI3vdOfqakpL58zijgcx2HpmrJYaCDf7Zil2",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros"
-    },
-    {
-        "channelName": "BAND PB",
-        "link": "N5aT6Ico4s4Ac2i6MVP/bQNNohm2lXuMDpHERRkxoqocrM5sdKvlUk5/CuQ527ebcwccVmIxoUX6SjkQESSRH1iQPd8aB9VdxLRKpsET6UvmPZv0BxU77kyQ1QbK0vTVcS7K7BUR5s6ErUtedrNXsA==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
@@ -387,7 +359,7 @@
     },
     {
         "channelName": "BAND SP",
-        "link": "GqhWTFu/S4hwKPK3Ov9gbOGPwoVMeQOFUBQwWbkCbTHNcwRF5EfT5PTkjIGwpfI+1tgAGZbCi9fiTe6qw5KEk1t0F7Nd7ow36+o9Rd9oRLFzsE4APnvp5+dlEubH5CB5bUJGtzoT1pqfUUpgDIJ9fBkDNPOXsNZRZRF2mlpHLUR2Rmvgwwc0kw18NcVY1kOKTxiVupoTK6IHPT8Cnypirg==",
+        "link": "GqhWTFu/S4hwKPK3Ov9gbBie10VpGLyeAN9F+yG2dnyRISblHg7CLcOT2QMQf2qqB16Dd/iJvapx12zmGWk9+UedPaa9/VmIlJr8uA2TWnJhuzQT27SLMvqfsDC9uvbEZhT6H2aVOx4qEMfcWrNdHWconOMjk/oC5JzhUFZ3NaZzVGMX9CjQZcgyDzQewwFrnzesvo9ELlRqH3TBkhuCLw==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
