@@ -1,8 +1,14 @@
 [
-    
     {
         "channelName": "Record MT",
         "link": "wiC7mG02B432FmXmauFL8zvddp1NdOd4SajhXyvGZrLw6raeypUiW6jZ94a2Ih6wBX+jmQeVFJJlBlc6Nbij6ZJhP6HayXgHYjWXvaEs7EP2pfOpiaqA2ztZqY/i/+M1",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros"
+    },
+    {
+        "channelName": "Record RIO",
+        "link": "me0eDJnyAEOXYkW/PxtTyvwgSYSCw7m029hWumgl2fHN7aCnPIbUsHOjXqCqE7zQBj5EexvtZgEHxy2UZk3XgQ==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
@@ -258,10 +264,10 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros"
-    },    
+    },
     {
-        "channelName": "GLOBO BRASILIA",
-        "link": "M/iO3g+3kDJJbfjpa8HUPMZArkipTsHKmYnWxW3qiI3WFVRUW06FdBLIm1PBrZSmsEAtr5nl/6IEB9NAIJ227g==",
+        "channelName": "GLOBO SP",
+        "link": "me0eDJnyAEOXYkW/PxtTyvwgSYSCw7m029hWumgl2fHN7aCnPIbUsHOjXqCqE7zQD5pCq56PoBYc8RDX3trxBA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros"
@@ -321,7 +327,7 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias"
-    },    
+    },
     {
         "channelName": "CNT",
         "link": "7rOCWVB/8iBq7wzdHIB+yMEk5fxDHkqycy2JFEkIhq6+1I6N21PbhSzKxyltUUzGs5AxRsHwA2mmHolt7enwSQ==",
@@ -364,20 +370,46 @@
         "contactpage": "",
         "categoria": "outros"
     },
-    
+    {
+        "channelName": "BAND RS",
+        "link": "me0eDJnyAEOXYkW/PxtTyvwgSYSCw7m029hWumgl2fHN7aCnPIbUsHOjXqCqE7zQkiOQvd1ILDp9MyVN5DLH2A==",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros"
+    },
     {
         "channelName": "GLOBO NEWS",
         "link": "4HkEckbmpc1hTJddkmCpoUQ+x0Cu+dwSGqsZse7MM9G+Q9e5hxW+037DOhsLfva/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias"
-    },   
-    
+    },
     {
         "channelName": "TODO MUNDO ODEIA O CRIS (temporario)",
         "link": "ctHWto/1rAPpNlS+3n7yLtk15/Wf93e+8dPHlvNhntTe2gkE8rYQ8+CEBwaJ6jxtlr0cioNuVxJ2cuJxbdUTlrNTkIiuxI1IKRsy/PF1sQ0G+F7vcOgSKQBd1vsU3v3gIqADRPcy0/E/8KvUp4/wHm0tgMmOYMptuVbu2FgB17ngGyDDGlc3qsKMzscR2xXvQLCfpzOd/iK8T6sALi0NPnGjXPb5nYhVRC6dXE2OCtX+esLYXABAEFyxl8MbbQ/6qaIus2a8Btpnyel63Ie3hK1FbSB7qwHjjwpOC/QfNu+ZwxRb60nL4OjXot73DM1gNwGd0yevWvt6wnPdtZXzJB+fN8upoH4SFWvPgIYqxJNlAJ4F1JEDDhL72+Hbl7KUJvXX6OKomE/k2m5uFJM0Jvm6liPoOjLKHEhAf33f3mKkYZhGpaWeCQYps2RhroKerQ1YjS7YHuPe8i7G9ETrf5u6tnBVbqnbJXrpcziUL6RLZTtMSxqENF7vuVyfj4n59KqYTRQLPHcd5rtm/3+l3Jz3wOxKLjJWOv8/a/9JLd+kfC3zKunRmfWjoA74ShG1QruQkh073G3dqucqcAzAF7awgpFCu2NNzUnG2Uxoiy/n4wQ/2LqjZz+8FOTf78YHUKzhJHAWClhMK7XJwIYjxtMTUhUc+MzPIfdpR2CQBVEOQJmU0uNY0D3xRW/3bUd/hGhuVfJxny4UdL+sgVfgGXV67C/mnXCuRMSzdgbhdvNIIaUkOpHd+ytRwjF79M7cSQHwd+EevJ7+/trDmWq+HMjyxYzS1NpwzwvuecJhYcNlQg7JxigMp/+tk3AqgHyr5QPaEU0Ia9tu+IDANAhybHZcbmPYi9UIDdCifVikZzIKgfqHdhkftkjeJJTC0nAK/w+I+Q3j+iqX/HmVhhwzMfeZhKzFNIJ4SkJCrySCp/esHc6RulY1qsXNFqjrztg9gkpnPqCuhpnAoguD6WUdTMgw6Y06A2r2OI6CSfaA7XBluY+AUFaHdTzeqsfYeL7C5oIZdSWAPbh1kJ2hGb91BrkPTVSljJyiA0ywLARO2/c5MQkN2xmGHQTpvllG95znc1yEPvB2CZOlfMoR4RIHdnr92kb32zQyz/a2ui5IZcn45iyRb0u3DvCvVH3G5bJsm9M8E3+tJAz5MZ/yMAsU+4vLQRXi+hZBB3u7gH78ele5odUVWc44ZtvALnTgtv5lHVwhM5cCWpgV0KRpb4L8uLcGLNCUDeYy5DLdn4UtEy/aiFK8QCPaluDTTj64iZ/g+aVdmDkpSgSV/NLZAaEFWmpwLmtaH/8MZaGEMNYkkT2268cF2JXww0OjyR4TbK+oiEeI+oDUBq5DqbtXi61a4MnxxSuF5yss/wVREvRQ7k+cEAFAPQXobRdcwcfMWMCqJoWe4S4feekGQxjvmORI0A==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao"
+    },
+    {
+        "channelName": "Xtreme TV",
+        "link": "6/TXGFS2JVJghNfkZ5qAi0jklOmzqfB6GsKMpnHQTIN7gGUvALbtuht6mpz6lJoHSn2epQ6j2jYEesBIGtxY82UhQw5iPwlgXUNQHz9P7dk=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "animacao"
+    },
+    {
+        "channelName": "Rede Clouding TV",
+        "link": "qH/DKGA9FpkDYZUvFhTDZzu2I3iNNm5a1+UppcFAu4u2LI8seKzE9qCbIClFZ57cyTxc28o3d0MloKSDHI7WurbHMXm/89px7OAL0tjBjis=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "animacao"
+    },
+    {
+        "channelName": "Rede Manchete",
+        "link": "6/TXGFS2JVJghNfkZ5qAi0pWjXsdZ/Qm6RX9SMlI8aWHbyqQAplkNGqbNj5ni6OXHyml2a+tkusT9QzTvZVacfgCk0PBS7Pr26JiVp+3qLo=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros"
     }
 ]
