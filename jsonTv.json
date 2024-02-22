@@ -140,13 +140,6 @@
         "categoria": "animacao"
     },
     {
-        "channelName": "HTO Filmes",
-        "link": "8oW6UgwBaQQI5nmbMxt0HBudu418MfQFD4XCf11KgVejgsM/dGOqJrEG467Wt4gb7B+AjNJ5PucPapWEsEC9SA==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "filmes"
-    },
-    {
         "channelName": "Play +",
         "link": "KNfAs7rnkFUXRqDkqoRJmH9pbJNiYRKShmIFcvtbldglMpYGlo9vs6R7qxulwahk+85YPfKxod34DT+Keum6VLxcQ9jbgadL+4Ca/yNg92k=",
         "ativo": 0,
@@ -403,7 +396,7 @@
         "link": "qH/DKGA9FpkDYZUvFhTDZzu2I3iNNm5a1+UppcFAu4u2LI8seKzE9qCbIClFZ57cyTxc28o3d0MloKSDHI7WurbHMXm/89px7OAL0tjBjis=",
         "ativo": 0,
         "contactpage": "",
-        "categoria": "animacao"
+        "categoria": "filmes"
     },
     {
         "channelName": "Rede Manchete",
@@ -411,5 +404,19 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros"
+    },
+    {
+        "channelName": "Cine Tv Hits",
+        "link": "e5Gp+eSLeCsIMxWHJ9euXUmoe+B59Cp70x2CaobYp6nTLx9S9aM4kiEVHWReWSJJX8w7sIBggusJYgzej6w52iJB4E9t1bsG7c4PXWj9O78=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes"
+    },
+    {
+        "channelName": "RS News Sports 4",
+        "link": "eZQ53OswF6G1fTExksGBWADJYzkKd0JBvJQMUQBLDwM7sRoirx0afJbg4c03HmQUuAMYpFGeeNxpm2at+ADxCDD2XErwfMDfxOFVWE7/NjSWas60eimHcJDoc5KNDL4r",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes"
     }
 ]
