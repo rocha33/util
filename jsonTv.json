@@ -408,7 +408,7 @@
     {
         "channelName": "Rede Manchete",
         "link": "6/TXGFS2JVJghNfkZ5qAi0pWjXsdZ/Qm6RX9SMlI8aWHbyqQAplkNGqbNj5ni6OXHyml2a+tkusT9QzTvZVacfgCk0PBS7Pr26JiVp+3qLo=",
-        "ativo": 0,
+        "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
     },
@@ -422,6 +422,13 @@
     {
         "channelName": "RS News Sports 4",
         "link": "eZQ53OswF6G1fTExksGBWADJYzkKd0JBvJQMUQBLDwM7sRoirx0afJbg4c03HmQUuAMYpFGeeNxpm2at+ADxCDD2XErwfMDfxOFVWE7/NjSWas60eimHcJDoc5KNDL4r",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes"
+    },
+    {
+        "channelName": "ESPORT TV (Temporario)",
+        "link": "ZsVw+QXk/NRjHdIgyPAXFNMV96SlfDinXYGcy4sQ/UZ3yk4SzNRSXjPLO4pOLJldqFEAdHetzyCFIS8SKFi1Yg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes"
