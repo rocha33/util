@@ -54,14 +54,7 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
-    },
-    {
-        "channelName": "GLOBO",
-        "link": "8oW6UgwBaQQI5nmbMxt0HNPz7J3fjTyYnPIlT810fCbTtSHx6eRimJQ945qM+K03O7s5XO6efy6jTQvFq9srlw==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "outros"
-    },
+    },   
     {
         "channelName": "SBT TV Cidade Verde",
         "link": "VTz4LTu4EZ4fF3vPlGQeehs/ygdh78FZWmfRYQu8v9+IZ1e8Ez+hlHbs7ZmMxJkC8aJW3GQtNW8wxU6IGqvwaZ+mx1Il8x5RbqHjhso0M9Q=",
@@ -268,6 +261,13 @@
     {
         "channelName": "GLOBO SP",
         "link": "me0eDJnyAEOXYkW/PxtTyvwgSYSCw7m029hWumgl2fHN7aCnPIbUsHOjXqCqE7zQD5pCq56PoBYc8RDX3trxBA==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros"
+    },
+    {
+        "channelName": "GLOBO RIO",
+        "link": "me0eDJnyAEOXYkW/PxtTyvwgSYSCw7m029hWumgl2fHN7aCnPIbUsHOjXqCqE7zQbD8HRdj53oUBUsns6rPO1A==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros"
