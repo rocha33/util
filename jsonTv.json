@@ -7,8 +7,15 @@
         "categoria": "outros"
     },
     {
-        "channelName": "Record RIO",
+        "channelName": "RECORD RIO",
         "link": "me0eDJnyAEOXYkW/PxtTyvwgSYSCw7m029hWumgl2fHN7aCnPIbUsHOjXqCqE7zQBj5EexvtZgEHxy2UZk3XgQ==",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros"
+    },    
+    {
+        "channelName": "RECORD RIO SD",
+        "link": "me0eDJnyAEOXYkW/PxtTyvwgSYSCw7m029hWumgl2fHN7aCnPIbUsHOjXqCqE7zQZ7cxUWsCuItXIhFAsO9VAw==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
