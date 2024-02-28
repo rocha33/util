@@ -12,7 +12,7 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
-    },    
+    },
     {
         "channelName": "RECORD RIO SD",
         "link": "me0eDJnyAEOXYkW/PxtTyvwgSYSCw7m029hWumgl2fHN7aCnPIbUsHOjXqCqE7zQZ7cxUWsCuItXIhFAsO9VAw==",
@@ -54,7 +54,7 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
-    },   
+    },
     {
         "channelName": "SBT TV Cidade Verde",
         "link": "VTz4LTu4EZ4fF3vPlGQeehs/ygdh78FZWmfRYQu8v9+IZ1e8Ez+hlHbs7ZmMxJkC8aJW3GQtNW8wxU6IGqvwaZ+mx1Il8x5RbqHjhso0M9Q=",
@@ -429,6 +429,13 @@
     {
         "channelName": "SPORT TV (Temporario)",
         "link": "0u8R9SW0pjwQ3rw3cCeK9mnkJaUa2ZFTbyHTWFGQGeCoPeYpiFhxdg3BLc401ZTdAOJqFWNu4LWVQUOH6wd3mg==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes"
+    },
+    {
+        "channelName": "SPORT TV HD(Temporario)",
+        "link": "0u8R9SW0pjwQ3rw3cCeK9mnkJaUa2ZFTbyHTWFGQGeCoPeYpiFhxdg3BLc401ZTdwniFEJAV2TzaUgedyjIJkQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes"
