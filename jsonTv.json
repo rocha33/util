@@ -105,15 +105,15 @@
         "categoria": "noticias"
     },
     {
-        "channelName": "BAND",
-        "link": "g9/sHnZaxsMDIl1wCDdaJ6D9wSo5htNiF+R0+OubiulT7qS/dGetX+Lij6Ly+bvbGzmdgxmTobGXXzLTgQJ1bA==",
+        "channelName": "Band Arapuan",
+        "link": "N5aT6Ico4s4Ac2i6MVP/bQNNohm2lXuMDpHERRkxoqocrM5sdKvlUk5/CuQ527ebcwccVmIxoUX6SjkQESSRH4iInmocAN0KPOsN2h4YRxE=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
     },
     {
         "channelName": "CANÇÃO NOVA",
-        "link": "g9/sHnZaxsMDIl1wCDdaJ6D9wSo5htNiF+R0+Oubiul28uyBizOiBxLJRSzFc1iWySAzuLVsrqsdwXgn62w0ng==",
+        "link": "8oW6UgwBaQQI5nmbMxt0HJf5cAgdkPNCvoFUh2OEFx3KIEg96H2CXh8Rr76GBA0Xm1MePRawOcgM4RTsPfG80A==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao"
@@ -443,6 +443,20 @@
     {
         "channelName": "TNT Novelas",
         "link": "CTRz45Wz8GjZjTAHRFR04N5UkanSe+Mwh1KteBi0Uds1E2W1ElsCnhFAeSe2JZoehBCHjmCPThUEH2KII+djYg==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes"
+    },
+    {
+        "channelName": "Runtime Ação HD",
+        "link": "T1EebmSWq3ZDlLFMxB3MB9iF6pIvDyKBb8BgCMehOEUIzKZH541qI+SfSzXL3AWKXH27fucdupuOrAqx4HESFA==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes"
+    },
+    {
+        "channelName": "Runtime TV e Filmes HD",
+        "link": "T1EebmSWq3ZDlLFMxB3MB9iF6pIvDyKBb8BgCMehOEUIzKZH541qI+SfSzXL3AWKUOLIaCNaq3GvM3nPhDwu0A==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes"
