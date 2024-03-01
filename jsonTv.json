@@ -99,8 +99,15 @@
     },
     {
         "channelName": "RECORD NEWS",
-        "link": "g9/sHnZaxsMDIl1wCDdaJ6D9wSo5htNiF+R0+OubiumLc4cdMsaOj5fm+Coz/Gsp3DiDKXxeACv+WpQAlCXBdg==",
+        "link": "T1EebmSWq3ZDlLFMxB3MB9iF6pIvDyKBb8BgCMehOEUIzKZH541qI+SfSzXL3AWKrx5VOApZaDaB28yxa5HS5w==",
         "ativo": 1,
+        "contactpage": "",
+        "categoria": "noticias"
+    },
+    {
+        "channelName": "RECORD NEWS SD (Pluto Tv)",
+        "link": "eoJiP5+uCpq/fpdV7QBxgM+Esmj7JRC9t9azRs/QArGvZeP0CUHuiwoH/csSBrjrNUyxhzv9bEhv/ZIEtDJAMw==",
+        "ativo": 0,
         "contactpage": "",
         "categoria": "noticias"
     },
