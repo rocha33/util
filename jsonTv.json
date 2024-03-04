@@ -259,15 +259,15 @@
         "categoria": "filmes"
     },
     {
-        "channelName": "GLOBO SP (TV TEM)",
-        "link": "2/d59RKtjqrF0H5rwkcpRJlZ0Ns7u4uAS4RA5B+XiOa/N2cjROoHD26QYvrRuIU6ErC0DZpYytPi3W64KkJ7sw==",
+        "channelName": "GLOBO BA SD",
+        "link": "tnTOEBqbg5UY9eA/4ZOtyKNMT3U8gcBWGYyKl/NtR+4EWSOrJ79BAJwoXQxP3NjM",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros"
     },
     {
         "channelName": "GLOBO SP",
-        "link": "me0eDJnyAEOXYkW/PxtTyvwgSYSCw7m029hWumgl2fHN7aCnPIbUsHOjXqCqE7zQD5pCq56PoBYc8RDX3trxBA==",
+        "link": "tnTOEBqbg5UY9eA/4ZOtyKNMT3U8gcBWGYyKl/NtR+4EWSOrJ79BAJwoXQxP3NjM",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros"
@@ -275,6 +275,13 @@
     {
         "channelName": "GLOBO RIO",
         "link": "uZARfmRJ8y1lRCEephsgmbI99iZxWEqsklNJtWdr/zagy4+ilWqZLUW6DBxtNHtT",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros"
+    },
+    {
+        "channelName": "GLOBO VERDES MARES",
+        "link": "0u8R9SW0pjwQ3rw3cCeK9mnkJaUa2ZFTbyHTWFGQGeCU2oUztB/tI2c+2nG8Kkb2TLbd8BR/DTTZnvxWqiNN0Q==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros"
@@ -337,7 +344,7 @@
     },
     {
         "channelName": "CNT",
-        "link": "7rOCWVB/8iBq7wzdHIB+yMEk5fxDHkqycy2JFEkIhq6+1I6N21PbhSzKxyltUUzGs5AxRsHwA2mmHolt7enwSQ==",
+        "link": "gbO9GwKbF7NCar7YLtoPs5IKUjolHJc1AMs1CSJXnVyy63Q4AXndZc6PJNiKwiJVcUC/LlYddpuZzvhSotbQAMXTl6JPrUQTA3p4ZrTgVA2x1YZZirAw8Ow6rEtmkARk",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
