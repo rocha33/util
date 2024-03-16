@@ -78,7 +78,7 @@
     },
     {
         "channelName": "TV Aparecida",
-        "link": "SbZQLvTq+H8KDNlwhEFKUEkmB6X/xEwnu50wZrIhec47QyvDmauXUBaefu5ubcDeNKGWmkVUmFNdaRAq9ayIlslPYQcbY2MIxhdWHzi5V5k=",
+        "link": "wiC7mG02B432FmXmauFL8zvddp1NdOd4SajhXyvGZrLPWWLP+PA5G4LICP0yCp7S7MDEaOLVmdZWURhZOSO31o7Z1EeNJengUTwfyHyc75k=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao"
@@ -365,7 +365,14 @@
     },
     {
         "channelName": "SBT SP SD",
-        "link": "wiC7mG02B432FmXmauFL8zvddp1NdOd4SajhXyvGZrJLaclLECGr6y/w7ZuvJ+8b2jmNP9vYjU17GEL250qO5iCFUoZe3GBlSEmxF7UjmbK4apxy6VNIsAVH3d9WRXQU",
+        "link": "T1EebmSWq3ZDlLFMxB3MB8ljU8f91K4EvYy9LtC8jgMdFmSo8KC3PDoYi266xVuESwLRqAa4u1vcjrj/LKc7Jy8TfmymjGtGROSvNFCsGnY=",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros"
+    },
+    {
+        "channelName": "SBT PARA",
+        "link": "LZEFjBMLVwEa2yef2rB4fLIpAHahR/lhDg1Oe88dR2+zuQC5TeV3+KIvkWIRFkV8BjK3KSnqiXDckJyseKyP/w==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
@@ -457,6 +464,13 @@
     {
         "channelName": "SPORT TV HD(Temporario)",
         "link": "0u8R9SW0pjwQ3rw3cCeK9mnkJaUa2ZFTbyHTWFGQGeCoPeYpiFhxdg3BLc401ZTdwniFEJAV2TzaUgedyjIJkQ==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes"
+    },
+    {
+        "channelName": "DAZN Mulheres Football",
+        "link": "6N98pR5ZQoq3/scId0l1G0izwRfgi2eVcGZMBboo+y+oaHNeUHWOfOQwekb/Igd/rBoVe7yT54JSmmqTh2PzY9c3yxj+JoO4JznXwDvQ9Gs=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes"
