@@ -8,7 +8,7 @@
     },
     {
         "channelName": "RECORD RIO",
-        "link": "0u8R9SW0pjwQ3rw3cCeK9mnkJaUa2ZFTbyHTWFGQGeCU2oUztB/tI2c+2nG8Kkb2kRFk9wBIcwxhsjKdO86YfA==",
+        "link": "VT2Dp1Oerd9OmGN76GgggHUFPQVp0fxNeenOR+zN0y1781QFZG89Pu5fzHwpK4NliNWRbNMDXNMyFMBNM8dL3g==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros"
@@ -190,7 +190,14 @@
     },
     {
         "channelName": "BAND SPORTS",
-        "link": "7/1Wo5QyPTKevoWn9dy4Z540VyiKEQik8nIOz+BPuGlcURUGs1wTsmRJJPJapGOi68n80oKAkK4T/hQ6COePEg==",
+        "link": "o0gVCjwASArLVn2aTOJHfb8yMQjZ6QADowlFInbOERSTbGU+bI+jSxnw2mVygEudpCsuruILQ+OH44wK0IutWQ==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes"
+    },
+    {
+        "channelName": "BAND SPORTS SD",
+        "link": "VT2Dp1Oerd9OmGN76GgggHUFPQVp0fxNeenOR+zN0y1781QFZG89Pu5fzHwpK4NlLwaMVw2dNVxgYLrpJZ35Nw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes"
