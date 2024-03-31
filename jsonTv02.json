@@ -352,8 +352,8 @@
         "pausado": 0
     },
     {
-        "channelName": "RECORD RN",
-        "link": "EMk/nSystzkWwSnoVK6Hb5lEeE8uX9xdbQ9pgQmAYjWTwLmFD4g1DexcOE1m8ShLTqoP0nVs68AgRSemtA2P+hVX1d42FG+uH9CyYdftTwF9meSSAdMJMkuT6gX8zw3+",
+        "channelName": "RECORD CAMPINAS",
+        "link": "ePQqRWZ8taruiW4skDF5r0pMIfE9qmt6nHSQpvz3vi2z04uEcNWfxOPLlatDi68fKNPJo5BQWKpw30/bLx78eQ==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -376,9 +376,9 @@
         "pausado": 0
     },
     {
-        "channelName": "SBT BA",
-        "link": "SbZQLvTq+H8KDNlwhEFKUEkmB6X/xEwnu50wZrIhec5EaPhJZ+EZERktwFBEsqW54rgYVDN/4XkKSnnI64yB026KBJVN/oGBi0V+ubzU2+o=",
-        "ativo": 0,
+        "channelName": "SBT RS",
+        "link": "GVxMg8dD+q2jbExds7BnQcacZ35HW6aclPbhJcCjEhrf+prYZm5aCR4cBrF6uYUHmIL3ELTKnAScWs49OppDQnsMvL3D9JcHwcj9IpNGxQ0=",
+        "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
@@ -529,7 +529,7 @@
     },
     {
         "channelName": "SPORTV (Temporario)",
-        "link": "0u8R9SW0pjwQ3rw3cCeK9mnkJaUa2ZFTbyHTWFGQGeCoPeYpiFhxdg3BLc401ZTdAOJqFWNu4LWVQUOH6wd3mg==",
+        "link": "Ajh3mIGI1KMol8UFj2Pgj3+DgA/7Wy05kPsZO9HLNFFZL6gQG1dXMbTOPFXRVVWVD1yPvnoEwVcSTzxfFhj+Iw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -589,6 +589,14 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
+        "pausado": 0
+    },
+    {
+        "channelName": "VIVA",
+        "link": "QCmz3Gt46z9/IIwsqqGoDTFLCqMeAseP7IkPjofJhFGA8+qb+W4kSs5qE84MnpF8sYYiyhpC6LRNjmkZHOZJ8Z1mKwqtVYnqDTWgpQzSMio=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
         "pausado": 0
     }
 ]
