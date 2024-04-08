@@ -24,6 +24,14 @@
         "pausado": 0
     },
     {
+        "channelName": "RECORD RN",
+        "link": "EMk/nSystzkWwSnoVK6Hb5lEeE8uX9xdbQ9pgQmAYjWTwLmFD4g1DexcOE1m8ShLTqoP0nVs68AgRSemtA2P+hVX1d42FG+uH9CyYdftTwF9meSSAdMJMkuT6gX8zw3+",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
         "channelName": "Global TV",
         "link": "gq9eyqDAP1s3nVth14QaTaOsQk43bhdtLvRHNopEc253DTjCKa07sSn59Mqpbe6WgpmHXgDrhDk3fJ2PAiRkaw==",
         "ativo": 1,
@@ -376,8 +384,8 @@
         "pausado": 0
     },
     {
-        "channelName": "SBT RS",
-        "link": "GVxMg8dD+q2jbExds7BnQcacZ35HW6aclPbhJcCjEhrf+prYZm5aCR4cBrF6uYUHmIL3ELTKnAScWs49OppDQnsMvL3D9JcHwcj9IpNGxQ0=",
+        "channelName": "SBT Interior SP",
+        "link": "SbZQLvTq+H8KDNlwhEFKUEkmB6X/xEwnu50wZrIhec7S4mKsD1QfqfncSFps7212htozseFUQhcVHSg7wmUnhdwPueKiRuK0z+DVppBEHzw=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -529,7 +537,7 @@
     },
     {
         "channelName": "SPORTV (Temporario)",
-        "link": "Ajh3mIGI1KMol8UFj2Pgj3+DgA/7Wy05kPsZO9HLNFFZL6gQG1dXMbTOPFXRVVWVD1yPvnoEwVcSTzxfFhj+Iw==",
+        "link": "zjv47WpsCq+XHzFkQTd83bfwbn7Vu1qG14+7diYB39zh6BGt8YZUSxkafojS25J5zVYp8kxrZpBBAlg+a3hzxQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -537,7 +545,7 @@
     },
     {
         "channelName": "SPORTV HD(Temporario)",
-        "link": "DOhGA5P0FuVxquZlaWM6nOsWgigoX9Jvli2WmJgKmeu43ODPGxKeNcH6FyIlV0iF+ZBVWZ2VvN/cNE3C0JLH0SM3ri5kPl1KSAa2ueisC0g=",
+        "link": "QCmz3Gt46z9/IIwsqqGoDTFLCqMeAseP7IkPjofJhFGA8+qb+W4kSs5qE84MnpF8sYYiyhpC6LRNjmkZHOZJ8dWR7WKKNvbWOP3Bt8FF9XY=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
