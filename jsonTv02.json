@@ -136,6 +136,14 @@
         "pausado": 0
     },
     {
+        "channelName": "CULTURA GO",
+        "link": "IGB9vh1bDxk3zn+NHCQNUAkQsgim51f7QzDSifoGzN3Q3wjhrlMy0A4wqO5BEIg4",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
         "channelName": "RECORD NEWS",
         "link": "T1EebmSWq3ZDlLFMxB3MB9iF6pIvDyKBb8BgCMehOEUIzKZH541qI+SfSzXL3AWKrx5VOApZaDaB28yxa5HS5w==",
         "ativo": 1,
@@ -160,8 +168,32 @@
         "pausado": 0
     },
     {
+        "channelName": "BAND CAMPINAS",
+        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDDqjirYZk16igYO9aMg4Ca71+R5uwLGlYPSFMQZdWcc8=",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "BAND RJ",
+        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDJL6iRfjdKU/WXFdTqXFPr5+drQkAWgAv8T2QmuHRbzA=",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
         "channelName": "CANÇÃO NOVA",
         "link": "8oW6UgwBaQQI5nmbMxt0HJf5cAgdkPNCvoFUh2OEFx3KIEg96H2CXh8Rr76GBA0Xm1MePRawOcgM4RTsPfG80A==",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "religiao",
+        "pausado": 0
+    },
+    {
+        "channelName": "CANÇÃO NOVA BRASILIA",
+        "link": "GVxMg8dD+q2jbExds7BnQcacZ35HW6aclPbhJcCjEhrQ/2EIfVTAbxJ6BDCvV0LUgUWN9QAQTouMp7VELMCac7wRqvo6MG/K4jKpato1SOEgGOZw74lchiJbxZf37L2e",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -448,6 +480,14 @@
         "pausado": 0
     },
     {
+        "channelName": "SBT RS",
+        "link": "GVxMg8dD+q2jbExds7BnQcacZ35HW6aclPbhJcCjEhrf+prYZm5aCR4cBrF6uYUHmIL3ELTKnAScWs49OppDQmfhjoLfxqEE9CC/CIuxm+ut4gS3BJfftRy3MDwHnD+h",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
         "channelName": "REDE TV",
         "link": "QsUUk9w9X3Ep4E0pYEjDWCn+xMsU0bg2KeAOeTGaw9BU+pXq3IKxVN1E4+OXptvmwnO0pcx6ZmIwoIa5bpl6K8MCSL1XNI3vdOfqakpL58zijgcx2HpmrJYaCDf7Zil2",
         "ativo": 1,
@@ -603,6 +643,14 @@
         "channelName": "VIVA",
         "link": "QCmz3Gt46z9/IIwsqqGoDTFLCqMeAseP7IkPjofJhFGA8+qb+W4kSs5qE84MnpF8sYYiyhpC6LRNjmkZHOZJ8Z1mKwqtVYnqDTWgpQzSMio=",
         "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "TV BRASIL",
+        "link": "4K+ZHMyZ2DhuFFrJykarjJKZP6kBjm2m4YXsNFZjTWF+5mJseHBbrhDC69u8eJjJ/Lw8aq46tsEaKEKEwILytQ==",
+        "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
