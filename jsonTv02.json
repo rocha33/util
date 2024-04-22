@@ -192,8 +192,8 @@
         "pausado": 0
     },
     {
-        "channelName": "CANÇÃO NOVA BRASILIA",
-        "link": "GVxMg8dD+q2jbExds7BnQcacZ35HW6aclPbhJcCjEhrQ/2EIfVTAbxJ6BDCvV0LUgUWN9QAQTouMp7VELMCac7wRqvo6MG/K4jKpato1SOEgGOZw74lchiJbxZf37L2e",
+        "channelName": "CANÇÃO NOVA SD",
+        "link": "TSsFk+AH2BFuIJA4XTfa+PH1Y22cF7c5PKlep1pd62QCu77uURdga4tFYcxfO87oBueX18En5GBljrEr92CA5Z63Ad6RHhSnqx1KTwuki6w=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -384,8 +384,24 @@
         "pausado": 0
     },
     {
+        "channelName": "GLOBO RIO SD",
+        "link": "sdepM/6ocA7SnLtFrhN7Djl+x2Jme9EhGexntt1AVRM9YQfw/snu8kok/qrKzu9RE7a7pzDaBG1L4T0oQsB5hg==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
         "channelName": "GLOBO VERDES MARES",
         "link": "0u8R9SW0pjwQ3rw3cCeK9mnkJaUa2ZFTbyHTWFGQGeCU2oUztB/tI2c+2nG8Kkb2TLbd8BR/DTTZnvxWqiNN0Q==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "GLOBO VERDES NORDESTE",
+        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDNJPtCLMbr95JyGvKYIjaYLolApGmGjxcjLfvGXpCno4=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -449,7 +465,7 @@
     },
     {
         "channelName": "CNT",
-        "link": "lzxxntf61wwsUiuIP9u5r6qcuZBjs2l0VUWvQ3Oxb4XUQObQYCxL/9xKhq50OJ9SEYt47gMNb04g68VkUS5/OGwzlAJ373iFGPmz73WswK+g2WSvNbkbUwPebs7D974NI+AKv1OPZxxWNQuYss5Wpji1wUd6pJqJ9eAdrAB9kOJDq5kQv2qQrJ8dytZEEkZawaBNO+67FX/pkG6cifLPhOgbX8EAvKs9liGXM1StdW2zwh5MExMvoMtFqz5lhvt0CPNgrEMcN+vU9RJubvKFq15GdceHDuKgQpcQoJyu1p7jx8+ZJ1C4eaGGvL8JyWR1aZTXk9hyAAZB7k8oUjoZ1f95hpLafAVtaZA/VxvdAeGr7UhtsCocioO7V3HTGlNuTr1DKb4tu6WuAQIT5t2vPLOk1Z0bxtda+52QClZ16xYiRfOB8a9ANnL46BHkK1pJCVZuxbK2+tYE0qSA2MKDr82pee0koJ9rl53Vx9WKnF7gCHiDXl0Pki903cl1SlfIB1iKZjt8UeozzKdhOIp+Xuu173sQxBOP3Km9Dt6DYUSZq4eRvdX+su1QN7dUfJSOV8TARU85NlF1zQ86rk6DHNKuDe8a9BPFum3+3yTM/gRhhla9qgcw2E2XPWXE9jyoFygep8RJHAV2hCQofxZQ37jibVuTN0WNMPAKsthiC1nfTm9Q6gL3t3wZ6UEZ6MY5",
+        "link": "G9k2SZBEpFw/WDjImr3WJ78939XtGdtlJrMGdWm5m+bppAN7xR5gGOAiAc3EDH868NYkGXjHBCA+XKRI1Jlm/VZrk6o4LJX5oqz3vFE449T0Wud9vfL0s+FdT1syckl0ZsVQnlALMPNHyf5tR5k64agclVi65JJdNM998Clq2WVgpM0h+GENRz/EUye5yTP+IE2wLDsRj7aSDYu4bwSz60FzPmlw3pCN6v8GpCFVBjZX6omgI/K6Ifwo09eNQPr+RwPEjAoWlZkpDlx/o1oVaKAYuhKH13aQTZX1ZKkltrssBvfAA2tRWBGi5Ft2L8I7v3BkfgJX0IxN2n3pYJCJALK61uk3ZRGkMsy+nVBX0WIXcNhb/k/YkS68gW6i529Qn58EdbjLR/+YZ5q2RhK0nZwVOo5U1+imixYS1AQZUYzTh3iy6Ev/cfd85446jWw7kMkFvnw90Pg2I8z7pPY6KvKkWd0R19R0okuVyvU2lM6lR3jFkHe9zIH3Kx/VsqjBbvs6gc3s1znbu0EFYcv2YIEHzZYJfqa76IiTa6b4Kh0FH5iniI/RvD5TlhWdmyOYnVwwtR8kKAcCeUNFCuhzcNpdVbBFJ5AK8pwynQTTxX3bea9wW7soCehraAcFd0/Q3ezO7yiuzM8ZDBFmIEd9unjibjONmz/lf4U7icUe178=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -584,6 +600,14 @@
         "pausado": 0
     },
     {
+        "channelName": "SPORTV SD (Temporario)",
+        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDSQ4hgWEYJr2YviZw2iGMGIVH1jCZgW3FxNosoQORXqs=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "pausado": 0
+    },
+    {
         "channelName": "SPORTV HD(Temporario)",
         "link": "QCmz3Gt46z9/IIwsqqGoDTFLCqMeAseP7IkPjofJhFGA8+qb+W4kSs5qE84MnpF8sYYiyhpC6LRNjmkZHOZJ8dWR7WKKNvbWOP3Bt8FF9XY=",
         "ativo": 0,
@@ -653,6 +677,14 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "OS JETSONS 24 H (temporário)",
+        "link": "6/TXGFS2JVJghNfkZ5qAi2weJ4Qs8AOjmS5TSqv3LpGole3S5cmSU+LZa22YovadfdlwMt7p5yJVccGFNQB5eg==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "animacao",
         "pausado": 0
     }
 ]
