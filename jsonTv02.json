@@ -176,8 +176,8 @@
         "pausado": 0
     },
     {
-        "channelName": "BAND RJ",
-        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDJL6iRfjdKU/WXFdTqXFPr5+drQkAWgAv8T2QmuHRbzA=",
+        "channelName": "BAND PLAY",
+        "link": "pQuFooNKC7M1l84Dfz4ntzFG2UNTET3io+cj2sAM6lRLB0R522w9y8kqKIvsYFfzfZXQX4bvWHN6cpKASfioWKYAtmNYMGJXx4estgU7FUf+tVrcaASZ8kJD5k9dIM3Ytu5jaQJBYjF5wtmzEK54B2kzli/hhjoi1Jj9LdgyjjGK91iGl6kNdEPicaw2W7Nh4mMfk9levbzdp6dFNiPDoEQY6trJumjRCHFn7oc2wbLuhwpZZCM/UkZ0f7I2zxRd",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -248,9 +248,9 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO BA",
+        "channelName": "RECORD (Alter)",
         "link": "HIJoxdWF7NY6ZE/McJVc1BAvXNqYWM/vQML67knCysf+aIESI0K8dGltb48ei4cEiQPrS0PeeOj41kxUjbODjdyc0Jx1hk/bFgZ4GwQDRBw=",
-        "ativo": 0,
+        "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
@@ -408,7 +408,7 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO VERDES NORDESTE",
+        "channelName": "GLOBO NORDESTE",
         "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDNJPtCLMbr95JyGvKYIjaYLolApGmGjxcjLfvGXpCno4=",
         "ativo": 0,
         "contactpage": "",
@@ -421,6 +421,22 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "GLOBO NEWS",
+        "link": "DOhGA5P0FuVxquZlaWM6nOsWgigoX9Jvli2WmJgKmeu43ODPGxKeNcH6FyIlV0iF+ZBVWZ2VvN/cNE3C0JLH0SgTyn+HOxhme+YAHeXYaZc=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "noticias",
+        "pausado": 0
+    },
+    {
+        "channelName": "GLOBO NEWS HD",
+        "link": "4HkEckbmpc1hTJddkmCpoUQ+x0Cu+dwSGqsZse7MM9G+Q9e5hxW+037DOhsLfva/",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "noticias",
         "pausado": 0
     },
     {
@@ -534,15 +550,8 @@
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
-    },     
-    {
-        "channelName": "GLOBO NEWS",
-        "link": "DOhGA5P0FuVxquZlaWM6nOsWgigoX9Jvli2WmJgKmeu43ODPGxKeNcH6FyIlV0iF+ZBVWZ2VvN/cNE3C0JLH0SgTyn+HOxhme+YAHeXYaZc=",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "noticias",
-        "pausado": 0
-    },
+    },    
+    
     {
         "channelName": "TODO MUNDO ODEIA O CRIS (temporario)",
         "link": "wIRK1vj+Zz3hxnXCtHer+RbRs8tofXDxbT6uCJ7PaW8aVwCrq6z3QdDg5kfF44Ai08PGpHT+bL9q4ozvIztkcZfWAQFAv8dKBBlJ8//7l4cTyjPKtwT+EtrELwmqRf2DpDWcWn4OOVn9wTCmJGOQbQ==",
@@ -693,6 +702,22 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
+        "pausado": 0
+    },
+    {
+        "channelName": "History (temporário)",
+        "link": "jxyGVZv/yWDTTpuS3rjvbUBZIRl5eOXCz7/XN9uRn/Rpe/nHKYL4lJsX8MnCHMN9",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "MTV",
+        "link": "Yzq2xZHP8xjObhXNEggRk5PB7Le6AtGnQdHC6rwiWL//THRg4NqP5Z/qHT6LrvPn",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "musical",
         "pausado": 0
     }
 ]
