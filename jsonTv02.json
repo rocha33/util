@@ -168,8 +168,8 @@
         "pausado": 0
     },
     {
-        "channelName": "BAND PLAY",
-        "link": "pQuFooNKC7M1l84Dfz4ntzFG2UNTET3io+cj2sAM6lRLB0R522w9y8kqKIvsYFfzfZXQX4bvWHN6cpKASfioWKYAtmNYMGJXx4estgU7FUf+tVrcaASZ8kJD5k9dIM3Ytu5jaQJBYjF5wtmzEK54B2kzli/hhjoi1Jj9LdgyjjGK91iGl6kNdEPicaw2W7Nh4mMfk9levbzdp6dFNiPDoEQY6trJumjRCHFn7oc2wbLuhwpZZCM/UkZ0f7I2zxRd",
+        "channelName": "BAND Vale do Uruará",
+        "link": "qH/DKGA9FpkDYZUvFhTDZ+yh2GkMqrCdQnHMHWZ/vkwyQFsnkqlaSXKMs/SuMUNocIzx5XO3V1Pakd4eMaGshXsXUXuljKJyX8mHFqusXKg=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -376,6 +376,14 @@
         "pausado": 0
     },
     {
+        "channelName": "GLOBO RIO (Alter)",
+        "link": "iSUJwirVhRti7o/G67Med5sJXUsunuZxAh4xbKoGRP6Bv/4Aoi0QaDErmXgc9J2sZOm9OssB0oujfaVYdO5zbS/pREjMXhfxzx/cISIWfC0=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
         "channelName": "GLOBO RIO",
         "link": "uZARfmRJ8y1lRCEephsgmbI99iZxWEqsklNJtWdr/zagy4+ilWqZLUW6DBxtNHtT",
         "ativo": 0,
@@ -386,6 +394,14 @@
     {
         "channelName": "GLOBO RIO SD",
         "link": "sdepM/6ocA7SnLtFrhN7Djl+x2Jme9EhGexntt1AVRM9YQfw/snu8kok/qrKzu9RE7a7pzDaBG1L4T0oQsB5hg==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "GLOBO RIO HD",
+        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDIB+U++9EdweJB7nWMILY7cCL1drJ3ShQgqxyRMwno/E=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -408,8 +424,16 @@
         "pausado": 0
     },
     {
+        "channelName": "GLOBO INTERNACIONAL",
+        "link": "ccktuiCUW/KMYSOoFbxH3nuY5ytlcXdg0RtpmYH9YnzZ3X+EEhuzlaoRLqR662bGsc1SjkcB2fEiGoXhIb/lfw==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
         "channelName": "RECORD CAMPINAS",
-        "link": "ePQqRWZ8taruiW4skDF5r0pMIfE9qmt6nHSQpvz3vi2z04uEcNWfxOPLlatDi68fKNPJo5BQWKpw30/bLx78eQ==",
+        "link": "ccktuiCUW/KMYSOoFbxH3vuhpKz99e8GihxRPpx3zSEQAfdLG3pGq5BwLI0uyQzhw+0SOJCYvidPPgDLWJh/Sw==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -542,8 +566,7 @@
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
-    },    
-    
+    },     
     {
         "channelName": "TODO MUNDO ODEIA O CRIS (temporario)",
         "link": "wIRK1vj+Zz3hxnXCtHer+RbRs8tofXDxbT6uCJ7PaW8aVwCrq6z3QdDg5kfF44Ai08PGpHT+bL9q4ozvIztkcZfWAQFAv8dKBBlJ8//7l4cTyjPKtwT+EtrELwmqRf2DpDWcWn4OOVn9wTCmJGOQbQ==",
@@ -554,7 +577,7 @@
     },
     {
         "channelName": "EU A PATROAS E AS CRIANCAS (temporario)",
-        "link": "wIRK1vj+Zz3hxnXCtHer+RbRs8tofXDxbT6uCJ7PaW8aVwCrq6z3QdDg5kfF44Ai08PGpHT+bL9q4ozvIztkcQrPisxRcfSkjM6Ort6XH/peBKZxRaegeoIIHUV0X0ZTHlnC46dp9EhCT0cDEhCOJg==",
+        "link": "wIRK1vj+Zz3hxnXCtHer+RbRs8tofXDxbT6uCJ7PaW8aVwCrq6z3QdDg5kfF44Ai08PGpHT+bL9q4ozvIztkcVpC30Wzlyt6s1aNGOR2MCrfyEilUHUFa8lIpB+ZqTk4qQgxX3m0WZ91AJVidGqKMg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
