@@ -177,7 +177,7 @@
     },
     {
         "channelName": "CANÇÃO NOVA",
-        "link": "8oW6UgwBaQQI5nmbMxt0HJf5cAgdkPNCvoFUh2OEFx3KIEg96H2CXh8Rr76GBA0Xm1MePRawOcgM4RTsPfG80A==",
+        "link": "GVxMg8dD+q2jbExds7BnQcacZ35HW6aclPbhJcCjEhpfIbXbqyezU184K49xTY9zP1rWQS+45dfeKAoIih8js74B28ZSngNguyLGix9bmiYL7lWC42ptuYF60QQULPVr",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -249,7 +249,7 @@
     },
     {
         "channelName": "BAND SPORTS",
-        "link": "7/1Wo5QyPTKevoWn9dy4Z540VyiKEQik8nIOz+BPuGlcURUGs1wTsmRJJPJapGOi68n80oKAkK4T/hQ6COePEg==",
+        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDDFHEhZZzyA8rJ1r62igOoKFGDgvfwCwRF1eTr1h7Fnk=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -406,26 +406,10 @@
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
-    },
-    {
-        "channelName": "GLOBO VERDES MARES",
-        "link": "0u8R9SW0pjwQ3rw3cCeK9mnkJaUa2ZFTbyHTWFGQGeCU2oUztB/tI2c+2nG8Kkb2TLbd8BR/DTTZnvxWqiNN0Q==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "outros",
-        "pausado": 0
-    },
+    },    
     {
         "channelName": "GLOBO NORDESTE",
         "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDNJPtCLMbr95JyGvKYIjaYLolApGmGjxcjLfvGXpCno4=",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "outros",
-        "pausado": 0
-    },
-    {
-        "channelName": "GLOBO INTERNACIONAL",
-        "link": "ccktuiCUW/KMYSOoFbxH3nuY5ytlcXdg0RtpmYH9YnzZ3X+EEhuzlaoRLqR662bGsc1SjkcB2fEiGoXhIb/lfw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -441,7 +425,7 @@
     },
     {
         "channelName": "GLOBO NEWS",
-        "link": "DOhGA5P0FuVxquZlaWM6nOsWgigoX9Jvli2WmJgKmeu43ODPGxKeNcH6FyIlV0iF+ZBVWZ2VvN/cNE3C0JLH0SgTyn+HOxhme+YAHeXYaZc=",
+        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDYP4sS1n7cq6rZClcIh+HPnoItwiqqS7lEEZlMQXkq48=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -554,6 +538,14 @@
     {
         "channelName": "BAND PA",
         "link": "wiC7mG02B432FmXmauFL8zvddp1NdOd4SajhXyvGZrJEes2XDRit5c+tZPF+8Qn3BVHEmFCY5b3aARBsu48Tgl6HxipEwMB0jUMEXdD2IrQbJwOJJlrZvi/nAqeXdM4l",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "BAND RS",
+        "link": "GVxMg8dD+q2jbExds7BnQcacZ35HW6aclPbhJcCjEhqknB6CVfXdfFDXTIHrXz1j2SfrbT1gzIT+zJqcTIlvoYN0fCBgSJJIdvQuuApCZyp+5wP84QVpf2u321Fd+yam",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -729,7 +721,23 @@
     },
     {
         "channelName": "MTV",
-        "link": "Yzq2xZHP8xjObhXNEggRk5PB7Le6AtGnQdHC6rwiWL//THRg4NqP5Z/qHT6LrvPn",
+        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDzq5+N0pgxiH1+wfsbA0qwxhPUXjzHOeCv/z/KyVtQLg=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "musical",
+        "pausado": 0
+    },
+    {
+        "channelName": "MTV Pluto",
+        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDxl2dNZa0N0OMbfqgBqJD6a7J4jhrFwVus/qiT5Rqodo=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "musical",
+        "pausado": 0
+    },
+    {
+        "channelName": "MTV SD",
+        "link": "px+sXxuewb15YuXfE7BMWRBMBpehmd9Nz2UixyJLy4zP595uh5cNKY4KroqCFvS+TwUzZd9mlAl+KwNoyiaTtx9y6IklqIsHan25O1QhwVA=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
