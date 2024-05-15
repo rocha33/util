@@ -161,7 +161,7 @@
     },   
     {
         "channelName": "BAND CAMPINAS",
-        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDDqjirYZk16igYO9aMg4Ca71+R5uwLGlYPSFMQZdWcc8=",
+        "link": "rqBRCgwsAWm7G6h9QC6jBc+l6ANLqIxn26lxW/sbwndEHAT2hUeZGFyThtofftGf",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -249,7 +249,7 @@
     },
     {
         "channelName": "BAND SPORTS",
-        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDDFHEhZZzyA8rJ1r62igOoKFGDgvfwCwRF1eTr1h7Fnk=",
+        "link": "rqBRCgwsAWm7G6h9QC6jBc+l6ANLqIxn26lxW/sbwneVYmNXxG49jjBM8UyegwKM",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -409,15 +409,15 @@
     },
     {
         "channelName": "GLOBO RIO HD",
-        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDIB+U++9EdweJB7nWMILY7cCL1drJ3ShQgqxyRMwno/E=",
+        "link": "rqBRCgwsAWm7G6h9QC6jBc+l6ANLqIxn26lxW/sbwncHRaApYDx0Z+CY6lR6hHNY",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
     },    
     {
-        "channelName": "GLOBO NORDESTE",
-        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDNJPtCLMbr95JyGvKYIjaYLolApGmGjxcjLfvGXpCno4=",
+        "channelName": "GLOBO GLOBO TV BELEM HD",
+        "link": "rqBRCgwsAWm7G6h9QC6jBRQrZVmjh0fOLVS0Y+MEkpyrOs+mSIr9zv5Whvl+K96cSebZCuC4vButC47BZAwpvg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -441,7 +441,7 @@
     },
     {
         "channelName": "GLOBO NEWS",
-        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDYP4sS1n7cq6rZClcIh+HPnoItwiqqS7lEEZlMQXkq48=",
+        "link": "rqBRCgwsAWm7G6h9QC6jBc+l6ANLqIxn26lxW/sbwnfUrS/qNaOvV9KQBNHAc7jY",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -625,7 +625,7 @@
     },
     {
         "channelName": "SPORTV SD (Temporario)",
-        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDSQ4hgWEYJr2YviZw2iGMGIVH1jCZgW3FxNosoQORXqs=",
+        "link": "rqBRCgwsAWm7G6h9QC6jBRQrZVmjh0fOLVS0Y+MEkpxsYFdAszFLt6g93xlPyes/41jCy2CQcV6XvBHIOEvxUQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -721,7 +721,7 @@
     },
     {
         "channelName": "MTV",
-        "link": "SKfLQdkybXeJqxM+5IL1azaDJNkLlOkzxnxa9z4wT8UhmNoS09fB4ScWPGvVTyVDzq5+N0pgxiH1+wfsbA0qwxhPUXjzHOeCv/z/KyVtQLg=",
+        "link": "rqBRCgwsAWm7G6h9QC6jBc+l6ANLqIxn26lxW/sbwndveEU1X7yKr1+e/T3lx+dd",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
