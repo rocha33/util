@@ -472,7 +472,7 @@
         "pausado": 0
     },
     {
-        "channelName": "SBT Interior SP",
+        "channelName": "SBT SP",
         "link": "ok2NDXtLWruTU6w7/EmcF6gtJtYpjSRvta0imA+FTEJ2BV9v+ZTqjBktlaBUcGNo84zXIuzv/dfOZpKo665K+hQPuzkNgLvenwaiRJSBdZogUz0e+ecQLKjQsdIJjnwi",
         "ativo": 1,
         "contactpage": "",
@@ -689,7 +689,7 @@
     },
     {
         "channelName": "VIVA",
-        "link": "rqBRCgwsAWm7G6h9QC6jBaz0QajJxYjVwvKkAHSES5zCMW5fY2PL0PyAlGpR+1ee",
+        "link": "rqBRCgwsAWm7G6h9QC6jBfUB7/iNZp1CTqdgUvFl0rS/lrjtDXGXnFBum67g0xLe",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -713,7 +713,7 @@
     },
     {
         "channelName": "History (temporário)",
-        "link": "px+sXxuewb15YuXfE7BMWRBMBpehmd9Nz2UixyJLy4zP595uh5cNKY4KroqCFvS+Due/8Jf+K6jVuhlh+3HC/cnaaUMMZ+7sjnMXI4YLlDyl/xJnuqDB+U51kVKk2c0K",
+        "link": "rqBRCgwsAWm7G6h9QC6jBfUB7/iNZp1CTqdgUvFl0rTu/VCdHLGiYxLdej6KAXZZ",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -733,6 +733,22 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
+        "pausado": 0
+    },
+    {
+        "channelName": "EU A PATROA AS CRIANÇAS (Temp)",
+        "link": "rqBRCgwsAWm7G6h9QC6jBfUB7/iNZp1CTqdgUvFl0rRnqre/aml6A+ibE+NSajXZHXxvJI1NdbzkvDDkwUvUMA==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "animacao",
+        "pausado": 0
+    },
+    {
+        "channelName": "TODO MUNDO ODEIA O CRIS (Temp)",
+        "link": "rqBRCgwsAWm7G6h9QC6jBfUB7/iNZp1CTqdgUvFl0rTuFqBjwYUrwEdYMQlkZJqx",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "animacao",
         "pausado": 0
     }
 ]
