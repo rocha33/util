@@ -385,7 +385,7 @@
     },
     {
         "channelName": "GLOBO RIO (Alter)",
-        "link": "rqBRCgwsAWm7G6h9QC6jBaz0QajJxYjVwvKkAHSES5ybdEqDtI+xAqaQ+JE8S574",
+        "link": "1fsP7hoK2w0JdxZ/IuIFVIVTPMAo/SmKYHjX9fqnlCD//pe35uQvX7Nq6DMixvUujg7rUEw7l0cA3tL3luhQ9Q==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -409,15 +409,15 @@
     },
     {
         "channelName": "GLOBO RIO HD",
-        "link": "rqBRCgwsAWm7G6h9QC6jBc+l6ANLqIxn26lxW/sbwncHRaApYDx0Z+CY6lR6hHNY",
+        "link": "jC0+A4tegzUvrDWWRn6H2z/Tlp2jbhk4kRdidick/XN98HBnrK3U8rzcgPcJ2etCE7uxDDvvYc5lWqbO22C6JQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
     },    
     {
-        "channelName": "GLOBO GLOBO TV BELEM HD",
-        "link": "rqBRCgwsAWm7G6h9QC6jBRQrZVmjh0fOLVS0Y+MEkpyrOs+mSIr9zv5Whvl+K96cSebZCuC4vButC47BZAwpvg==",
+        "channelName": "GLOBO GLOBO MG",
+        "link": "1fsP7hoK2w0JdxZ/IuIFVIVTPMAo/SmKYHjX9fqnlCD//pe35uQvX7Nq6DMixvUuK5IBzycUNewTyDpLF8OaYQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -426,6 +426,14 @@
     {
         "channelName": "GLOBO NORDESTE SD",
         "link": "ccktuiCUW/KMYSOoFbxH3vuhpKz99e8GihxRPpx3zSEQAfdLG3pGq5BwLI0uyQzhV4hdF9b/jKmWOc/51mq1/g==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "GLOBO MS",
+        "link": "X5NBfPF0xyxXtGQ613U6/i070n16kqOmR4aRC/UiSjzykWA/yfGGLtBv/EZ4vgx5w4ovGqWvxcFvF8SA9H4eGL7X3e8o+BleNQmTDIDznI5YyqXAHCUsycN2lryGPROMGQaYmlDJHVYohzUwV9khpsrxoulMHmkJT+mTp9rhSOY=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -458,6 +466,14 @@
     {
         "channelName": "Chespirito (temporario)",
         "link": "0IouVxmTrK4OdakErnz+gYTjMPWuwP9cqDYRbfe8hZ/yk53B8T6vTzDJvwGSXJmQNhvwxevQQj304flAAXS3iv/k4Q/2cXrQqF7sSCil2pU=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "animacao",
+        "pausado": 0
+    },
+    {
+        "channelName": "Chespirito 2 (temporario)",
+        "link": "qtm5qDHvDtAhFqNF4GTRSCSno+3IedWzk90hCJYEtOa8S/lCrnlNpIR+F3J02Zl6",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -680,6 +696,14 @@
         "pausado": 0
     },
     {
+        "channelName": "VIVA HD",
+        "link": "1fsP7hoK2w0JdxZ/IuIFVIVTPMAo/SmKYHjX9fqnlCD//pe35uQvX7Nq6DMixvUuIwn6QoTfLU/B1OF34biBPw==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
         "channelName": "TV BRASIL",
         "link": "4K+ZHMyZ2DhuFFrJykarjJKZP6kBjm2m4YXsNFZjTWF+5mJseHBbrhDC69u8eJjJ/Lw8aq46tsEaKEKEwILytQ==",
         "ativo": 1,
@@ -730,6 +754,14 @@
     {
         "channelName": "TODO MUNDO ODEIA O CRIS (Temp)",
         "link": "rqBRCgwsAWm7G6h9QC6jBfUB7/iNZp1CTqdgUvFl0rTuFqBjwYUrwEdYMQlkZJqx",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "animacao",
+        "pausado": 0
+    },
+    {
+        "channelName": "Canal da Praça (Temp)",
+        "link": "rTxy4XbT8OZoboelEXalTIdgK7mvN+Y0Pr8pvR6JkH3Uqs54V86YmD3SxWKUUWVN0OPRVmnmqeJkf8+uGW+KvuelCQJoiFA5zFVDcq2YlqU7xqz6F6LViIi9b3nDmswd1BLHFGUbH2EiQfkFaY0zDe85NOPLtGQXi2BLlCPQCMAC5qK9zVJUhnHd94VlEzNLx4uQOzT7TprcJxdy21kwvw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
