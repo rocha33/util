@@ -17,7 +17,7 @@
     },
     {
         "channelName": "RECORD RIO SD",
-        "link": "CTRz45Wz8GjZjTAHRFR04HwFjKohWXI/KbpdzM18qBaLX5Bwip+FKBDYcP6uivRM51EWks5CRz9k73U+c4iR5g==",
+        "link": "1fsP7hoK2w0JdxZ/IuIFVIVTPMAo/SmKYHjX9fqnlCD//pe35uQvX7Nq6DMixvUuq1TU+rrKky581sU6MLbVbQ==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -26,6 +26,14 @@
     {
         "channelName": "RECORD HD",
         "link": "0IouVxmTrK4OdakErnz+gYTjMPWuwP9cqDYRbfe8hZ/yk53B8T6vTzDJvwGSXJmQNhvwxevQQj304flAAXS3ipcxpqVU7lirEOy7wxd8emo=",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "RECORD BA",
+        "link": "OcAekgAlwyYYau2UB0mLJKwxf4lBGDJwJ9GJ42Dc1qHAHXtcbvmwpvLgLUqiFXicaJ3tN850EyLqu2CSq2cIdqldsAr9P6MbaO+C9jvQN6o=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -129,7 +137,7 @@
     },
     {
         "channelName": "CULTURA",
-        "link": "NH1OClvcIlh9KYFula6u3Nfu0cwxo6XHIkbUgEAzoYFi9rHPDt1gLDq5RXURdrFJCw4WAbVoTflBhGrFqx8M+orBlbJwWdT194Xp19bHOee2AqZSHQRaVlnOQL+Modte",
+        "link": "pGwcDLB56IoxukL0AoSPAsxFgF0AlpVJu5389IYh9ngvOqgo1yWZ2P+9Ga/0maFGU3IIoLZ+dlUtCAMmauiS/BJf2juHuNYc5k9/492QWt3M4BGhEsyYz7tl0z7t8Dg8",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -249,7 +257,7 @@
     },
     {
         "channelName": "BAND SPORTS",
-        "link": "rqBRCgwsAWm7G6h9QC6jBc+l6ANLqIxn26lxW/sbwneVYmNXxG49jjBM8UyegwKM",
+        "link": "px+sXxuewb15YuXfE7BMWRBMBpehmd9Nz2UixyJLy4zP595uh5cNKY4KroqCFvS+WDDLuTtMKbBu+kP1TSSA7tP7bDV78PeKd91YiVpEuSU=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -520,8 +528,8 @@
         "pausado": 0
     },
     {
-        "channelName": "SBT PARA",
-        "link": "LZEFjBMLVwEa2yef2rB4fLIpAHahR/lhDg1Oe88dR2+zuQC5TeV3+KIvkWIRFkV8BjK3KSnqiXDckJyseKyP/w==",
+        "channelName": "SBT (alter)",
+        "link": "ok2NDXtLWruTU6w7/EmcF6gtJtYpjSRvta0imA+FTEJ2BV9v+ZTqjBktlaBUcGNo84zXIuzv/dfOZpKo665K+hQPuzkNgLvenwaiRJSBdZopcIZ5/jF6Ai1lbcjMGcsk",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -552,8 +560,8 @@
         "pausado": 0
     },
     {
-        "channelName": "BAND RS",
-        "link": "GVxMg8dD+q2jbExds7BnQcacZ35HW6aclPbhJcCjEhqknB6CVfXdfFDXTIHrXz1j2SfrbT1gzIT+zJqcTIlvoYN0fCBgSJJIdvQuuApCZyp+5wP84QVpf2u321Fd+yam",
+        "channelName": "BAND RN",
+        "link": "YtSPqViXtO/UtPi/xgPvD+yoTwvIyc6MZ1doEh38wJ8RcLbE277QSfDmXlgkcCpIlm0MvbrJ9xW1uQw5TZ6CMw==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -562,6 +570,14 @@
     {
         "channelName": "BAND SP",
         "link": "Bii1KC/OYCEMcIN5OV40tfiDSYPAUq3kRPIw0Kg0dBNcOcJnFqYykfS6T9hduKi6",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "BAND RJ",
+        "link": "LZEFjBMLVwEa2yef2rB4fLIpAHahR/lhDg1Oe88dR2/xBi6EssfIHJxhLIGRNlxLTxyXESrPAB/hUPclaC2RVQ==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -609,7 +625,7 @@
     },
     {
         "channelName": "SPORTV (Temporario)",
-        "link": "rqBRCgwsAWm7G6h9QC6jBaz0QajJxYjVwvKkAHSES5y1ifO1c1RgmteKVHrUT/pC",
+        "link": "jC0+A4tegzUvrDWWRn6H29d77X0StYRwPy9CaMZuS+cFlOJ323tSJ0eokOx0eddKDdCz42uxkiXU8CTNIuRZtA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -689,7 +705,7 @@
     },
     {
         "channelName": "VIVA HD",
-        "link": "1fsP7hoK2w0JdxZ/IuIFVIVTPMAo/SmKYHjX9fqnlCD//pe35uQvX7Nq6DMixvUuIwn6QoTfLU/B1OF34biBPw==",
+        "link": "qtm5qDHvDtAhFqNF4GTRSCSno+3IedWzk90hCJYEtOYEGdkD+g2cGJ3OoTci2k0m",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
