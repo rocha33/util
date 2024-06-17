@@ -185,7 +185,7 @@
     },
     {
         "channelName": "CANÇÃO NOVA",
-        "link": "rqBRCgwsAWm7G6h9QC6jBc+l6ANLqIxn26lxW/sbwncuNaZNLRAnAePNu/ogU5hR",
+        "link": "KFU+FLUWxCl6zuRRDmk4gK3KozV6kNBvRkb/FfuuaWv/yS1vSc+gJFV60Rc7DM18zL+mrOMHeDX60KgkrqWG31uo/GPwknOoG9dH2jFhj50=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -193,7 +193,7 @@
     },
     {
         "channelName": "CANÇÃO NOVA SD",
-        "link": "TSsFk+AH2BFuIJA4XTfa+PH1Y22cF7c5PKlep1pd62QCu77uURdga4tFYcxfO87oBueX18En5GBljrEr92CA5Z63Ad6RHhSnqx1KTwuki6w=",
+        "link": "KFU+FLUWxCl6zuRRDmk4gK3KozV6kNBvRkb/FfuuaWvJVKD/FX4gdrybQiUwVMukFeu77+RUks8YAZ/DsPuYqQ==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -377,7 +377,7 @@
     },
     {
         "channelName": "GLOBO SP",
-        "link": "tnTOEBqbg5UY9eA/4ZOtyKNMT3U8gcBWGYyKl/NtR+4EWSOrJ79BAJwoXQxP3NjM",
+        "link": "KFU+FLUWxCl6zuRRDmk4gACynYX32WN1W8fYsFyn5yGxlndXL/lNVFDarGF8LVL8anaPfleWkRvSOIL5khQOGg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -424,7 +424,7 @@
         "pausado": 0
     },    
     {
-        "channelName": "GLOBO GLOBO MG",
+        "channelName": "GLOBO MG",
         "link": "1fsP7hoK2w0JdxZ/IuIFVIVTPMAo/SmKYHjX9fqnlCD//pe35uQvX7Nq6DMixvUuK5IBzycUNewTyDpLF8OaYQ==",
         "ativo": 0,
         "contactpage": "",
@@ -448,8 +448,8 @@
         "pausado": 0
     },
     {
-        "channelName": "RECORD CAMPINAS",
-        "link": "ccktuiCUW/KMYSOoFbxH3vuhpKz99e8GihxRPpx3zSEQAfdLG3pGq5BwLI0uyQzhw+0SOJCYvidPPgDLWJh/Sw==",
+        "channelName": "RECORD MG",
+        "link": "1fsP7hoK2w0JdxZ/IuIFVIVTPMAo/SmKYHjX9fqnlCD//pe35uQvX7Nq6DMixvUuq2X0YuF9Wmr4l65FrsqLUw==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -537,7 +537,15 @@
     },
     {
         "channelName": "SBT RS",
-        "link": "TSsFk+AH2BFuIJA4XTfa+PH1Y22cF7c5PKlep1pd62QCu77uURdga4tFYcxfO87oh8peV20y/mWKUg4Lrd+isrmyc052Z+EYAkFJM9jbfUc=",
+        "link": "LZEFjBMLVwEa2yef2rB4fLIpAHahR/lhDg1Oe88dR29UXMafSzeBqlCPX01ReDMQwLY1i8vkc6mRmI6RnvpAFA==",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "SBT BA",
+        "link": "SbZQLvTq+H8KDNlwhEFKUEkmB6X/xEwnu50wZrIhec5EaPhJZ+EZERktwFBEsqW54rgYVDN/4XkKSnnI64yB026KBJVN/oGBi0V+ubzU2+o=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -641,7 +649,7 @@
     },
     {
         "channelName": "SPORTV HD(Temporario)",
-        "link": "ccktuiCUW/KMYSOoFbxH3nuY5ytlcXdg0RtpmYH9YnzZ3X+EEhuzlaoRLqR662bGtv7oe0vDWZTMbM2BuRXldQ==",
+        "link": "1fsP7hoK2w0JdxZ/IuIFVLHAl1j0RpTW5kiub+SYthTvr4ww1Jnom0D8VDfFuzu9rBQP7bmtd4mLAQC1KMF/eg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -657,7 +665,7 @@
     },
     {
         "channelName": "TNT Novelas",
-        "link": "CTRz45Wz8GjZjTAHRFR04N5UkanSe+Mwh1KteBi0Uds1E2W1ElsCnhFAeSe2JZoehBCHjmCPThUEH2KII+djYg==",
+        "link": "jC0+A4tegzUvrDWWRn6H22PCV/8jWIgbKrqns8FHbt86op6e5hm7mDaguVqb4eAWpEvm/rtM8vbE/NnerA4l0Q==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -713,7 +721,7 @@
     },
     {
         "channelName": "TV BRASIL",
-        "link": "4K+ZHMyZ2DhuFFrJykarjJKZP6kBjm2m4YXsNFZjTWF+5mJseHBbrhDC69u8eJjJ/Lw8aq46tsEaKEKEwILytQ==",
+        "link": "4K+ZHMyZ2DhuFFrJykarjJKZP6kBjm2m4YXsNFZjTWFctD/7eBEMV8BJ3ONl1ffj0nC7mgkBFrLj/X58eMqO4A==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
