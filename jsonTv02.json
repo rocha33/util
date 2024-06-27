@@ -25,7 +25,7 @@
     },
     {
         "channelName": "RECORD HD",
-        "link": "0IouVxmTrK4OdakErnz+gYTjMPWuwP9cqDYRbfe8hZ/yk53B8T6vTzDJvwGSXJmQNhvwxevQQj304flAAXS3ipcxpqVU7lirEOy7wxd8emo=",
+        "link": "YkEcuay/HqWSmwBUw3eydGktDkP+v58e84ETgk7kMXJm5Vzcq87MEw9iIkUirXvR",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -240,9 +240,9 @@
         "pausado": 0
     },
     {
-        "channelName": "CinePIX TV",
-        "link": "e5Gp+eSLeCsIMxWHJ9euXUmoe+B59Cp70x2CaobYp6nTLx9S9aM4kiEVHWReWSJJhTazEpdyE9Ly1LzdAIdDJQBUuYIagaWzxMA+gftOhy8=",
-        "ativo": 0,
+        "channelName": "Cine Brasil",
+        "link": "rSs93ExQ42fM99QnxXA1AZvUKvIX/7+dEXxy/GAsylJeoiRxrH1wdazbjYDUjQa5fIHQmfprdKdlo8BFQTPslCgl4VJuIwuDDEb/FHcY4pE=",
+        "ativo": 1,
         "contactpage": "",
         "categoria": "filmes",
         "pausado": 0
@@ -393,7 +393,7 @@
     },
     {
         "channelName": "GLOBO RIO (Alter)",
-        "link": "1fsP7hoK2w0JdxZ/IuIFVIVTPMAo/SmKYHjX9fqnlCD//pe35uQvX7Nq6DMixvUujg7rUEw7l0cA3tL3luhQ9Q==",
+        "link": "jC0+A4tegzUvrDWWRn6H2z/Tlp2jbhk4kRdidick/XN98HBnrK3U8rzcgPcJ2etCE7uxDDvvYc5lWqbO22C6JQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -408,8 +408,8 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO GOIANIA",
-        "link": "1fsP7hoK2w0JdxZ/IuIFVIVTPMAo/SmKYHjX9fqnlCD//pe35uQvX7Nq6DMixvUuLK1D+nLQJfajn7+C4xJcWw==",
+        "channelName": "GLOBO Anhanguera HD",
+        "link": "uWm/7gtOnVpotKPDp1Ab08ruqTLp6YKPTs1FkRUG+zdHnFRHHChP6/Gb+ByhBC1o",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -424,8 +424,8 @@
         "pausado": 0
     },    
     {
-        "channelName": "GLOBO MG",
-        "link": "1fsP7hoK2w0JdxZ/IuIFVIVTPMAo/SmKYHjX9fqnlCD//pe35uQvX7Nq6DMixvUuK5IBzycUNewTyDpLF8OaYQ==",
+        "channelName": "GLOBO RPC",
+        "link": "zR9cSJisJ2XjPXBe8VbAqNQ2Z7teelY358T/YoW96i8=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -448,8 +448,8 @@
         "pausado": 0
     },
     {
-        "channelName": "RECORD MG",
-        "link": "1fsP7hoK2w0JdxZ/IuIFVIVTPMAo/SmKYHjX9fqnlCD//pe35uQvX7Nq6DMixvUuq2X0YuF9Wmr4l65FrsqLUw==",
+        "channelName": "RECORD EPTV",
+        "link": "jC0+A4tegzUvrDWWRn6H2xZrJDZ/qrcSCrBjvVjhBzGkIFRnCM4/zlG6z/b+IDWmUE08wpOZ45fm3qSUH00RMg==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -616,8 +616,8 @@
         "pausado": 0
     },
     {
-        "channelName": "Cine Tv Hits",
-        "link": "e5Gp+eSLeCsIMxWHJ9euXUmoe+B59Cp70x2CaobYp6nTLx9S9aM4kiEVHWReWSJJX8w7sIBggusJYgzej6w52iJB4E9t1bsG7c4PXWj9O78=",
+        "channelName": "Clássicos do Cinema",
+        "link": "6/TXGFS2JVJghNfkZ5qAiy/sqZ2svyuRNEMo+EBvSvNbTM0FXyxgob5O6RdfCvB0ZWx9grXTg/oN6t57qmDmAw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -649,7 +649,7 @@
     },
     {
         "channelName": "SPORTV HD(Temporario)",
-        "link": "1fsP7hoK2w0JdxZ/IuIFVLHAl1j0RpTW5kiub+SYthTvr4ww1Jnom0D8VDfFuzu9rBQP7bmtd4mLAQC1KMF/eg==",
+        "link": "YGWXby1dHukBnKeaUs+BnC55pcyLGsRviC0NxVR1Le9pwGyJ+fY54GWs8eGEvVm+cB/h6hmoWmqfr0iO0Mu91Q==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -693,14 +693,6 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "pausado": 0
-    },  
-    {
-        "channelName": "Comédia Brasil",
-        "link": "Kw8hbsFS0dmiJ78Ugmfi95BCsn2kF+aK1xSxt3/nwRiX76tc4LlV3A9xEGSuQ4N3xB8Nwf+tlpoOkqdprxx2hwrkJj/JoKposPeU7VlATVsV0q/cpLI5pffq0FhtE1ccjnAWGVISuc4/QBO+1vRqj2WHPIeD62g4ytSa91YsaV8=",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "animacao",
         "pausado": 0
     },
     {
