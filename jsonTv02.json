@@ -16,16 +16,16 @@
         "pausado": 0
     },
     {
-        "channelName": "RECORD RIO SD",
-        "link": "1fsP7hoK2w0JdxZ/IuIFVIVTPMAo/SmKYHjX9fqnlCD//pe35uQvX7Nq6DMixvUuq1TU+rrKky581sU6MLbVbQ==",
+        "channelName": "RECORD RS",
+        "link": "uZARfmRJ8y1lRCEephsgmcjq3nicihAbizUhH83a5YNpqaCIm9wLYRaz6O8W2owW",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
     },
     {
-        "channelName": "RECORD HD",
-        "link": "YkEcuay/HqWSmwBUw3eydGktDkP+v58e84ETgk7kMXJm5Vzcq87MEw9iIkUirXvR",
+        "channelName": "RECORD SP",
+        "link": "8oW6UgwBaQQI5nmbMxt0HBJ2NkvMRdQdg1VyvJ8ilXDBHtHrfZEzTbquHy6R/vP/P43uiqA164lGINsDhS1me3kmpcuIXGesSiWz0vYLrk8=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -376,8 +376,8 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO BRASILIA SD",
-        "link": "1fsP7hoK2w0JdxZ/IuIFVIVTPMAo/SmKYHjX9fqnlCD//pe35uQvX7Nq6DMixvUuoXejRM3yZRVy97iWBABiaQ==",
+        "channelName": "GLOBO PA",
+        "link": "MTzmw1NvJQP9dpweChmrbPmPB44eORrRfQX+uOXHj4BPqGA2fj9DKlKzlUt0mZwYh5jVMweacU5kBq3ZLXVt2A==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -409,7 +409,7 @@
     },
     {
         "channelName": "GLOBO RIO",
-        "link": "uZARfmRJ8y1lRCEephsgmbI99iZxWEqsklNJtWdr/zagy4+ilWqZLUW6DBxtNHtT",
+        "link": "uxjGjEfHSiFeo82xwcwIuHmNd2zGY6CHonfOkswabNANKKBrP1UmOpO5lBQw7LEOljRblTRlE78bxD2Lv8/Gzg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -425,7 +425,7 @@
     },
     {
         "channelName": "GLOBO RIO HD",
-        "link": "jC0+A4tegzUvrDWWRn6H2z/Tlp2jbhk4kRdidick/XN98HBnrK3U8rzcgPcJ2etCE7uxDDvvYc5lWqbO22C6JQ==",
+        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SBnZKiTkuE/CNmY7h+NIVvM=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -440,16 +440,16 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO NORDESTE SD",
-        "link": "1fsP7hoK2w0JdxZ/IuIFVIVTPMAo/SmKYHjX9fqnlCD//pe35uQvX7Nq6DMixvUue5Jn/Uaax+Rd3UDVxFAV2A==",
+        "channelName": "GLOBO TV Santos",
+        "link": "zR9cSJisJ2XjPXBe8VbAqC4mbEIJm1flewZC6AfrB7Y=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
     },
     {
-        "channelName": "GLOBO MS",
-        "link": "X5NBfPF0xyxXtGQ613U6/i070n16kqOmR4aRC/UiSjzykWA/yfGGLtBv/EZ4vgx5w4ovGqWvxcFvF8SA9H4eGL7X3e8o+BleNQmTDIDznI5YyqXAHCUsycN2lryGPROMGQaYmlDJHVYohzUwV9khpsrxoulMHmkJT+mTp9rhSOY=",
+        "channelName": "GLOBO RPC TV Maringa HD",
+        "link": "OcAekgAlwyYYau2UB0mLJKwxf4lBGDJwJ9GJ42Dc1qHAHXtcbvmwpvLgLUqiFXicaJ3tN850EyLqu2CSq2cIdlzuOZAN28RqV1rbgn212EI=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -641,7 +641,7 @@
     },
     {
         "channelName": "SPORTV (Temporario)",
-        "link": "jC0+A4tegzUvrDWWRn6H29d77X0StYRwPy9CaMZuS+cFlOJ323tSJ0eokOx0eddKDdCz42uxkiXU8CTNIuRZtA==",
+        "link": "uxjGjEfHSiFeo82xwcwIuGXVy5s2Mm7I79GDRzsUEI8mkWDTGnXMOtlG5kvlfC94woH+QnOTmK0e+IGcSC9QZg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -657,7 +657,7 @@
     },
     {
         "channelName": "SPORTV HD(Temporario)",
-        "link": "YGWXby1dHukBnKeaUs+BnC55pcyLGsRviC0NxVR1Le9pwGyJ+fY54GWs8eGEvVm+cB/h6hmoWmqfr0iO0Mu91Q==",
+        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SBIJvK0Mu2M1Dd1Y3E+WZWI=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -673,7 +673,7 @@
     },
     {
         "channelName": "TNT Novelas",
-        "link": "jC0+A4tegzUvrDWWRn6H22PCV/8jWIgbKrqns8FHbt86op6e5hm7mDaguVqb4eAWpEvm/rtM8vbE/NnerA4l0Q==",
+        "link": "KFU+FLUWxCl6zuRRDmk4gJeZFb6rxzC8L+o5nVrXbVlyrw3fT26EsJ/UNpi08pOvd0zXk0K+6oYYOB4Iy9292NWu7zijPoqdjLvCx69jKYg=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -713,7 +713,7 @@
     },
     {
         "channelName": "VIVA HD",
-        "link": "YGWXby1dHukBnKeaUs+BnDvzarRueYjbf1upvg0VVEPQAE+1FgrNJak/OkmD07R3",
+        "link": "uxjGjEfHSiFeo82xwcwIuEfDPs3nj6CF6FHVCjKmZIJQRb7NljrTsDHmk1ejUoKZKMhtTVaAgrOIe+beuJSNmg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
