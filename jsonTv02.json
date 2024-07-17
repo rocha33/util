@@ -48,6 +48,14 @@
         "pausado": 0
     },
     {
+        "channelName": "RECORD MG",
+        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SKEN1rS7WuG7Ld4T5ez+lZ0=",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
         "channelName": "Global TV",
         "link": "gq9eyqDAP1s3nVth14QaTaOsQk43bhdtLvRHNopEc253DTjCKa07sSn59Mqpbe6WgpmHXgDrhDk3fJ2PAiRkaw==",
         "ativo": 1,
@@ -169,7 +177,7 @@
     },
     {
         "channelName": "RECORD NEWS SD (Pluto Tv)",
-        "link": "eoJiP5+uCpq/fpdV7QBxgM+Esmj7JRC9t9azRs/QArGvZeP0CUHuiwoH/csSBrjrNUyxhzv9bEhv/ZIEtDJAMw==",
+        "link": "T1EebmSWq3ZDlLFMxB3MB9iF6pIvDyKBb8BgCMehOEUIzKZH541qI+SfSzXL3AWK9xzPbv0sK7jq/1FQTuFxvL1AiIatudm61wA49wIbB9QCs+VCTGeD6sOoQZnxgh58wn6wytP7sNkmwZBJ21W6I8PfjLHoSySriMEIbhMZkzpoUpRKSJbNjiezsvSI2cyL9W9OUH6eLecQQUWRaEhC1MpIkPXeTPQsPdoWEoRVVHwrLFLk6IYvNvwM2w8jHjHuQu77ykjXsBsUQh+PWykEkJSa8cQUFI9pYs5UHr89XIOvb3M4hM7IJfnuneN+3hXF1GWptTli7XXL2uy+UwODQOmmg8qZa53EWiHkfbzNZ+NpSQTLaFFZdb3a2PM4UDUx0PhfR6Zpa1RKqR9ACb/003VEm810JG3CmY+93KLRgsFTn5yowMN5yVgYpcvhIuEr5phWzIqULCZBJt2voW/5xR2+JjcNsYv7z9Q+81bQ8gu+5aeNL0C5JBxIDan5oUbL69IwdlVHep0YI4KQnjr3O9jI6EnMuMq7LjFdiuCyctmfvwmARrYfF2Vq+ugXb9xkm4K6JbCUqSxbxXqyOFLUtkDhhDo6BGg3ptbh/af8o1Pdy+vEdaO4FlPXkleTIGjMfXGs9/9teeDvAz1Akx2S4sd560nsA6e08EflmWvBdoSCTL9QPtCa329roijljb0zxuAe4LuHbvSvQp6GaU9WXMpAjEV98nRTExB7guqC9n9A6+qQgX5wIIASB3CXtwOrUkUQOtq89183Oya+KC4bWE6ScRK16Rn8ofbK+UKyc0Gl62i/jYE7Ogu42BI2eVzQ7Rc445f5rn6ttYfacib85yOQ+Jp/wenCk2HQkNER1c3O0aEvD8z2YzID2le1WdJtvCfD7p+8IwV+G5mI1UFb+9mpimdxNLjKmBuHTtl9qH1LoDM78G3oJ7oNAj4H73KSC8LQpGNa6muRJJpp6fz6yheoS+E7UN0IZM/lkTS0MqrOIRiPFq/Qcfv6PZksF/FaEDjt2jS3IEXCm5M4Gpj446Zc1PltaKPX+dIy3dd5kGROXKwpk2S3XX1ATqc9Oz/LuOuC37vGkfp4jiaGPWjJIX62uHgCI0x1coLkCHgF52Z2WdLgK0GewHXSqoV8sRQf",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -416,8 +424,8 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO Anhanguera HD",
-        "link": "uWm/7gtOnVpotKPDp1Ab08ruqTLp6YKPTs1FkRUG+zdHnFRHHChP6/Gb+ByhBC1o",
+        "channelName": "GLOBO MG SD",
+        "link": "uxjGjEfHSiFeo82xwcwIuFkrBjIQ8lzkYBs2Xym87RPpdVty78S8r2qzMmNgiJ4Oc6VWK3KJpcZDSu8VrD25uw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -456,8 +464,8 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO EPTV",
-        "link": "jC0+A4tegzUvrDWWRn6H2xZrJDZ/qrcSCrBjvVjhBzGkIFRnCM4/zlG6z/b+IDWmUE08wpOZ45fm3qSUH00RMg==",
+        "channelName": "GLOBO MG",
+        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SNjXyfiqTajCQgZ/l5cLHCE=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -778,6 +786,14 @@
     {
         "channelName": "Canal da Praça (Temp)",
         "link": "rTxy4XbT8OZoboelEXalTIdgK7mvN+Y0Pr8pvR6JkH3Uqs54V86YmD3SxWKUUWVN0OPRVmnmqeJkf8+uGW+KvuelCQJoiFA5zFVDcq2YlqU7xqz6F6LViIi9b3nDmswd1BLHFGUbH2EiQfkFaY0zDe85NOPLtGQXi2BLlCPQCMAC5qK9zVJUhnHd94VlEzNLx4uQOzT7TprcJxdy21kwvw==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "animacao",
+        "pausado": 0
+    },
+    {
+        "channelName": "GNT (temp)",
+        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SD8h38dmXJUJMuveGYmIdf0=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
