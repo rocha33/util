@@ -9,7 +9,7 @@
     },
     {
         "channelName": "RECORD RIO",
-        "link": "VT2Dp1Oerd9OmGN76GgggHUFPQVp0fxNeenOR+zN0y1781QFZG89Pu5fzHwpK4NliNWRbNMDXNMyFMBNM8dL3g==",
+        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SJvdNtrvR1hbvhCCY0Vx9A4=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -337,7 +337,7 @@
     },
     {
         "channelName": "FIFA PLUS",
-        "link": "yGOXUQ/C+8A4APxciKiaXGKWriBfDNMIL2mSAR0XJc5hWmNHpbmeu71DZGe45K8zyEdI6nOos1q2B/6eBJ5BBlogSaBN4jyP0vtKjYx5z/uCUTVjgwbCzeOj0v1tG4A/JGjQqo8lJBG6O8mRaf6TTKX8yNvG1s3l/Ghn8jA6z/0=",
+        "link": "z0bhL0H8NtH8zphjb3I081A8YuhBbLL8U0TDC5JtlydrRnxD7MtCP8Yyq04nQF4/6Ui1KrakgizpyWMRtRQUSENEDjcmIoUHVClo9mLVhLdwx1xfHxPQfiZn8IkIbRCXKCslOUejSDlqtoxK2ePzWK0PednPOyJqvrUl/dVvYZu75N7d5wBHe6Qvui45SbDe4k2jnAfJjDJFJN1QJU+lXpo3u8aKakuHJddfH4uS+b+1SpY1g/uZ4jUCwdKo2lydbeU2XYPiPXQUxfhJhjjlTeyNT7jUEXb1Z16UQCnA8USFn6sWDGZ/mOCrBFXiHdHERlIuFiJrU8KrVaGZIN9Y9s7CxbdF5QOPnXqrAFiALmR/+7Y1AU2akGCqvT/g43rPcqb7mZrjTIzpbwur/2xKmI7nLTbVfGKX8cQq80DUf7E=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -400,8 +400,8 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO RIO (Alter)",
-        "link": "jC0+A4tegzUvrDWWRn6H2z/Tlp2jbhk4kRdidick/XN98HBnrK3U8rzcgPcJ2etCE7uxDDvvYc5lWqbO22C6JQ==",
+        "channelName": "GLOBO TV MIRANTE",
+        "link": "zR9cSJisJ2XjPXBe8VbAqMcc5NV6XGIMPsT+USgPTJ5WhklQD/qDhQakhkFBt5rT",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -440,8 +440,8 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO TV Santos",
-        "link": "zR9cSJisJ2XjPXBe8VbAqC4mbEIJm1flewZC6AfrB7Y=",
+        "channelName": "GLOBO BA",
+        "link": "VEanj6UFBvupQrnI0REHD3IpyA/tvfcoNybe6ocayPHKh9Yl470NiGTvEjsYEgOz",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -574,15 +574,7 @@
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
-    },
-    {
-        "channelName": "BAND RN",
-        "link": "YtSPqViXtO/UtPi/xgPvD+yoTwvIyc6MZ1doEh38wJ8RcLbE277QSfDmXlgkcCpIlm0MvbrJ9xW1uQw5TZ6CMw==",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "pausado": 0
-    },
+    },    
     {
         "channelName": "BAND SP",
         "link": "Bii1KC/OYCEMcIN5OV40tfiDSYPAUq3kRPIw0Kg0dBNcOcJnFqYykfS6T9hduKi6",
@@ -592,8 +584,8 @@
         "pausado": 0
     },
     {
-        "channelName": "BAND RJ",
-        "link": "LZEFjBMLVwEa2yef2rB4fLIpAHahR/lhDg1Oe88dR2/xBi6EssfIHJxhLIGRNlxLTxyXESrPAB/hUPclaC2RVQ==",
+        "channelName": "BAND BA",
+        "link": "u6b0FuGT5nJbEVvE/zH3Ujr14pEWuHGdpNbHQ4X4PFAJKR9XsgW5FoxQDMTl2LCPFD2Htof6jHaRhUEvSS5JMA==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -662,15 +654,7 @@
         "contactpage": "",
         "categoria": "esportes",
         "pausado": 0
-    },
-    {
-        "channelName": "DAZN Mulheres Football",
-        "link": "6N98pR5ZQoq3/scId0l1G0izwRfgi2eVcGZMBboo+y+oaHNeUHWOfOQwekb/Igd/rBoVe7yT54JSmmqTh2PzY9c3yxj+JoO4JznXwDvQ9Gs=",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "esportes",
-        "pausado": 0
-    },
+    },   
     {
         "channelName": "TNT Novelas",
         "link": "KFU+FLUWxCl6zuRRDmk4gJeZFb6rxzC8L+o5nVrXbVlyrw3fT26EsJ/UNpi08pOvd0zXk0K+6oYYOB4Iy9292NWu7zijPoqdjLvCx69jKYg=",
@@ -786,6 +770,14 @@
     {
         "channelName": "GNT (temp)",
         "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SIHItIj+qq3sdk3KMtqofRo=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    }    ,
+    {
+        "channelName": "GNT SD (temp)",
+        "link": "Jvauh8xCdLE8IYFjabtJ6BIuQFtOAVmC169zGmJFw8yghamB+8PwE4J3HCVSPop8mxHpo//MP/oDSaUefMEuGg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
