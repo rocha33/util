@@ -200,7 +200,7 @@
         "pausado": 0
     },
     {
-        "channelName": "BAND Nordeste",
+        "channelName": "BAND Nordeste", 
         "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SNIqozOt7rAbfbXHRvxo/C8=",
         "ativo": 1,
         "contactpage": "",
@@ -448,8 +448,8 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO RPC TV Maringa HD",
-        "link": "OcAekgAlwyYYau2UB0mLJKwxf4lBGDJwJ9GJ42Dc1qHAHXtcbvmwpvLgLUqiFXicaJ3tN850EyLqu2CSq2cIdlzuOZAN28RqV1rbgn212EI=",
+        "channelName": "GLOBO RPC TV Foz do Iguaçu",
+        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SCz1bMV1e/FzYwRPqt8pYp0=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -630,15 +630,7 @@
         "contactpage": "",
         "categoria": "esportes",
         "pausado": 0
-    },
-    {
-        "channelName": "SPORTV SD (Temporario)",
-        "link": "0IouVxmTrK4OdakErnz+gYTjMPWuwP9cqDYRbfe8hZ8nZTgbdkrHR6Cg7geYDf+OzMSi3pjQ1rezmWrumqFZtEjPLR8+KnJlA77A6hAp+b0=",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "esportes",
-        "pausado": 0
-    },
+    },   
     {
         "channelName": "SPORTV HD(Temporario)",
         "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SBIJvK0Mu2M1Dd1Y3E+WZWI=",
@@ -681,7 +673,7 @@
     },
     {
         "channelName": "VIVA",
-        "link": "0IouVxmTrK4OdakErnz+gYTjMPWuwP9cqDYRbfe8hZ8nZTgbdkrHR6Cg7geYDf+OzMSi3pjQ1rezmWrumqFZtDA9Jx6aUWmirXurCow1CB4=",
+        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SD8h38dmXJUJMuveGYmIdf0=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -713,7 +705,15 @@
     },
     {
         "channelName": "History (temporário)",
-        "link": "0IouVxmTrK4OdakErnz+gYTjMPWuwP9cqDYRbfe8hZ/yk53B8T6vTzDJvwGSXJmQNhvwxevQQj304flAAXS3iqKAKOKlzQZofZsrJ1y6rsM=",
+        "link": "eXrcuj0NDMyduFITWBlWdU0JMXIx0jSMKOqR0Bk1p8ASz/j8zvF6KTqpPdVsf3tWjpMM15x39I7O79Mmc2RJww==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "History 2 (temporário)",
+        "link": "eXrcuj0NDMyduFITWBlWdU0JMXIx0jSMKOqR0Bk1p8ChQAIPROd6BQTdTtNgr9lsQi2+SPpSKPfk6GDSrhUVzw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -721,7 +721,7 @@
     },
     {
         "channelName": "MTV",
-        "link": "0IouVxmTrK4OdakErnz+gYTjMPWuwP9cqDYRbfe8hZ/yk53B8T6vTzDJvwGSXJmQNhvwxevQQj304flAAXS3iqxkMsYyl1ZazlahUM4ubag=",
+        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SMaFniBbc4kW53KLWkAQlzc=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
