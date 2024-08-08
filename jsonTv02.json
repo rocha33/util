@@ -25,7 +25,7 @@
     },
     {
         "channelName": "RECORD SP",
-        "link": "8oW6UgwBaQQI5nmbMxt0HBJ2NkvMRdQdg1VyvJ8ilXDBHtHrfZEzTbquHy6R/vP/P43uiqA164lGINsDhS1me3kmpcuIXGesSiWz0vYLrk8=",
+        "link": "eXrcuj0NDMyduFITWBlWdbtQyPGCzH1ORLtgcm64qB2Wp2qAUxBMNUnSr2ScbTgMpenuz7BjGZyLRYpzrTcUCOH50GWVPdnuWpP94iP2alk=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -104,8 +104,8 @@
         "pausado": 0
     },
     {
-        "channelName": "SBT RJ",
-        "link": "0IouVxmTrK4OdakErnz+gYTjMPWuwP9cqDYRbfe8hZ/yk53B8T6vTzDJvwGSXJmQNhvwxevQQj304flAAXS3iraiIo/8RIA3TmRu6clAo+k=",
+        "channelName": "SBT Guaruja",
+        "link": "8ff8uJZMSnZJ4GUsNl3aDdcOSw9IP7JnBfvYXR2Z6jQltZA46ZQtalZWzb0b1aSbNQrDSB6d/TR6zu6fGmfr1JnkASW+fWhUva0rhuY7/pM=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -185,7 +185,7 @@
     },   
     {
         "channelName": "BAND CAMPINAS",
-        "link": "0IouVxmTrK4OdakErnz+gYTjMPWuwP9cqDYRbfe8hZ8nZTgbdkrHR6Cg7geYDf+OzMSi3pjQ1rezmWrumqFZtOh7lIJ4e88FIf4x3La3PWQ=",
+        "link": "eXrcuj0NDMyduFITWBlWdZCf6jaLleFpG8JSy4m1Eo8NRBL1CxW+iXZXuM2fBNciA0/nCF1LyU5kkBfFYItgHQ==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -376,8 +376,8 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO PA",
-        "link": "MTzmw1NvJQP9dpweChmrbPmPB44eORrRfQX+uOXHj4BPqGA2fj9DKlKzlUt0mZwYh5jVMweacU5kBq3ZLXVt2A==",
+        "channelName": "GLOBO Manaus HD",
+        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SKGFVRtOMIbIAquv2Ktuz74=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -409,7 +409,7 @@
     },
     {
         "channelName": "GLOBO RIO",
-        "link": "uxjGjEfHSiFeo82xwcwIuHmNd2zGY6CHonfOkswabNANKKBrP1UmOpO5lBQw7LEOljRblTRlE78bxD2Lv8/Gzg==",
+        "link": "/Odll/hCxEAto29fcgffFDUuu976/dS/jHlFSH1KNf5xf0bPABUnm/ku0JW9pdJoRb5QYdmDS0L/H0POWz1AJA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -494,15 +494,7 @@
         "contactpage": "",
         "categoria": "esportes",
         "pausado": 0
-    },
-    {
-        "channelName": "SBT SP",
-        "link": "ok2NDXtLWruTU6w7/EmcF6gtJtYpjSRvta0imA+FTEJ2BV9v+ZTqjBktlaBUcGNo84zXIuzv/dfOZpKo665K+hQPuzkNgLvenwaiRJSBdZogUz0e+ecQLKjQsdIJjnwi",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "pausado": 0
-    },
+    },   
     {
         "channelName": "TV Evangelizar",
         "link": "Jvauh8xCdLE8IYFjabtJ6BIuQFtOAVmC169zGmJFw8zPthiMTIp46ceRC9D905r7PbC/zO/9g/5VF2lvzc+y6w==",
@@ -537,15 +529,7 @@
     },
     {
         "channelName": "SBT (alter)",
-        "link": "ok2NDXtLWruTU6w7/EmcF6gtJtYpjSRvta0imA+FTEJ2BV9v+ZTqjBktlaBUcGNo84zXIuzv/dfOZpKo665K+hQPuzkNgLvenwaiRJSBdZopcIZ5/jF6Ai1lbcjMGcsk",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "pausado": 0
-    },
-    {
-        "channelName": "SBT RS",
-        "link": "LZEFjBMLVwEa2yef2rB4fLIpAHahR/lhDg1Oe88dR29UXMafSzeBqlCPX01ReDMQwLY1i8vkc6mRmI6RnvpAFA==",
+        "link": "KFU+FLUWxCl6zuRRDmk4gACynYX32WN1W8fYsFyn5yGxlndXL/lNVFDarGF8LVL8anaPfleWkRvSOIL5khQOGg==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
