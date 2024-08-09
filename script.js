@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     document.getElementById('playButton').addEventListener('click', function() {
         var video = document.getElementById('videoPlayer');
-        if (Hls.isSupported()) {
+        if (window.Hls && Hls.isSupported()) {
             var hls = new Hls();
             hls.loadSource('https://cdn-4.nxplay.com.br/HISTORY_TK/index.m3u8');
             hls.attachMedia(video);
@@ -22,6 +22,8 @@ document.addEventListener('DOMContentLoaded', function() {
             video.addEventListener('canplay', function() {
                 video.play();
             });
+        } else {
+            console.error('HLS não é suportado neste navegador.');
         }
     });
 
