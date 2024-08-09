@@ -32,8 +32,11 @@ document.addEventListener('DOMContentLoaded', function() {
             const context = cast.framework.CastContext.getInstance();
             const state = context.getCastState();
 
+            console.log('Estado do Cast:', state);
+
             if (state === cast.framework.CastState.NOT_CONNECTED) {
                 context.requestSession().then(() => {
+                    console.log('Sessão de cast iniciada');
                     castMedia();
                 }).catch((error) => {
                     console.error('Erro ao iniciar a sessão de cast: ', error);
@@ -54,6 +57,8 @@ document.addEventListener('DOMContentLoaded', function() {
             const player = new cast.framework.RemotePlayer();
             const controller = new cast.framework.RemotePlayerController(player);
             const videoElement = document.getElementById('videoPlayer');
+
+            console.log('URL do vídeo:', videoElement.currentSrc);
 
             if (videoElement.currentSrc) {
                 const mediaInfo = new chrome.cast.media.MediaInfo(videoElement.currentSrc, 'application/x-mpegURL');
@@ -78,6 +83,7 @@ function initializeCastApi() {
             receiverApplicationId: chrome.cast.media.DEFAULT_MEDIA_RECEIVER_APP_ID,
             autoJoinPolicy: chrome.cast.AutoJoinPolicy.ORIGIN_SCOPED
         });
+        console.log('Google Cast API inicializada.');
     } else {
         console.error('Google Cast API não está disponível.');
     }
