@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    text-align: center;
+}
+
+#videoPlayer {
+    margin-bottom: 20px;
+}
+
+#playButton, #castButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4285F4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+#playButton:hover, #castButton:hover {
+    background-color: #357AE8;
+}
