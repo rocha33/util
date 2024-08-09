@@ -1,10 +1,12 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Verifica se a API do Google Cast está carregada
-    if (window.cast && cast.framework && cast.framework.CastContext) {
-        initializeCastApi();
-    } else {
-        console.error('Google Cast API não está disponível.');
-    }
+    // Inicializa a API do Google Cast quando estiver pronta
+    window['__onGCastApiAvailable'] = function(isAvailable) {
+        if (isAvailable) {
+            initializeCastApi();
+        } else {
+            console.error('Google Cast API não está disponível.');
+        }
+    };
 
     document.getElementById('playButton').addEventListener('click', function() {
         var video = document.getElementById('videoPlayer');
