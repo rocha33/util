@@ -35,13 +35,17 @@ document.addEventListener('DOMContentLoaded', function() {
                 const controller = new cast.framework.RemotePlayerController(player);
 
                 const videoElement = document.getElementById('videoPlayer');
-                const mediaInfo = new chrome.cast.media.MediaInfo(videoElement.currentSrc, 'application/x-mpegURL');
-                const request = new chrome.cast.media.LoadRequest(mediaInfo);
+                if (context.getCurrentSession() && videoElement) {
+                    const mediaInfo = new chrome.cast.media.MediaInfo(videoElement.currentSrc, 'application/x-mpegURL');
+                    const request = new chrome.cast.media.LoadRequest(mediaInfo);
 
-                context.getCurrentSession().loadMedia(request).then(
-                    function() { console.log('Transmissão iniciada'); },
-                    function(errorCode) { console.log('Erro ao iniciar a transmissão: ' + errorCode); }
-                );
+                    context.getCurrentSession().loadMedia(request).then(
+                        function() { console.log('Transmissão iniciada'); },
+                        function(errorCode) { console.log('Erro ao iniciar a transmissão: ' + errorCode); }
+                    );
+                } else {
+                    console.error('Sessão ou elemento de vídeo não disponível.');
+                }
             }
         } else {
             console.error('Google Cast API não está disponível.');
