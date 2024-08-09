@@ -33,28 +33,43 @@ document.addEventListener('DOMContentLoaded', function() {
             const state = context.getCastState();
 
             if (state === cast.framework.CastState.NOT_CONNECTED) {
-                context.requestSession();
+                context.requestSession().then(() => {
+                    castMedia();
+                }).catch((error) => {
+                    console.error('Erro ao iniciar a sessão de cast: ', error);
+                });
             } else {
-                const player = new cast.framework.RemotePlayer();
-                const controller = new cast.framework.RemotePlayerController(player);
-
-                const videoElement = document.getElementById('videoPlayer');
-                if (context.getCurrentSession() && videoElement) {
-                    const mediaInfo = new chrome.cast.media.MediaInfo(videoElement.currentSrc, 'application/x-mpegURL');
-                    const request = new chrome.cast.media.LoadRequest(mediaInfo);
-
-                    context.getCurrentSession().loadMedia(request).then(
-                        function() { console.log('Transmissão iniciada'); },
-                        function(errorCode) { console.log('Erro ao iniciar a transmissão: ' + errorCode); }
-                    );
-                } else {
-                    console.error('Sessão ou elemento de vídeo não disponível.');
-                }
+                castMedia();
             }
         } else {
             console.error('Google Cast API não está disponível.');
         }
     });
+
+    function castMedia() {
+        const context = cast.framework.CastContext.getInstance();
+        const session = context.getCurrentSession();
+
+        if (session) {
+            const player = new cast.framework.RemotePlayer();
+            const controller = new cast.framework.RemotePlayerController(player);
+            const videoElement = document.getElementById('videoPlayer');
+
+            if (videoElement.currentSrc) {
+                const mediaInfo = new chrome.cast.media.MediaInfo(videoElement.currentSrc, 'application/x-mpegURL');
+                const request = new chrome.cast.media.LoadRequest(mediaInfo);
+
+                session.loadMedia(request).then(
+                    function() { console.log('Transmissão iniciada'); },
+                    function(errorCode) { console.log('Erro ao iniciar a transmissão: ' + errorCode); }
+                );
+            } else {
+                console.error('Nenhuma mídia carregada no elemento de vídeo.');
+            }
+        } else {
+            console.error('Nenhuma sessão de cast ativa.');
+        }
+    }
 });
 
 function initializeCastApi() {
