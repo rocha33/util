@@ -209,7 +209,7 @@
     },
     {
         "channelName": "CANÇÃO NOVA",
-        "link": "KFU+FLUWxCl6zuRRDmk4gK3KozV6kNBvRkb/FfuuaWv/yS1vSc+gJFV60Rc7DM18zL+mrOMHeDX60KgkrqWG31uo/GPwknOoG9dH2jFhj50=",
+        "link": "eXrcuj0NDMyduFITWBlWdeEXcQXGj5ouBtAD8w9rWJ2a1tgl/1CaKCFEpR1k3mZUK1kx9+WRB2d8AKFkuZ861DkIAtTZseNJskeWZU5a2Ks=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -217,7 +217,7 @@
     },
     {
         "channelName": "CANÇÃO NOVA SD",
-        "link": "KFU+FLUWxCl6zuRRDmk4gK3KozV6kNBvRkb/FfuuaWvJVKD/FX4gdrybQiUwVMukFeu77+RUks8YAZ/DsPuYqQ==",
+        "link": "TSsFk+AH2BFuIJA4XTfa+PH1Y22cF7c5PKlep1pd62QCu77uURdga4tFYcxfO87oBueX18En5GBljrEr92CA5Z63Ad6RHhSnqx1KTwuki6w=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -273,7 +273,7 @@
     },
     {
         "channelName": "BAND SPORTS",
-        "link": "px+sXxuewb15YuXfE7BMWRBMBpehmd9Nz2UixyJLy4zP595uh5cNKY4KroqCFvS+WDDLuTtMKbBu+kP1TSSA7tP7bDV78PeKd91YiVpEuSU=",
+        "link": "eXrcuj0NDMyduFITWBlWdZCf6jaLleFpG8JSy4m1Eo85r8V2rc9GBuGqErK4HCxJlxz/hXsfhuOuRz+uas2iow==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -281,7 +281,7 @@
     },
     {
         "channelName": "BAND SPORTS SD",
-        "link": "px+sXxuewb15YuXfE7BMWRBMBpehmd9Nz2UixyJLy4zP595uh5cNKY4KroqCFvS+WDDLuTtMKbBu+kP1TSSA7tP7bDV78PeKd91YiVpEuSU=",
+        "link": "0BSiIqJtSzRSYztx+mLvqWTYzR5MqbiKPnSXlkVxPCZLi380UjzH5cp+Y0qfHWPBzJ9tY2vTY0gCQqg+D/CZ0A==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -393,7 +393,7 @@
     },
     {
         "channelName": "GLOBO SP SD",
-        "link": "KFU+FLUWxCl6zuRRDmk4gACynYX32WN1W8fYsFyn5yFHp2Ezah/WdCQOHqWwzHRQ86GExyJ+N/ElJTez/YNL8w==",
+        "link": "uxjGjEfHSiFeo82xwcwIuBg1/chO7i51XPm5Zgn9unlt32uY9ODLJZh1ASxGQT67h5i4GcBdt8N5/p5vtfX/IA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -416,21 +416,13 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO MG SD",
+        "channelName": "GLOBO MG",
         "link": "uxjGjEfHSiFeo82xwcwIuFkrBjIQ8lzkYBs2Xym87RPpdVty78S8r2qzMmNgiJ4Oc6VWK3KJpcZDSu8VrD25uw==",
-        "ativo": 0,
+        "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
-    },
-    {
-        "channelName": "GLOBO RIO HD",
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SBnZKiTkuE/CNmY7h+NIVvM=",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "outros",
-        "pausado": 0
-    },    
+    },   
     {
         "channelName": "GLOBO RPC",
         "link": "zR9cSJisJ2XjPXBe8VbAqNQ2Z7teelY358T/YoW96i8=",
@@ -441,31 +433,24 @@
     },
     {
         "channelName": "GLOBO BA",
-        "link": "VEanj6UFBvupQrnI0REHD3IpyA/tvfcoNybe6ocayPHKh9Yl470NiGTvEjsYEgOz",
+        "link": "/Odll/hCxEAto29fcgffFDUuu976/dS/jHlFSH1KNf7J30hBRfjjZJn/F5/fVxWtNZw5mKi1PisMFxf+eRE5ZQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
     },
     {
-        "channelName": "GLOBO RPC TV Foz do Iguaçu",
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SCz1bMV1e/FzYwRPqt8pYp0=",
+        "channelName": "GLOBO RPC TV Maringa",
+        "link": "OcAekgAlwyYYau2UB0mLJKwxf4lBGDJwJ9GJ42Dc1qHAHXtcbvmwpvLgLUqiFXicaJ3tN850EyLqu2CSq2cIdlzuOZAN28RqV1rbgn212EI=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
     },
-    {
-        "channelName": "GLOBO MG",
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SNjXyfiqTajCQgZ/l5cLHCE=",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "pausado": 0
-    },
+    
     {
         "channelName": "GLOBO NEWS",
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SI7h7CPg4hFpnYqpfD8YhKI=",
+        "link": "uxjGjEfHSiFeo82xwcwIuGewnOwbasyOwtZmByLQUDHAYwrdDFy75O5OfdidpMupVgYiF5w/oCVqIbMM8TQ2Jg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -617,7 +602,7 @@
     },   
     {
         "channelName": "SPORTV HD(Temporario)",
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SIucEY8aWHWZiTO/1gJUcGM=",
+        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SBIJvK0Mu2M1Dd1Y3E+WZWI=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -705,7 +690,7 @@
     },
     {
         "channelName": "MTV",
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SMaFniBbc4kW53KLWkAQlzc=",
+        "link": "xeLWz+CmdW4moHTcY0NfOjP7LFmMnzkJMgGQEOfSf7y+6XCo/hoP6vjoK8KIFgNoNZKzcscoQFVP5QdsGmsM+u46mAK4UBwPf473smZOwbj6vNwhZTYL/Q08fGMfkvCw2g5vjOhLqP6T5yzSLcOtVtDHzmrlY5qskL512OiJHRh/sdmPFxb1kQl8tEiQBH2Gjy/Y1HeLZRE1wYxGl2/ToKoA868vPzb+PrzlYFxI8KU05ygwCA6ob3v9r9qpGCEN5vxA09iNansH2Gg+7aeICisDHKDE3TQ90LRyG/nMvZzF7QGerPEorFMD/8q/1O0a+J1NFY6eMlADStp3w4/+WLx91PZopgYunlzjuTCDXB6pNSCdIeiF19sH23bZ9c/pL8pnmUb+mWekTOBZPZMT4Wp67QycienKw9RHFbOizl19+hjSDv/xEXW8qqI0B1C07NQFhI9fO1xbncfhYkInEdkHo/vRbZXN4eeijifMfDIeUc8OgCzhCAZTZPMvihV03ErrjHEyd3Auap7pdKyu/ei9ugpQuduWdCIrCNR6q5mzq3HGwukAKNXE6iAaiN5k6CQPxRce6BYS3lmSt9YzDKzo1yNME1qh2HqRAWYp0KdO7kdDgxuOovDFonn7HdKC2dpIUgp1mhYZramMRkur7/E5Iz0gt4EvUXV4ZNDPj1ABnvQnIXV1AKwAfjuTM1uJo6aoZJhO79dhj9bYPGuoNm6LixeqmJlCNmuacygcbn+xULVHVNqvjx6hRMvzLd27vcMWlGn//HSDoqnZIX6OTK5dSk7Vgv990tx4+otvkr9DwbnoSPMocKtFBh7/fRnE",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -773,6 +758,14 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
+        "pausado": 0
+    },
+    {
+        "channelName": "ANX (temp)",
+        "link": "eXrcuj0NDMyduFITWBlWdZefv8pMQwRScC5yQzEp+oAvib+oE4S3zVRQ3GJJxgXIpzThbFmvAgR8eioRysV9Uw==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
         "pausado": 0
     }
 ]
