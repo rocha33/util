@@ -6,15 +6,7 @@
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
-    },
-    {
-        "channelName": "RECORD RIO",
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SJvdNtrvR1hbvhCCY0Vx9A4=",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "pausado": 0
-    },
+    },   
     {
         "channelName": "RECORD RS",
         "link": "uZARfmRJ8y1lRCEephsgmcjq3nicihAbizUhH83a5YNpqaCIm9wLYRaz6O8W2owW",
@@ -46,15 +38,7 @@
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
-    },
-    {
-        "channelName": "RECORD MG",
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SKEN1rS7WuG7Ld4T5ez+lZ0=",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "pausado": 0
-    },
+    },    
     {
         "channelName": "Global TV",
         "link": "gq9eyqDAP1s3nVth14QaTaOsQk43bhdtLvRHNopEc253DTjCKa07sSn59Mqpbe6WgpmHXgDrhDk3fJ2PAiRkaw==",
@@ -97,7 +81,7 @@
     },
     {
         "channelName": "SBT TV Cidade Verde",
-        "link": "VTz4LTu4EZ4fF3vPlGQeehs/ygdh78FZWmfRYQu8v9+IZ1e8Ez+hlHbs7ZmMxJkC8aJW3GQtNW8wxU6IGqvwaZ+mx1Il8x5RbqHjhso0M9Q=",
+        "link": "ALmvxOVJpREniHCF8mdGJZgXSqLzypqW9ewxG9xGibJCZMM75TQpvndfBhWqNJ0Swfh0vxrl8FKz60GlJIQdCIymGvvoBoGpVzVdI8+wwcmWI/S8IJx34uFYg3EGo7tV",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -376,8 +360,8 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO Manaus HD",
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SKGFVRtOMIbIAquv2Ktuz74=",
+        "channelName": "GLOBO RIO SD",
+        "link": "uxjGjEfHSiFeo82xwcwIuMHgt4VNdjBA/P/QHzr5huksJpb32p92uE01RjqXxUL4",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -385,7 +369,7 @@
     },
     {
         "channelName": "GLOBO SP",
-        "link": "KFU+FLUWxCl6zuRRDmk4gACynYX32WN1W8fYsFyn5yGxlndXL/lNVFDarGF8LVL8anaPfleWkRvSOIL5khQOGg==",
+        "link": "uxjGjEfHSiFeo82xwcwIuE2Lec9IkcAPKnKR5VYCZgZTEZRH9DWbGyPcukWaxgh4",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -393,7 +377,7 @@
     },
     {
         "channelName": "GLOBO SP SD",
-        "link": "uxjGjEfHSiFeo82xwcwIuBg1/chO7i51XPm5Zgn9unlt32uY9ODLJZh1ASxGQT67h5i4GcBdt8N5/p5vtfX/IA==",
+        "link": "eXrcuj0NDMyduFITWBlWdYB4j2xpTSAHrOBckKG2sVvSPxZb4y/AEp+wLFK+Dz/dGPxQGgaumJm2y61bH1gEmA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -414,11 +398,11 @@
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
-    },
+    },  
     {
         "channelName": "GLOBO MG",
-        "link": "uxjGjEfHSiFeo82xwcwIuFkrBjIQ8lzkYBs2Xym87RPpdVty78S8r2qzMmNgiJ4Oc6VWK3KJpcZDSu8VrD25uw==",
-        "ativo": 1,
+        "link": "uxjGjEfHSiFeo82xwcwIuKK+r2YNel3U3Ze2SPBGycIzXKv7xbqNTgt+AZTKOx3j",
+        "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
@@ -514,7 +498,7 @@
     },
     {
         "channelName": "SBT (alter)",
-        "link": "KFU+FLUWxCl6zuRRDmk4gACynYX32WN1W8fYsFyn5yGxlndXL/lNVFDarGF8LVL8anaPfleWkRvSOIL5khQOGg==",
+        "link": "YSZnZnYicI4pmfmUn8zh2nKQoXhArDOmI89P8uI/yOsI6qzoUHePQ6Qzv7jascrP",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -551,15 +535,7 @@
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
-    },
-    {
-        "channelName": "Xtreme TV",
-        "link": "6/TXGFS2JVJghNfkZ5qAi0jklOmzqfB6GsKMpnHQTIN7gGUvALbtuht6mpz6lJoHSn2epQ6j2jYEesBIGtxY82UhQw5iPwlgXUNQHz9P7dk=",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "animacao",
-        "pausado": 0
-    },
+    },  
     {
         "channelName": "Rede Clouding TV",
         "link": "qH/DKGA9FpkDYZUvFhTDZzu2I3iNNm5a1+UppcFAu4u2LI8seKzE9qCbIClFZ57cyTxc28o3d0MloKSDHI7WurbHMXm/89px7OAL0tjBjis=",
@@ -610,7 +586,7 @@
     },   
     {
         "channelName": "TNT Novelas",
-        "link": "KFU+FLUWxCl6zuRRDmk4gJeZFb6rxzC8L+o5nVrXbVlyrw3fT26EsJ/UNpi08pOvd0zXk0K+6oYYOB4Iy9292NWu7zijPoqdjLvCx69jKYg=",
+        "link": "eXrcuj0NDMyduFITWBlWdVkB01f4GJJXYyT7hGqhQge/Ut9SlWpR/R2F9qPyQ7wNmL5AtUzhJG8JVQBfdwjpQj2Ql+ikrPprALk4K7IMs6k=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -738,7 +714,7 @@
     },
     {
         "channelName": "GNT SD (temp)",
-        "link": "Jvauh8xCdLE8IYFjabtJ6BIuQFtOAVmC169zGmJFw8yghamB+8PwE4J3HCVSPop8mxHpo//MP/oDSaUefMEuGg==",
+        "link": "uxjGjEfHSiFeo82xwcwIuHQ7FLMemN1YKZCYu9h8ybeFihEWnxvwjTvhqF9y6HOX",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
