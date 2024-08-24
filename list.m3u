@@ -243,7 +243,9 @@ http://ratomickey.eu:8080/gNCrADJMffpq/8td5eG5Vmej8/90178
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD [P]" tvg-logo="http://srv.mypanel.life:8080/images/39da393b5902ea98f00af8c89d2d18a0.png" group-title="★●• BRASIL ●•★",DISCOVERY CHANNEL HD [P]
 http://ratomickey.eu:8080/gNCrADJMffpq/8td5eG5Vmej8/90179
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD [P]" tvg-logo="http://srv.mypanel.life:8080/images/39da393b5902ea98f00af8c89d2d18a0.png" group-title="★●• BRASIL ●•★",DISCOVERY CHANNEL SD [P]
-http://ratomickey.eu:8080/gNCrADJMffpq/8td5eG5Vmej8/90180
+http://ratomickey.eu:8080/gNCrADJMffpq/8td5eG5Vmej8/
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD [P]" tvg-logo="http://srv.mypanel.life:8080/images/39da393b5902ea98f00af8c89d2d18a0.png" group-title="★●• BRASIL ●•★",DISCOVERY CHANNEL CND
+https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H FHD H265 [P]" tvg-logo="s:1:/images/PMMm5g39tUUIhYrim0QVe3QQam3ANW07mXl78aAQY99OffmCAjYQHdnT0OQM46xAq7rx_3daq47P38d0tlvmrJLgPMY6M-Lpep3hJD-lAyc.png" group-title="★●• BRASIL ●•★",DISCOVERY H&H FHD H265 [P]
 http://ratomickey.eu:8080/gNCrADJMffpq/8td5eG5Vmej8/90181
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H FHD [P]" tvg-logo="http://srv.mypanel.life:8080/images/d746cacc850072d162952b56976b50e1.png" group-title="★●• BRASIL ●•★",DISCOVERY H&H FHD [P]
@@ -554,6 +556,13 @@ http://ratomickey.eu:8080/gNCrADJMffpq/8td5eG5Vmej8/90344
 http://ratomickey.eu:8080/gNCrADJMffpq/8td5eG5Vmej8/90345
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="http://srv.mypanel.life:8080/images/1096cac3a2befcf3b8fdc24630789344.png" group-title="❤️ Andressa channels ❤️",GNT SD Voz
 http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/766
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="http://srv.mypanel.life:8080/images/1096cac3a2befcf3b8fdc24630789344.png" group-title="❤️ Andressa channels ❤️",GNT SD 01
+http://ccdnblck.xyz:80/5038112325pw/4564444878Pw/38
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="http://srv.mypanel.life:8080/images/1096cac3a2befcf3b8fdc24630789344.png" group-title="❤️ Andressa channels ❤️",GNT SD 02
+http://dns.panela.online:80/Erick020623/8127721216/45647
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="H2 FHD H265 [P]" tvg-logo="http://srv.mypanel.life:8080/images/124a8028634b1c534aeba67f633f1ae9.png" group-title="★●• BRASIL ●•★",H2 FHD H265 [P]
 http://ratomickey.eu:8080/gNCrADJMffpq/8td5eG5Vmej8/90346
 #EXTINF:-1 tvg-id="" tvg-name="H2 FHD [P]" tvg-logo="http://srv.mypanel.life:8080/images/124a8028634b1c534aeba67f633f1ae9.png" group-title="★●• BRASIL ●•★",H2 FHD [P]
@@ -648,6 +657,10 @@ http://ratomickey.eu:8080/gNCrADJMffpq/8td5eG5Vmej8/90390
 http://ratomickey.eu:8080/gNCrADJMffpq/8td5eG5Vmej8/90391
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL SD [P]" tvg-logo="" group-title="★●• BRASIL ●•★",HISTORY CHANNEL SD [P]
 http://ratomickey.eu:8080/gNCrADJMffpq/8td5eG5Vmej8/90392
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL SD [P]" tvg-logo="" group-title="★●• BRASIL ●•★",HISTORY CHANNEL SD CND
+https://cdn-5.nxplay.com.br/HISTORY_TK/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL SD [P]" tvg-logo="" group-title="★●• BRASIL ●•★",HISTORY 2 CHANNEL
+https://cdn-5.nxplay.com.br/HISTORY_2_TK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID FHD H265 [P]" tvg-logo="" group-title="★●• BRASIL ●•★",DISCOVERY ID FHD H265 [P]
 http://ratomickey.eu:8080/gNCrADJMffpq/8td5eG5Vmej8/90393
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID FHD [P]" tvg-logo="" group-title="★●• BRASIL ●•★",DISCOVERY ID FHD [P]
