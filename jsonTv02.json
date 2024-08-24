@@ -361,7 +361,7 @@
     },
     {
         "channelName": "GLOBO RIO SD",
-        "link": "uxjGjEfHSiFeo82xwcwIuMHgt4VNdjBA/P/QHzr5huksJpb32p92uE01RjqXxUL4",
+        "link": "1lQ2vimKJ9WPtjNaUXpeyDSJmffqKA1/YEMopJhMcHAyLWe9sEwP6Vb4jwhcH6yN5KFOfCPJetX63tZ6wT+M6w==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -377,7 +377,7 @@
     },
     {
         "channelName": "GLOBO SP SD",
-        "link": "eXrcuj0NDMyduFITWBlWdYB4j2xpTSAHrOBckKG2sVvSPxZb4y/AEp+wLFK+Dz/dGPxQGgaumJm2y61bH1gEmA==",
+        "link": "eXrcuj0NDMyduFITWBlWdYB4j2xpTSAHrOBckKG2sVvuLnow69/0+KTRVuFH18KPPOIr6GlHZbrm+disHzuhJw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -401,7 +401,7 @@
     },  
     {
         "channelName": "GLOBO MG",
-        "link": "uxjGjEfHSiFeo82xwcwIuKK+r2YNel3U3Ze2SPBGycIzXKv7xbqNTgt+AZTKOx3j",
+        "link": "7X6JvAlqxG035lv6FicHHV78x6S/XFN6RofhRHWSVRmiy77+6WHqsBfGoElEjnNKV/RcezDjDPUCC6fdOcWzXA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -430,8 +430,15 @@
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
-    },
-    
+    }, 
+    {
+        "channelName": "GLOBO Brasilia",
+        "link": "7X6JvAlqxG035lv6FicHHV78x6S/XFN6RofhRHWSVRkksTZGuMliuqaO2EicqxzI9/OramDYIj7Oq9JTxvWLKw==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },   
     {
         "channelName": "GLOBO NEWS",
         "link": "Bii1KC/OYCEMcIN5OV40ta5VO774MX1RFLyESCY3LUHGG9e/eDKe9hlUQJaegzb5",
@@ -570,7 +577,7 @@
     },
     {
         "channelName": "SPORTV (Temporario)",
-        "link": "a/tTn8CMrRkfMEV+HDLZANlAF1KgSAQGpyx/AWnCOw9+RY1UCq7SO78QletqLRYkvuftQFfvHPbNlcT0dNd1JA==",
+        "link": "7X6JvAlqxG035lv6FicHHV78x6S/XFN6RofhRHWSVRmb7e4OMHkQWidl69jTZoUFoAyqd1hVOBg7rT15iKM74w==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -626,7 +633,7 @@
     },
     {
         "channelName": "VIVA HD",
-        "link": "a/tTn8CMrRkfMEV+HDLZANlAF1KgSAQGpyx/AWnCOw+7sGedtjkd6D2qr3G23LPZmjED8ENJNFmIzr8tNk+9EQ==",
+        "link": "7X6JvAlqxG035lv6FicHHV78x6S/XFN6RofhRHWSVRlvm5853D9vgmgFfybcXdQz7ZMEmIMFBoqlzMHKzOGwaA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
