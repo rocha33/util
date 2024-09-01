@@ -9,7 +9,7 @@
     },   
     {
         "channelName": "RECORD RS",
-        "link": "uZARfmRJ8y1lRCEephsgmcjq3nicihAbizUhH83a5YNpqaCIm9wLYRaz6O8W2owW",
+        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmz7Gl9sxcH+jjcvVoNhVPrcfE4BktgnC2RCNdLaTnzSYw==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -18,6 +18,14 @@
     {
         "channelName": "RECORD SP",
         "link": "eXrcuj0NDMyduFITWBlWdbtQyPGCzH1ORLtgcm64qB2Wp2qAUxBMNUnSr2ScbTgMpenuz7BjGZyLRYpzrTcUCOH50GWVPdnuWpP94iP2alk=",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "RECORD RJ",
+        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmz7Gl9sxcH+jjcvVoNhVPrcJWfUNg4jWH2n9bYRM+6XsQ==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -184,8 +192,8 @@
         "pausado": 0
     },
     {
-        "channelName": "BAND Nordeste", 
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHf77quc3XL0RokxfezERD1SNIqozOt7rAbfbXHRvxo/C8=",
+        "channelName": "BAND RJ", 
+        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmz7Gl9sxcH+jjcvVoNhVPrcthzui7jD3OOuyDJtxUhArQ==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -273,7 +281,7 @@
     },
     {
         "channelName": "CNN BRASIL",
-        "link": "xYx5Z+3ibmqdN15zfuzleR9B6mrkd+pg2kLqBKbVb3Hyr0sG7UA7FvlieeVkdKh6/Ipa8cNP/eR9ACBCBCbM9KupEaMmG/SSEz+dbWsAOPs=",
+        "link": "xYx5Z+3ibmqdN15zfuzleR9B6mrkd+pg2kLqBKbVb3Hyr0sG7UA7FvlieeVkdKh6PcPQibnTV14vR7z4r6UXqA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -361,7 +369,7 @@
     },
     {
         "channelName": "GLOBO RIO SD",
-        "link": "1lQ2vimKJ9WPtjNaUXpeyDSJmffqKA1/YEMopJhMcHAyLWe9sEwP6Vb4jwhcH6yN5KFOfCPJetX63tZ6wT+M6w==",
+        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmz7Gl9sxcH+jjcvVoNhVPrcg7LVWBm6wE3sAeAzBDqmpA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -401,7 +409,7 @@
     },  
     {
         "channelName": "GLOBO MG",
-        "link": "7X6JvAlqxG035lv6FicHHV78x6S/XFN6RofhRHWSVRmiy77+6WHqsBfGoElEjnNKV/RcezDjDPUCC6fdOcWzXA==",
+        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmz7Gl9sxcH+jjcvVoNhVPrcE7GuKNrFCZVRMbIrMAN4OA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -449,7 +457,7 @@
     },
     {
         "channelName": "GLOBO NEWS HD",
-        "link": "1lQ2vimKJ9WPtjNaUXpeyDSJmffqKA1/YEMopJhMcHD7jKHhNzagvOhI4b2hjsjStdy68tQ20JM2hinbXbtB4A==",
+        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmxwDoBVIR4YOD5L0aL8IgcoBChh0dI+isZYHvLjtaaLsg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -537,7 +545,7 @@
     },
     {
         "channelName": "BAND BA",
-        "link": "VEanj6UFBvupQrnI0REHD3IpyA/tvfcoNybe6ocayPHNX0u4aS8rpi0Ekn8MMyDo",
+        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmz7Gl9sxcH+jjcvVoNhVPrcpohAy8nITNslvP1Lmvb6NQ==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -681,7 +689,7 @@
     },
     {
         "channelName": "MTV SD",
-        "link": "7X6JvAlqxG035lv6FicHHV78x6S/XFN6RofhRHWSVRmPg8nQSGURbw+FhIpZU3Q+b9uwZYzoAE/njOiq68/ueQ==",
+        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmxwDoBVIR4YOD5L0aL8IgconaC9UcRT0kjRTu56apUpTw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -713,7 +721,7 @@
     },
     {
         "channelName": "GNT (temp)",
-        "link": "7X6JvAlqxG035lv6FicHHV78x6S/XFN6RofhRHWSVRl/t5Kc8gWGGZIdTPqcpGBX0eDsVcSCu9kU2ao90iDGLg==",
+        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmxwDoBVIR4YOD5L0aL8IgcoGF3SZtpupHrs6rsiz3ttWA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
