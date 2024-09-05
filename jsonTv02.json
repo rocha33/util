@@ -246,15 +246,7 @@
         "contactpage": "",
         "categoria": "religiao",
         "pausado": 0
-    },
-    {
-        "channelName": "Cine Brasil",
-        "link": "rSs93ExQ42fM99QnxXA1AZvUKvIX/7+dEXxy/GAsylJeoiRxrH1wdazbjYDUjQa5fIHQmfprdKdlo8BFQTPslCgl4VJuIwuDDEb/FHcY4pE=",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "filmes",
-        "pausado": 0
-    },
+    },    
     {
         "channelName": "RECORD (Alter)",
         "link": "HIJoxdWF7NY6ZE/McJVc1BAvXNqYWM/vQML67knCysf+aIESI0K8dGltb48ei4cEiQPrS0PeeOj41kxUjbODjdyc0Jx1hk/bFgZ4GwQDRBw=",
@@ -297,7 +289,7 @@
     },
     {
         "channelName": "BAND NEWS",
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHfKd31oPzZXH9pCGq4HMJR79fkTAy2NzQQu58I84/G0K4=",
+        "link": "WqgC6idpoElW2Ubq6l+yPbCqDO8pHcpziAp9hDk0Ql4OhnXr9wWZb0S7YS0BMxCy",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -489,7 +481,7 @@
     },
     {
         "channelName": "Jovem Pan News",
-        "link": "xjunzCkqBZmAoA/f1M5Kz9Jw7NW4rUCxhiLRP22EA+79VxEVEZ95cNyhjyHCEgAdQtCp4V1I5EnQLYYVX0fYcFkx9z5RQNz4tT6JH/LwFPlLZSphdStzDzPlJ21+AnJELmlpMuKNDCPGXaoWT6ByAQjf07KczLC8BvAL8NPabwk=",
+        "link": "cDPeQ4aBVE6jPf3iu/QhdH3KdeWr6QCvM4ICPn9TEyhJTRpAO90MuwTt6beUkP8g6lC7KXmS5zKfuuyLyELtP8YryZx2EJfksRqQ4qQ4ETL6jluPTi4FdXx3tSlSY8bx",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
