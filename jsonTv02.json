@@ -1,4 +1,4 @@
-
+[
     {
         "channelName": "RECORD MT",
         "link": "wiC7mG02B432FmXmauFL8zvddp1NdOd4SajhXyvGZrLw6raeypUiW6jZ94a2Ih6wBX+jmQeVFJJlBlc6Nbij6ZJhP6HayXgHYjWXvaEs7EP2pfOpiaqA2ztZqY/i/+M1",
@@ -33,7 +33,7 @@
     },
     {
         "channelName": "RECORD BA",
-        "link": "WqgC6idpoElW2Ubq6l+yPbCqDO8pHcpziAp9hDk0Ql5vsRcrsXq5LHCIddr2E+5R",
+        "link": "OcAekgAlwyYYau2UB0mLJKwxf4lBGDJwJ9GJ42Dc1qHAHXtcbvmwpvLgLUqiFXicaJ3tN850EyLqu2CSq2cIdqldsAr9P6MbaO+C9jvQN6o=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -242,15 +242,15 @@
     {
         "channelName": "Tv Espírita Do Paraná",
         "link": "5JZOGzk4NdYX00ibMK3UxZF15NhZLonwQTOpVqDpuwYzi+v0lp4PWwE+DYeq5nuiYkadRADtttDXViRJiH3q5otJvK9giSpIAItd3hFsnO0=",
-        "ativo": 1,
+        "ativo": 0,
         "contactpage": "",
         "categoria": "religiao",
         "pausado": 0
     },
     {
-        "channelName": "Cine Monde",
-        "link": "xYx5Z+3ibmqdN15zfuzlefss2MzLNvh7CYjkRFPbMY4lHI8BLFsi3iWVnyzj+lGxhsq/8xMpwQ4vLVlxLjnwvV2GQ6o0wVWOUumTriijeVw=",
-        "ativo": 0,
+        "channelName": "Cine Brasil",
+        "link": "rSs93ExQ42fM99QnxXA1AZvUKvIX/7+dEXxy/GAsylJeoiRxrH1wdazbjYDUjQa5fIHQmfprdKdlo8BFQTPslCgl4VJuIwuDDEb/FHcY4pE=",
+        "ativo": 1,
         "contactpage": "",
         "categoria": "filmes",
         "pausado": 0
@@ -273,7 +273,7 @@
     },
     {
         "channelName": "BAND SPORTS SD",
-        "link": "eXrcuj0NDMyduFITWBlWdZCf6jaLleFpG8JSy4m1Eo85r8V2rc9GBuGqErK4HCxJ3cQNui7oOiNPW7Z/i9aaKg==",
+        "link": "0BSiIqJtSzRSYztx+mLvqWTYzR5MqbiKPnSXlkVxPCZLi380UjzH5cp+Y0qfHWPBzJ9tY2vTY0gCQqg+D/CZ0A==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -297,7 +297,7 @@
     },
     {
         "channelName": "BAND NEWS",
-        "link": "eXrcuj0NDMyduFITWBlWdZCf6jaLleFpG8JSy4m1Eo/2RSKmIafO90tyuMQcmdZ3WbtZ36mjB5rVzjoW7g87UA==",
+        "link": "jxyGVZv/yWDTTpuS3rjvbSetSdgcSAbKcML1C8foM98ZHIg9ntW1M4C46yE+9atPwScP081CqGJZ38JYuD++Sg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -358,7 +358,15 @@
         "contactpage": "",
         "categoria": "filmes",
         "pausado": 0
-    },   
+    },
+    {
+        "channelName": "HALLO MOVIES",
+        "link": "KNfAs7rnkFUXRqDkqoRJmKdWgouqsRMqyHfACHgOfVB3cxdYckBV/y8AAYwA4ozDyl6JoNK/n2QM6XgNqJ93pA==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "pausado": 0
+    },
     {
         "channelName": "GLOBO RIO SD",
         "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmz7Gl9sxcH+jjcvVoNhVPrcg7LVWBm6wE3sAeAzBDqmpA==",
@@ -369,7 +377,7 @@
     },
     {
         "channelName": "GLOBO SP",
-        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmz7Gl9sxcH+jjcvVoNhVPrczBuTsy5tTfN2VB80jl/dfA==",
+        "link": "uxjGjEfHSiFeo82xwcwIuE2Lec9IkcAPKnKR5VYCZgZTEZRH9DWbGyPcukWaxgh4",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -489,7 +497,7 @@
     },
     {
         "channelName": "Jovem Pan News",
-        "link": "cDPeQ4aBVE6jPf3iu/QhdH3KdeWr6QCvM4ICPn9TEyhJTRpAO90MuwTt6beUkP8g6lC7KXmS5zKfuuyLyELtP8YryZx2EJfksRqQ4qQ4ETL6jluPTi4FdXx3tSlSY8bx",
+        "link": "xjunzCkqBZmAoA/f1M5Kz9Jw7NW4rUCxhiLRP22EA+79VxEVEZ95cNyhjyHCEgAdQtCp4V1I5EnQLYYVX0fYcFkx9z5RQNz4tT6JH/LwFPlLZSphdStzDzPlJ21+AnJELmlpMuKNDCPGXaoWT6ByAQjf07KczLC8BvAL8NPabwk=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -753,7 +761,7 @@
     },
     {
         "channelName": "AMC FHD (temp)",
-        "link": "eXrcuj0NDMyduFITWBlWdcy4EVBp2BShApea0NEFDTcjLoh0z7A6AnFrpWxNmBjqfhaiDHw7JmnOpCzEHtrY3A==",
+        "link": "R+fCcdkfzlliaLJMhXxsKwHxsGzNW45JGsUqGiMQkhttpKCWeVdJSoRun4BhZexW",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
