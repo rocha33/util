@@ -361,7 +361,7 @@
     },
     {
         "channelName": "GLOBO SP",
-        "link": "uxjGjEfHSiFeo82xwcwIuE2Lec9IkcAPKnKR5VYCZgZTEZRH9DWbGyPcukWaxgh4",
+        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmz7Gl9sxcH+jjcvVoNhVPrc5W5fVuAq3xOi4HZw/cIOAg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -665,7 +665,7 @@
     },
     {
         "channelName": "MTV",
-        "link": "xeLWz+CmdW4moHTcY0NfOjP7LFmMnzkJMgGQEOfSf7y+6XCo/hoP6vjoK8KIFgNoNZKzcscoQFVP5QdsGmsM+u46mAK4UBwPf473smZOwbj6vNwhZTYL/Q08fGMfkvCw2g5vjOhLqP6T5yzSLcOtVtDHzmrlY5qskL512OiJHRh/sdmPFxb1kQl8tEiQBH2Gjy/Y1HeLZRE1wYxGl2/ToKoA868vPzb+PrzlYFxI8KU05ygwCA6ob3v9r9qpGCEN5vxA09iNansH2Gg+7aeICisDHKDE3TQ90LRyG/nMvZzF7QGerPEorFMD/8q/1O0a+J1NFY6eMlADStp3w4/+WLx91PZopgYunlzjuTCDXB6pNSCdIeiF19sH23bZ9c/pL8pnmUb+mWekTOBZPZMT4Wp67QycienKw9RHFbOizl19+hjSDv/xEXW8qqI0B1C07NQFhI9fO1xbncfhYkInEdkHo/vRbZXN4eeijifMfDIeUc8OgCzhCAZTZPMvihV03ErrjHEyd3Auap7pdKyu/ei9ugpQuduWdCIrCNR6q5mzq3HGwukAKNXE6iAaiN5k6CQPxRce6BYS3lmSt9YzDKzo1yNME1qh2HqRAWYp0KdO7kdDgxuOovDFonn7HdKC2dpIUgp1mhYZramMRkur7/E5Iz0gt4EvUXV4ZNDPj1ABnvQnIXV1AKwAfjuTM1uJo6aoZJhO79dhj9bYPGuoNm6LixeqmJlCNmuacygcbn+xULVHVNqvjx6hRMvzLd27vcMWlGn//HSDoqnZIX6OTK5dSk7Vgv990tx4+otvkr9DwbnoSPMocKtFBh7/fRnE",
+        "link": "IP/7OKiBB3BYgbTXwFPugNTkZ+uSfYSoGNHurynBm35ZEmXkNbHj41/Wn+hOCQeKdr1wGWbmsbP3KSewI6keoLpzR2mkysMtmQW8MSdGuKN3bfSHBJ+g9g9FMdLwMeXr",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -749,6 +749,22 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
+        "pausado": 0
+    },
+    {
+        "channelName": "Estrela da Casa 01 (temp)",
+        "link": "IP/7OKiBB3BYgbTXwFPugNTkZ+uSfYSoGNHurynBm35VtNlHChvUYUvSu3UbonMGnbxwmykbMDvrNTapnADICjZHYz8z+ehgAWEZZM87DnWnPQaNvCMROxzbvBwZUn2n",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    }    ,
+    {
+        "channelName": "Estrela da Casa 02 (temp)",
+        "link": "R+fCcdkfzlliaLJMhXxsK1TFjLedWzZzyCsBilUtKGl8Tx7z4qk1GobCZ+Wx2eqp",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
         "pausado": 0
     }
 ]
