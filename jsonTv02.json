@@ -193,7 +193,7 @@
     },
     {
         "channelName": "BAND RJ", 
-        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmz7Gl9sxcH+jjcvVoNhVPrcthzui7jD3OOuyDJtxUhArQ==",
+        "link": "lrGjwDgw36Q1jjra95CjvzaQMFCm6rbx4ZMjq0PdwLBTYrQI7fEcoolXepktBx/G2j8h02MA+nlDT/X7Fy0ZGw==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -265,7 +265,7 @@
     },
     {
         "channelName": "BAND SPORTS SD",
-        "link": "0BSiIqJtSzRSYztx+mLvqWTYzR5MqbiKPnSXlkVxPCZLi380UjzH5cp+Y0qfHWPBzJ9tY2vTY0gCQqg+D/CZ0A==",
+        "link": "eXrcuj0NDMyduFITWBlWdZCf6jaLleFpG8JSy4m1Eo85r8V2rc9GBuGqErK4HCxJ3cQNui7oOiNPW7Z/i9aaKg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -353,7 +353,7 @@
     },    
     {
         "channelName": "GLOBO RIO SD",
-        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmz7Gl9sxcH+jjcvVoNhVPrcg7LVWBm6wE3sAeAzBDqmpA==",
+        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHfKd31oPzZXH9pCGq4HMJR71knWM3c9joanOaCy5v9I1M=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -393,7 +393,7 @@
     },  
     {
         "channelName": "GLOBO MG",
-        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmz7Gl9sxcH+jjcvVoNhVPrcE7GuKNrFCZVRMbIrMAN4OA==",
+        "link": "wjlxBO84JcRUyHFMLSDPwTJK1LrjC61FvUqTV8qU3UX4vLiGsaierpb/M559c13czoJuoUBHrvWRDyyIFGr1iQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -441,7 +441,7 @@
     },
     {
         "channelName": "GLOBO NEWS HD",
-        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmxwDoBVIR4YOD5L0aL8IgcoBChh0dI+isZYHvLjtaaLsg==",
+        "link": "wjlxBO84JcRUyHFMLSDPwTJK1LrjC61FvUqTV8qU3UX4vLiGsaierpb/M559c13cNQHvW2bWhLH+hRclhJcsbA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -673,7 +673,7 @@
     },
     {
         "channelName": "MTV SD",
-        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmxwDoBVIR4YOD5L0aL8IgconaC9UcRT0kjRTu56apUpTw==",
+        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHfKd31oPzZXH9pCGq4HMJR764k3yWY9d7mSjqHZIf1zX8=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -705,7 +705,7 @@
     },
     {
         "channelName": "GNT (temp)",
-        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmxwDoBVIR4YOD5L0aL8IgcoGF3SZtpupHrs6rsiz3ttWA==",
+        "link": "IP/7OKiBB3BYgbTXwFPugNTkZ+uSfYSoGNHurynBm34Nv27FiYa4sGT5lULmfW+OYNEzjHzXe6JvK7UPGz7B6VmDcRkG9CYwKQSjG0ccoKND2/uY9mTtxD6YIt4wf3Xr",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -753,15 +753,23 @@
     },
     {
         "channelName": "Estrela da Casa 01 (temp)",
-        "link": "IP/7OKiBB3BYgbTXwFPugNTkZ+uSfYSoGNHurynBm35VtNlHChvUYUvSu3UbonMGnbxwmykbMDvrNTapnADICjZHYz8z+ehgAWEZZM87DnWnPQaNvCMROxzbvBwZUn2n",
+        "link": "lrGjwDgw36Q1jjra95CjvzaQMFCm6rbx4ZMjq0PdwLB/NP69pNDa+R4tdXCJ6sFwhxRjfYF7L6J2e5qk+AaW0w==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "pausado": 0
-    }    ,
+    },
     {
         "channelName": "Estrela da Casa 02 (temp)",
         "link": "R+fCcdkfzlliaLJMhXxsK1TFjLedWzZzyCsBilUtKGl8Tx7z4qk1GobCZ+Wx2eqp",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "ANIMAL PLANET (Temp)",
+        "link": "eXrcuj0NDMyduFITWBlWdcCD32JVBKpkQGdL2ykUvvdsUxkfsLr4p401L/0FZfjV0Fia5RGyy1ogWHiVEaNOm8byf35oTUMMhXP/Y/+vpj0=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
