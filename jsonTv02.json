@@ -273,7 +273,15 @@
     },
     {
         "channelName": "CNN BRASIL",
-        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmxwDoBVIR4YOD5L0aL8IgcoXaQsfkPJouXayfwfNjebqA==",
+        "link": "eXrcuj0NDMyduFITWBlWdTMheDLhIcQEROd0bRlDmX0iVL19Yulwzw5lj+sgOY31FzMdVUc/AzvmxFqEJUNIzA==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "noticias",
+        "pausado": 0
+    },  
+    {
+        "channelName": "CNN BRASIL SD",
+        "link": "xYx5Z+3ibmqdN15zfuzleR9B6mrkd+pg2kLqBKbVb3Hyr0sG7UA7FvlieeVkdKh6PcPQibnTV14vR7z4r6UXqA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -577,7 +585,7 @@
     },   
     {
         "channelName": "SPORTV HD(Temporario)",
-        "link": "9XlioRnuetkPsugrFKbHoW227YNqGk2yQNRNs0Gp6S5He784beatoTNxqUg9WWsvWzqt/EKyXTYuAhQ7CCCpcA==",
+        "link": "oJcMT8+jRtEBWN/7Gd/lzD5BSVPYjKRB2zSC7oACfm5CFdUT3D1VUzLz/ZmCYyqW5TT6LMxcSLcr4ejbFWMX5Q==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -681,7 +689,7 @@
     },
     {
         "channelName": "EU A PATROA AS CRIANÇAS (Temp)",
-        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmz7Gl9sxcH+jjcvVoNhVPrcPKiHWgWc9zMldsSeTU2Dcw==",
+        "link": "oJcMT8+jRtEBWN/7Gd/lzD5BSVPYjKRB2zSC7oACfm6K7I/lWJ3o5diRQKdesRLh5Rpsu17fjUm/GbcemZm4rA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -689,7 +697,7 @@
     },
     {
         "channelName": "TODO MUNDO ODEIA O CRIS (Temp)",
-        "link": "WqgC6idpoElW2Ubq6l+yPR0D6135+YMal36pUbSDbmz7Gl9sxcH+jjcvVoNhVPrcC9hx1ecq3xV3DNi0ddPgmQ==",
+        "link": "oJcMT8+jRtEBWN/7Gd/lzD5BSVPYjKRB2zSC7oACfm5EPuTNlmQD9nbkTzot8O82OIQdsBRwncPren6TcFY0Bw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -713,7 +721,7 @@
     },
     {
         "channelName": "GNT SD (temp)",
-        "link": "9XlioRnuetkPsugrFKbHoW227YNqGk2yQNRNs0Gp6S5He784beatoTNxqUg9WWsvITjwVmn7t/g8De02C+cYsg==",
+        "link": "oJcMT8+jRtEBWN/7Gd/lzD5BSVPYjKRB2zSC7oACfm6zsqVKHrGhty3xFTU4TA9NSdrABBBVlCpL+3OgpA6+ng==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
