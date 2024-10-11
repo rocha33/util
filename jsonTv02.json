@@ -9,7 +9,7 @@
     },   
     {
         "channelName": "RECORD RS",
-        "link": "e1XZ0BI3BxbqRus3N04+yaO9IvPB8Tm83Sw16K9Sag4LICdJTo9ZOcarqxpNCSp1",
+        "link": "/sWGAiHaYRT08K9VBrhPdXa5pGZZFpLZef/JCcX5g2ZR0zFcD5EFPIQ5DF5fHH/VGdF6+HTnBlodrcKMAO05aA==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -17,7 +17,7 @@
     },
     {
         "channelName": "RECORD SP",
-        "link": "eXrcuj0NDMyduFITWBlWdbtQyPGCzH1ORLtgcm64qB2Wp2qAUxBMNUnSr2ScbTgMpenuz7BjGZyLRYpzrTcUCOH50GWVPdnuWpP94iP2alk=",
+        "link": "0KfDlYk5Hh+i8RZF2L4+cewYFEEG33nfN6i6WueBQoNtZYA7SBAelRvEIbPgxZIdFC9FDkwjuznbs3hEB5++MONYBuxmsk6QcpLaKbZVMjHvh8F2Lrs3hCVFIqni7YjK",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -25,7 +25,7 @@
     },
     {
         "channelName": "RECORD RJ",
-        "link": "e1XZ0BI3BxbqRus3N04+yaO9IvPB8Tm83Sw16K9Sag4jwdSReLDUX/naO7SPY+v5",
+        "link": "lrGjwDgw36Q1jjra95Cjv6RF/1Ovdx02mlPO0cHczSb31ktms0AmSlBg3tAuOWKIL8YJY9/bunjmDKQBpUwtPw==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -201,7 +201,7 @@
     },
     {
         "channelName": "CANÇÃO NOVA",
-        "link": "eXrcuj0NDMyduFITWBlWdeEXcQXGj5ouBtAD8w9rWJ2a1tgl/1CaKCFEpR1k3mZUK1kx9+WRB2d8AKFkuZ861DkIAtTZseNJskeWZU5a2Ks=",
+        "link": "0KfDlYk5Hh+i8RZF2L4+cewYFEEG33nfN6i6WueBQoNtZYA7SBAelRvEIbPgxZIdFC9FDkwjuznbs3hEB5++MJ5OsQsJne0MuSJ42hBsP+WEAw/VHMu2HmKV5bWQOtZF",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -209,7 +209,7 @@
     },
     {
         "channelName": "CANÇÃO NOVA SD",
-        "link": "e1XZ0BI3BxbqRus3N04+yaO9IvPB8Tm83Sw16K9Sag5e1QIDcwUMj/FzEmEatHT8",
+        "link": "lrGjwDgw36Q1jjra95Cjv6RF/1Ovdx02mlPO0cHczSYXT6junx7RfZdWWwiZsl1Kh5U1YVIT2K55OB4gkr54ow==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -376,8 +376,8 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO SP SD",
-        "link": "iVN53sjP43KxkAtbziHKfZiEWMfzHFyDO6nmU4B1vI9qXxN+q6AxHaIfvWmt0T+Ism0c8vTKKReep/UqY/RnFJye6MKPLJ+TitDcre6Wrno=",
+        "channelName": "GLOBO SP HD",
+        "link": "0KfDlYk5Hh+i8RZF2L4+cewYFEEG33nfN6i6WueBQoNtZYA7SBAelRvEIbPgxZIdFC9FDkwjuznbs3hEB5++MLmPcmodLY/eblVvDuV1oQSitR4eu8Ii7GTtzzuwv8Y4",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -402,6 +402,14 @@
     {
         "channelName": "GLOBO MG",
         "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHfKd31oPzZXH9pCGq4HMJR7xj6ZJz3W7/6zw6Hz4+Gj1A=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "pausado": 0
+    },  
+    {
+        "channelName": "GLOBO MG SD",
+        "link": "lrGjwDgw36Q1jjra95Cjv6RF/1Ovdx02mlPO0cHczSYbzASpk88+GM84uZvroCAe5hT0FtcDTLNfIjhmJ582RA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -441,7 +449,7 @@
     },   
     {
         "channelName": "GLOBO NEWS",
-        "link": "Bii1KC/OYCEMcIN5OV40ta5VO774MX1RFLyESCY3LUHGG9e/eDKe9hlUQJaegzb5",
+        "link": "lrGjwDgw36Q1jjra95Cjv6RF/1Ovdx02mlPO0cHczSbweV6S0NinHEq5FI2vFCsJ3OnOAJNf8xedTielGGdJdA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -449,7 +457,7 @@
     },
     {
         "channelName": "GLOBO NEWS HD",
-        "link": "iVN53sjP43KxkAtbziHKfZiEWMfzHFyDO6nmU4B1vI9qXxN+q6AxHaIfvWmt0T+I85v1LxnT30+kpuHnKsZwNgqk3cVZuZ8Tyqe9Qzsm5dg=",
+        "link": "cHKkeMj4SzUjkwJglxIyLXHpAJSqjmvW6l3dkaKu4zizbaBCyVsDFfLsAkKVcrn/ek5hk/1RiiE4UlBp1IeKog==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -497,7 +505,7 @@
     },
     {
         "channelName": "SBT SP SD",
-        "link": "eXrcuj0NDMyduFITWBlWdbtQyPGCzH1ORLtgcm64qB2Wp2qAUxBMNUnSr2ScbTgMpenuz7BjGZyLRYpzrTcUCOH50GWVPdnuWpP94iP2alk=",
+        "link": "lrGjwDgw36Q1jjra95Cjv6RF/1Ovdx02mlPO0cHczSYxoVc1v+8Qt2BhLPrgMJQE/PIep6X6Lxuwf3ur4LZP+Q==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -521,7 +529,7 @@
     },
     {
         "channelName": "SBT RIO",
-        "link": "e1XZ0BI3BxbqRus3N04+yaO9IvPB8Tm83Sw16K9Sag4Oh9DgKCKrWqri9v3ng2zU",
+        "link": "0KfDlYk5Hh+i8RZF2L4+cewYFEEG33nfN6i6WueBQoNtZYA7SBAelRvEIbPgxZIdFC9FDkwjuznbs3hEB5++MLNYSju1YAFadjGkqdj1qzNHm3wPyl0o094ptcbwAKUt",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -593,7 +601,7 @@
     },   
     {
         "channelName": "SPORTV HD(Temporario)",
-        "link": "oJcMT8+jRtEBWN/7Gd/lzD5BSVPYjKRB2zSC7oACfm5CFdUT3D1VUzLz/ZmCYyqW5TT6LMxcSLcr4ejbFWMX5Q==",
+        "link": "pnZqQFG9wob+b3GY3M5VgbPHDPkufyjUciXZy/Hkv5UYMyzwtstQnRJcUPCD2piL2Riw8kL1HgD83OOu2S6okA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -641,7 +649,7 @@
     },
     {
         "channelName": "VIVA HD",
-        "link": "oJcMT8+jRtEBWN/7Gd/lzD5BSVPYjKRB2zSC7oACfm5KU68vhg/AvYJUdnEkZR+wETaCvBVLoWDiZvfTH56VFw==",
+        "link": "lrGjwDgw36Q1jjra95Cjv6RF/1Ovdx02mlPO0cHczSZG8p0qruonS8EGUxcPsm141iko72qJP1m/gfFK2A6WBg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -697,7 +705,7 @@
     },
     {
         "channelName": "EU A PATROA AS CRIANÇAS (Temp)",
-        "link": "oJcMT8+jRtEBWN/7Gd/lzD5BSVPYjKRB2zSC7oACfm6K7I/lWJ3o5diRQKdesRLh5Rpsu17fjUm/GbcemZm4rA==",
+        "link": "lrGjwDgw36Q1jjra95Cjv6RF/1Ovdx02mlPO0cHczSbagjKMLUKDIiC40bIRTnW/3Shl2snHEasOvsCwY+OS7Q==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -705,7 +713,7 @@
     },
     {
         "channelName": "TODO MUNDO ODEIA O CRIS (Temp)",
-        "link": "oJcMT8+jRtEBWN/7Gd/lzD5BSVPYjKRB2zSC7oACfm5EPuTNlmQD9nbkTzot8O82OIQdsBRwncPren6TcFY0Bw==",
+        "link": "lrGjwDgw36Q1jjra95Cjv6RF/1Ovdx02mlPO0cHczSbkY5MSKd7+wQah+yjhII0PNlL4VzJk2BXamUeRI0E7Qg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -728,8 +736,8 @@
         "pausado": 0
     },
     {
-        "channelName": "GNT SD (temp)",
-        "link": "oJcMT8+jRtEBWN/7Gd/lzD5BSVPYjKRB2zSC7oACfm6zsqVKHrGhty3xFTU4TA9NSdrABBBVlCpL+3OgpA6+ng==",
+        "channelName": "GNT HD (temp)",
+        "link": "0KfDlYk5Hh+i8RZF2L4+cewYFEEG33nfN6i6WueBQoNtZYA7SBAelRvEIbPgxZIdFC9FDkwjuznbs3hEB5++MPkQliYo8dM6UXqw/XHj1WhlbKfphMPK/Jek4xsXBPaz",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -745,7 +753,7 @@
     },
     {
         "channelName": "ESPN (temp)",
-        "link": "R7fw1rxQ816GJSkVue9uqmKMyiOQwpqyq4K4FGAwtOtjBk9WQ9SeJYwc82Sf0hSdrlDdQ7xrCyvo0pRmGvjR+A==",
+        "link": "iVN53sjP43KxkAtbziHKfZiEWMfzHFyDO6nmU4B1vI9qXxN+q6AxHaIfvWmt0T+IZW+28BjA4CnERtkIwMj+JoxFN6o3c/sjnX1oxYxy/uE=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -766,23 +774,7 @@
         "contactpage": "",
         "categoria": "filmes",
         "pausado": 0
-    },
-    {
-        "channelName": "Estrela da Casa 01 (temp)",
-        "link": "lrGjwDgw36Q1jjra95CjvzaQMFCm6rbx4ZMjq0PdwLB/NP69pNDa+R4tdXCJ6sFwhxRjfYF7L6J2e5qk+AaW0w==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "outros",
-        "pausado": 0
-    },
-    {
-        "channelName": "Estrela da Casa 02 (temp)",
-        "link": "oJcMT8+jRtEBWN/7Gd/lzJ5NbfHIrkDmMwyjhlfwi7NKAy2rYivlYLIWe678kkBZIv5YSUkXDABj+uOcxtl1EA==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "outros",
-        "pausado": 0
-    },
+    },    
     {
         "channelName": "ANIMAL PLANET (Temp)",
         "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHfKd31oPzZXH9pCGq4HMJR79OfeRGYqd8diIGg4y+2Te8=",
