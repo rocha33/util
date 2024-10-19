@@ -15,9 +15,9 @@ http://46.165.202.53:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/79
 #EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA 4K" tvg-logo="" group-title="❤️ Andressa channels ❤️",VIVA 01 4K
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/114
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/d972d0600c64727540fe59bd74ca3629.png" group-title="️❤️ Andressa channels ❤️",Viva 02 4K
-http://cdn.lvbxtv.com/live/49353447/gold815/2689850.m3u8
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/d972d0600c64727540fe59bd74ca3629.png" group-title="️❤️ Andressa channels ❤️",Viva FHD
-http://spflix.fun:80/play/HhBJEwBo3x0JHBRQyhbBFkM2VPRLtG1hFSaifOZVhcFH2nsQBuendhzs4hHMBsLw
+http://oldraindays.net/live/477597441/X542X5017h/21290.m3u8
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/d972d0600c64727540fe59bd74ca3629.png" group-title="️❤️ Andressa channels ❤️",Viva *FHD
+http://oldraindays.net/live/477597441/X542X5017h/21290.m3u8
 #EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 4K" tvg-logo="" group-title="FILMES & SERIES",HBO 2 4K
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/247
 #EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 HD" tvg-logo="" group-title="FILMES & SERIES",HBO 2 HD
@@ -78,8 +78,14 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/67
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/68
 #EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 4k
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/71
+#EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE *HD
+http://oldraindays.net/live/477597441/X542X5017h/2581.m3u8
+#EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE *4k
+http://oldraindays.net/live/477597441/X542X5017h/21297.m3u8
 #EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/72
+#EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://cdn.lvbxtv.com/live/49353447/gold815/107922.m3u8
 #EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER 4K" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER 4K
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/73
 #EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
@@ -98,12 +104,14 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/352
 http://hclient.pro:80/kuukrqtb/db53SkiF09/644874
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",Discovery Channel 4K
 http://p2.hostinggonemoreso1.com:2082/live/Tourobox1-MAIhGA0sDY/c9gCuNl04y/65.m3u8
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",Discovery Channel FHD
-http://topcine.fun:80/817056/key5f0e5x0L/261007.m3u8
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",Discovery Channel 2 FHD
-http://5ce.co:80/eeico1802/854409g/6620
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",Discovery Channel *3 FHD
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",Discovery Channel * FHD
+http://hzcdn.vood.top/live/477597441/X542X5017h/2575.m3u8
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",Discovery Channel *2 FHD
+http://oldraindays.net/live/477597441/X542X5017h/21338.m3u8
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",Discovery Channel 3 FHD
 http://cdn.lvbxtv.com/live/49353447/gold815/107913.m3u
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",Discovery Channel *4 FHD
+http://hzcdn.vood.top/live/477597441/X542X5017h/2575.m3u8
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/c9d4991f101b547da3f85beed0faf1a5.png" group-title="DOCUMENTARIOS",Discovery Home & Health FHD (H265)
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/1021
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/c9d4991f101b547da3f85beed0faf1a5.png" group-title="DOCUMENTARIOS",Discovery Home & Health 2 FHD
@@ -114,6 +122,8 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/815
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/81
 #EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="" group-title="DOCUMENTARIOS",H2 2 HD
 http://p2.hostinggonemoreso1.com:2082/live/Tourobox1-MAIhGA0sDY/c9gCuNl04y/815.m3u8
+#EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="" group-title="DOCUMENTARIOS",H2 *3 HD
+http://oldraindays.net/live/477597441/X542X5017h/21322.m3u8
 #EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV 4K" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="DOCUMENTARIOS",HGTV 4K
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/816
 #EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV HD" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="DOCUMENTARIOS",HGTV HD
@@ -122,8 +132,10 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/552
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/87
 #EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 1 HD
 http://p2.hostinggonemoreso1.com:2082/live/Tourobox1-MAIhGA0sDY/c9gCuNl04y/88.m3u8
-#EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 2 HD
-http://topcine.fun:80/817056/key5f0e5x0L/261045.m3u8
+#EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC * 2 HD
+http://oldraindays.net/live/477597441/X542X5017h/141268.m3u8
+#EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC * 3 HD
+http://oldraindays.net/live/477597441/X542X5017h/21260.m3u8
 #EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 3 HD
 http://cdn.lvbxtv.com/live/49353447/gold815/108166.m3u
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL 4K
@@ -131,19 +143,13 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/83
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/82
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD 2
-http://topcine.fun:80/817056/key5f0e5x0L/235009.m3u8
+http://oldraindays.net/live/477597441/X542X5017h/59173.m3u8
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD 3
 http://cdn.lvbxtv.com/live/49353447/gold815/126687.m3u
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC 4K" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC 4K
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/91
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC HD" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/92
-#EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 4k
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/71
-#EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/72
-#EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
-http://cdn.lvbxtv.com/live/49353447/gold815/107922.m3u8
 #EXTINF:-1 tvg-id="e6782d4e82ac2a0a70cd8332cae1997c" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/61
 #EXTINF:-1 tvg-id="e6782d4e82ac2a0a70cd8332cae1997c" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="DOCUMENTARIOS",ANIMAL PLANET  2 
