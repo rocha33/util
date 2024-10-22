@@ -257,7 +257,7 @@
     },
     {
         "channelName": "BAND SPORTS",
-        "link": "eXrcuj0NDMyduFITWBlWdZCf6jaLleFpG8JSy4m1Eo85r8V2rc9GBuGqErK4HCxJlxz/hXsfhuOuRz+uas2iow==",
+        "link": "cHKkeMj4SzUjkwJglxIyLXHpAJSqjmvW6l3dkaKu4zizbaBCyVsDFfLsAkKVcrn/mGEX3Vp70X+MfChGIUIqDA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -593,7 +593,7 @@
     },
     {
         "channelName": "SPORTV (Temporario)",
-        "link": "0KfDlYk5Hh+i8RZF2L4+cewYFEEG33nfN6i6WueBQoNtZYA7SBAelRvEIbPgxZIdFC9FDkwjuznbs3hEB5++MBXbDSAZx0NTYH86EhBTrZmtdSbvFD20MwKxilHC9n+p",
+        "link": "cHKkeMj4SzUjkwJglxIyLXHpAJSqjmvW6l3dkaKu4zizbaBCyVsDFfLsAkKVcrn/zRBwkPyuNAsx7lYnfhqd2Q==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -649,7 +649,7 @@
     },
     {
         "channelName": "VIVA",
-        "link": "8VzbAPMZHfMTZG/M8jLexslemebY7Gd76AZkUO0zc4QD9UkML94g+CBHigvYpS8VC1w5aAuRSZVhJS2GCPgUGw==",
+        "link": "cHKkeMj4SzUjkwJglxIyLXHpAJSqjmvW6l3dkaKu4zizbaBCyVsDFfLsAkKVcrn/jKH/ARunpCFj2Ybc0Qv7Gg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -726,15 +726,7 @@
         "contactpage": "",
         "categoria": "animacao",
         "pausado": 0
-    },
-    {
-        "channelName": "Canal da Praça (Temp)",
-        "link": "rTxy4XbT8OZoboelEXalTIdgK7mvN+Y0Pr8pvR6JkH3Uqs54V86YmD3SxWKUUWVN0OPRVmnmqeJkf8+uGW+KvuelCQJoiFA5zFVDcq2YlqU7xqz6F6LViIi9b3nDmswd1BLHFGUbH2EiQfkFaY0zDe85NOPLtGQXi2BLlCPQCMAC5qK9zVJUhnHd94VlEzNLx4uQOzT7TprcJxdy21kwvw==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "animacao",
-        "pausado": 0
-    },
+    },   
     {
         "channelName": "GNT (temp)",
         "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHfKd31oPzZXH9pCGq4HMJR7/3kjRD/QYdU01S9T+tEcQY=",
@@ -789,6 +781,14 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "pausado": 0
+    },
+    {
+        "channelName": "WARNER BROS (Temp)",
+        "link": "cHKkeMj4SzUjkwJglxIyLXHpAJSqjmvW6l3dkaKu4zizbaBCyVsDFfLsAkKVcrn/l9/Jz9Mnc2GV+tCgfR/r/g==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
         "pausado": 0
     }
 ]
