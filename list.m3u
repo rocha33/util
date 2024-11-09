@@ -62,6 +62,11 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/233
 http://xcvtal.com:80/live/477597441/X542X5017h/675.m3u8
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="FILMES & SERIES",AXN HD 2
 https://cdn-5.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES & SERIES",Warner Channel FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
+#EXTVLCOPT:http-referrer=https://embedmax.site/tvl/warnertv.php
+https://abc.embedmax.site/Warnertv/video.m3u8
+
 #EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" tvg-logo="" group-title="NOTICIAS",CNN BRASIL 4K
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/433
 #EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN - Brasil HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="❤️ Andressa channels ❤️",CNN - Brasil HD
@@ -108,16 +113,16 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/351
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/352
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/c9d4991f101b547da3f85beed0faf1a5.png" group-title="DOCUMENTARIOS",Disc. Home & Health 4K
 http://45.184.108.6:25461/live/445688993/44557733/2034.m3u8
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",Discovery Channel 4K
-http://p2.hostinggonemoreso1.com:2082/live/Tourobox1-MAIhGA0sDY/c9gCuNl04y/65.m3u8
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",Discovery Channel * FHD
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 4K
+http://brqnt.pro:80/live/2bernardo1066/11990251066/34934.m3u8
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL * FHD
 http://hzcdn.vood.top/live/477597441/X542X5017h/2575.m3u8
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",Discovery Channel *2 FHD
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL *2 FHD
 http://oldraindays.net/live/477597441/X542X5017h/21338.m3u8
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",Discovery Channel 3 FHD
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 3 FHD
 http://cdn.lvbxtv.com/live/49353447/gold815/107913.m3u
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",Discovery Channel *4 FHD
-http://hzcdn.vood.top/live/477597441/X542X5017h/2575.m3u8
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL *4 FHD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/65
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/c9d4991f101b547da3f85beed0faf1a5.png" group-title="DOCUMENTARIOS",Discovery Home & Health FHD (H265)
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/1021
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/c9d4991f101b547da3f85beed0faf1a5.png" group-title="DOCUMENTARIOS",Discovery Home & Health 2 FHD
@@ -153,7 +158,7 @@ http://oldraindays.net/live/477597441/X542X5017h/59173.m3u8
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD 3
 http://cdn.lvbxtv.com/live/49353447/gold815/126687.m3u
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD 4
-http://45.184.108.6:25461/live/445688993/44557733/71.m3u8
+http://brqnt.pro:80/live/2bernardo1066/11990251066/18248.m3u8
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC 4K" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC 4K
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/91
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC HD" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC HD
@@ -186,6 +191,8 @@ http://xcvtal.com/live/477597441/X542X5017h/244161.m3u8
 http://xcvtal.com/live/477597441/X542X5017h/244167.m3u8
 #EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT HD" tvg-logo="" group-title="SBT",SBT HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/540
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT HD" tvg-logo="" group-title="SBT",SBT MG HD
+http://brqnt.pro:80/live/2bernardo1066/11990251066/177045.m3u8
 #EXTINF:-1 tvg-id="Sbtrj.br" tvg-name="SBT RIO HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="SBT",SBT RIO HD²
 http://45.184.108.6:25461/live/445688993/44557733/24.m3u8
 #EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RecordTV SP HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Record",RecordTV SP HD²
@@ -195,7 +202,7 @@ http://play.1list.vip/live/Eliandroiptv31/5yubgs4blz8/37050.m3u8
 #EXTINF:-1 tvg-id="79a773fe452a6ff5dbd0dd21c20880bb" tvg-name="RECORD HD" tvg-logo="https://prostore.app/logos/record.png" group-title="Record",RECORD HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/523
 #EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD TV RS HD²" tvg-logo="https://prostore.app/logos/record.png" group-title="RECORD",RECORD TV RS HD²
-http://xcvtal.com:80/live/477597441/X542X5017h/244075.m3u8
+http://brqnt.pro:80/live/2bernardo1066/11990251066/43125.m3u8
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MultiShow" tvg-logo="http://storage4you.net:2095/logoscanais/MULTISHOW.png" group-title="MultiShow",MultiShow
 http://xcvtal.com:80/live/477597441/X542X5017h/377243.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="http://storage4you.net:2095/logoscanais/MULTISHOW.png" group-title="MultiShow",Multishow HD
@@ -204,18 +211,22 @@ http://smtr.mov:80/228463308/r576049x/377243
 http://play.1list.vip/live/Eliandroiptv31/5yubgs4blz8/36957.m3u8
 #EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW HD" tvg-logo="http://xplussport.com:8080/images/ae4a3a3f0fbe5ab8c657a87e77d45038.png" group-title="MultiShow",MULTISHOW HD 3
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/423
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="MultiShow",Multishow HD 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
+#EXTVLCOPT:http-referrer=https://embedmax.site/tvl/multishow.php
+https://abc.embedmax.site/multishow/video.m3u8
 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais SPORTV",🟢SporTV HD
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais SPORTV",SporTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
 #EXTVLCOPT:http-referrer=https://embedmax.site/tvl/sportv1.php
 https://abc.embedmax.site/sportv1/video.m3u8
 
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais SPORTV",🟢SporTV 2 HD
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais SPORTV",SporTV 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
 #EXTVLCOPT:http-referrer=https://embedmax.site/tvl/sportv2.php
 https://abc.embedmax.site/sportv2/video.m3u8
  
-#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais SPORTV",🟢SporTV 3 HD
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais SPORTV",SporTV 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
 #EXTVLCOPT:http-referrer=https://embedmax.site/tvl/sportv3.php
 https://abc.embedmax.site/sportv3/video.m3u8
