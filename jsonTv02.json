@@ -680,13 +680,13 @@
         "pausado": 0
     },
     {
-        "channelName": "SPORTV (Temporario)",
-        "link": "EhF1r/jdgpyRecHDplVuGS91WWb44YbAfqv2qnW0rREA0477EHpOYWYmTo4o0xp/",
+        "channelName": "SPORTV (Temporario) user",
+        "link": "uxjGjEfHSiFeo82xwcwIuGXVy5s2Mm7I79GDRzsUEI95zRMzRkouZmLow5AMJ0Q4",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent":"",
-        "referrer":"",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0",
+        "referrer":"https://embedmax.site/tvl/sportv1.php",
         "pausado": 0
     },   
     {
@@ -930,7 +930,7 @@
         "pausado": 0
     },
     {
-        "channelName": "TV BRASIL user",
+        "channelName": "TV RECORD BRASIL user",
         "link": "BIpdUTAjRasZCQUUVwZXaZc1q+BIOjIKaHnex1mRfrF5DzgHfQoEjCjYJdgRjXxfO+B+bhIZNIHFG6vcwMOQIw==",
         "ativo": 1,
         "contactpage": "",
