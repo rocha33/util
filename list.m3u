@@ -159,6 +159,11 @@ http://xcvtal.com/live/477597441/X542X5017h/363194.m3u8
 #EXTVLCOPT:http-referrer=https://jalynrabei.com/
 https://anonmedia.eu/nationalgeographic/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="DOCUMENTARIOS",TV BRASIL user
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/tvbrasil/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL 4K
 http://xcvtal.com:80/live/477597441/X542X5017h/2615.m3u8
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD

@@ -5,6 +5,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },   
     {
@@ -13,6 +15,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -21,6 +25,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -29,6 +35,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -37,6 +45,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -45,6 +55,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },    
     {
@@ -53,6 +65,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -61,6 +75,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -69,6 +85,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },  
     {
@@ -77,6 +95,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -85,6 +105,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -93,6 +115,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -101,6 +125,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -109,6 +135,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },   
     {
@@ -117,6 +145,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -125,6 +155,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -133,6 +165,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -141,6 +175,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -149,6 +185,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "noticias",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -157,6 +195,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },   
     {
@@ -165,6 +205,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -173,6 +215,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -181,6 +225,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -189,6 +235,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -197,6 +245,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -205,6 +255,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "musical",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -213,6 +265,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -221,6 +275,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },   
     {
@@ -229,6 +285,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "religiao",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },    
     {
@@ -237,6 +295,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -245,6 +305,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -253,6 +315,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -261,6 +325,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },  
     {
@@ -269,6 +335,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },    
     {
@@ -277,6 +345,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -285,6 +355,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -293,6 +365,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },    
     {
@@ -301,6 +375,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -309,6 +385,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -317,6 +395,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },    
     {
@@ -325,6 +405,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -333,6 +415,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -341,6 +425,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -349,6 +435,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -357,6 +445,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },  
     {
@@ -365,6 +455,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },  
     {
@@ -373,6 +465,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },   
     {
@@ -381,6 +475,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -389,6 +485,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -397,6 +495,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     }, 
     {
@@ -405,6 +505,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },   
     {
@@ -413,6 +515,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -421,6 +525,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -429,6 +535,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },    
     {
@@ -437,6 +545,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -445,6 +555,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -453,6 +565,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -461,6 +575,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -469,6 +585,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -477,6 +595,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -485,6 +605,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -493,6 +615,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },      
     {
@@ -501,6 +625,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -509,6 +635,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },  
     {
@@ -517,6 +645,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -525,6 +655,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -533,6 +665,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -541,6 +675,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -549,6 +685,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },   
     {
@@ -557,6 +695,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     }, 
     {
@@ -565,6 +705,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },  
     {
@@ -573,6 +715,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -581,6 +725,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -589,6 +735,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -597,6 +745,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -605,6 +755,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -613,6 +765,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -621,6 +775,8 @@
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -629,6 +785,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -637,6 +795,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -645,6 +805,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -653,6 +815,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -661,6 +825,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -669,6 +835,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -677,6 +845,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },   
     {
@@ -685,6 +855,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -693,6 +865,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -701,6 +875,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -709,6 +885,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -717,6 +895,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -725,6 +905,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },    
     {
@@ -733,6 +915,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -741,6 +925,18 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
+        "pausado": 0
+    },
+    {
+        "channelName": "TV BRASIL",
+        "link": "kTuBtJ3kBubMutTwHvd/Qun72bJctJU8t2kT3mhSHyEZ3oSxMmiQ8gqw+LUqbKZdl0MJXq1c6KqW7qnQeaEzjQ==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "referrer":"https://jalynrabei.com/",
         "pausado": 0
     }
 ]
