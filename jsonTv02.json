@@ -60,6 +60,16 @@
         "pausado": 0
     },    
     {
+        "channelName": "RECORDTV BRASIL user",
+        "link": "BIpdUTAjRasZCQUUVwZXaZc1q+BIOjIKaHnex1mRfrF5DzgHfQoEjCjYJdgRjXxfO+B+bhIZNIHFG6vcwMOQIw==",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "referrer":"https://jalynrabei.com/",
+        "pausado": 0
+    }, 
+    {
         "channelName": "Global TV",
         "link": "gq9eyqDAP1s3nVth14QaTaOsQk43bhdtLvRHNopEc253DTjCKa07sSn59Mqpbe6WgpmHXgDrhDk3fJ2PAiRkaw==",
         "ativo": 1,
@@ -927,16 +937,6 @@
         "categoria": "filmes",
         "userAgent":"",
         "referrer":"",
-        "pausado": 0
-    },
-    {
-        "channelName": "TV RECORD BRASIL user",
-        "link": "BIpdUTAjRasZCQUUVwZXaZc1q+BIOjIKaHnex1mRfrF5DzgHfQoEjCjYJdgRjXxfO+B+bhIZNIHFG6vcwMOQIw==",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
-        "referrer":"https://jalynrabei.com/",
         "pausado": 0
     }
 ]
