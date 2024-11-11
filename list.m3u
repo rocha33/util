@@ -20,6 +20,28 @@ http://smtr.mov:80/228463308/r576049x/377238
 #EXTVLCOPT:http-referrer=https://embedmax.site/tvl/gnt.php
 https://abc.embedmax.site/gnt/video.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="",ESPN  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
+#EXTVLCOPT:http-referrer=https://embedmax.site/
+https://abc.embedmax.site/ESPN1/tracks-v1a1/mono.m3u8?sdf
+
+
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="❤️ Andressa channels ❤️",VIVA user
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaistv.site/viva/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="",GLOBO SP user
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
+#EXTVLCOPT:http-referrer=https://embedmax.site/
+https://abc.embedmax.site/Globosp/tracks-v1a1/mono.m3u8?sdf
+
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="",RECORDTV user
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
+#EXTVLCOPT:http-referrer=https://embedmax.site/
+https://abc.embedmax.site/Recordsp/tracks-v1a1/mono.m3u8?sdf
+
+
 #EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA 4K" tvg-logo="" group-title="❤️ Andressa channels ❤️",VIVA 01 4K
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/114
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/d972d0600c64727540fe59bd74ca3629.png" group-title="️❤️ Andressa channels ❤️",Viva 02 4K
@@ -164,10 +186,12 @@ https://anonmedia.eu/nationalgeographic/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://jalynrabei.com/
 https://anonmedia.eu/tvbrasil/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="DOCUMENTARIOS",CHAVES user
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="OUTROS",CHAVES user
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.site/24h-chaves/video.m3u8
+
+
 
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL 4K
 http://xcvtal.com:80/live/477597441/X542X5017h/2615.m3u8
