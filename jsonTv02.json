@@ -814,7 +814,7 @@
         "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHfKd31oPzZXH9pCGq4HMJR73z17VngPhmUKAKWK+Oy+8E=",
         "ativo": 0,
         "contactpage": "",
-        "categoria": "outros",
+        "categoria": "documentarios",
         "userAgent":"",
         "referrer":"",
         "pausado": 0
@@ -892,6 +892,16 @@
     {
         "channelName": "ESPN (temp)",
         "link": "uxjGjEfHSiFeo82xwcwIuI0Kksjv2InoAsZDb2Azfxp75EjRxi5T0RoKheYAy7lRjbFA5m54wW1cJuQfWspZhQ==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
+        "referrer":"https://embedmax.site/",
+        "pausado": 0
+    },
+    {
+        "channelName": "ESPN 2 (temp)",
+        "link": "uxjGjEfHSiFeo82xwcwIuEQjHny69oAGbLDd/TEswSSAigysVl33EbAFLnKMTk7fyyabZMwGBYylzcJP8ryBqQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
