@@ -16,14 +16,20 @@ https://xcvtal.com/live/477597441/X542X5017h/377239.m3u8
 http://smtr.mov:80/228463308/r576049x/377238
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="GNT",GNT SD 09 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedmax.site/tvl/gnt.php
-https://abc.embedmax.site/gnt/video.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
+#EXTVLCOPT:http-referrer=https://embedmax.site/
+https://abc.embedmax.site/gnt/tracks-v1a1/mono.m3u8?sdf
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="",ESPN  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
 #EXTVLCOPT:http-referrer=https://embedmax.site/
 https://abc.embedmax.site/ESPN1/tracks-v1a1/mono.m3u8?sdf
+
+
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="",AMC user 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
+#EXTVLCOPT:http-referrer=https://embedmax.site/
+https://abc.embedmax.site/amc/tracks-v1a1/mono.m3u8?sdf
 
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="❤️ Andressa channels ❤️",VIVA user
