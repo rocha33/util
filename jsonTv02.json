@@ -440,6 +440,16 @@
         "pausado": 0
     },
     {
+        "channelName": "GLOBO NORDESTE",
+        "link": "uxjGjEfHSiFeo82xwcwIuGewnOwbasyOwtZmByLQUDH0XMLoTZY9LNBgdpSz/rJ2BJhhxFBdwD+o8abLACh6O39T9HNyGYu+yuorRa6LwMk=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
+        "referrer":"https://embedmax.site/",
+        "pausado": 0
+    },
+    {
         "channelName": "GLOBO TV MIRANTE",
         "link": "zR9cSJisJ2XjPXBe8VbAqMcc5NV6XGIMPsT+USgPTJ5WhklQD/qDhQakhkFBt5rT",
         "ativo": 0,
@@ -715,10 +725,30 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
+        "referrer":"https://embedflix.top/",
+        "pausado": 0
+    },     
+    {
+        "channelName": "SPORTV 2 (Temporario)",
+        "link": "MkYkAVjJCvvknH15MRrG5CTeyVYY7agG9Bxv37E3pbGrX3rQBODny8HPE+XTbP6D",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
         "userAgent":"",
         "referrer":"",
         "pausado": 0
-    },  
+    },
+    {
+        "channelName": "SPORTV 2 HD (Temporario)",
+        "link": "uxjGjEfHSiFeo82xwcwIuGXVy5s2Mm7I79GDRzsUEI8jwQi2O8mQHSQyPchwghW1",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
+        "referrer":"https://embedmax.site/",
+        "pausado": 0
+    },
     {
         "channelName": "TNT Novelas",
         "link": "ZmmZ/FeJJr+llJQ5mWeW/Ki7ckiqNehHwNdJDAOS2E8TgsCrjVY92Hmo6vSygjLLUTKwQeO5E2bJOLkSqA/TZw==",
@@ -947,6 +977,26 @@
         "categoria": "filmes",
         "userAgent":"",
         "referrer":"",
+        "pausado": 0
+    },
+    {
+        "channelName": "MULTISHOW",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/OX4SGKuJvcPuvzrKqaXChU2cs+gwsunSwHIVfJmi/wZhAoSay6g1lXP8HGTHqEs7g==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "musical",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
+        "pausado": 0
+    },   
+    {
+        "channelName": "MEGAPIX",
+        "link": "uxjGjEfHSiFeo82xwcwIuOi0vLkdjOkAgn1HDDxqIi/081h80yLmI5bBuVXMql6pW/SSRD10vLIQYXIMDVEetA==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
+        "referrer":"https://embedmax.site/",
         "pausado": 0
     }
 ]
