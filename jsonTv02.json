@@ -700,13 +700,13 @@
         "pausado": 0
     },
     {
-        "channelName": "SPORTV (Temporario) user",
-        "link": "uxjGjEfHSiFeo82xwcwIuGXVy5s2Mm7I79GDRzsUEI95zRMzRkouZmLow5AMJ0Q4",
+        "channelName": "SPORTV (Temporario)",
+        "link": "dZaIJm600Pao5KPwoFqNQDJqIsXBdAEbJwElAwnCBb+xbVY2Cr/bnF18dmx+koFkYTTN2byMlO72wr5t3yRfpA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0",
-        "referrer":"https://embedmax.site/tvl/sportv1.php",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },   
     {
@@ -731,12 +731,12 @@
     },     
     {
         "channelName": "SPORTV 2 (Temporario)",
-        "link": "MkYkAVjJCvvknH15MRrG5CTeyVYY7agG9Bxv37E3pbGrX3rQBODny8HPE+XTbP6D",
+        "link": "dZaIJm600Pao5KPwoFqNQMMjOhjFARelCmqQIj3t4vmpNJqZ8hbVXrz2fXpsEzQ43TCtS3n6jXzDGrji/GfrvQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
-        "referrer":"https://embedflix.top/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -931,12 +931,12 @@
     },
     {
         "channelName": "ESPN 2 (temp)",
-        "link": "MkYkAVjJCvvknH15MRrG5HCe+DinuZ78oXLIPL2txifSzptOm1vnTuBZ2Sux3iy2WX14PBG0fsKwLYEBu8V0+w==",
+        "link": "dZaIJm600Pao5KPwoFqNQBM5LWnBsWSYYZC4jjBF0F9+bYJhUUAnRLwnz7noTzug5b7CO7+SVtm9k81nr6uWmw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
-        "referrer":"https://embedmax.site/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -991,12 +991,12 @@
     },   
     {
         "channelName": "MEGAPIX",
-        "link": "uxjGjEfHSiFeo82xwcwIuOi0vLkdjOkAgn1HDDxqIi/081h80yLmI5bBuVXMql6pW/SSRD10vLIQYXIMDVEetA==",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/CAb547KWJrCneS4PW+A8UBcYejmFL/hW7KCupukZJmyDHJHTbAnHxmN2XUTY3BwTg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
-        "referrer":"https://embedmax.site/",
+        "referrer":"https://embedcanaistv.com/",
         "pausado": 0
     }
 ]

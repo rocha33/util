@@ -56,7 +56,7 @@ https://abc.embedmax.site/bandnews/tracks-v1a1/mono.m3u8?sdf
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="NOTICIAS",ESPN 2 user
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
 #EXTVLCOPT:http-referrer=https://embedmax.site/
-https://abc.embedmax.site/espn2/tracks-v1a1/mono.m3u8?sdf
+https://abc.embedmax.site/espn2/video.m3u8
 
 
 #EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA 4K" tvg-logo="" group-title="❤️ Andressa channels ❤️",VIVA 01 4K
