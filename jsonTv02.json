@@ -231,7 +231,7 @@
     },
     {
         "channelName": "BAND RJ", 
-        "link": "kTuBtJ3kBubMutTwHvd/Qun72bJctJU8t2kT3mhSHyH8xoD0yO/4oJ6MgOfVsXW4A+bUsyfLzTkci/biLzDCvQ==",
+        "link": "Y5y+3f/DQ0Y+Oh+4PoOflAHiXQK4Bku9LIBc1d1WR9gGWecPlcdhPZaKvglvB6nJgQkxhklqS0Xl/62YguROfA==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -321,7 +321,7 @@
     },
     {
         "channelName": "BAND SPORTS SD",
-        "link": "uxjGjEfHSiFeo82xwcwIuOhRAgrRIlRK8RS1WXJPf9AWk2rSzwCXlYuFiumOles6",
+        "link": "uxjGjEfHSiFeo82xwcwIuOhRAgrRIlRK8RS1WXJPf9BJ9l7IqclYRkiCo+3ZmNTS9fgCCiVmtYtOLAy/hdDVOg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -361,12 +361,12 @@
     },
     {
         "channelName": "BAND NEWS",
-        "link": "5Mr0H0YuVjVBqABwFs//vW29gJ9yjDL9A1Glhk/9HSSzth49EBvxl3Lj8rSYlZfxG+Gsd+gh0RyFen3sqKL2gQ==",
+        "link": "uxjGjEfHSiFeo82xwcwIuAcNTppcHQyrfHpVOB1B2+BihaPmMbZX6TrxhH3rbrPphBN9UFvXdyNzEarWwtkOLw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
-        "userAgent":"",
-        "referrer":"",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
+        "referrer":"https://embedmax.site/",
         "pausado": 0
     },
     {
@@ -641,12 +641,12 @@
     },      
     {
         "channelName": "BAND SP",
-        "link": "kTuBtJ3kBubMutTwHvd/Qp5wUVMQrm3RHkaAQWn6J/gvqEX5rUXMsrmkYKhNPImkCcD/3KOObRQFqMDIhBg7VQ==",
+        "link": "uxjGjEfHSiFeo82xwcwIuFd3yuQ+LDUr7io9p69/P1gayWgv32nIcffh3J0Y3xI3m8VDBQguPJibi2wDgpJBUQ==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"",
-        "referrer":"",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
+        "referrer":"https://embedmax.site/",
         "pausado": 0
     },
     {
