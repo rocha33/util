@@ -41,14 +41,10 @@ https://abc.embedmax.site/amc/tracks-v1a1/mono.m3u8?sdf
 https://embedcanaistv.site/viva/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="",GLOBO SP user
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
-#EXTVLCOPT:http-referrer=https://embedmax.site/
-https://abc.embedmax.site/Globosp/tracks-v1a1/mono.m3u8?sdf
+http://78.159.119.122:2082/Tourobox1-CAX9iKGdhv/sIKkzfZ832/511
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="",RECORDTV user
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
-#EXTVLCOPT:http-referrer=https://embedmax.site/
-https://abc.embedmax.site/Recordsp/tracks-v1a1/mono.m3u8?sdf
+http://78.159.119.122:2082/Tourobox1-CAX9iKGdhv/sIKkzfZ832/523
 
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="NOTICIAS",BAND NEWS user
@@ -132,7 +128,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/65
 #EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY H&H 4K" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="DOCUMENTARIOS",DISCOVERY H&H 4K
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/67
 #EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY H&H HD" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/68
+http://78.159.119.122:2082/Tourobox1-CAX9iKGdhv/sIKkzfZ832/65
 
 #EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE user
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
@@ -195,7 +191,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/81
 #EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="" group-title="DOCUMENTARIOS",H2 2 HD
 http://p2.hostinggonemoreso1.com:2082/live/Tourobox1-MAIhGA0sDY/c9gCuNl04y/815.m3u8
 #EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="" group-title="DOCUMENTARIOS",H2 *3 HD
-http://45.184.108.6:25461/live/445688993/44557733/10244.m3u8
+http://78.159.119.122:2082/Tourobox1-CAX9iKGdhv/sIKkzfZ832/81
 #EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV 4K" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="DOCUMENTARIOS",HGTV 4K
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/816
 #EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV HD" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="DOCUMENTARIOS",HGTV HD
@@ -266,7 +262,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/491
 #EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="" group-title="GLOBO",GLOBO TV LIBERAL BELEM HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/773
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="GLOBO",GLOBO BRASILIA HD
-http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/95986
+http://78.159.119.122:2082/Tourobox1-CAX9iKGdhv/sIKkzfZ832/490
 #EXTINF:-1 tvg-id="" tvg-name="SBT PARANA" tvg-logo="https://iili.io/Jm1qBzx.png" group-title="SBT",SBT PARANA
 http://xcvtal.com/live/477597441/X542X5017h/244161.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://iili.io/Jm1qBzx.png" group-title="SBT",SBT RJ HD
@@ -299,9 +295,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/423
 https://abc.embedmax.site/multishow/video.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais SPORTV",SporTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedmax.site/tvl/sportv1.php
-https://abc.embedmax.site/sportv1/video.m3u8
+http://78.159.119.122:2082/Tourobox1-CAX9iKGdhv/sIKkzfZ832/178
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais SPORTV",SporTV op 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
