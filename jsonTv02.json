@@ -351,12 +351,12 @@
     },    
     {
         "channelName": "BAND NEWS HD",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/FOCBw9Rt4hQj26WSaRcvNPggS03cU9UmdpTUfqBfGSGhIRcGqwijI9M62oZEdakaw==",
+        "link": "4Hj6L0crdowHXREWlIAHpMW4scE7XOpyKe2VAqdtrRPttKIE1fHeiBG1K1r0u8R1bamAtsW75su39IR5deL9BTu1eqwwfYq1oWpx/Aov3WI=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -461,12 +461,12 @@
     },
     {
         "channelName": "GLOBO RIO",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/HpsR7z6CrAeyvT12rSCjHqZ/coy2Dfx1lspUxWA0nfLtQjGjUCRGRCU4PeUPnjW9w==",
+        "link": "yJLs0nj4L6jsw8F2HJizeFt0yFaGvcaxOMA0z8cO7ncyDcXU3zS3/etQEWE4XOi0aDvVllpUTqngViOUmi8CH5KrHE8xS5ZuJgSXaeVeMkI=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },  
     {
