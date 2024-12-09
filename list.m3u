@@ -202,18 +202,16 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/552
 #EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC 4K" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 4K
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/87
 #EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 1 HD
-http://p2.hostinggonemoreso1.com:2082/live/Tourobox1-MAIhGA0sDY/c9gCuNl04y/88.m3u8
+http://authxplus-2.xyz:2082/Tourobox2-iUsHQIveFh/gfYUv3mCjg/88
 #EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC * 2 HD
 http://oldraindays.net/live/477597441/X542X5017h/141268.m3u8
 #EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC * 3 HD
 http://oldraindays.net/live/477597441/X542X5017h/21260.m3u8
 #EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 3 HD
-http://xcvtal.com/live/477597441/X542X5017h/363194.m3u8
+http://78.159.119.122:2082/Tourobox1-CAX9iKGdhv/sIKkzfZ832/88
 
-#EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC user
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
-#EXTVLCOPT:http-referrer=https://jalynrabei.com/
-https://embedcanaistv.site/nationalgeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 4
+https://abc.embedmax.site/nationalgeographic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="DOCUMENTARIOS",TV BRASIL user
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0

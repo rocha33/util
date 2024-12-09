@@ -298,7 +298,17 @@
         "userAgent":"",
         "referrer":"",
         "pausado": 0
-    },   
+    },  
+    {
+        "channelName": "TOONCAST",
+        "link": "lU9TQfrpSJ9fQfAzABYVmq00uZvGBzSlF92iG/ANNgVFYKpvlEvG1xazHcn3TUgy",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "animacao",
+        "userAgent":"",
+        "referrer":"",
+        "pausado": 0
+    },  
     {
         "channelName": "Tv Espírita Do Paraná",
         "link": "5JZOGzk4NdYX00ibMK3UxZF15NhZLonwQTOpVqDpuwYzi+v0lp4PWwE+DYeq5nuiYkadRADtttDXViRJiH3q5otJvK9giSpIAItd3hFsnO0=",
