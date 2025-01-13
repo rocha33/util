@@ -571,7 +571,7 @@
     },
     {
         "channelName": "Chespirito (temporario)",
-        "link": "lU9TQfrpSJ9fQfAzABYVmq00uZvGBzSlF92iG/ANNgUwWfrfuz59OBB7sqUnhUPm",
+        "link": "cHKkeMj4SzUjkwJglxIyLcOQu34iQCYTTmt3/6/TX2n+eDgGcZClnpv3o/McQC9vSfUc8odZdChkUEs3UE/Z/A==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -721,7 +721,7 @@
     },
     {
         "channelName": "SPORTV (Temporario)",
-        "link": "dZaIJm600Pao5KPwoFqNQDJqIsXBdAEbJwElAwnCBb+xbVY2Cr/bnF18dmx+koFkYTTN2byMlO72wr5t3yRfpA==",
+        "link": "4Hj6L0crdowHXREWlIAHpHkameLqFHKT8816o1YBNoF/0N2Lm/5vuAc4HiBOa+FgFTM0FUltxGYAlKvcxm6u+U8c/Ec7JY9gZcdAMZp75P8=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -751,7 +751,7 @@
     },     
     {
         "channelName": "SPORTV 2 (Temporario)",
-        "link": "dZaIJm600Pao5KPwoFqNQMMjOhjFARelCmqQIj3t4vmpNJqZ8hbVXrz2fXpsEzQ43TCtS3n6jXzDGrji/GfrvQ==",
+        "link": "yJLs0nj4L6jsw8F2HJizeBJrCqNs/sqbSdChAfFZUEJWzYyZhGSZdWzJ9pqlWetpoi+VgoGOP8smE59Sf84ueCoq4E67OeM2BKl2qr4u4vQ=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -961,7 +961,17 @@
     },
     {
         "channelName": "ESPN (temp)",
-        "link": "dZaIJm600Pao5KPwoFqNQJQitpLKrCn0svNXNW2kXdniArRaaT8dyLtFiE3hzfBtn/lkn4OaFfXh5+ZhZghQmQ==",
+        "link": "4Hj6L0crdowHXREWlIAHpHkameLqFHKT8816o1YBNoF/0N2Lm/5vuAc4HiBOa+FgFTM0FUltxGYAlKvcxm6u+SosCeHTtWtEcpJ+16JOnZ0=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
+        "pausado": 0
+    },
+    {
+        "channelName": "ESPN SD(temp)",
+        "link": "cHKkeMj4SzUjkwJglxIyLcOQu34iQCYTTmt3/6/TX2n+eDgGcZClnpv3o/McQC9vYGMcNQpdokOvznboaj36Fw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -971,7 +981,17 @@
     },
     {
         "channelName": "ESPN 2 (temp)",
-        "link": "dZaIJm600Pao5KPwoFqNQBM5LWnBsWSYYZC4jjBF0F9+bYJhUUAnRLwnz7noTzug5b7CO7+SVtm9k81nr6uWmw==",
+        "link": "4Hj6L0crdowHXREWlIAHpHkameLqFHKT8816o1YBNoF/0N2Lm/5vuAc4HiBOa+FgFTM0FUltxGYAlKvcxm6u+dnI25svChQNS+irrdQF+2M=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
+        "pausado": 0
+    },
+    {
+        "channelName": "ESPN 2 SD (temp)",
+        "link": "cHKkeMj4SzUjkwJglxIyLcOQu34iQCYTTmt3/6/TX2n+eDgGcZClnpv3o/McQC9vmmhuc6t9zt9fA4RVx+EQ2Q==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
