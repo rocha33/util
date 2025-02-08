@@ -22,12 +22,14 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/107
 https://xcvtal.com/live/477597441/X542X5017h/377239.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="GNT",GNT SD 08
-http://84.16.253.5:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/79
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
+#EXTVLCOPT:http-referrer=https://embedstream.org/
+https://anonstream.zip/gnt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="GNT",GNT SD 09 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
-#EXTVLCOPT:http-referrer=https://jalynrabei.com/
-https://anonmedia.eu/gnt/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaistv.site/gnt/tracks-v1a1l1/mono.ts.m3u8
 
 
 
@@ -176,8 +178,8 @@ http://45.184.108.6:25461/live/445688993/44557733/2034.m3u8
 
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
-#EXTVLCOPT:http-referrer=https://jalynrabei.com
-https://anonmedia.eu/discoverychannel/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://embedstream.org/
+https://anonstream.zip/discoverychannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL * FHD
 http://hzcdn.vood.top/live/477597441/X542X5017h/2575.m3u8
