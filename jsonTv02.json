@@ -1051,32 +1051,42 @@
     },
     {
         "channelName": "WARNER BROS (Temp)",
-        "link": "J60ynWsCBfDNNHHYj2Vl0c3KRCwASDl+iNYq2bo+Pkz6T20yFUQY7cAVb/D1uIn1diXuw/yAq2PkBMOonNEqzrjD5Ccb/lXfN91DPzZ2plMpSzViWJ3jF0USLkeY7US28CzYHNtF8Y+PGASaL0CYvw==",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/LC9fZM8bhqiQL/NWzBnnB17fpC6fxxduXC9zfQLTI8tsydZM72PkdgL8ru08X+Agg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent":"",
-        "referrer":"",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
         "pausado": 0
     },
     {
         "channelName": "MULTISHOW",
-        "link": "J60ynWsCBfDNNHHYj2Vl0c3KRCwASDl+iNYq2bo+Pkz6T20yFUQY7cAVb/D1uIn18ZCHOYcpjOOAZYZozUnIGDl9KCnrEmvej/fcGEVlMG9qQGcS6NOz/RvISK8zNVxqj9llTSo2YJ64ZUdfZkusFg==",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/OX4SGKuJvcPuvzrKqaXChU2cs+gwsunSwHIVfJmi/wZ5irMU971dVko4r2Iz0NHfw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
-        "userAgent":"",
-        "referrer":"",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
         "pausado": 0
     },   
     {
         "channelName": "MEGAPIX",
-        "link": "J60ynWsCBfDNNHHYj2Vl0c3KRCwASDl+iNYq2bo+Pkz6T20yFUQY7cAVb/D1uIn18ZCHOYcpjOOAZYZozUnIGDl9KCnrEmvej/fcGEVlMG8sS9afS3giMQ92EMTCezug9hxX/MBRJ9eKhOxsKCfU/g==",
+        "link": "WTIpL4xatl9QO0dBX9RXjR/B84oYPHHmHFUPqetKdSehYhgahdmRrUSvi06CcydX",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent":"",
-        "referrer":"",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0",
+        "referrer":"https://embedstream.org/",
+        "pausado": 0
+    },
+    {
+        "channelName": "MEGAPIX SD",
+        "link": "WTIpL4xatl9QO0dBX9RXje0wFHZsBTBcIwSgBX32cmETng8LP7ccA2lUJ8X5xiGEerJZCdjaicLsiz/EteIEHw==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0",
+        "referrer":"https://embedstream.org/",
         "pausado": 0
     },
     {

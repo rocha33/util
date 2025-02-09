@@ -121,9 +121,9 @@ http://xcvtal.com:80/live/477597441/X542X5017h/675.m3u8
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="FILMES & SERIES",AXN HD 2
 https://cdn-5.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES & SERIES",Warner Channel FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedmax.site/tvl/warnertv.php
-https://abc.embedmax.site/Warnertv/video.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaistv.site/warner/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" tvg-logo="" group-title="NOTICIAS",CNN BRASIL 4K
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/433
@@ -310,8 +310,12 @@ http://play.1list.vip/live/Eliandroiptv31/5yubgs4blz8/37050.m3u8
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/523
 #EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD TV RS HD²" tvg-logo="https://prostore.app/logos/record.png" group-title="RECORD",RECORD TV RS HD²
 http://brqnt.pro:80/live/2bernardo1066/11990251066/43125.m3u8
+
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MultiShow" tvg-logo="http://storage4you.net:2095/logoscanais/MULTISHOW.png" group-title="MultiShow",MultiShow
-http://xcvtal.com:80/live/477597441/X542X5017h/377243.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaistv.site/multishow/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="http://storage4you.net:2095/logoscanais/MULTISHOW.png" group-title="MultiShow",Multishow HD
 http://smtr.mov:80/228463308/r576049x/377243
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="https://i.imgur.com/u1Dm4Z0.png" group-title="MultiShow",Multishow HD 2
