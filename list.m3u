@@ -50,8 +50,11 @@ https://abc.embedmax.site/amc/tracks-v1a1/mono.m3u8?sdf
 #EXTVLCOPT:http-referrer=https://jalynrabei.com/
 https://anonmedia.eu/viva/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="",GLOBO SP user
-http://78.159.119.122:2082/Tourobox1-CAX9iKGdhv/sIKkzfZ832/511
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="",GLOBO RJ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaistv.site/globorj/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="",RECORDTV user
 http://78.159.119.122:2082/Tourobox1-CAX9iKGdhv/sIKkzfZ832/523

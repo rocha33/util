@@ -431,12 +431,12 @@
     },    
     {
         "channelName": "GLOBO RIO SD",
-        "link": "E6331fKFakWBwGROYEPyq0+O2H0u9SBFSlPPre9XhpWk97rJ8M4eQWRLr1hy60v+AoMMG90c9ENgN1R+aR/gvxODHMxnclpKWGK6EwVNcqs=",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/HpsR7z6CrAeyvT12rSCjHqZ/coy2Dfx1lspUxWA0nfLXgidt2zS/f8tDkmEcCAJkg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"",
-        "referrer":"",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
         "pausado": 0
     },
     {
@@ -551,17 +551,17 @@
     },   
     {
         "channelName": "GLOBO NEWS",
-        "link": "J60ynWsCBfDNNHHYj2Vl0c3KRCwASDl+iNYq2bo+Pkz6T20yFUQY7cAVb/D1uIn1diXuw/yAq2PkBMOonNEqzrjD5Ccb/lXfN91DPzZ2plPkQVfYGmAEmTUliC91lgSXrvmPCEdcdP09QSOSafMdzA==",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/HpsR7z6CrAeyvT12rSCjHqmz5ZUrb2a4iZF5L6FF8qmKV/MvuqJ8xcHSHWO4MeJSg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
-        "userAgent":"",
-        "referrer":"",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
         "pausado": 0
     },
     {
         "channelName": "GLOBO NEWS HD",
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHfKd31oPzZXH9pCGq4HMJR73K9SnVgORKbTxZWeC3A+xI=",
+        "link": "dZaIJm600Pao5KPwoFqNQLmfVW6F3Y8Ud54xtsK1H8xWWl0MyHUXQjpBYvLrO+JAzAn6hd59TSP2wtAUpSCuSg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
