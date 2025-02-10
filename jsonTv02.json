@@ -101,7 +101,7 @@
     },  
     {
         "channelName": "SBT",
-        "link": "4Hj6L0crdowHXREWlIAHpNvF/TZf8qcz1SgbH55jKz0+AVxYZuTB/Rg3bpwhigDqfcMnIk+Y+8v+vz2wgLniNQ==",
+        "link": "oEWFpJfJSuvyWLJ2trSnzl+2lY8IeAIg5xtvyVJnt2kNiWfabkBG5hwSBHalYiYpPuEmLYov83ufUJLQZ7JIczO5JPNg3M9lnZuRQ7w5shY=",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -381,12 +381,12 @@
     },
     {
         "channelName": "BAND NEWS",
-        "link": "4Hj6L0crdowHXREWlIAHpOtvfW4RbTB0rGlGmPaJhdgvZasw0qQgiGR28WGUt21jxOnkP3xtu6zNPFzrrCkxMralpjBEtc/g1cWbOCThlS4=",
+        "link": "WTIpL4xatl9QO0dBX9RXjX3jlhwssyhxNUoM46Jm8MVXdQVJ5o3oj9W81ZIgBYtT7zcRwmQ8XESNVGv9PY4AjA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
-        "userAgent":"",
-        "referrer":"",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0",
+        "referrer":"https://embedstream.org/",
         "pausado": 0
     },
     {
@@ -521,12 +521,12 @@
     },
     {
         "channelName": "GLOBO BA",
-        "link": "YtBTQl0n/+XP7r5Do/8S2A3a38S0YjY6vU486bMoLhDD4zgWdwQPcGusXhE5j8I1tN6D8TIGdS809hNCyjStGw==",
+        "link": "WTIpL4xatl9QO0dBX9RXjUs6FsaDolo5SEMsUR3PoFsMgZYJrMi81yhiORFi0p8TV21JFlPXl3R4P0X0AoGZjw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"",
-        "referrer":"",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0",
+        "referrer":"https://embedstream.org/",
         "pausado": 0
     },
     {
@@ -611,7 +611,7 @@
     },
     {
         "channelName": "SBT SP SD",
-        "link": "kTuBtJ3kBubMutTwHvd/Qun72bJctJU8t2kT3mhSHyHWC3tInPG2muzXXMgpeJ6KGoo1R+CpihLPGpv2bJan3Q==",
+        "link": "wiC7mG02B432FmXmauFL8zvddp1NdOd4SajhXyvGZrJLaclLECGr6y/w7ZuvJ+8b2jmNP9vYjU17GEL250qO5iCFUoZe3GBlSEmxF7UjmbK4apxy6VNIsAVH3d9WRXQU",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -1021,12 +1021,12 @@
     },
     {
         "channelName": "AMC FHD (temp)",
-        "link": "rQMe5GpUTI2kqZ8Kz47aaUolAQWgMJl+pEwaJPWyGtalZcCCwyl1o/IBRF2w0mBp5tTLYWs3ndK9+4V/NiQnpA==",
+        "link": "WTIpL4xatl9QO0dBX9RXjbdRwAeeSGlOrsFKFAYOrYb1+kJQnKvjwzW2+7F2YGws",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent":"",
-        "referrer":"",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0",
+        "referrer":"https://embedstream.org/",
         "pausado": 0
     },    
     {
