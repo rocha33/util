@@ -481,7 +481,7 @@
     },
     {
         "channelName": "GLOBO RIO",
-        "link": "J60ynWsCBfDNNHHYj2Vl0c3KRCwASDl+iNYq2bo+Pkz6T20yFUQY7cAVb/D1uIn1diXuw/yAq2PkBMOonNEqzrjD5Ccb/lXfN91DPzZ2plM1qBhNrFBePZEZaNYAOlFSWfLRibF8nKV0SVRWw7pKPg==",
+        "link": "gUHxyVeGRwiKa0BGU0m4dnWDv0G1OIiznTuiqhZ43f/pklipK7dq6tq7pPfXkCUaAEIyE6s8ub99XbMhK5MRmQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -511,7 +511,7 @@
     },   
     {
         "channelName": "GLOBO RPC",
-        "link": "zR9cSJisJ2XjPXBe8VbAqNQ2Z7teelY358T/YoW96i8=",
+        "link": "gUHxyVeGRwiKa0BGU0m4dnWDv0G1OIiznTuiqhZ43f9TtriQPO1ZrlkjxK3AFlp44/MwbLQvM0fWJwRcKiChTw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -531,7 +531,7 @@
     },
     {
         "channelName": "GLOBO RPC TV Maringa",
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHfKd31oPzZXH9pCGq4HMJR794k4VU7+VdPHXgKjbvvLBM=",
+        "link": "gUHxyVeGRwiKa0BGU0m4dnWDv0G1OIiznTuiqhZ43f8IW6Mcloz38n9VWbL5c20UQqcq9JP+xgi1HbPqYVB0rg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -541,7 +541,7 @@
     }, 
     {
         "channelName": "GLOBO Brasilia",
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHfKd31oPzZXH9pCGq4HMJR7634V+x+UOZiT6y7RiDkPbE=",
+        "link": "gUHxyVeGRwiKa0BGU0m4dnWDv0G1OIiznTuiqhZ43f/jMcrLds2pHhBQZRyhIYKB/QGanZkgHZcB8Jftdtn5eQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1061,14 +1061,24 @@
     },
     {
         "channelName": "MULTISHOW",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/OX4SGKuJvcPuvzrKqaXChU2cs+gwsunSwHIVfJmi/wZ5irMU971dVko4r2Iz0NHfw==",
+        "link": "gUHxyVeGRwiKa0BGU0m4dnWDv0G1OIiznTuiqhZ43f+cY5yulstR6Y6ffCkG9lXiquMF5DoCi702smsYbFzIzA==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "musical",
+        "userAgent":"",
+        "referrer":"",
+        "pausado": 0
+    },  
+    {
+        "channelName": "MULTISHOW HD",
+        "link": "WTIpL4xatl9QO0dBX9RXjTNPZvUBofuaarY7DTA2WKqaX7vuZ4nMeClUPBPD1kyO",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
+        "referrer":"https://embedstream.org/",
         "pausado": 0
-    },   
+    }, 
     {
         "channelName": "MEGAPIX",
         "link": "WTIpL4xatl9QO0dBX9RXjR/B84oYPHHmHFUPqetKdSehYhgahdmRrUSvi06CcydX",
