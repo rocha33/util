@@ -881,10 +881,20 @@
     },
     {
         "channelName": "History 2 (temporário)",
-        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHfKd31oPzZXH9pCGq4HMJR73z17VngPhmUKAKWK+Oy+8E=",
+        "link": "WTIpL4xatl9QO0dBX9RXjaAnm57hwPhAYOiio1hok+itySCnk27cSdakv/F1kQQhpxRAcDuAjiqmZwbKsTOU+A==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedstream.org/",
+        "pausado": 0
+    },
+    {
+        "channelName": "HBO 2",
+        "link": "/eGMwH+fGlFo0Wtz2Scehmao7ThrbxRppYgo1CJ4icuzPEj18Aj6F5CHS8LWZAHfKd31oPzZXH9pCGq4HMJR73z17VngPhmUKAKWK+Oy+8E=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
         "userAgent":"",
         "referrer":"",
         "pausado": 0
