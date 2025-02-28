@@ -133,8 +133,8 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/498
 
 #EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
-#EXTVLCOPT:http-referrer=https://embedstream.org/
-https://anonstream.zip/discoverychannel/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaistv.site/discoverychannel/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY H&H 4K" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="DOCUMENTARIOS",DISCOVERY H&H 4K
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/67
@@ -161,27 +161,12 @@ http://contentsdeliver.link:8080/joubert/982451290/42910
 #EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 4k
 http://xcvtal.com:80/live/477597441/X542X5017h/2580.m3u8
 
-#EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER 4K" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER 4K
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/73
-#EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/74
-#EXTINF:-1 tvg-id="c48950d3f18be887d41a80c0e4fe058e" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO 4K
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/75
-#EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD 4K
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/77
-#EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/78
-#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL  4K" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL  4K
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/351
-#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/352
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/c9d4991f101b547da3f85beed0faf1a5.png" group-title="DOCUMENTARIOS",Disc. Home & Health 4K
-http://45.184.108.6:25461/live/445688993/44557733/2034.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
-#EXTVLCOPT:http-referrer=https://embedstream.org/
-https://anonstream.zip/discoverychannel/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaistv.site/discoverychannel/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL * FHD
 http://contentsdeliver.link:8080/joubert/982451290/18918
@@ -208,7 +193,7 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 https://anonstream.zip/history/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="" group-title="DOCUMENTARIOS",H2 HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/81
+http://78.159.119.122:2095/live/Tourobox1-tyJDTe6EEP/2gY3AhgTVk/81.ts
 #EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="" group-title="DOCUMENTARIOS",H2 2 HD
 http://p2.hostinggonemoreso1.com:2082/live/Tourobox1-MAIhGA0sDY/c9gCuNl04y/815.m3u8
 #EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="" group-title="DOCUMENTARIOS",H2 *3 HD
@@ -221,7 +206,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/552
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/87
 
 #EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 1 HD
-http://contentsdeliver.link:8080/joubert/982451290/183639
+http://84.16.253.198:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/100
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 4
 https://abc.embedmax.site/nationalgeographic/tracks-v1a1/mono.m3u8
@@ -238,9 +223,7 @@ https://embedcanaistv.site/24h-chaves/video.m3u8
 
 
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
-#EXTVLCOPT:http-referrer=https://embedstream.org/
-https://anonstream.zip/history/tracks-v1a1/mono.m3u8
+http://84.16.253.198:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/83
 
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-yGM3xue6c3/K8rancqxEa/82
