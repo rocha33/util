@@ -39,9 +39,9 @@ https://abc.embedmax.site/amc/tracks-v1a1/mono.m3u8?sdf
 
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="❤️ Andressa channels ❤️",VIVA user
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
-#EXTVLCOPT:http-referrer=https://jalynrabei.com/
-https://anonmedia.eu/viva/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaistv.site/viva/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD [P]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-rox" group-title="",GLOBO RJ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0
@@ -151,8 +151,9 @@ https://anonstream.zip/discoverychannel/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE *HD
-#EXTVLCOPT:http-referrer=https://embedstream.org/
-https://anonstream.zip/discoveryscience/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaistv.site/discoveryscience/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE *4k
 http://contentsdeliver.link:8080/joubert/982451290/42910
