@@ -221,7 +221,7 @@
     },
     {
         "channelName": "CANÇÃO NOVA",
-        "link": "4Hj6L0crdowHXREWlIAHpOtvfW4RbTB0rGlGmPaJhdgvZasw0qQgiGR28WGUt21jxOnkP3xtu6zNPFzrrCkxMgHFZecgyg82dwTUJurNnyQ=",
+        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYxp30bb7MqSUB1Zyr52vm3v",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -341,17 +341,17 @@
     },
     {
         "channelName": "CNN BRASIL",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/Gvwd0tyXGLW8oy0ET9uoqBXUZ+u6lP5VNA2cJiqv5lS3lPlE/VP/fMHJ3VT4qQ4tQ==",
+        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYyVaPJyA8sUmpYDYzVVXY6t",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },  
     {
         "channelName": "CNN BRASIL SD",
-        "link": "YtBTQl0n/+XP7r5Do/8S2A3a38S0YjY6vU486bMoLhDD4zgWdwQPcGusXhE5j8I1W19aJTdU89MaTWeept44+w==",
+        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYx6Wyesria35RpVLT1Udw8o",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -371,12 +371,12 @@
     },
     {
         "channelName": "BAND NEWS",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/FOCBw9Rt4hQj26WSaRcvNPggS03cU9UmdpTUfqBfGSGWkPVNbwBVw1EbFdbUt67eg==",
+        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYxak2Q2Mrk8fS6SPtz/WYUv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -871,7 +871,7 @@
     },
     {
         "channelName": "HBO 2",
-        "link": "0KfDlYk5Hh+i8RZF2L4+cewYFEEG33nfN6i6WueBQoNtZYA7SBAelRvEIbPgxZIdFC9FDkwjuznbs3hEB5++MDCHoaIflFXJ9kIqJDQtyECOrTj2WF7js6xFg2vMGMJU",
+        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYwoXRcZb5e6PL02C+ZRnSbB",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -951,7 +951,7 @@
     },
     {
         "channelName": "ESPN (temp)",
-        "link": "0KfDlYk5Hh+i8RZF2L4+cewYFEEG33nfN6i6WueBQoNtZYA7SBAelRvEIbPgxZIdFC9FDkwjuznbs3hEB5++MMOmDVoqa0vGFvBsb6UGAUGNaDKSgHfleNBp9gYz1YcS",
+        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYwUNOXITCnUvng51o1NXhyO",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -971,7 +971,7 @@
     },
     {
         "channelName": "ESPN 2 (temp)",
-        "link": "0KfDlYk5Hh+i8RZF2L4+cewYFEEG33nfN6i6WueBQoNtZYA7SBAelRvEIbPgxZIdFC9FDkwjuznbs3hEB5++MMrW4OY4vEjJTqhQACmGxC3DoVLnRm/NpnQ+CGypI39a",
+        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYwWrXFeFIrHJulf10vjK/1U",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
