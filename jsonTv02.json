@@ -21,7 +21,7 @@
     },
     {
         "channelName": "RECORD RJ",
-        "link": "+JoKXodnCuxL5t+E3HAZuFakQrrKbiEgcMH7Y2yq04zBnHrTAWQ9uXtqiS5XpXjREMrfoGCzE5HG8PmrfUYjt+QFeVzAUkVmJkicJ6UYd08rtZXTdvL6xFBjsA0Zrcn0",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Ml/z3bnrhaOuzoRPItFLLehkqE/aNlhzMXHti6rMeOCA",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -1085,6 +1085,16 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
+        "pausado": 0
+    },
+    {
+        "channelName": "Premieres Clubes (Temp)",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mm+aUT0u0Fsoc5KWLkjZoEAnl+xehRal3fke6URgU5ag",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
         "userAgent":"",
         "referrer":"",
         "pausado": 0
