@@ -641,12 +641,12 @@
     },      
     {
         "channelName": "BAND SP",
-        "link": "uxjGjEfHSiFeo82xwcwIuFd3yuQ+LDUr7io9p69/P1gayWgv32nIcffh3J0Y3xI3m8VDBQguPJibi2wDgpJBUQ==",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MmE1S5JDVCvBB+yd/hjKPDB8QWYeaIwoLY7FQP9iawbz",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0",
-        "referrer":"https://embedmax.site/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -841,7 +841,7 @@
     },
     {
         "channelName": "History (temporário)",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYyqrhzeGQGVf8xRmJ0Nb4Py",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mp3E6TKP5gNQj3OXfCOTRoFRrq0UjktCjuPP8zdX5gtU",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
