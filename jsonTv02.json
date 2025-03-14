@@ -211,7 +211,7 @@
     },
     {
         "channelName": "CANÇÃO NOVA",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYxp30bb7MqSUB1Zyr52vm3v",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MmDMQY0YJ0MpDSrIHjnQOVW91DthobfdFkTxJd5EpqIp",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -271,7 +271,7 @@
     },  
     {
         "channelName": "TOONCAST",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYxA851x7vG95DfOKADcZsuA",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mm0DLvypL3ojFg6d+zIjRfLWWBr+CpsJxnutGirS9wFU",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -331,7 +331,7 @@
     },
     {
         "channelName": "CNN BRASIL",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYyVaPJyA8sUmpYDYzVVXY6t",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MtpYsJCpz5E/ABSUPg/p/hTsxnAXFCNZ0rLi1/QMmcmi",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -341,12 +341,12 @@
     },  
     {
         "channelName": "CNN BRASIL SD",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYx6Wyesria35RpVLT1Udw8o",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/O49dafrkVm/QOdtHKUanPwSvtfPC18GalHBp/h53gjm0iaJWdF2XL98V8wifoVJmw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
-        "userAgent":"",
-        "referrer":"",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
         "pausado": 0
     },    
     {
@@ -361,7 +361,7 @@
     },
     {
         "channelName": "BAND NEWS",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYxak2Q2Mrk8fS6SPtz/WYUv",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MqPusZBORuWG5b3DIiLUhFb+/lCENqlToS4AP2rm+CFh",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -411,7 +411,7 @@
     },    
     {
         "channelName": "GLOBO RIO SD",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYy3Je7wS41njuCf+mjMTzJo",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MkYYokkddNSwZ+DCNngku5q8F+6TaT23cg15Zm2FGM6/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -531,7 +531,7 @@
     },   
     {
         "channelName": "GLOBO NEWS",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYxQx1qGm6DnYWVxvUK0a/rr",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MiC5lM/ubXTkidruKLU03ZQ1i9TnXdCwxOH2NnNnEQHL",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -721,7 +721,7 @@
     },       
     {
         "channelName": "SPORTV 2 (Temporario)",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYyAVvD2szmbCCjE3Tu4pdoY",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Ms0JHtNzMi2fcHDq0LMB1iZwGz1P/F0kuf86rLXFxutI",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -751,7 +751,7 @@
     },
     {
         "channelName": "TNT Series",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYzKdyPmYota8rb+oK1xG6UT",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mnd2eth/FBzfDp9Lrzwf+90JCl7GXQZkroY9D01i2zVy",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -761,7 +761,7 @@
     },
     {
         "channelName": "TNT Series SD",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYzKdyPmYota8rb+oK1xG6UT",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MnZoeCh1+IaMBd+B0I90sHqQdtWSU+QJ5ifs2eVI1NLm",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -891,7 +891,7 @@
     },
     {
         "channelName": "EU A PATROA AS CRIANÇAS (Temp)",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYyv8bUhuR7szDdHUv8mtPTr",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MpY/wnJS+tGsIvEldX/ialir4kCubDGXKsjCPLzAaGrN",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -941,7 +941,7 @@
     },
     {
         "channelName": "ESPN (temp)",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYwUNOXITCnUvng51o1NXhyO",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MldwX8MD8FobaO0fdAntdw7/PZpnlTmtqUzMd94OTS66",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -961,7 +961,7 @@
     },
     {
         "channelName": "ESPN 2 (temp)",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYwWrXFeFIrHJulf10vjK/1U",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MmUR7rZi3EspFVzIYdH3TXoYDfGjaT4LA6a12Y6bnz19",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1061,7 +1061,7 @@
     }, 
     {
         "channelName": "MEGAPIX",
-        "link": "7nqFtKba+hlIFK2PXJaAOsZQHKl2QQ7v2UkfLIx/fYw7wFVrK9dna7U/kkoCoB0F",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mk00bnfd2W2mpLt6zcZaxLeGjqoiVyoZu2LFfQnX6pod",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
