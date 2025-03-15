@@ -151,7 +151,7 @@
     },
     {
         "channelName": "CULTURA",
-        "link": "rQMe5GpUTI2kqZ8Kz47aaSQG8gpLCXB6uYqM8IGwF48F/TJoTKAItwh8oB9Oln5KLiS2OakWV6tx12wXPSXOIM7gK9IVWcCOC4tXhXt5M4A=",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MpOepGbeDy4MB06jvZjuXahr/cXfWh9Oro8endD5CqCz",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -188,20 +188,10 @@
         "userAgent":"",
         "referrer":"",
         "pausado": 0
-    },
+    },    
     {
-        "channelName": "BAND Vale do Uruará",
-        "link": "qH/DKGA9FpkDYZUvFhTDZ+yh2GkMqrCdQnHMHWZ/vkwyQFsnkqlaSXKMs/SuMUNocIzx5XO3V1Pakd4eMaGshXsXUXuljKJyX8mHFqusXKg=",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent":"",
-        "referrer":"",
-        "pausado": 0
-    },
-    {
-        "channelName": "BAND Minas", 
-        "link": "4Hj6L0crdowHXREWlIAHpHHmKGtLAkgQAXwXnSRWIVgreOTiXa/2SFtPpP8UaDhIjO7Hx58mbb26ctUuZHx6/STMkg1l/0gO56mGTjy7a58=",
+        "channelName": "BAND BA", 
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MuPGMyAfT52NCUn5G7EnKNjZhv6zqexAY1kc7nF5qB4J",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -561,7 +551,7 @@
     },    
     {
         "channelName": "TV Evangelizar",
-        "link": "rQMe5GpUTI2kqZ8Kz47aaSQG8gpLCXB6uYqM8IGwF48F/TJoTKAItwh8oB9Oln5KLiS2OakWV6tx12wXPSXOIDh+Qhvw/sDJTtVJ38c1Qgc=",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MmDMQY0YJ0MpDSrIHjnQOVUGT8OVHP3HyQUpiPXCotSq",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -881,7 +871,7 @@
     },
     {
         "channelName": "MTV SD",
-        "link": "rQMe5GpUTI2kqZ8Kz47aaSQG8gpLCXB6uYqM8IGwF48F/TJoTKAItwh8oB9Oln5KLiS2OakWV6tx12wXPSXOIP/U8vGYQAR71Iqq3lC0lYA=",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mtqf6RU+ui0uAywF4MDT8ubJ+dL2yYlA61dcc+Y8xSfk",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -1011,12 +1001,12 @@
     },    
     {
         "channelName": "ANIMAL PLANET (Temp)",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/AxcNDua43kHplbdQTf/jXKvHkQBfZrMGYAMWSA21xycFSGA+qf4+cffj+ncL39zUByGAQ5nL3xDI1MqYDrhGPk=",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mrzt8+himdaT7LhuMflZQgqhdo2neiO3mX5eK/61+I9K",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -1081,7 +1071,7 @@
     },
     {
         "channelName": "BBB 25",
-        "link": "rQMe5GpUTI2kqZ8Kz47aaSQG8gpLCXB6uYqM8IGwF48F/TJoTKAItwh8oB9Oln5KLiS2OakWV6tx12wXPSXOIPLBsK3hXxOoUwLUYWIhmEU=",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MjX2D5ChLyCI4kJSHG9ARUdOSNxLXsgwS5dV1dnxYuMk",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
