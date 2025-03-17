@@ -1071,7 +1071,7 @@
     },
     {
         "channelName": "BBB 25",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MjX2D5ChLyCI4kJSHG9ARUdOSNxLXsgwS5dV1dnxYuMk",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MiCRJ80oScCgZJ8R+HYK1unniSr1eRP379JJaQvWoSsL",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1082,6 +1082,16 @@
     {
         "channelName": "Premieres Clubes (Temp)",
         "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mm+aUT0u0Fsoc5KWLkjZoEAnl+xehRal3fke6URgU5ag",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
+        "pausado": 0
+    },
+    {
+        "channelName": "Premieres Clubes SD (Temp)",
+        "link": "OtfTN+yIotqlNY5Rr+BwoGz8e5ieo+G6PBl8IvTKydo8Yx6L4DNvBJhmQP6+yCt2KUcApLZUKZRTzGJ+/ahl4A==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
