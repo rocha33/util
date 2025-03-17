@@ -341,7 +341,7 @@
     },    
     {
         "channelName": "BAND NEWS HD",
-        "link": "4Hj6L0crdowHXREWlIAHpHHmKGtLAkgQAXwXnSRWIVgreOTiXa/2SFtPpP8UaDhIjO7Hx58mbb26ctUuZHx6/Uw7GVxFze2jTvvo/VS3dSU=",
+        "link": "OtfTN+yIotqlNY5Rr+BwoLg7gKqfIH54cVEtOMDzz+H1I0qXS0V/xqMthrcFBkKWKS06R11+akmuI6PIrgV8TQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -351,7 +351,7 @@
     },
     {
         "channelName": "BAND NEWS",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MqPusZBORuWG5b3DIiLUhFb+/lCENqlToS4AP2rm+CFh",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mig+0tVd2QS9mRZwmUzoqIsm9y/aKjIByKKRBY3YsHWd",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -421,12 +421,12 @@
     },
     {
         "channelName": "GLOBO SP HD",
-        "link": "WTIpL4xatl9QO0dBX9RXja0/FPKd6WgOJTsnvafSAeom72K7QIKl8/ufU8GUjnZkPTKIjkvz/Yqup4vsfD73Yg==",
+        "link": "OtfTN+yIotqlNY5Rr+BwoAX3eMJf+DL5Xqm9u/CCbA61WOEHMiYxxPs+YpqklZdv8HTgOeMUgBySbj2hlsG2+A==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0",
-        "referrer":"https://embedstream.org/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -941,7 +941,7 @@
     },
     {
         "channelName": "ESPN SD(temp)",
-        "link": "L1+7v4HYAMyOkrYz3RfY+5zfn3pYwcrSE8WWSZZPuEtWagYCltqnCaHV+G/YiUiz",
+        "link": "OtfTN+yIotqlNY5Rr+BwoCxFawcwFqcKVgyOOofLB7bWFTtZhM2JuXmWIHN8tfRaLjpr6SPDVkE2rGHX8nYLIw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -961,7 +961,7 @@
     },
     {
         "channelName": "ESPN 2 SD (temp)",
-        "link": "L1+7v4HYAMyOkrYz3RfY+1gXvB9OdrzNAkMkOTznA7fr54grYfqC8rNo2JCcnLyEf7p7zm0lEB/gBgkPEWxCmA==",
+        "link": "OtfTN+yIotqlNY5Rr+BwoNRjC9AF0j3Ps8aCi4fXx0WeLY2nqChm8lD5+ILRwQKdzt585xV9AgUukZ9NmJN5Ng==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -971,7 +971,7 @@
     },
     {
         "channelName": "AXN (temp)",
-        "link": "rQMe5GpUTI2kqZ8Kz47aaUolAQWgMJl+pEwaJPWyGtalZcCCwyl1o/IBRF2w0mBpIWlNaHlC72+kLQWRkmengA==",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MtDSx16ugsPE+EqGuRSDb71x5si5n3KmMxN9jPJmGJEt",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -981,7 +981,7 @@
     },
     {
         "channelName": "AXN SD (temp)",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/P/x0mXMdIMhgafu3Ub9KSAId7x3Bdg1S5fLavfqDVK4gEVFblcrQVYL31VTeT9vpg==",
+        "link": "OtfTN+yIotqlNY5Rr+BwoGHbV3VsddbXjEdcK+ZpHqbAFSiLQJKAM/gdn4eOV0U2L5Ia8GZOrLKwr9I5DzYS1g==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -991,7 +991,7 @@
     },
     {
         "channelName": "AMC FHD (temp)",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/IqXnSSOsQOxSL9+P+1YJfleenHeg+rmjLXUcg7r6/BfqhubIa7rwFqGefwkjmEb/Q==",
+        "link": "OtfTN+yIotqlNY5Rr+BwoMbgR2WDEY25MhbXw92j0/U6wmRn6ViB0OH3b+56NdS9oLZW5bVQM2Rw/bjfOBYrEA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
