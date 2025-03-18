@@ -71,7 +71,7 @@
     },
     {
         "channelName": "Rede Vida",
-        "link": "Xpp2AMSlLWq5hCpBypo9t8jE2z6VLVeyG6xkc6w5n7SQ8h8WWGI2DRhBneC2yypjNXQVZTgmQlZlNXbQOjALCOotTCqoBXq+7Ucw0fGddaM=",
+        "link": "OtfTN+yIotqlNY5Rr+BwoDsk9JN3mXJSBLjD4bscMq0nQijB2Dk6Td+6uBO4cU5TY4ya6NgXW1Tz6zWz0Fvlxg==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -121,12 +121,12 @@
     },
     {
         "channelName": "TELE CINE ACTION",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/AJyhNOQSRvDzqowoInB++HYJWKzQV8yVTrXhbESCd5qMCxfrSiDp8T1+i4G03huxQ==",
+        "link": "OtfTN+yIotqlNY5Rr+BwoE9YRps3HhgWJ/kAXcVr8WPPazOP4dJt8mZD5o6qhUAKcSgMS6QoqHbrohQyETyCkw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -691,7 +691,7 @@
     },
     {
         "channelName": "SPORTV (Temporario)",
-        "link": "L1+7v4HYAMyOkrYz3RfY+x4AoaliwAEZZIJbIucy7YJ5/2UkHZtoDh6dUzV7sV1MWo2aqB7t2Xw4nes4/J0cnw==",
+        "link": "OtfTN+yIotqlNY5Rr+BwoEwOSbii8c4AcZzv4RCjxj1G3sdq13DzmwOAj/ekSpQEbrE173H+EskpoJVYLBzwvg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -701,7 +701,7 @@
     },   
     {
         "channelName": "SPORTV HD(Temporario)",
-        "link": "L1+7v4HYAMyOkrYz3RfY+x4AoaliwAEZZIJbIucy7YJ5/2UkHZtoDh6dUzV7sV1MWo2aqB7t2Xw4nes4/J0cnw==",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MiHojAC8AQ8okV0W6aazW5xVJkF2ZzVmwyGL8hkeUXF/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
