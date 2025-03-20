@@ -911,7 +911,7 @@
     },
     {
         "channelName": "GNT HD (temp)",
-        "link": "4Hj6L0crdowHXREWlIAHpFmuKaWahbETfvY8KiNS63mq8SSNoLANXvQPUI0ZpkY78HxAIb0sMIAn6gRdQ7rIoxJadMQd59wgIa+7saKudzc=",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MjZIBxumE9DwmYWxAYxmFCCtVLCy72yBdWoWjOIAV+fc",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1041,12 +1041,12 @@
     },  
     {
         "channelName": "MULTISHOW HD",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/N3I6TnJ8xDhDePuEIlkciVt4bINWsQEBavEM8z+Fz2jL3+hzTFVO6iIhgCHeiKS3Q==",
+        "link": "OtfTN+yIotqlNY5Rr+BwoBYbheIfo+5T5BzMwUl/w/pFVifsTIUA3z1xZTWrvzWG1XqOIA4v3DAhzY5aIlG0Yg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     }, 
     {
