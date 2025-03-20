@@ -50,13 +50,13 @@
         "pausado": 0
     },    
     {
-        "channelName": "RECORDTV BRASIL",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/C2Dttzxt5tHZpLZ7waGqrPmgVcTew7UIpZBkw/rvkNwuV+jYaQXRvAWgc8CDTvjgQ==",
+        "channelName": "RECORDTV MG",
+        "link": "OtfTN+yIotqlNY5Rr+BwoAtgXDN1NZ687VB4TIUa7Y/I+mIi2w3AEuUx37jHcFoIAHWmi6uNmYwVJcYdhYoFZw==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     }, 
     {
