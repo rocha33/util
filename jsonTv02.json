@@ -11,7 +11,7 @@
     },      
     {
         "channelName": "RECORD SP",
-        "link": "Y5y+3f/DQ0Y+Oh+4PoOflAHiXQK4Bku9LIBc1d1WR9gGWecPlcdhPZaKvglvB6nJ2xGDeO9WmP78owJdl0Nmtw==",
+        "link": "OtfTN+yIotqlNY5Rr+BwoA0u7QdTWyk/wEjhVaf3NqwwaLOJv+GJ6+tnJbBZgYI8Mj7gXf4yE2W/a/W5uLD6cw==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -251,7 +251,7 @@
     }, 
     {
         "channelName": "CARTOON NETWORK HD",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mob+A35LIFLJO9sq97CgapDWX3Vn6kYWa8ebWwveAvKg",
+        "link": "OtfTN+yIotqlNY5Rr+BwoKoa/3PIaYFaL0vwj4MU408g9fwSRA9Pe33rEMNJMeE+C8WucaK4yhPM6mt8obdSdw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -481,7 +481,7 @@
     },   
     {
         "channelName": "GLOBO RPC",
-        "link": "gUHxyVeGRwiKa0BGU0m4dnWDv0G1OIiznTuiqhZ43f9TtriQPO1ZrlkjxK3AFlp44/MwbLQvM0fWJwRcKiChTw==",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MlsijY6xadvSQIcsBaUr5b9zvoWE8GJXb4qRRf9oMqE3",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -591,7 +591,7 @@
     },
     {
         "channelName": "SBT (alter)",
-        "link": "YSZnZnYicI4pmfmUn8zh2nKQoXhArDOmI89P8uI/yOsI6qzoUHePQ6Qzv7jascrP",
+        "link": "OtfTN+yIotqlNY5Rr+BwoB5hZEIh1RFCfqTF4THhd1ZaLulSVZEVKKjByXINue42Yc61OmcDV4rJJU10gbc9Bw==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -611,7 +611,7 @@
     },
     {
         "channelName": "SBT RIO",
-        "link": "4Hj6L0crdowHXREWlIAHpNvF/TZf8qcz1SgbH55jKz0+AVxYZuTB/Rg3bpwhigDqVmvYE+eTEnPjzHNWNumgWA==",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MjGiTZba+QIvLG5qRma3iEmdjuPHQHqTuNz3qoo5kjEL",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -721,12 +721,12 @@
     },
     {
         "channelName": "SPORTV 2 HD (Temporario)",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/NA63qCpAooqyC10MzOXgvRcDRAHaIuGSjMjbzeSd8ZriZj+TUcCzIQlMJviET6S2Q==",
+        "link": "OtfTN+yIotqlNY5Rr+BwoKD7WUCpQ1oLrIBsm6f+RAlbtbS2Gs2TIPuXZ2e+Tn3fDDh40rEEVmu8amvekorbnw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
