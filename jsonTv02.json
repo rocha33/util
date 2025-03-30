@@ -130,6 +130,16 @@
         "pausado": 0
     },
     {
+        "channelName": "TELE CINE ACTION HD",
+        "link": "2+DKQpnkpJ6QTVy1wOMeO+FzKBLknUtB06bnW4LqyoIdROrGdp1H2qOjdEWIRrzyTOCU+mzURY5Enh3uZmSvR+j29ShkjhmUvD8FVB7cuaI=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedtv-0.icu/",
+        "pausado": 0
+    },
+    {
         "channelName": "TV Aparecida",
         "link": "wiC7mG02B432FmXmauFL8zvddp1NdOd4SajhXyvGZrLPWWLP+PA5G4LICP0yCp7S7MDEaOLVmdZWURhZOSO31o7Z1EeNJengUTwfyHyc75k=",
         "ativo": 1,
@@ -249,6 +259,16 @@
         "referrer":"",
         "pausado": 0
     }, 
+    {
+        "channelName": "CARTOON NETWORK SD",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MjGriC8bALpVITuu5YsHVFuPyEtRHrQtKK+yUCqclziM",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "animacao",
+        "userAgent":"",
+        "referrer":"",
+        "pausado": 0
+    },  
     {
         "channelName": "CARTOON NETWORK HD",
         "link": "OtfTN+yIotqlNY5Rr+BwoKoa/3PIaYFaL0vwj4MU408g9fwSRA9Pe33rEMNJMeE+C8WucaK4yhPM6mt8obdSdw==",
@@ -860,6 +880,16 @@
         "pausado": 0
     },
     {
+        "channelName": "HBO 2 HD",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MtkIRsLmitf+tYxW+oCUbUf1mA9tBHNBhvNmYj096AkE",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
+        "pausado": 0
+    },
+    {
         "channelName": "MTV",
         "link": "cHKkeMj4SzUjkwJglxIyLXHpAJSqjmvW6l3dkaKu4zj8SXteD8ct8pnD25XK6EPerPRfIrvHVlUqcqtyXwUQnA==",
         "ativo": 0,
@@ -997,6 +1027,16 @@
         "categoria": "filmes",
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
         "referrer":"https://embedcanaistv.com/",
+        "pausado": 0
+    }, 
+    {
+        "channelName": "AMC (temp)",
+        "link": "aodYcO6TEa85nSepuCBBno6Q1J2cmBhSqs8RzVV6/pGH6jTWvFYJ85nkCHxrKd05",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedstream.org/",
         "pausado": 0
     },    
     {
