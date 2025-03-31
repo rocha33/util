@@ -261,7 +261,7 @@
     }, 
     {
         "channelName": "CARTOON NETWORK SD",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MjGriC8bALpVITuu5YsHVFuPyEtRHrQtKK+yUCqclziM",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MhoMoy9QMyJtNWv459syF6yzq7OvDgz4sTFbYxrtSCMX",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -431,12 +431,12 @@
     },
     {
         "channelName": "GLOBO SP",
-        "link": "WTIpL4xatl9QO0dBX9RXja0/FPKd6WgOJTsnvafSAeom72K7QIKl8/ufU8GUjnZkPTKIjkvz/Yqup4vsfD73Yg==",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MkYYokkddNSwZ+DCNngku5qhknuiUQWebduAefd4iVQg",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedstream.org/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },
     {
@@ -491,12 +491,12 @@
     },  
     {
         "channelName": "GLOBO MG SD",
-        "link": "WTIpL4xatl9QO0dBX9RXjab7GpUxXQx+JtSOkctrvGOlnaqgkr7SWfGgIoRVuna6mLOX16L3j9/PT85sejhGBA==",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MkYYokkddNSwZ+DCNngku5qRQ+Lou155GMWxLgYdcmyx",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedstream.org/",
+        "userAgent":"",
+        "referrer":"",
         "pausado": 0
     },   
     {
@@ -521,7 +521,7 @@
     },
     {
         "channelName": "GLOBO RPC TV Maringa",
-        "link": "gUHxyVeGRwiKa0BGU0m4dnWDv0G1OIiznTuiqhZ43f8IW6Mcloz38n9VWbL5c20UQqcq9JP+xgi1HbPqYVB0rg==",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MtulMAM9vzGNcwTS+jLwAYwqsfChlb3r15SolFT+beKb",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -620,8 +620,8 @@
         "pausado": 0
     },
     {
-        "channelName": "SBT BA",
-        "link": "SbZQLvTq+H8KDNlwhEFKUEkmB6X/xEwnu50wZrIhec5EaPhJZ+EZERktwFBEsqW54rgYVDN/4XkKSnnI64yB026KBJVN/oGBi0V+ubzU2+o=",
+        "channelName": "SBT PA",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MoudwqKBeYrYuU/vOonPZP+t6Bbt+LVMSdiUZ9vGL8u4",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
