@@ -1138,5 +1138,15 @@
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
         "referrer":"https://embedcanaistv.com/",
         "pausado": 0
+    },
+    {
+        "channelName": "TV Brasil Central",
+        "link": "IGB9vh1bDxk3zn+NHCQNUCsspRT7gysZUhJA1CDmEG5t/IMRCK2XlXPoFSt1/Y04YTXHOCvChHi3AKRd1uXp2g==",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
+        "pausado": 0
     }
 ]
