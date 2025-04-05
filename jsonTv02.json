@@ -78,17 +78,7 @@
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
         "referrer":"https://embedcanaistv.com/",
         "pausado": 0
-    },
-    {
-        "channelName": "Brasil Central",
-        "link": "IGB9vh1bDxk3zn+NHCQNUAkQsgim51f7QzDSifoGzN3Q3wjhrlMy0A4wqO5BEIg4",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent":"",
-        "referrer":"",
-        "pausado": 0
-    },  
+    },      
     {
         "channelName": "SBT",
         "link": "oEWFpJfJSuvyWLJ2trSnzl+2lY8IeAIg5xtvyVJnt2kNiWfabkBG5hwSBHalYiYpPuEmLYov83ufUJLQZ7JIczO5JPNg3M9lnZuRQ7w5shY=",
@@ -460,8 +450,8 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO TV MIRANTE",
-        "link": "zR9cSJisJ2XjPXBe8VbAqMcc5NV6XGIMPsT+USgPTJ5WhklQD/qDhQakhkFBt5rT",
+        "channelName": "GLOBO TV GAZETA VITORIA",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MkIf538u9bq3Xi39KjCSPRULhMLO9I/aSuJxEM3+5A55",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -531,7 +521,7 @@
     }, 
     {
         "channelName": "GLOBO Brasilia",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MmJmhl1tMVSp94F5z0LaI478Xjgabt1oBOGLwhhDzQTa",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MmDMQY0YJ0MpDSrIHjnQOVUjO4HcDwWJXBPvXDEGKnkO",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -757,6 +747,16 @@
         "categoria": "filmes",
         "userAgent":"",
         "referrer":"",
+        "pausado": 0
+    },
+    {
+        "channelName": "TNT Novelas SD",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/MnQ/iOwUf0hyP6G3STZGgjLSfLwI4oYOt1g7tC4T+L8VoU0M3RZoGIOg1LfLPx4gOOtqYoNu7EUOXjoU+8SBj4=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
         "pausado": 0
     },
     {
