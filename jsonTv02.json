@@ -1285,6 +1285,17 @@
         "referrer":"",
         "isEmbed": 0,
         "pausado": 0
+    },
+    {
+        "channelName": "Nosso Futebol",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/ITlFkQrtRqvUbY3WPXOCV7kTizBxzc3oS7k5jgWq7HN",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 1,
+        "pausado": 0
     }
     
 ]
