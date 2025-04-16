@@ -1102,7 +1102,7 @@
     {
         "channelName": "AXN (temp)",
         "link": "dbzdSmibAPYuBwwWRjxdypPaDyJTsQKmJ2X/Azi1hzEtC+tp/4odYHVleyqq8fFX2Qcut6WxlXAadJcCG8+AUw==",
-        "ativo": 1,
+        "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
         "userAgent":"",
@@ -1289,7 +1289,7 @@
     {
         "channelName": "Nosso Futebol",
         "link": "ZmmZ/FeJJr+llJQ5mWeW/ITlFkQrtRqvUbY3WPXOCV7kTizBxzc3oS7k5jgWq7HN",
-        "ativo": 1,
+        "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
