@@ -276,13 +276,13 @@
     }, 
     {
         "channelName": "CARTOON NETWORK SD",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MhoMoy9QMyJtNWv459syF6yzq7OvDgz4sTFbYxrtSCMX",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/D9on126LUgBb5/tw4p+Wwuksm/oZoagzY73/YoBtabE",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
-        "userAgent":"",
-        "referrer":"",
-        "isEmbed": 0,
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
+        "isEmbed": 1,
         "pausado": 0
     },  
     {
@@ -1222,7 +1222,7 @@
     },
     {
         "channelName": "BBB 25",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MiCRJ80oScCgZJ8R+HYK1unniSr1eRP379JJaQvWoSsL",
+        "link": "vKaSFpMQNbSCIZfqqlFL5fJBtw/XHD9zAr5VdqNH1FfHFG8tUgLIt3YaTxxDUFuj0FrfSx6g5iIOf0jAZvmI7Q==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1233,13 +1233,13 @@
     },
     {
         "channelName": "Premieres Clubes (Temp)",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mm+aUT0u0Fsoc5KWLkjZoEAnl+xehRal3fke6URgU5ag",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/FmIBEtuBdFJTQ3yOHdVhVqpCPygUkLIvSZgaKPq9E8P",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent":"",
-        "referrer":"",
-        "isEmbed": 0,
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
+        "isEmbed": 1,
         "pausado": 0
     },
     {
