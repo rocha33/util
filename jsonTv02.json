@@ -705,13 +705,13 @@
     },      
     {
         "channelName": "BAND SP",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MmE1S5JDVCvBB+yd/hjKPDB8QWYeaIwoLY7FQP9iawbz",
+        "link": "85pcCEf2fiTWu6m09iv00TEBT9oKbMR+9bnsD4RXIvhTO/PzfgTQDNgFeYum4Abu",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"",
-        "referrer":"",
-        "isEmbed": 0,
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedmax.site",
+        "isEmbed": 1,
         "pausado": 0
     },
     {
@@ -1079,13 +1079,13 @@
     },
     {
         "channelName": "ESPN 2 (temp)",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MmUR7rZi3EspFVzIYdH3TXoYDfGjaT4LA6a12Y6bnz19",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/CS14JHx2Ga/MsDJkjd5mXUYGgCgcPCVbanqeRznDmkp",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent":"",
-        "referrer":"",
-        "isEmbed": 0,
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
+        "isEmbed": 1,
         "pausado": 0
     },
     {
