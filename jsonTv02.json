@@ -1173,7 +1173,7 @@
         "categoria": "filmes",
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
         "referrer":"https://embedstream.org/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "pausado": 0
     },
     {
