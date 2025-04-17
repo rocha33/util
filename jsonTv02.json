@@ -298,7 +298,7 @@
     },  
     {
         "channelName": "TOONCAST",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mm0DLvypL3ojFg6d+zIjRfLWWBr+CpsJxnutGirS9wFU",
+        "link": "pCuZZq10yutSmsVC/NCYkQuHLCQFtnQSA8gLM4QeFHKMkl+3ob+LOtTgqevpW5QXF/lJRh/0o2a6P41WR7jUbw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -342,13 +342,13 @@
     },
     {
         "channelName": "BAND SPORTS",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MoZ38ZFVk3Bh+BG19mep/nJH8v0+XlODhQP8XWrkCCqZ",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/BEDuYRETPy2L492/I8LDlhOto29iLhCKq6VqnGWe8Ta",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent":"",
-        "referrer":"",
-        "isEmbed": 0,
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
+        "isEmbed": 1,
         "pausado": 0
     },
     {
@@ -364,13 +364,13 @@
     },
     {
         "channelName": "CNN BRASIL",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MtpYsJCpz5E/ABSUPg/p/hTsxnAXFCNZ0rLi1/QMmcmi",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/ISzJhOW2KemPwmFRjl6g+eeAOwif9ClTvt3qVZfPi/w",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
-        "userAgent":"",
-        "referrer":"",
-        "isEmbed": 0,
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
+        "isEmbed": 1,
         "pausado": 0
     },  
     {
@@ -397,13 +397,13 @@
     },
     {
         "channelName": "BAND NEWS",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mig+0tVd2QS9mRZwmUzoqIsm9y/aKjIByKKRBY3YsHWd",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/FDzfS4iXuNfpf7MzgSHBIf3Zuvk9TT/Iku10oC8EaiR",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
-        "userAgent":"",
-        "referrer":"",
-        "isEmbed": 0,
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
+        "isEmbed": 1,
         "pausado": 0
     },
     {
@@ -452,24 +452,24 @@
     },    
     {
         "channelName": "GLOBO RIO SD",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MkYYokkddNSwZ+DCNngku5q8F+6TaT23cg15Zm2FGM6/",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/JrBn2WUL76pUEOkxzcI1c24yfo0y4UxujAPWhqcY2wu",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"",
-        "referrer":"",
-        "isEmbed": 0,
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
+        "isEmbed": 1,
         "pausado": 0
     },
     {
         "channelName": "GLOBO SP",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MkYYokkddNSwZ+DCNngku5qhknuiUQWebduAefd4iVQg",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/FWVrMP7eS5NnzW/i+dLdtdCAyqIlLNEpm8sFBjjYeUj",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"",
-        "referrer":"",
-        "isEmbed": 0,
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
+        "isEmbed": 1,
         "pausado": 0
     },
     {
@@ -507,7 +507,7 @@
     },
     {
         "channelName": "GLOBO RIO",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MkYYokkddNSwZ+DCNngku5qXEyO62eZxwr0j54GTZp0d",
+        "link": "vKaSFpMQNbSCIZfqqlFL5fJBtw/XHD9zAr5VdqNH1FfHFG8tUgLIt3YaTxxDUFuj/rAu+CtSR3Z1VhvUyNTluA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -518,18 +518,18 @@
     },  
     {
         "channelName": "GLOBO MG",
-        "link": "aodYcO6TEa85nSepuCBBniCTRbctOXxzAcCm4XYQMXNDtHwCLz+pUJHv58jLt86Q89hGiSoAjjy/Al7U3pLKhQ==",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/Koc10eRWvVRiK9TQMi+ivgcgkq9iS/zFX3TQpfloLaf",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedstream.org/",
-        "isEmbed": 0,
+        "referrer":"https://embedcanaistv.com/",
+        "isEmbed": 1,
         "pausado": 0
     },  
     {
         "channelName": "GLOBO MG SD",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MkYYokkddNSwZ+DCNngku5qRQ+Lou155GMWxLgYdcmyx",
+        "link": "vKaSFpMQNbSCIZfqqlFL5fJBtw/XHD9zAr5VdqNH1FfHFG8tUgLIt3YaTxxDUFujqBV0qNZD0c0Ayz5nrE7GdQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -551,13 +551,13 @@
     },
     {
         "channelName": "GLOBO BA",
-        "link": "aodYcO6TEa85nSepuCBBntj6A0PU/AafV+U6l622FiQXNSp7wb6uOSe1e719YV7uTRLfYKPOEdE7lc7hj5r+XQ==",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/CvpTs6QtuosGsP0JnMaq4S/cmF5HynR7Z4SYiekWRMB",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedstream.org/",
-        "isEmbed": 0,
+        "referrer":"https://embedcanaistv.com/",
+        "isEmbed": 1,
         "pausado": 0
     },
     {
@@ -573,18 +573,18 @@
     }, 
     {
         "channelName": "GLOBO Brasilia",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MmDMQY0YJ0MpDSrIHjnQOVUjO4HcDwWJXBPvXDEGKnkO",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/O6+t+r0zBVpNOSg39YKg2rNSJGB1ZSCs5BEEbljuGCP",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"",
-        "referrer":"",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
         "isEmbed": 0,
         "pausado": 0
     },   
     {
         "channelName": "GLOBO NEWS",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MiC5lM/ubXTkidruKLU03ZQ1i9TnXdCwxOH2NnNnEQHL",
+        "link": "pCuZZq10yutSmsVC/NCYkXAO4Oax8TrpaiOMXxEo7ze1Se4waBX6D0QhHU3VnFL8mgJtm+8CSvjNqRjBmRpQ6g==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
