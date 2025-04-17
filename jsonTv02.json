@@ -815,7 +815,7 @@
     },
     {
         "channelName": "TNT Novelas",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MihyLOcOqwV6daIVv2BGyWi1vHwAls8HRRsXJ8p+7WHT",
+        "link": "vKaSFpMQNbSCIZfqqlFL5fJBtw/XHD9zAr5VdqNH1FfHFG8tUgLIt3YaTxxDUFuje4ZZI4+M6UyCbnMvcgZnHg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -832,7 +832,7 @@
         "categoria": "filmes",
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
         "referrer":"https://embedcanaistv.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "pausado": 0
     },
     {
@@ -1172,7 +1172,7 @@
         "contactpage": "",
         "categoria": "filmes",
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedstream.org/",
+        "referrer":"https://embedcanaistv.com/",
         "isEmbed": 1,
         "pausado": 0
     },
