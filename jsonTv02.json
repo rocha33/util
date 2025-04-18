@@ -22,6 +22,17 @@
         "pausado": 0
     },
     {
+        "channelName": "RECORD RJ SD",
+        "link": "IjQB8iZYdiNlEV5SXsLvHAPm75cO2X8xLniSOm8M3Z32zMEfr37Cbplhoedaav0Zka8YF31bvdvrSxbZSRjvNA==",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 0,
+        "pausado": 0
+    },
+    {
         "channelName": "RECORD RJ",
         "link": "ZmmZ/FeJJr+llJQ5mWeW/CIOgc2oPfOjHufYLDxbP7iL2zZvz2Qcu1NiONSPIcy2",
         "ativo": 1,
@@ -29,7 +40,7 @@
         "categoria": "outros",
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
         "referrer":"https://embedcanaistv.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "pausado": 0
     },
     {
