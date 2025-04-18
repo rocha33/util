@@ -606,7 +606,7 @@
     },
     {
         "channelName": "Chespirito (temporario)",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mvrigo7TIeOjzp11ufJ2gSSlNybtANGuoKVeX+FBxvY4",
+        "link": "vKaSFpMQNbSCIZfqqlFL5fJBtw/XHD9zAr5VdqNH1FfHFG8tUgLIt3YaTxxDUFuj3278TeFtXA2tCQ2ITW3a/A==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -683,7 +683,7 @@
     },
     {
         "channelName": "SBT RIO",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MjGiTZba+QIvLG5qRma3iEmdjuPHQHqTuNz3qoo5kjEL",
+        "link": "wiC7mG02B432FmXmauFL8zvddp1NdOd4SajhXyvGZrJLaclLECGr6y/w7ZuvJ+8b2jmNP9vYjU17GEL250qO5iCFUoZe3GBlSEmxF7UjmbK4apxy6VNIsAVH3d9WRXQU",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -1024,12 +1024,12 @@
     },   
     {
         "channelName": "GNT (temp)",
-        "link": "aodYcO6TEa85nSepuCBBnuj/hKIFsovfjlQNbZDx6dzdD5PcOTnMCwpqFoiChTOR",
+        "link": "IjQB8iZYdiNlEV5SXsLvHAPm75cO2X8xLniSOm8M3Z32zMEfr37Cbplhoedaav0Zka8YF31bvdvrSxbZSRjvNA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedstream.org/",
+        "userAgent":"",
+        "referrer":"",
         "isEmbed": 0,
         "pausado": 0
     },
