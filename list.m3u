@@ -329,3 +329,8 @@ https://abc.embedmax.site/sportv3/video.m3u8
 https://s2.choraporco.icu/token/b6d08a19c49eb0e52041c5020794efb6/embedtv.m3u8
 
 
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais SPORTV", band sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+#EXTVLCOPT:http-referrer=https://redecanaistv.gs/
+https://outbound-proxy-us-east1-0-glob-usercontent-client-id-7242752458.googleapis.com.pt/docs/bandsports/__index.m3u8?nu3zAQc9HC3GbwJq=1744981474-dIiuOLzYsUFDhra%2FZpMc9EmSZNouKOtuzLp7Bm41iQI%3D
+
