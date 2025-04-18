@@ -23,12 +23,12 @@
     },
     {
         "channelName": "RECORD RJ",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Ml/z3bnrhaOuzoRPItFLLehkqE/aNlhzMXHti6rMeOCA",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/CIOgc2oPfOjHufYLDxbP7iL2zZvz2Qcu1NiONSPIcy2",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"",
-        "referrer":"",
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
         "isEmbed": 0,
         "pausado": 0
     },
@@ -584,7 +584,7 @@
     },   
     {
         "channelName": "GLOBO NEWS",
-        "link": "pCuZZq10yutSmsVC/NCYkXAO4Oax8TrpaiOMXxEo7ze1Se4waBX6D0QhHU3VnFL8mgJtm+8CSvjNqRjBmRpQ6g==",
+        "link": "vKaSFpMQNbSCIZfqqlFL5fJBtw/XHD9zAr5VdqNH1FfHFG8tUgLIt3YaTxxDUFujZPWjCZt+lnwm/iHGdvG3yA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -595,13 +595,13 @@
     },
     {
         "channelName": "GLOBO NEWS HD",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MpfZU4k6/b35gBGQvyAyfmTODiusytSqT7QdrG/keIvm",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/CXNG3C7FGaQwthtIzwUc7QExOm5oU5lB0kYANQN6QS9",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
-        "userAgent":"",
-        "referrer":"",
-        "isEmbed": 0,
+        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer":"https://embedcanaistv.com/",
+        "isEmbed": 1,
         "pausado": 0
     },
     {
