@@ -144,13 +144,13 @@
     },
     {
         "channelName": "TELE CINE ACTION HD",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MhOmm4ftiXRVYt8MxeZF74tsuAz9om4hLQjGLJFCbH6B",
+        "link": "osPyEwsNxD3Ss7P4M5ScUxzn0JZH9hM9agdV/KNyCLRR/qpnFACTybmhDLPrVUVQLNo7T1xrkCYrn59SdPwLTJZyG2JAQGY8Dvfwn82kLu2fpjfagp8Ve8i7i8l3/8Uf",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
         "userAgent":"",
         "referrer":"",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "pausado": 0
     },
     {
@@ -551,7 +551,7 @@
     },   
     {
         "channelName": "GLOBO RPC",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MlsijY6xadvSQIcsBaUr5b9zvoWE8GJXb4qRRf9oMqE3",
+        "link": "IjQB8iZYdiNlEV5SXsLvHDkWPZIHsIqCN69LBIsz9O3QCmnjAHi5yCI6074pJCUvQ0nY+6q5cvbQ7L/iH6/PLw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -590,7 +590,7 @@
         "categoria": "outros",
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
         "referrer":"https://embedcanaistv.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "pausado": 0
     },   
     {
