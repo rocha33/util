@@ -161,8 +161,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedtv-0.icu/",
+        "userAgent":"",
+        "referrer":"",
         "isEmbed": 1,
         "contaisToken":0,
         "pausado": 0
