@@ -1249,12 +1249,12 @@
     }, 
     {
         "channelName": "AMC (temp)",
-        "link": "aodYcO6TEa85nSepuCBBno6Q1J2cmBhSqs8RzVV6/pGH6jTWvFYJ85nkCHxrKd05",
+        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xcqlHYhpYGrDTcrJj2brkX+XV/GPZFnxaMZfUrCq2hhFA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedstream.org/",
+        "userAgent":"",
+        "referrer":"",
         "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
@@ -1357,13 +1357,13 @@
     },
     {
         "channelName": "Premieres Clubes (Temp)",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/FmIBEtuBdFJTQ3yOHdVhVqpCPygUkLIvSZgaKPq9E8P",
+        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xfoPloyB13nIpOkeLe9wOkCJp/diZpAUQnhNdS+r1//Dg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
-        "isEmbed": 1,
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
     },
@@ -1405,7 +1405,7 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL HD",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MpQjUoiyVzMMO35WD+G3npawBV7QPOrU3FogrqMzYVZ9",
+        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xcAlVyUBz/TfaH3yhiai4o9tBBy3QtMKwTJ82PCy90+wQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
