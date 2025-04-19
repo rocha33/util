@@ -1416,6 +1416,18 @@
         "pausado": 0
     },
     {
+        "channelName": "DISCOVERY CHANNEL SD",
+        "link": "+fXu70RFuZ1pN5K1yT3JFvqZKjmaVhZlqz05dRGxQk04l9wEyeqbv50naCJvCG/CERlWweLFoRnTW3EGEUNcvw==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 0,
+        "contaisToken":0,
+        "pausado": 0
+    },
+    {
         "channelName": "Nosso Futebol",
         "link": "ZmmZ/FeJJr+llJQ5mWeW/ITlFkQrtRqvUbY3WPXOCV7kTizBxzc3oS7k5jgWq7HN",
         "ativo": 0,
@@ -1424,6 +1436,18 @@
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
         "referrer":"https://embedcanaistv.com/",
         "isEmbed": 1,
+        "contaisToken":0,
+        "pausado": 0
+    },
+    {
+        "channelName": "Nosso Futebol SD",
+        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xfzyO0GIHH8CWpVtCCgTpNP1Xghfm4B0mGKZAWfMnpCsg==",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
     }
