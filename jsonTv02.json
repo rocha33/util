@@ -157,13 +157,13 @@
     },
     {
         "channelName": "TELE CINE ACTION HD",
-        "link": "66o+0KECrlVLZZgvKCCTADYwclcgwS6I2lpI7eIBWReciCtYNk9np0eLqgcePjRy",
+        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xf4aePB7B7CFl+oRo+KcnRmpoYAs4Noze0RD9e7XnFO/w==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
         "userAgent":"",
         "referrer":"",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
     },
