@@ -313,13 +313,13 @@
     }, 
     {
         "channelName": "CARTOON NETWORK SD",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/D9on126LUgBb5/tw4p+Wwuksm/oZoagzY73/YoBtabE",
+        "link": "T72hVofaQWRp4L2HaYYMOjGYnImbOjGqO+MrCZs3IDlu2noGs37koc7F+kwy4eUplYzaGOu+WAeykZtyU0Dd+Q==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
-        "isEmbed": 1,
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
     },  
