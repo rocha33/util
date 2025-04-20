@@ -145,13 +145,13 @@
     },
     {
         "channelName": "TELE CINE ACTION",
-        "link": "66o+0KECrlVLZZgvKCCTADYwclcgwS6I2lpI7eIBWReciCtYNk9np0eLqgcePjRy",
+        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xf4aePB7B7CFl+oRo+KcnRmpoYAs4Noze0RD9e7XnFO/w==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedtv-0.icu/",
-        "isEmbed": 1,
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
     },
