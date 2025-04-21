@@ -637,13 +637,13 @@
     }, 
     {
         "channelName": "GLOBO Brasilia",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/O6+t+r0zBVpNOSg39YKg2rNSJGB1ZSCs5BEEbljuGCP",
+        "link": "UZ9KEy3oZ7PSVYeiK6UPP+p3MrojOAEat7yJSm0BXFZdffxaGwrXxkV3G2beVYiv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
-        "isEmbed": 1,
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
     },   
