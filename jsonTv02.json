@@ -638,7 +638,7 @@
     {
         "channelName": "GLOBO Brasilia",
         "link": "UZ9KEy3oZ7PSVYeiK6UPP+p3MrojOAEat7yJSm0BXFZdffxaGwrXxkV3G2beVYiv",
-        "ativo": 0,
+        "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
         "userAgent":"",
@@ -1142,7 +1142,7 @@
     {
         "channelName": "GNT HD (temp)",
         "link": "ZmmZ/FeJJr+llJQ5mWeW/CIMgpdkre54YuhIxyVUbZE=",
-        "ativo": 1,
+        "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
