@@ -1142,7 +1142,7 @@
     {
         "channelName": "GNT HD (temp)",
         "link": "ZmmZ/FeJJr+llJQ5mWeW/CIMgpdkre54YuhIxyVUbZE=",
-        "ativo": 1,
+        "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
@@ -1393,13 +1393,13 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL",
-        "link": "66o+0KECrlVLZZgvKCCTAJ6ZF5useKD3/LFh/U2WaBgGv2PatFBizN7WCoTcDkZH",
+        "link": "UZ9KEy3oZ7PSVYeiK6UPP+p3MrojOAEat7yJSm0BXFbvRfXrf1lSjV0lGakR0amF",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedtv-0.icu/",
-        "isEmbed": 1,
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
     },
