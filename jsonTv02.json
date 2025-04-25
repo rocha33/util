@@ -733,12 +733,12 @@
     },
     {
         "channelName": "SBT (alter)",
-        "link": "Hz4P57qHKnJuwV16aYN4dipYr/meUxLH/E1/UHMwLm8FbESxoRSjk73NcJrCcvuIXpI/RtBluz3eA2F3FFs+Gw==",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MhSsHXMUTo6rWaLx+xQE/BUwNkijKhrmKYFw1L8u51Iy",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
+        "userAgent":"",
+        "referrer":"",
         "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
@@ -997,13 +997,13 @@
     },
     {
         "channelName": "VIVA HD",
-        "link": "85pcCEf2fiTWu6m09iv00STr9eXHdPuJBIHpgHGJL1VI7NNqYr1OrUSlGbaY942B",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MuGpU3cMohLes0BWkd7qJJtxfowgxnECg0AsSA20QbVg",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedmax.site",
-        "isEmbed": 1,
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
     },
@@ -1321,13 +1321,13 @@
     }, 
     {
         "channelName": "MEGAPIX",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/BMHZEzXPEwZcPA+xW/K3omj+lfA8+9qhJtSrj+9sREU",
+        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xeMGyo0E2X7at0kfdHNgFJWUJ4aSZAoJ0SHHmYTphaAJQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
-        "isEmbed": 1,
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
     },
@@ -1342,19 +1342,7 @@
         "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
-    },
-    {
-        "channelName": "BBB 25",
-        "link": "vKaSFpMQNbSCIZfqqlFL5fJBtw/XHD9zAr5VdqNH1FfHFG8tUgLIt3YaTxxDUFuj0FrfSx6g5iIOf0jAZvmI7Q==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent":"",
-        "referrer":"",
-        "isEmbed": 0,
-        "contaisToken":0,
-        "pausado": 0
-    },
+    },   
     {
         "channelName": "Premieres Clubes (Temp)",
         "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xfoPloyB13nIpOkeLe9wOkCJp/diZpAUQnhNdS+r1//Dg==",
