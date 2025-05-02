@@ -1129,7 +1129,7 @@
     },   
     {
         "channelName": "GNT (temp)",
-        "link": "IjQB8iZYdiNlEV5SXsLvHAPm75cO2X8xLniSOm8M3Z32zMEfr37Cbplhoedaav0Zka8YF31bvdvrSxbZSRjvNA==",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MjZIBxumE9DwmYWxAYxmFCCtVLCy72yBdWoWjOIAV+fc",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1141,13 +1141,13 @@
     },
     {
         "channelName": "GNT HD (temp)",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/CIMgpdkre54YuhIxyVUbZE=",
+        "link": "yJv46fye/YThOKfOBOCoEGC56NQBRTe9miGcG2yOznhUz/oiPLkjrujOkz4tOSyu6G/NxjLuZsMBlamlnKZmGA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer":"https://embedcanaistv.com/",
-        "isEmbed": 1,
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
     },
