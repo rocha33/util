@@ -1462,10 +1462,34 @@
         "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
+    },    
+    {
+        "channelName": "STUDIO UNIVERSAL SD",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MvzCp8xL2DWmIpVq0bVYGEj/eVRsCS6sy550je63UClC",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 0,
+        "contaisToken":0,
+        "pausado": 0
     },
     {
         "channelName": "CINEMAX",
         "link": "qcN1Hnyg2q21ADfpH2s3Ga6X5BmXZFW9T8AbveF0etk=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 0,
+        "contaisToken":0,
+        "pausado": 0
+    },
+    {
+        "channelName": "CINEMAX SD",
+        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MkUX/Y+JbREGZ8fSbMXbX9670xnr6jhpC7WQt6qbu1xv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
