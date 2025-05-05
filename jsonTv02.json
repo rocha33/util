@@ -1462,6 +1462,18 @@
         "isEmbed": 0,
         "contaisToken":0,
         "pausado": 0
+    },
+    {
+        "channelName": "CINEMAX",
+        "link": "qcN1Hnyg2q21ADfpH2s3Ga6X5BmXZFW9T8AbveF0etk=",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent":"",
+        "referrer":"",
+        "isEmbed": 0,
+        "contaisToken":0,
+        "pausado": 0
     }
     
 ]
