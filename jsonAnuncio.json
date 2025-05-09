@@ -1,4 +1,10 @@
-{
-    "UrlBanner" : "https://valdecverymoney.online/images/anuncios/banner_anuncio.jpg",
-    "UrlLink": "https://play.google.com/store/apps/details?id=com.vr.games.storie"
-}
+[
+    {
+        "UrlBanner": "https://valdecverymoney.online/images/anuncios/banner_anuncio.jpg",
+        "UrlLink": "https://play.google.com/store/apps/details?id=com.vr.games.storie"
+    },
+     {
+        "UrlBanner": "https://valdecverymoney.online/images/anuncios/banner_anuncio.jpg",
+        "UrlLink": "https://play.google.com/store/apps/details?id=com.vr.games.storie"
+    }
+]
