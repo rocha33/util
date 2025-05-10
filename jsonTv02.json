@@ -9,7 +9,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0
     },
     {
@@ -22,7 +22,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0
     },
     {
@@ -35,7 +35,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0
     },
     {
@@ -48,7 +48,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0
     },
     {
@@ -61,7 +61,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0
     },
     {
@@ -74,20 +74,33 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0
     },
     {
         "channelName": "RECORDTV MG",
-        "link": "LPAwRSr57K7dYiUjB/NgtROIJP9pYVpMdkkKr0M/wt+xqNcPaBKtkZ54qOllUpwuve87PwYiK+a/XstQjnZvPw==",
+        "link": "0fFbyat5DAaoioixx63sKDDmlLX2Zk3c+4hgYTL6qOeJTbhPHrdacQaWxVG5r7RjSLsTYSCO54So0cNv9waV3Q==",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer": "https://embedcanaistv.com/",
+        "userAgent": "",
+        "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
+        "pausado": 0
+    },
+    {
+        "channelName": "RECORDTV SD",
+        "link": "qcN1Hnyg2q21ADfpH2s3Gb81+6JWUMVdramz67wHWGo=",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0
     },
     {
@@ -100,7 +113,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem": "",
         "pausado": 0
     },
     {
@@ -113,7 +126,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/rede-vida@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/rede-vida@3x.png",
         "pausado": 0
     },
     {
@@ -126,7 +139,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
         "pausado": 0
     },
     {
@@ -139,7 +152,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
         "pausado": 0
     },
     {
@@ -152,7 +165,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
         "pausado": 0
     },
     {
@@ -165,7 +178,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png",
         "pausado": 0
     },
     {
@@ -178,7 +191,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png",
         "pausado": 0
     },
     {
@@ -191,7 +204,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/tv-aparecida@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tv-aparecida@3x.png",
         "pausado": 0
     },
     {
@@ -204,7 +217,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/futura@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/futura@3x.png",
         "pausado": 0
     },
     {
@@ -217,7 +230,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/cultura@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cultura@3x.png",
         "pausado": 0
     },
     {
@@ -230,7 +243,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/recordnews@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/recordnews@3x.png",
         "pausado": 0
     },
     {
@@ -243,7 +256,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/recordnews@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/recordnews@3x.png",
         "pausado": 0
     },
     {
@@ -256,7 +269,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/band@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
         "pausado": 0
     },
     {
@@ -269,10 +282,10 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/band@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
         "pausado": 0
     },
-     {
+    {
         "channelName": "BAND SP",
         "link": "0fFbyat5DAaoioixx63sKDDmlLX2Zk3c+4hgYTL6qOfFdVB2A2QMFTZdu46siUhrMnjYGWL+qiKC6M8ZkbeikA==",
         "ativo": 1,
@@ -282,7 +295,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/band@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
         "pausado": 0
     },
     {
@@ -295,7 +308,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/cancao-nova@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cancao-nova@3x.png",
         "pausado": 0
     },
     {
@@ -308,7 +321,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/cancao-nova@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cancao-nova@3x.png",
         "pausado": 0
     },
     {
@@ -321,9 +334,9 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem": "",
         "pausado": 0
-    },    
+    },
     {
         "channelName": "RETRO TV CARTOON",
         "link": "6/TXGFS2JVJghNfkZ5qAi8zRhZ10QykO6UFzWBNMC/SfqTbjg5m3rcQzIMYVuhM3bByOf0UTspolhI/J7etKcw==",
@@ -334,7 +347,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://megacanaisonline.pro/wp-content/webp-express/webp-images/uploads/2024/01/RETRO.png.webp",
+        "urlImagem": "https://megacanaisonline.pro/wp-content/webp-express/webp-images/uploads/2024/01/RETRO.png.webp",
         "pausado": 0
     },
     {
@@ -347,7 +360,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/cartoon-network@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cartoon-network@3x.png",
         "pausado": 0
     },
     {
@@ -360,7 +373,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/cartoon-network@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cartoon-network@3x.png",
         "pausado": 0
     },
     {
@@ -373,7 +386,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedcanaistv.com/wp-content/uploads/2024/10/tooncast.webp",
+        "urlImagem": "https://embedcanaistv.com/wp-content/uploads/2024/10/tooncast.webp",
         "pausado": 0
     },
     {
@@ -386,7 +399,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedcanaistv.com/wp-content/uploads/2024/10/tooncast.webp",
+        "urlImagem": "https://embedcanaistv.com/wp-content/uploads/2024/10/tooncast.webp",
         "pausado": 0
     },
     {
@@ -399,7 +412,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem": "",
         "pausado": 0
     },
     {
@@ -412,7 +425,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0
     },
     {
@@ -425,7 +438,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
         "pausado": 0
     },
     {
@@ -438,7 +451,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
         "pausado": 0
     },
     {
@@ -451,7 +464,7 @@
         "referrer": "https://embedcanaistv.com/",
         "isEmbed": 1,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/cnn-brasil@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cnn-brasil@3x.png",
         "pausado": 0
     },
     {
@@ -464,7 +477,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/cnn-brasil@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cnn-brasil@3x.png",
         "pausado": 0
     },
     {
@@ -477,7 +490,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/band-news@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-news@3x.png",
         "pausado": 0
     },
     {
@@ -490,7 +503,7 @@
         "referrer": "https://embedcanaistv.com/",
         "isEmbed": 1,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/band-news@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-news@3x.png",
         "pausado": 0
     },
     {
@@ -503,7 +516,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"xxx",
+        "urlImagem": "xxx",
         "pausado": 0
     },
     {
@@ -516,7 +529,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem": "",
         "pausado": 0
     },
     {
@@ -529,7 +542,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem": "",
         "pausado": 0
     },
     {
@@ -542,7 +555,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem": "",
         "pausado": 0
     },
     {
@@ -555,7 +568,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
         "pausado": 0
     },
     {
@@ -568,7 +581,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem": "",
         "pausado": 0
     },
     {
@@ -581,7 +594,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
         "pausado": 0
     },
     {
@@ -594,7 +607,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
         "pausado": 0
     },
     {
@@ -607,7 +620,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
         "pausado": 0
     },
     {
@@ -620,7 +633,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
         "pausado": 0
     },
     {
@@ -633,7 +646,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
         "pausado": 0
     },
     {
@@ -646,7 +659,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
         "pausado": 0
     },
     {
@@ -659,7 +672,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
         "pausado": 0
     },
     {
@@ -672,7 +685,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
         "pausado": 0
     },
     {
@@ -685,7 +698,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
         "pausado": 0
     },
     {
@@ -698,7 +711,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
         "pausado": 0
     },
     {
@@ -711,7 +724,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/globonews@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/globonews@3x.png",
         "pausado": 0
     },
     {
@@ -724,7 +737,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/globonews@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/globonews@3x.png",
         "pausado": 0
     },
     {
@@ -737,7 +750,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/24h.png",
+        "urlImagem": "https://embedtv.digital/assets/images/24h.png",
         "pausado": 0
     },
     {
@@ -750,7 +763,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/tve@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tve@3x.png",
         "pausado": 0
     },
     {
@@ -763,7 +776,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/tve@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tve@3x.png",
         "pausado": 0
     },
     {
@@ -776,7 +789,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
         "pausado": 0
     },
     {
@@ -789,7 +802,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
         "pausado": 0
     },
     {
@@ -802,7 +815,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
         "pausado": 0
     },
     {
@@ -815,7 +828,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
         "pausado": 0
     },
     {
@@ -828,7 +841,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
         "pausado": 0
     },
     {
@@ -841,9 +854,9 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/redetv!@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/redetv!@3x.png",
         "pausado": 0
-    },   
+    },
     {
         "channelName": "BAND RJ HD",
         "link": "yJv46fye/YThOKfOBOCoEGC56NQBRTe9miGcG2yOzniSZbUOoixLHDj0hBafXfAMhVUpqdFwJUfaLApGJelyXw==",
@@ -854,7 +867,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/band@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
         "pausado": 0
     },
     {
@@ -867,7 +880,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem": "",
         "pausado": 0
     },
     {
@@ -880,7 +893,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem": "",
         "pausado": 0
     },
     {
@@ -893,7 +906,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem": "",
         "pausado": 0
     },
     {
@@ -906,7 +919,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem": "",
         "pausado": 0
     },
     {
@@ -919,7 +932,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/sportv@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv@3x.png",
         "pausado": 0
     },
     {
@@ -932,7 +945,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/sportv@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv@3x.png",
         "pausado": 0
     },
     {
@@ -945,7 +958,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/sportv-2@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv-2@3x.png",
         "pausado": 0
     },
     {
@@ -958,7 +971,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/sportv-2@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv-2@3x.png",
         "pausado": 0
     },
     {
@@ -971,7 +984,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png",
         "pausado": 0
     },
     {
@@ -984,7 +997,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png",
         "pausado": 0
     },
     {
@@ -997,7 +1010,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/tnt-series@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tnt-series@3x.png",
         "pausado": 0
     },
     {
@@ -1010,7 +1023,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/tnt-series@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tnt-series@3x.png",
         "pausado": 0
     },
     {
@@ -1023,7 +1036,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem": "",
         "pausado": 0
     },
     {
@@ -1036,7 +1049,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem": "",
         "pausado": 0
     },
     {
@@ -1049,7 +1062,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://supertvaovivo.app/wp-content/uploads/2023/02/assistir-curta-ao-vivo.webp",
+        "urlImagem": "https://supertvaovivo.app/wp-content/uploads/2023/02/assistir-curta-ao-vivo.webp",
         "pausado": 0
     },
     {
@@ -1062,7 +1075,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
         "pausado": 0
     },
     {
@@ -1075,7 +1088,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
         "pausado": 0
     },
     {
@@ -1088,7 +1101,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
         "pausado": 0
     },
     {
@@ -1101,7 +1114,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/tv-brasil@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tv-brasil@3x.png",
         "pausado": 0
     },
     {
@@ -1114,7 +1127,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/24h.png",
+        "urlImagem": "https://embedtv.digital/assets/images/24h.png",
         "pausado": 0
     },
     {
@@ -1127,7 +1140,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/history-channel@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-channel@3x.png",
         "pausado": 0
     },
     {
@@ -1140,7 +1153,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/history-channel@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-channel@3x.png",
         "pausado": 0
     },
     {
@@ -1153,7 +1166,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/history-2@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-2@3x.png",
         "pausado": 0
     },
     {
@@ -1166,7 +1179,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/history-2@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-2@3x.png",
         "pausado": 0
     },
     {
@@ -1179,7 +1192,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png",
         "pausado": 0
     },
     {
@@ -1192,7 +1205,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png",
         "pausado": 0
     },
     {
@@ -1205,7 +1218,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/mtv@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/mtv@3x.png",
         "pausado": 0
     },
     {
@@ -1218,7 +1231,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/mtv@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/mtv@3x.png",
         "pausado": 0
     },
     {
@@ -1231,7 +1244,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/24h.png",
+        "urlImagem": "https://embedtv.digital/assets/images/24h.png",
         "pausado": 0
     },
     {
@@ -1244,7 +1257,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/24h.png",
+        "urlImagem": "https://embedtv.digital/assets/images/24h.png",
         "pausado": 0
     },
     {
@@ -1257,7 +1270,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/gnt@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/gnt@3x.png",
         "pausado": 0
     },
     {
@@ -1270,7 +1283,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/gnt@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/gnt@3x.png",
         "pausado": 0
     },
     {
@@ -1283,7 +1296,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://embedtv.digital/assets/images/cazetv.png",
+        "urlImagem": "https://embedtv.digital/assets/images/cazetv.png",
         "pausado": 0
     },
     {
@@ -1296,7 +1309,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/espn@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn@3x.png",
         "pausado": 0
     },
     {
@@ -1309,7 +1322,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/espn@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn@3x.png",
         "pausado": 0
     },
     {
@@ -1322,7 +1335,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
         "pausado": 0
     },
     {
@@ -1335,7 +1348,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
         "pausado": 0
     },
     {
@@ -1348,7 +1361,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
         "pausado": 0
     },
     {
@@ -1361,7 +1374,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
         "pausado": 0
     },
     {
@@ -1374,7 +1387,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/amc@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/amc@3x.png",
         "pausado": 0
     },
     {
@@ -1387,7 +1400,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/amc@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/amc@3x.png",
         "pausado": 0
     },
     {
@@ -1400,7 +1413,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/animal-planet@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/animal-planet@3x.png",
         "pausado": 0
     },
     {
@@ -1413,7 +1426,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/animal-planet@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/animal-planet@3x.png",
         "pausado": 0
     },
     {
@@ -1426,7 +1439,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/warner-channel@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/warner-channel@3x.png",
         "pausado": 0
     },
     {
@@ -1439,7 +1452,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/warner-channel@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/warner-channel@3x.png",
         "pausado": 0
     },
     {
@@ -1452,7 +1465,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
         "pausado": 0
     },
     {
@@ -1465,7 +1478,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
         "pausado": 0
     },
     {
@@ -1478,7 +1491,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/megapix@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/megapix@3x.png",
         "pausado": 0
     },
     {
@@ -1491,7 +1504,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/megapix@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/megapix@3x.png",
         "pausado": 0
     },
     {
@@ -1504,7 +1517,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/premiere-clubes-hd@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/premiere-clubes-hd@3x.png",
         "pausado": 0
     },
     {
@@ -1517,7 +1530,7 @@
         "referrer": "https://embedcanaistv.com/",
         "isEmbed": 1,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/premiere-clubes-hd@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/premiere-clubes-hd@3x.png",
         "pausado": 0
     },
     {
@@ -1530,7 +1543,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/tv-brasil@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tv-brasil@3x.png",
         "pausado": 0
     },
     {
@@ -1543,7 +1556,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/discovery@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/discovery@3x.png",
         "pausado": 0
     },
     {
@@ -1556,7 +1569,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/discovery@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/discovery@3x.png",
         "pausado": 0
     },
     {
@@ -1569,7 +1582,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/discovery@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/discovery@3x.png",
         "pausado": 0
     },
     {
@@ -1582,7 +1595,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/nosso-futebol@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/nosso-futebol@3x.png",
         "pausado": 0
     },
     {
@@ -1595,7 +1608,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/nosso-futebol@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/nosso-futebol@3x.png",
         "pausado": 0
     },
     {
@@ -1608,7 +1621,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/studio-universal@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/studio-universal@3x.png",
         "pausado": 0
     },
     {
@@ -1621,7 +1634,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/studio-universal@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/studio-universal@3x.png",
         "pausado": 0
     },
     {
@@ -1634,7 +1647,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/cinemax@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cinemax@3x.png",
         "pausado": 0
     },
     {
@@ -1647,7 +1660,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/cinemax@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cinemax@3x.png",
         "pausado": 0
     }
 ]
