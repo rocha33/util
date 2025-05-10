@@ -272,6 +272,19 @@
         "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/band@3x.png",
         "pausado": 0
     },
+     {
+        "channelName": "BAND SP",
+        "link": "0fFbyat5DAaoioixx63sKDDmlLX2Zk3c+4hgYTL6qOfFdVB2A2QMFTZdu46siUhrMnjYGWL+qiKC6M8ZkbeikA==",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/band@3x.png",
+        "pausado": 0
+    },
     {
         "channelName": "CANÇÃO NOVA",
         "link": "vKaSFpMQNbSCIZfqqlFL5fJBtw/XHD9zAr5VdqNH1FfHFG8tUgLIt3YaTxxDUFujKaJR+tnEmELp5pPXPsx9JA==",
@@ -830,20 +843,7 @@
         "contaisToken": 0,
         "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/redetv!@3x.png",
         "pausado": 0
-    },
-    {
-        "channelName": "BAND SP",
-        "link": "85pcCEf2fiTWu6m09iv00TEBT9oKbMR+9bnsD4RXIvhTO/PzfgTQDNgFeYum4Abu",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer": "https://embedmax.site",
-        "isEmbed": 1,
-        "contaisToken": 0,
-        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/band@3x.png",
-        "pausado": 0
-    },
+    },   
     {
         "channelName": "BAND RJ HD",
         "link": "yJv46fye/YThOKfOBOCoEGC56NQBRTe9miGcG2yOzniSZbUOoixLHDj0hBafXfAMhVUpqdFwJUfaLApGJelyXw==",
@@ -1288,7 +1288,7 @@
     },
     {
         "channelName": "ESPN",
-        "link": "K6w/3DiXKHKAqMsxAuR10v/WJ9negEiNxhMcErwURlI=",
+        "link": "0fFbyat5DAaoioixx63sKDDmlLX2Zk3c+4hgYTL6qOcwumQf1zsjknr+kmv32LR+SLODQc+0J8QcZHd+TsVLDw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
