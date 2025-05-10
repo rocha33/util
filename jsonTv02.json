@@ -310,20 +310,7 @@
         "contaisToken": 0,
         "urlImagem" :"",
         "pausado": 0
-    },
-    {
-        "channelName": "ANIME TV",
-        "link": "6/TXGFS2JVJghNfkZ5qAixP+clKiyhjJSYKUeQ9vr9Y3+02Ul7BTG+jDPm+hKXDNFwZAIdH9gfpxnATuJJmZIQ==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "animacao",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem" :"",
-        "pausado": 0
-    },
+    },    
     {
         "channelName": "RETRO TV CARTOON",
         "link": "6/TXGFS2JVJghNfkZ5qAi8zRhZ10QykO6UFzWBNMC/SfqTbjg5m3rcQzIMYVuhM3bByOf0UTspolhI/J7etKcw==",
@@ -373,7 +360,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem" :"https://embedcanaistv.com/wp-content/uploads/2024/10/tooncast.webp",
         "pausado": 0
     },
     {
@@ -386,7 +373,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem" :"https://embedcanaistv.com/wp-content/uploads/2024/10/tooncast.webp",
         "pausado": 0
     },
     {
@@ -841,7 +828,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/redetv!@3x.png",
         "pausado": 0
     },
     {
@@ -1101,7 +1088,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem" :"",
+        "urlImagem" :"https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
         "pausado": 0
     },
     {
