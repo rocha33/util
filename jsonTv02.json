@@ -581,7 +581,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "",
+        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
         "pausado": 0
     },
     {
@@ -1080,12 +1080,12 @@
     },
     {
         "channelName": "VIVA HD",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MuGpU3cMohLes0BWkd7qJJtxfowgxnECg0AsSA20QbVg",
+        "link": "66o+0KECrlVLZZgvKCCTAB+7vJ9TP/kE6cQCzjHDqV8=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0",
+        "referrer": "https://embedtv-0.icu/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
@@ -1465,7 +1465,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/multishow@3x.png",
         "pausado": 0
     },
     {
@@ -1478,7 +1478,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/multishow@3x.png",
         "pausado": 0
     },
     {
