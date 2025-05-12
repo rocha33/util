@@ -1080,13 +1080,13 @@
     },
     {
         "channelName": "VIVA HD",
-        "link": "66o+0KECrlVLZZgvKCCTAB+7vJ9TP/kE6cQCzjHDqV8=",
+        "link": "wJQBtDYQrrgYOJOSLyDupCst/BHjOQO4ZvONzyowJapWpzMyYhWq7LWZjN3bCgd9Q5VhvQWNoZuG+zCjLDl94g==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0",
-        "referrer": "https://embedtv-0.icu/",
-        "isEmbed": 1,
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
         "pausado": 0
@@ -1197,7 +1197,7 @@
     },
     {
         "channelName": "HBO 2 HD",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MtkIRsLmitf+tYxW+oCUbUf1mA9tBHNBhvNmYj096AkE",
+        "link": "0fFbyat5DAaoioixx63sKDDmlLX2Zk3c+4hgYTL6qOcTwZILpx9XAO3BhZyhLwECgaWC+ZJ8ZuoHpKow9MXq2A==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
