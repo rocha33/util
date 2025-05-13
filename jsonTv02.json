@@ -456,13 +456,13 @@
     },
     {
         "channelName": "CNN BRASIL",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/ISzJhOW2KemPwmFRjl6g+eeAOwif9ClTvt3qVZfPi/w",
+        "link": "0fFbyat5DAaoioixx63sKDDmlLX2Zk3c+4hgYTL6qOflwTTp0x9AgjmS4WJIYagqAnn0/wMKkT3S7VBksxA8Fg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer": "https://embedcanaistv.com/",
-        "isEmbed": 1,
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cnn-brasil@3x.png",
         "pausado": 0
@@ -664,7 +664,7 @@
     },
     {
         "channelName": "GLOBO RPC",
-        "link": "IjQB8iZYdiNlEV5SXsLvHDkWPZIHsIqCN69LBIsz9O3QCmnjAHi5yCI6074pJCUvQ0nY+6q5cvbQ7L/iH6/PLw==",
+        "link": "0fFbyat5DAaoioixx63sKDDmlLX2Zk3c+4hgYTL6qOdkqWkoUMdjkZPIwfPvoji4o9zgZIX2iarZQaY0lsDp0Q==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -729,7 +729,7 @@
     },
     {
         "channelName": "GLOBO NEWS HD",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xevd+vrPcjtVRhKTZAsxUYX5PM6conldAhbvGlPST3DNw==",
+        "link": "0fFbyat5DAaoioixx63sKDDmlLX2Zk3c+4hgYTL6qOflwTTp0x9AgjmS4WJIYagqtLYllXDHMx8CwKjZtvtfqg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -1093,7 +1093,7 @@
     },
     {
         "channelName": "VIVA SD",
-        "link": "0fFbyat5DAaoioixx63sKDDmlLX2Zk3c+4hgYTL6qOd06zRSeSyDwEuEnolLg9krvMsyjwp7iUwKMqT7i5f1DA==",
+        "link": "0fFbyat5DAaoioixx63sKDDmlLX2Zk3c+4hgYTL6qOd06zRSeSyDwEuEnolLg9kr+3v8azbrI0SQUc4PnY/d1w==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1132,7 +1132,7 @@
     },
     {
         "channelName": "History",
-        "link": "yJv46fye/YThOKfOBOCoEGC56NQBRTe9miGcG2yOzng0LPaB42WZPs7MGSGm9rQCcOpWHMFypDWjGWF0o+1D3w==",
+        "link": "0fFbyat5DAaoioixx63sKDDmlLX2Zk3c+4hgYTL6qOcdhQDL+jMBwWg5Zng45vss6KPRUpx2sC9Q6R0Gejh1Jg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1236,7 +1236,7 @@
     },
     {
         "channelName": "EU A PATROA AS CRIANÇAS",
-        "link": "ZRizQw6AGfr2ph6TeLKJXsFOgMtGGz5sqXuEKeGv0LJ6EO9vcYM2rEMCBRXzFfSDP3sHkIIuF8Gr7I2YGofyUT2JuZx5E2kKzJxjpisaPk4=",
+        "link": "0fFbyat5DAaoioixx63sKDDmlLX2Zk3c+4hgYTL6qOebK84j8dlw3gXUX5pZa+fP8EQEACzFtL4uSoeSLngCWA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -1249,7 +1249,7 @@
     },
     {
         "channelName": "TODO MUNDO ODEIA O CRIS",
-        "link": "ZRizQw6AGfr2ph6TeLKJXsFOgMtGGz5sqXuEKeGv0LLYKLRhgITNZbO5lDWyl74RIFVoZNHgG6YTY+O3vndTxNzuwCxU6HbH7Uy0azVQzDc=",
+        "link": "0fFbyat5DAaoioixx63sKDDmlLX2Zk3c+4hgYTL6qOfQWKPXTydIkH5Vw9SOmmXx+7UxCzPYkevnSHwmigB9FA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -1275,7 +1275,7 @@
     },
     {
         "channelName": "GNT HD",
-        "link": "yJv46fye/YThOKfOBOCoEGC56NQBRTe9miGcG2yOznhUz/oiPLkjrujOkz4tOSyu6G/NxjLuZsMBlamlnKZmGA==",
+        "link": "qcN1Hnyg2q21ADfpH2s3GeAKY5lVYy3aOBqaZlVTDsM=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1327,7 +1327,7 @@
     },
     {
         "channelName": "ESPN 2",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2Mvoo/wQUGW/EEoexg/LDET0PUeTqwGm3lk/uwhRgowqj",
+        "link": "0fFbyat5DAaoioixx63sKDDmlLX2Zk3c+4hgYTL6qOcwumQf1zsjknr+kmv32LR+zbA7iJ5R8IBo+VqSXbdSNQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
