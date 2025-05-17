@@ -365,13 +365,13 @@
     },
     {
         "channelName": "CARTOON NETWORK HD",
-        "link": "H9P1tJgGZTapNmuUtUVlsc9f7iRUmfBS0YuHQ1zIx3vlzKII7itGqH6VCHhaTeBB",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/D9on126LUgBb5/tw4p+Wwuksm/oZoagzY73/YoBtabE",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0",
+        "referrer": "https://embedcanaistv.com/",
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cartoon-network@3x.png",
         "pausado": 0
@@ -1587,7 +1587,7 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL SD",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/ArmTiXUY6MVyg5xsHJVa1QTVdUsPo1lnrdLMVgKj0nc",
+        "link": "Qw5oTqT/bW4pzye1zVbD1dhjmy88R3N70WDAeeZd3MywZa/ct5SnVcknjO1tKJqd5azKUt0gf2npPJbNqA1rADOP4F7BlY4GUIIfe2wscjM=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
