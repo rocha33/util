@@ -352,7 +352,7 @@
     },
     {
         "channelName": "CARTOON NETWORK SD",
-        "link": "T72hVofaQWRp4L2HaYYMOjGYnImbOjGqO+MrCZs3IDlu2noGs37koc7F+kwy4eUplYzaGOu+WAeykZtyU0Dd+Q==",
+        "link": "qtm5qDHvDtAhFqNF4GTRSFu4w/kK8OZNSuA459hsrgW+ZkrCjCGGKWuEpj4mF+0x",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -365,7 +365,7 @@
     },
     {
         "channelName": "CARTOON NETWORK HD",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xei3tT4/S8IIMKB3OdWQm/dW5I+bBDGyPfpl+2/Lh7YLw==",
+        "link": "H9P1tJgGZTapNmuUtUVlsc9f7iRUmfBS0YuHQ1zIx3vlzKII7itGqH6VCHhaTeBB",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -1313,13 +1313,26 @@
         "pausado": 0
     },
     {
-        "channelName": "ESPN SD",
+        "channelName": "ESPN HD",
         "link": "dbzdSmibAPYuBwwWRjxdypPaDyJTsQKmJ2X/Azi1hzHuBc4aJMwXCuYJEAU83Sy5KcE6mvd7sDcxrvV4+FpuZA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "",
         "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn@3x.png",
+        "pausado": 0
+    },
+     {
+        "channelName": "ESPN SD",
+        "link": "h51Q5quTyPrKJtxRKRdcjKSQumrFlmfKqJ7Yjv872EiSDwvZ6hIvdX1Fxq8ce3WF",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0",
+        "referrer": "https://chanel1.xn--y5q31cs7iove24m.net/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn@3x.png",
@@ -1548,7 +1561,7 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xcAlVyUBz/TfaH3yhiai4o9tBBy3QtMKwTJ82PCy90+wQ==",
+        "link": "H9P1tJgGZTapNmuUtUVlsc9f7iRUmfBS0YuHQ1zIx3vW/upBFl/yYWCh2kLcwr2A",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1561,7 +1574,7 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL HD",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xcAlVyUBz/TfaH3yhiai4o9tBBy3QtMKwTJ82PCy90+wQ==",
+        "link": "qtm5qDHvDtAhFqNF4GTRSFu4w/kK8OZNSuA459hsrgXKLJVrSoFEwRbAAZA4IDDU",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1574,13 +1587,13 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL SD",
-        "link": "+fXu70RFuZ1pN5K1yT3JFvqZKjmaVhZlqz05dRGxQk04l9wEyeqbv50naCJvCG/CERlWweLFoRnTW3EGEUNcvw==",
+        "link": "ZmmZ/FeJJr+llJQ5mWeW/ArmTiXUY6MVyg5xsHJVa1QTVdUsPo1lnrdLMVgKj0nc",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0",
+        "referrer": "https://embedcanaistv.com/",
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/discovery@3x.png",
         "pausado": 0
