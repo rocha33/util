@@ -365,13 +365,13 @@
     },
     {
         "channelName": "CARTOON NETWORK HD",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/D9on126LUgBb5/tw4p+Wwuksm/oZoagzY73/YoBtabE",
+        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/jCui+fRvgVyjQE4Q226FQg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0",
-        "referrer": "https://embedcanaistv.com/",
-        "isEmbed": 1,
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cartoon-network@3x.png",
         "pausado": 0
@@ -495,13 +495,13 @@
     },
     {
         "channelName": "BAND NEWS",
-        "link": "ZmmZ/FeJJr+llJQ5mWeW/FDzfS4iXuNfpf7MzgSHBIf3Zuvk9TT/Iku10oC8EaiR",
+        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/qFjFCT8PtmLUIeXWYa/xhg==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer": "https://embedcanaistv.com/",
-        "isEmbed": 1,
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-news@3x.png",
         "pausado": 0
@@ -599,7 +599,7 @@
     },
     {
         "channelName": "GLOBO NORDESTE",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xcA8iDhTcL7dxjB+Ci93krQZNSiUPYeXly1jEnATmw2+w==",
+        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/WU5LvRViQBh+f7o/S2vi8w==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1379,7 +1379,7 @@
     },
     {
         "channelName": "AXN SD",
-        "link": "qcN1Hnyg2q21ADfpH2s3GcA8JvovNQiXLz5aXIwFiQo=",
+        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS//03ckvz/ywrBLIMV2nIWcQ==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1392,7 +1392,7 @@
     },
     {
         "channelName": "AMC FHD",
-        "link": "qcN1Hnyg2q21ADfpH2s3GcA8JvovNQiXLz5aXIwFiQo=",
+        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/M22vsmAvsnpSxOFIZqZzWw==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1431,7 +1431,7 @@
     },
     {
         "channelName": "ANIMAL PLANET SD",
-        "link": "qcN1Hnyg2q21ADfpH2s3GZcTYC6avoaL2HTNXjH9sNU=",
+        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/7/g2HaZOIiUlg+4rf5BDag==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1587,13 +1587,13 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL SD",
-        "link": "Qw5oTqT/bW4pzye1zVbD1dhjmy88R3N70WDAeeZd3MywZa/ct5SnVcknjO1tKJqd5azKUt0gf2npPJbNqA1rADOP4F7BlY4GUIIfe2wscjM=",
+        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/fR1ro9rk/VMUzPHIrf4dHA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0",
-        "referrer": "https://embedcanaistv.com/",
-        "isEmbed": 1,
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/discovery@3x.png",
         "pausado": 0
@@ -1639,7 +1639,7 @@
     },
     {
         "channelName": "STUDIO UNIVERSAL SD",
-        "link": "H9P1tJgGZTapNmuUtUVlsc9f7iRUmfBS0YuHQ1zIx3sK37eVOS4lSaeJcd2eSg3c",
+        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/cPxXNdIzVYqYv0LXL7PDTA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1665,7 +1665,7 @@
     },
     {
         "channelName": "CINEMAX SD",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MkUX/Y+JbREGZ8fSbMXbX9670xnr6jhpC7WQt6qbu1xv",
+        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/H0iWKzTJHhZz3hs/WX7NsA==",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
