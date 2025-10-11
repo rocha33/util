@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="en">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>English for life</title>
+        <!-- Favicon padrão -->
+        <link rel="icon" type="image/png" sizes="32x32"
+              href="https://valdecverymoney.online/marketing/images/logo_loja.jpeg">
+
+        <!-- Favicon para dispositivos Apple -->
+        <link rel="apple-touch-icon" sizes="180x180" href="https://valdecverymoney.online/marketing/images/logo_loja.jpeg">
+
+        <!-- Favicon para Android -->
+        <link rel="icon" type="image/png" sizes="192x192"
+              href="https://valdecverymoney.online/marketing/images/logo_loja.jpeg">
+          
+
+        <style>
+            /* Estilo Shopee-like: Fundo laranja gradiente, clean */
+            body {
+                margin: 0;
+                padding: 0;
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+                 background: linear-gradient(135deg, #101110ff 0%, #160e42ff 100%);
+                /*background: url('images/dev-eficiente/back_ground_devEficiente.webp') repeat center center/cover;*/
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                color: #333;
+                overflow-x: hidden;
+            }
+
+            /* Modal centralizado, não fechável */
+            .modal {
+                background: white;
+                border-radius: 12px;
+                padding: 24px;
+                text-align: center;
+                max-width: 90%;
+                max-height: 90vh;
+                overflow-y: auto;
+                box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+                position: fixed;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                z-index: 1000;
+            }
+
+            .imagem {
+                width: 100%;
+                max-width: 300px;
+                height: auto;
+                border-radius: 8px;
+                margin-bottom: 1px;
+            }
+
+            .mensagem {
+                font-size: 18px;
+                font-weight: bold;
+                margin-bottom: 16px;
+                color: #034124;
+            }
+
+            .botao {
+                background: #f7f708ff;
+                color: #050409ff;
+                border: none;
+                padding: 18px 30px;
+                border-radius: 20px;
+                font-size: 18px;
+                font-weight: 800;
+                cursor: pointer;
+                transition: background 0.3s;
+            }
+
+            .botao:hover {
+                background: #09c309ff;
+            }
+
+            /* Sem overflow ou scroll no body */
+            body::before {
+                content: '';
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0, 0, 0, 0.1);
+                z-index: -1;
+            }
+
+            h1 {
+                font-size: 1.8rem;
+                font-weight: 900;
+                line-height: 1.2;
+                text-transform: uppercase;
+                margin: 0;
+            }
+
+            .highlight {
+                background-color: #ff8833;
+                color: #193d21;
+                padding: 0 8px;
+            }
+
+            .highlight.large {
+                display: inline-block;
+                margin-top: 5px;
+                font-size: 2rem;
+            }
+
+            .header-image {
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 10%;
+                height: auto;
+                object-fit: cover;
+                left: 50%; /* Move o ponto de referência para o centro */
+                transform: translateX(-50%); /* Corrige a posição para centralizar */
+                z-index: 1000; /* Garante que fique acima de outros elementos */
+            }
+
+            /* ------------------ RESPONSIVIDADE ------------------ */
+
+            /* Telas médias (tablets e pequenos laptops) */
+            @media (max-width: 992px) {
+                .modal {
+                    padding: 20px;
+                    max-width: 90%;
+                }
+
+                .imagem {
+                    max-width: 250px;
+                }
+
+                .mensagem {
+                    font-size: 16px;
+                }
+
+                .botao {
+                    font-size: 15px;
+                    padding: 10px 20px;
+                }
+
+                h1 {
+                    font-size: 1.5rem;
+                }
+
+                .highlight.large {
+                    font-size: 1.6rem;
+                }
+            }
+
+            /* Telas pequenas (smartphones) */
+            @media (max-width: 600px) {
+                body {
+                    align-items: flex-start;
+                    height: auto;
+                    padding-top: 30px;
+                }
+
+                .modal {
+                    position: relative;
+                    top: 0;
+                    left: 0;
+                    transform: none;
+                    width: 100%;
+                    border-radius: 0;
+                    max-height: none;
+                    box-shadow: none;
+                    padding: 16px;
+                }
+
+                .imagem {
+                    max-width: 200px;
+                    margin: 0 auto 10px;
+                }
+
+                .mensagem {
+                    font-size: 15px;
+                }
+
+                .botao {
+                    width: 100%;
+                    font-size: 15px;
+                    padding: 10px;
+                }
+
+                h1 {
+                    font-size: 1.3rem;
+                }
+
+                .highlight.large {
+                    font-size: 1.4rem;
+                }
+            }
+
+            /* Telas muito pequenas (ex: iPhone SE) */
+            @media (max-width: 400px) {
+                .mensagem {
+                    font-size: 14px;
+                }
+
+                .botao {
+                    font-size: 14px;
+                    padding: 8px;
+                }
+
+                h1 {
+                    font-size: 1.1rem;
+                }
+
+                .highlight.large {
+                    font-size: 1.2rem;
+                }
+            }
+        </style>
+
+    </head>
+
+
+    <body>
+        <img src="hotmart-1.webp" alt="English for life: o curso completo para quem deseja aprender Inglês" class="header-image">
+        <div class="modal">
+            <img src="images/inglish4you/eng4life.webp" alt="English for life" class="imagem" onclick="acceptBonus()">
+            <h1>
+                <span>English for life</span><br>
+                <span>o curso completo</span>
+                <span class="highlight">para quem deseja</span><br>
+                <span class="highlight large">aprender Inglês</span>
+            </h1>             
+            
+
+            <p>O curso possui mais de 1300 aulas, incluindo aulas com professores nativos. 
+                Conteúdo do nível básico ao avançado, para você estudar de onde estiver, quando quiser.</p>
+            <a class="botao"  href ="https://go.hotmart.com/S102328453G">APROVEITAR OFERTA</a>
+        </div>        
+
+    </body>
+
+</html>
