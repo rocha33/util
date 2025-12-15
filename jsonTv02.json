@@ -638,15 +638,15 @@
     },
     {
         "channelName": "GLOBO MG",
-        "link": "r8dy7sl53W0k7WTeQV0w9x8RfWBa4WISoOE+fs9ZMwY/19sGKKBsmYHUnXYEnnDa",
-        "ativo": 0,
+        "link": "https://embedcanais.store/DAdmHxNWFOCWglbmgdnrJi7sC4/tracks-v1a1/mono.ts.m3u8",
+        "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://embedcanais.com/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedcanais.com/images/globo.webp",
         "pausado": 0
     },
     {
