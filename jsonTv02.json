@@ -102,20 +102,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0
-    },
-    {
-        "channelName": "Global TV",
-        "link": "gq9eyqDAP1s3nVth14QaTaOsQk43bhdtLvRHNopEc253DTjCKa07sSn59Mqpbe6WgpmHXgDrhDk3fJ2PAiRkaw==",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "",
-        "pausado": 0
-    },
+    },   
     {
         "channelName": "Rede Vida",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22384",
@@ -170,7 +157,7 @@
     },
     {
         "channelName": "TELE CINE ACTION",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xf4aePB7B7CFl+oRo+KcnRmpoYAs4Noze0RD9e7XnFO/w==",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22617",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -183,7 +170,7 @@
     },
     {
         "channelName": "TELE CINE ACTION HD",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xf4aePB7B7CFl+oRo+KcnRmpoYAs4Noze0RD9e7XnFO/w==",
+        "link": "http://strixcdn.online:80/215974557/064570234/18071.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -235,7 +222,7 @@
     },
     {
         "channelName": "RECORD NEWS",
-        "link": "T1EebmSWq3ZDlLFMxB3MB9iF6pIvDyKBb8BgCMehOEUIzKZH541qI+SfSzXL3AWKrx5VOApZaDaB28yxa5HS5w==",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18592",
         "ativo": 1,
         "contactpage": "",
         "categoria": "noticias",
@@ -248,7 +235,7 @@
     },
     {
         "channelName": "RECORD NEWS SD (Pluto Tv)",
-        "link": "T1EebmSWq3ZDlLFMxB3MB9iF6pIvDyKBb8BgCMehOEUIzKZH541qI+SfSzXL3AWK9xzPbv0sK7jq/1FQTuFxvL1AiIatudm61wA49wIbB9QCs+VCTGeD6sOoQZnxgh58wn6wytP7sNkmwZBJ21W6I8PfjLHoSySriMEIbhMZkzpoUpRKSJbNjiezsvSI2cyL9W9OUH6eLecQQUWRaEhC1MpIkPXeTPQsPdoWEoRVVHwrLFLk6IYvNvwM2w8jHjHuQu77ykjXsBsUQh+PWykEkJSa8cQUFI9pYs5UHr89XIOvb3M4hM7IJfnuneN+3hXF1GWptTli7XXL2uy+UwODQOmmg8qZa53EWiHkfbzNZ+NpSQTLaFFZdb3a2PM4UDUx0PhfR6Zpa1RKqR9ACb/003VEm810JG3CmY+93KLRgsFTn5yowMN5yVgYpcvhIuEr5phWzIqULCZBJt2voW/5xR2+JjcNsYv7z9Q+81bQ8gu+5aeNL0C5JBxIDan5oUbL69IwdlVHep0YI4KQnjr3O9jI6EnMuMq7LjFdiuCyctmfvwmARrYfF2Vq+ugXb9xkm4K6JbCUqSxbxXqyOFLUtkDhhDo6BGg3ptbh/af8o1Pdy+vEdaO4FlPXkleTIGjMfXGs9/9teeDvAz1Akx2S4sd560nsA6e08EflmWvBdoSCTL9QPtCa329roijljb0zxuAe4LuHbvSvQp6GaU9WXMpAjEV98nRTExB7guqC9n9A6+qQgX5wIIASB3CXtwOrUkUQOtq89183Oya+KC4bWE6ScRK16Rn8ofbK+UKyc0Gl62i/jYE7Ogu42BI2eVzQ7Rc445f5rn6ttYfacib85yOQ+Jp/wenCk2HQkNER1c3O0aEvD8z2YzID2le1WdJtvCfD7p+8IwV+G5mI1UFb+9mpimdxNLjKmBuHTtl9qH1LoDM78G3oJ7oNAj4H73KSC8LQpGNa6muRJJpp6fz6yheoS+E7UN0IZM/lkTS0MqrOIRiPFq/Qcfv6PZksF/FaEDjt2jS3IEXCm5M4Gpj446Zc1PltaKPX+dIy3dd5kGROXKwpk2S3XX1ATqc9Oz/LuOuC37vGkfp4jiaGPWjJIX62uHgCI0x1coLkCHgF52Z2WdLgK0GewHXSqoV8sRQf",
+        "link": "http://strixcdn.online:80/215974557/064570234/17534.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -336,23 +323,10 @@
         "contaisToken": 0,
         "urlImagem": "",
         "pausado": 0
-    },
-    {
-        "channelName": "RETRO TV CARTOON",
-        "link": "6/TXGFS2JVJghNfkZ5qAi8zRhZ10QykO6UFzWBNMC/SfqTbjg5m3rcQzIMYVuhM3bByOf0UTspolhI/J7etKcw==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "animacao",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://megacanaisonline.pro/wp-content/webp-express/webp-images/uploads/2024/01/RETRO.png.webp",
-        "pausado": 0
-    },
+    },    
     {
         "channelName": "CARTOON NETWORK SD",
-        "link": "qtm5qDHvDtAhFqNF4GTRSFu4w/kK8OZNSuA459hsrgW+ZkrCjCGGKWuEpj4mF+0x",
+        "link": "http://strixcdn.online:80/215974557/064570234/1583541.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -365,7 +339,7 @@
     },
     {
         "channelName": "CARTOON NETWORK HD",
-        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/jCui+fRvgVyjQE4Q226FQg==",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/121370",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -391,7 +365,7 @@
     },
     {
         "channelName": "TOONCAST SD",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22405",
+        "link": "http://strixcdn.online:80/215974557/064570234/113225.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -401,33 +375,7 @@
         "contaisToken": 0,
         "urlImagem": "https://embedcanaistv.com/wp-content/uploads/2024/10/tooncast.webp",
         "pausado": 0
-    },
-    {
-        "channelName": "Tv Espírita Do Paraná",
-        "link": "5JZOGzk4NdYX00ibMK3UxZF15NhZLonwQTOpVqDpuwYzi+v0lp4PWwE+DYeq5nuiYkadRADtttDXViRJiH3q5otJvK9giSpIAItd3hFsnO0=",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "religiao",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "",
-        "pausado": 0
-    },
-    {
-        "channelName": "RECORD (Alter)",
-        "link": "wiC7mG02B432FmXmauFL8zvddp1NdOd4SajhXyvGZrLw6raeypUiW6jZ94a2Ih6wBX+jmQeVFJJlBlc6Nbij6ZJhP6HayXgHYjWXvaEs7EP2pfOpiaqA2ztZqY/i/+M1",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
-        "pausado": 0
-    },
+    },      
     {
         "channelName": "BAND SPORTS",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18623",
@@ -482,7 +430,7 @@
     },
     {
         "channelName": "BAND NEWS HD",
-        "link": "qcN1Hnyg2q21ADfpH2s3GRDFV1uMKaoCG8CCof6nG5U=",
+        "link": "http://strixcdn.online:80/215974557/064570234/17600.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -495,7 +443,7 @@
     },
     {
         "channelName": "BAND NEWS",
-        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/qFjFCT8PtmLUIeXWYa/xhg==",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22461",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -505,59 +453,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-news@3x.png",
         "pausado": 0
-    },
-    {
-        "channelName": "4 POR 4",
-        "link": "xYx5Z+3ibmqdN15zfuzleerOV9j+pmH/RcndPI/oSUGgThss4A7WsjwaZQfp4kF+3LIAkkAHvZDNQikbxKVMzUOvKyAp3UCzR+65twcIXNU=",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "noticias",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "xxx",
-        "pausado": 0
-    },
-    {
-        "channelName": "Motorvision Brasil 2",
-        "link": "T1EebmSWq3ZDlLFMxB3MB9iF6pIvDyKBb8BgCMehOEUIzKZH541qI+SfSzXL3AWKRVLMo7IesOJKAlmersiGog==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "esportes",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "",
-        "pausado": 0
-    },
-    {
-        "channelName": "Motorvision Brasil 3",
-        "link": "T1EebmSWq3ZDlLFMxB3MB9iF6pIvDyKBb8BgCMehOEUIzKZH541qI+SfSzXL3AWK4oEUXrPoco2c1P+3wOernw==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "esportes",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "",
-        "pausado": 0
-    },
-    {
-        "channelName": "SPARK TV",
-        "link": "uTzOizMrjmDLVAI8V0/Rb901wEpht0bB5kxiemLHdH3gRo8YjSLqMjhxuRGgMwnJvg/J03hp6V6rWEOB6TTPQQ==",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "filmes",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "",
-        "pausado": 0
-    },
+    },     
     {
         "channelName": "GLOBO RIO SD",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18556",
@@ -609,20 +505,7 @@
         "contaisToken": 0,
         "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
         "pausado": 0
-    },
-    {
-        "channelName": "GLOBO TV GAZETA VITORIA",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MkIf538u9bq3Xi39KjCSPRULhMLO9I/aSuJxEM3+5A55",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
-        "pausado": 0
-    },
+    },    
     {
         "channelName": "GLOBO RIO",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/300035",
@@ -690,7 +573,7 @@
     },
     {
         "channelName": "GLOBO RPC TV Maringa",
-        "link": "T72hVofaQWRp4L2HaYYMOjGYnImbOjGqO+MrCZs3IDkWwUAGS2ulWSByKB0BTH+BGGkj8hfqDlSvxBsmwZ2Y8Q==",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/109088",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -755,7 +638,7 @@
     },
     {
         "channelName": "TV Evangelizar",
-        "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22409",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -768,7 +651,7 @@
     },
     {
         "channelName": "TV Evangelizar SD",
-        "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "link": "http://strixcdn.online:80/215974557/064570234/39227.ts",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -872,7 +755,7 @@
     },      
     {
         "channelName": "SPORTV",
-        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/8ilrw+WgHtgh/GPubNwGcw==",
+        "link": "http://strixcdn.online:80/215974557/064570234/18235.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -885,7 +768,7 @@
     },
     {
         "channelName": "SPORTV HD",
-        "link": "H9P1tJgGZTapNmuUtUVlsc9f7iRUmfBS0YuHQ1zIx3uMe37tIIin6N7pBcPk4Vle",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18659",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -898,7 +781,7 @@
     },
     {
         "channelName": "SPORTV 2",
-        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/xhfS7tlp+qvVW4KRAyJX9w==",
+        "link": "http://strixcdn.online:80/215974557/064570234/18238.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -911,12 +794,12 @@
     },
     {
         "channelName": "SPORTV 2 HD",
-        "link": "qcN1Hnyg2q21ADfpH2s3GRKLtSfCfJgXTYfgeSjcUiw=",
+        "link": "https://embedcanais.store/c1xLJjBictx5sprtv2gY3c5wnRpQ/tracks-v1a1/mono.ts.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer": "https://embedcanaistv.com/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv-2@3x.png",
@@ -924,7 +807,7 @@
     },
     {
         "channelName": "TNT Novelas",
-        "link": "vKaSFpMQNbSCIZfqqlFL5fJBtw/XHD9zAr5VdqNH1FfHFG8tUgLIt3YaTxxDUFuje4ZZI4+M6UyCbnMvcgZnHg==",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/64720",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -937,7 +820,7 @@
     },
     {
         "channelName": "TNT Novelas SD",
-        "link": "qcN1Hnyg2q21ADfpH2s3GUvGNQ+eqkCJ9HLEAHmS0GY=",
+        "link": "http://strixcdn.online:80/215974557/064570234/17856.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -950,7 +833,7 @@
     },
     {
         "channelName": "TNT Series",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xcMJPms0cT5qncHjmvjKrZJVZ3sPgVKcXopGiWhgxq50g==",
+        "link": "http://strixcdn.online:80/215974557/064570234/17866.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -963,7 +846,7 @@
     },
     {
         "channelName": "TNT Series SD",
-        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/bOA0it9IXfn/bZQ5wskZtA==",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22624",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -989,7 +872,7 @@
     },
     {
         "channelName": "VIVA",
-        "link": "H9P1tJgGZTapNmuUtUVlsc9f7iRUmfBS0YuHQ1zIx3s5vZuC3AlYzfG7NDmO9P7p",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18881",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1002,7 +885,7 @@
     },
     {
         "channelName": "VIVA HD",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xfOX2Mi4M0nmToqNa4oRst4SVxd/HvBpFCYaAEYc5rBHg==",
+        "link": "http://strixcdn.online:80/215974557/064570234/18026.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1012,20 +895,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
         "pausado": 0
-    },
-    {
-        "channelName": "VIVA SD",
-        "link": "r8dy7sl53W0k7WTeQV0w9x8RfWBa4WISoOE+fs9ZMwaBYcbS3wcE5wODIvTx4abw",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
-        "pausado": 0
-    },
+    },   
     {
         "channelName": "TV BRASIL",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/30256",
@@ -1041,7 +911,7 @@
     },   
     {
         "channelName": "History",
-        "link": "r8dy7sl53W0k7WTeQV0w9x8RfWBa4WISoOE+fs9ZMwbKm+DCzCQ7pSs3ARr1DZoS",
+        "link": "http://strixcdn.online:80/215974557/064570234/18250.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1054,7 +924,7 @@
     },
     {
         "channelName": "History HD",
-        "link": "H9P1tJgGZTapNmuUtUVlsc9f7iRUmfBS0YuHQ1zIx3tT+CAm4JnB13v1qrpzAJkP",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18843",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1067,7 +937,7 @@
     },
     {
         "channelName": "History 2 HD",
-        "link": "qcN1Hnyg2q21ADfpH2s3GXUs6/W4m3S/u7ktNAukw1k=",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/306001",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1080,7 +950,7 @@
     },
     {
         "channelName": "History 2",
-        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/AJbppFRR73+bS0e6FRFj2Q==",
+        "link": "http://strixcdn.online:80/215974557/064570234/18247.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1093,7 +963,7 @@
     },
     {
         "channelName": "HBO 2",
-        "link": "H9P1tJgGZTapNmuUtUVlsc9f7iRUmfBS0YuHQ1zIx3ufbd5wMWkKR/JKILGqbWay",
+        "link": "http://strixcdn.online:80/215974557/064570234/18047.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1106,7 +976,7 @@
     },
     {
         "channelName": "HBO 2 HD",
-        "link": "H9P1tJgGZTapNmuUtUVlsc9f7iRUmfBS0YuHQ1zIx3ufbd5wMWkKR/JKILGqbWay",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/308126",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1223,12 +1093,12 @@
     },
      {
         "channelName": "ESPN SD",
-        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/6Z7/SATUdiEuHKVnTJwKNg==",
+        "link": "https://embedcanais.store/fygw2wMqspnZcUDIh7yfJs1ON43xKmT/tracks-v1a1/mono.ts.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer": "https://embedcanaistv.com/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn@3x.png",
@@ -1236,7 +1106,7 @@
     },
     {
         "channelName": "ESPN 2",
-        "link": "r8dy7sl53W0k7WTeQV0w9x8RfWBa4WISoOE+fs9ZMwZeedm+wdNSmMvoGKXNqICy",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/308569",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1249,7 +1119,7 @@
     },
     {
         "channelName": "ESPN 2 SD",
-        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/2BX4oEqi+OU0L/hExKVPNw==",
+        "link": "http://strixcdn.online:80/215974557/064570234/2302894.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1262,7 +1132,7 @@
     },
     {
         "channelName": "AXN",
-        "link": "H9P1tJgGZTapNmuUtUVlsc9f7iRUmfBS0YuHQ1zIx3tD0cCxXa9vRKz+wM6AyMT/",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18791",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1275,7 +1145,7 @@
     },
     {
         "channelName": "AXN SD",
-        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS//03ckvz/ywrBLIMV2nIWcQ==",
+        "link": "http://strixcdn.online:80/215974557/064570234/1583858.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1288,7 +1158,7 @@
     },
     {
         "channelName": "AMC FHD",
-        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/M22vsmAvsnpSxOFIZqZzWw==",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18788",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1301,7 +1171,7 @@
     },
     {
         "channelName": "AMC",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xcqlHYhpYGrDTcrJj2brkX+XV/GPZFnxaMZfUrCq2hhFA==",
+        "link": "http://strixcdn.online:80/215974557/064570234/17987.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1314,7 +1184,7 @@
     },
     {
         "channelName": "ANIMAL PLANET",
-        "link": "H9P1tJgGZTapNmuUtUVlsc9f7iRUmfBS0YuHQ1zIx3uEjnl1PKaTjFAgYRIBrh63",
+        "link": "http://strixcdn.online:80/215974557/064570234/408361.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1327,7 +1197,7 @@
     },
     {
         "channelName": "ANIMAL PLANET SD",
-        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/7/g2HaZOIiUlg+4rf5BDag==",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18789",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1340,7 +1210,7 @@
     },
     {
         "channelName": "WARNER BROS",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xdmefrDWCkMhnKY05rl7q5trpwlPejz8TSTgzK77HpYnw==",
+        "link": "http://strixcdn.online:80/215974557/064570234/106776.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1353,7 +1223,7 @@
     },
     {
         "channelName": "WARNER BROS SD",
-        "link": "g0SuYjicpVW9TEoQn7jDSUE9nv403FgaIpXWIyDYULk9JDk44U0AjGmPo9X6oIvj6CJA/OHCMA6ZRU+FpDb2MgVLkWe38snEi3VT5dj1f/oQkxr+F0+JzDzSZiYkkItR",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22631",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1366,7 +1236,7 @@
     },
     {
         "channelName": "MULTISHOW",
-        "link": "H9P1tJgGZTapNmuUtUVlsc9f7iRUmfBS0YuHQ1zIx3v9Kbc9o0RvCTlZNvTuRcmP",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/116634",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -1379,7 +1249,7 @@
     },
     {
         "channelName": "MULTISHOW HD",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xemPqpZK0SrTWtF+7fhFONBVyNYv0YNX6fOrDkViQihlw==",
+        "link": "http://strixcdn.online:80/215974557/064570234/18017.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -1392,7 +1262,7 @@
     },
     {
         "channelName": "MEGAPIX",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xeMGyo0E2X7at0kfdHNgFJWUJ4aSZAoJ0SHHmYTphaAJQ==",
+        "link": "http://strixcdn.online:80/215974557/064570234/1107723.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1405,7 +1275,7 @@
     },
     {
         "channelName": "MEGAPIX SD",
-        "link": "qcN1Hnyg2q21ADfpH2s3GfHp50Zxg5q7hCDAEmzS9OY=",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18847",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1417,8 +1287,8 @@
         "pausado": 0
     },
     {
-        "channelName": "Premieres Clubes",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xfoPloyB13nIpOkeLe9wOkCJp/diZpAUQnhNdS+r1//Dg==",
+        "channelName": "Premiere Clubes",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/20949",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1431,7 +1301,7 @@
     },
     {
         "channelName": "Premieres Clubes SD",
-        "link": "vKaSFpMQNbSCIZfqqlFL5fJBtw/XHD9zAr5VdqNH1FfHFG8tUgLIt3YaTxxDUFuj6syE6T0jbkxy6l0KTD1Dlg==",
+        "link": "http://strixcdn.online:80/215974557/064570234/2171510.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1444,7 +1314,7 @@
     },
     {
         "channelName": "TV Brasil Central",
-        "link": "IGB9vh1bDxk3zn+NHCQNUCsspRT7gysZUhJA1CDmEG5t/IMRCK2XlXPoFSt1/Y04YTXHOCvChHi3AKRd1uXp2g==",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/27888",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -1457,7 +1327,7 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL",
-        "link": "H9P1tJgGZTapNmuUtUVlsc9f7iRUmfBS0YuHQ1zIx3vW/upBFl/yYWCh2kLcwr2A",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18823",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1470,7 +1340,7 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL HD",
-        "link": "qtm5qDHvDtAhFqNF4GTRSFu4w/kK8OZNSuA459hsrgXKLJVrSoFEwRbAAZA4IDDU",
+        "link": "http://strixcdn.online:80/215974557/064570234/1583448.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1509,12 +1379,12 @@
     },
     {
         "channelName": "Nosso Futebol SD",
-        "link": "VHBvZkj9W4Czo/bchzNXWjTpIFDIJ4AVVlHbyjxQ/xfzyO0GIHH8CWpVtCCgTpNP1Xghfm4B0mGKZAWfMnpCsg==",
+        "link": "https://embedcanais.store/TtzQPxC5HnssftbChpoevbLJoLoaeTOdoe/index.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer": "https://embedcanaistv.com/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/nosso-futebol@3x.png",
@@ -1522,7 +1392,7 @@
     },
     {
         "channelName": "STUDIO UNIVERSAL",
-        "link": "qcN1Hnyg2q21ADfpH2s3GYpP+wiqKXXN/yHgaW4a5RU=",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22615",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1535,12 +1405,12 @@
     },
     {
         "channelName": "STUDIO UNIVERSAL SD",
-        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/vCD8JR/uJfbo2Bzqbdv+Cw==",
+        "link": "https://embedcanais.store/jCeECOtYrLstdnvrdwGetDCcdx1seP3/tracks-v1a1/mono.ts.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",    
+        "referrer": "https://embedcanaistv.com/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/studio-universal@3x.png",
@@ -1548,12 +1418,12 @@
     },
     {
         "channelName": "CINEMAX",
-        "link": "qcN1Hnyg2q21ADfpH2s3Ga6X5BmXZFW9T8AbveF0etk=",
+        "link": "https://embedcanais.store/mnVErULWHcnmxMsg1msoxltaTIircdJsS8/tracks-v1a1/mono.ts.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer": "https://embedcanaistv.com/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cinemax@3x.png",
