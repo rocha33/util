@@ -14,7 +14,16 @@
         "plataforma": "amazon",
         "titulo": "MULTIMÍDIA MP5, 1 DIN TELA DE 7 FULL TOUCH",
         "descricao": "MULTIMÍDIA MP5, 1 DIN TELA DE 7 FULL TOUCH, FM, USB, SD CARD, AUXILIAR, BLUETOOTH, ESPELHA ANDROID E IOS, CARPLAY E ANDROID AUTO VIA FIO",
-        "imagem": "https://m.media-amazon.com/images/I/51gLkcOwLhL._AC_SX522_.jpg",
+        "imagem": "https://m.media-amazon.com/images/I/71lgzuaMlgL._AC_SX522_.jpg",
         "link": "https://amzn.to/4pHKqsq"
+    },
+    {
+        "id": "ad_003",
+        "tipo": "interstitial",
+        "plataforma": "mercadoLivre",
+        "titulo": "Rádio Mp3 Com Suporte Celular Usb Bluetooth",
+        "descricao": "Rádio Mp3 H-tech Ht-1200 Com Suporte Celular Usb Bluetooth",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_769017-MLA99936672085_112025-F.webp",
+        "link": "https://mercadolivre.com/sec/16A4sEH"
     }
 ]
