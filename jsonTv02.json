@@ -13,6 +13,19 @@
         "pausado": 0
     },
     {
+        "channelName": "RECORD",
+        "link": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
+        "pausado": 0
+    },
+    {
         "channelName": "RECORD SP",
         "link": "https://embedcanais.store/Ln03ovXjYrcrdspYMar2jiIqZlhQ3biawY/tracks-v1a1/mono.ts.m3u8",
         "ativo": 1,
@@ -102,7 +115,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0
-    },   
+    },
     {
         "channelName": "Rede Vida",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22384",
@@ -286,6 +299,19 @@
         "pausado": 0
     },
     {
+        "channelName": "BAND",
+        "link": "https://spalla-band.akamaized.net/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s1/playlist-1080p.m3u8",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
+        "pausado": 0
+    },
+    {
         "channelName": "CANÇÃO NOVA",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18909",
         "ativo": 1,
@@ -323,7 +349,7 @@
         "contaisToken": 0,
         "urlImagem": "",
         "pausado": 0
-    },    
+    },
     {
         "channelName": "CARTOON NETWORK SD",
         "link": "http://strixcdn.online:80/215974557/064570234/1583541.ts",
@@ -375,7 +401,7 @@
         "contaisToken": 0,
         "urlImagem": "https://embedcanaistv.com/wp-content/uploads/2024/10/tooncast.webp",
         "pausado": 0
-    },      
+    },
     {
         "channelName": "BAND SPORTS",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18623",
@@ -453,7 +479,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-news@3x.png",
         "pausado": 0
-    },     
+    },
     {
         "channelName": "GLOBO RIO SD",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18556",
@@ -505,7 +531,7 @@
         "contaisToken": 0,
         "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
         "pausado": 0
-    },    
+    },
     {
         "channelName": "GLOBO RIO",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/300035",
@@ -521,7 +547,7 @@
     },
     {
         "channelName": "GLOBO MG",
-        "link": "https://embedcanais.store/DAdmHxNWFOCWglbmgdnrJi7sC4/tracks-v1a1/mono.ts.m3u8",    
+        "link": "https://embedcanais.store/DAdmHxNWFOCWglbmgdnrJi7sC4/tracks-v1a1/mono.ts.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -752,7 +778,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
         "pausado": 0
-    },      
+    },
     {
         "channelName": "SPORTV",
         "link": "http://strixcdn.online:80/215974557/064570234/18235.ts",
@@ -856,7 +882,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tnt-series@3x.png",
         "pausado": 0
-    },    
+    },
     {
         "channelName": "CURTA!",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22501",
@@ -895,7 +921,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
         "pausado": 0
-    },   
+    },
     {
         "channelName": "TV BRASIL",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/30256",
@@ -908,7 +934,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tv-brasil@3x.png",
         "pausado": 0
-    },   
+    },
     {
         "channelName": "History",
         "link": "http://strixcdn.online:80/215974557/064570234/18250.ts",
@@ -1064,7 +1090,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/gnt@3x.png",
         "pausado": 0
-    },   
+    },
     {
         "channelName": "ESPN",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/153012",
@@ -1091,7 +1117,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn@3x.png",
         "pausado": 0
     },
-     {
+    {
         "channelName": "ESPN SD",
         "link": "https://embedcanais.store/fygw2wMqspnZcUDIh7yfJs1ON43xKmT/tracks-v1a1/mono.ts.m3u8",
         "ativo": 0,
@@ -1151,6 +1177,19 @@
         "categoria": "filmes",
         "userAgent": "",
         "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
+        "pausado": 0
+    },
+     {
+        "channelName": "AXN SD 2",
+        "link": "https://outbound-proxy-us-east1-0-glob-usercontent-client-id-7263917145.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo/docs/rdc-axn/__index.m3u8",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://tvacabo.free.nf/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
@@ -1409,7 +1448,7 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",    
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
         "referrer": "https://embedcanaistv.com/",
         "isEmbed": 0,
         "contaisToken": 0,
