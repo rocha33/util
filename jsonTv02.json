@@ -789,7 +789,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv@3x.png",
+        "urlImagem": "https://embedcanais.com/images/sportv.png",
         "pausado": 0
     },
     {
@@ -802,7 +802,20 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv@3x.png",
+        "urlImagem": "https://embedcanais.com/images/sportv.png",
+        "pausado": 0
+    },
+    {
+        "channelName": "SPORTV HD",
+        "link": "https://embedcanais.store/OB1rcavXsprtviOqkVCJTBJahe/tracks-v1a1/mono.ts.m3u8",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://embedcanais.com/images/sportv.png",
         "pausado": 0
     },
     {
@@ -815,7 +828,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv-2@3x.png",
+        "urlImagem": "https://embedcanais.com/images/sportv2.png",
         "pausado": 0
     },
     {
@@ -828,7 +841,20 @@
         "referrer": "https://embedcanais.com/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv-2@3x.png",
+        "urlImagem": "https://embedcanais.com/images/sportv2.png",
+        "pausado": 0
+    },
+    {
+        "channelName": "SPORTV 3 HD",
+        "link": "https://embedcanais.store/Z3ANVj77p3kZsprtv3l4AblV7vY7AZQ/tracks-v1a1/mono.ts.m3u8",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer": "https://embedcanais.com/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://embedcanais.com/images/sportv3.png",
         "pausado": 0
     },
     {
