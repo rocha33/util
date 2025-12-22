@@ -1101,12 +1101,12 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn@3x.png",
+        "urlImagem": "https://embedtv.best/assets/images/espn.png",
         "pausado": 0
     },
     {
         "channelName": "ESPN HD",
-        "link": "http://strixcdn.online:80/215974557/064570234/38454.ts",
+        "link": "https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/ab660bd3d0c12652445ec98629d9afc8/espn.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1114,7 +1114,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn@3x.png",
+        "urlImagem": "https://embedtv.best/assets/images/espn.png",
         "pausado": 0
     },
     {
