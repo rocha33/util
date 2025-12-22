@@ -386,7 +386,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedcanaistv.com/wp-content/uploads/2024/10/tooncast.webp",
+        "urlImagem": "https://embedcanais.com/wp-content/uploads/2024/10/tooncast.webp",
         "pausado": 0
     },
     {
@@ -399,7 +399,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedcanaistv.com/wp-content/uploads/2024/10/tooncast.webp",
+        "urlImagem": "https://embedcanais.com/wp-content/uploads/2024/10/tooncast.webp",
         "pausado": 0
     },
     {
@@ -825,7 +825,7 @@
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer": "https://embedcanaistv.com/",
+        "referrer": "https://embedcanais.com/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv-2@3x.png",
@@ -1124,7 +1124,7 @@
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer": "https://embedcanaistv.com/",
+        "referrer": "https://embedcanais.com/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn@3x.png",
@@ -1331,8 +1331,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer": "https://embedcanaistv.com/",
+        "userAgent": "",
+        "referrer": "",
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/premiere-clubes-hd@3x.png",
@@ -1387,7 +1387,7 @@
         "referrer": "https://embedcanais.com/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedcanais.com/images/discoverychannel.png",
+        "urlImagem": "https://embedcanais.com/images/nossofutebol.png",
         "pausado": 0
     },
     {
@@ -1400,7 +1400,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/nosso-futebol@3x.png",
+        "urlImagem": "https://embedcanais.com/images/nossofutebol.png",
         "pausado": 0
     },
     {
@@ -1410,10 +1410,10 @@
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer": "https://embedcanaistv.com/",
+        "referrer": "https://embedcanais.com/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/nosso-futebol@3x.png",
+        "urlImagem": "https://embedcanais.com/images/nossofutebol.png",
         "pausado": 0
     },
     {
@@ -1436,7 +1436,7 @@
         "contactpage": "",
         "categoria": "filmes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer": "https://embedcanaistv.com/",
+        "referrer": "https://embedcanais.com/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/studio-universal@3x.png",
