@@ -247,8 +247,8 @@
         "pausado": 0
     },
     {
-        "channelName": "RECORD NEWS SD (Pluto Tv)",
-        "link": "http://strixcdn.online:80/215974557/064570234/17534.ts",
+        "channelName": "RECORD NEWS SD",
+        "link": "https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn_540p.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -1457,12 +1457,12 @@
     },
     {
         "channelName": "CINEMAX SD",
-        "link": "https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/979f742c332196fe4eac4ec39488e36c/cinemax.m3u8=",
+        "link": "https://outbound-proxy-us-east1-0-glob-usercontent-client-id-8088783389.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo/docs/cinemax/__index.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer": "https://streamrdc.xyz/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/cinemax.png",
