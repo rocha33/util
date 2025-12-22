@@ -1374,20 +1374,20 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/discovery@3x.png",
+        "urlImagem": "https://embedcanais.com/images/discoverychannel.png",
         "pausado": 0
     },
     {
         "channelName": "DISCOVERY CHANNEL SD",
-        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/fR1ro9rk/VMUzPHIrf4dHA==",
+        "link": "https://embedcanais.store/jZK8tfphJdscvryWAMMYNoXHyC/tracks-v1a1/mono.ts.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://embedcanais.com/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/discovery@3x.png",
+        "urlImagem": "https://embedcanais.com/images/discoverychannel.png",
         "pausado": 0
     },
     {
