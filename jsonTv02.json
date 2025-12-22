@@ -430,7 +430,7 @@
     },
     {
         "channelName": "CNN BRASIL",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18642",
+        "link": "https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/bcbdb7961b9d157faf4c5dc5ac081ede/cnnbrasil.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -1171,7 +1171,7 @@
     },
     {
         "channelName": "AXN SD",
-        "link": "http://strixcdn.online:80/215974557/064570234/1583858.ts",
+        "link": "https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/7a5f3fe670a1e5d03ca006333c739dba/axn.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1181,20 +1181,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
         "pausado": 0
-    },
-     {
-        "channelName": "AXN SD 2",
-        "link": "https://outbound-proxy-us-east1-0-glob-usercontent-client-id-7263917145.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo/docs/rdc-axn/__index.m3u8",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "filmes",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://tvacabo.free.nf/",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
-        "pausado": 0
-    },
+    },    
     {
         "channelName": "AMC FHD",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18788",
@@ -1465,12 +1452,12 @@
         "referrer": "https://embedcanaistv.com/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cinemax@3x.png",
+        "urlImagem": "https://embedtv.best/assets/images/cinemax.png",
         "pausado": 0
     },
     {
         "channelName": "CINEMAX SD",
-        "link": "pA6RRQPEB9ZZJ38N1MnQT80+7cCj9tzDxDAFkieeBn92YzjEqH3nlmW1Qy1wgMS/H0iWKzTJHhZz3hs/WX7NsA==",
+        "link": "https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/979f742c332196fe4eac4ec39488e36c/cinemax.m3u8=",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1478,7 +1465,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cinemax@3x.png",
+        "urlImagem": "https://embedtv.best/assets/images/cinemax.png",
         "pausado": 0
     }
 ]
