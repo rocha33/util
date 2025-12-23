@@ -573,7 +573,7 @@
     },
     {
         "channelName": "GLOBO RPC",
-        "link": "r8dy7sl53W0k7WTeQV0w9x8RfWBa4WISoOE+fs9ZMwZOtfyRr3CmNnDXhbeeCOV3",
+        "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/1944",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -651,7 +651,7 @@
     },
     {
         "channelName": "Chespirito",
-        "link": "vKaSFpMQNbSCIZfqqlFL5fJBtw/XHD9zAr5VdqNH1FfHFG8tUgLIt3YaTxxDUFuj3278TeFtXA2tCQ2ITW3a/A==",
+        "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/1243528",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -852,6 +852,19 @@
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
         "referrer": "https://embedcanais.com/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://embedcanais.com/images/sportv3.png",
+        "pausado": 0
+    },
+     {
+        "channelName": "SPORTV 3 SD",
+        "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/2037",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent": "",
+        "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedcanais.com/images/sportv3.png",
@@ -1067,7 +1080,7 @@
     },
     {
         "channelName": "EU A PATROA AS CRIANÇAS",
-        "link": "http://strixcdn.online:80/215974557/064570234/2300185.ts",
+        "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/1249215",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -1080,7 +1093,7 @@
     },
     {
         "channelName": "TODO MUNDO ODEIA O CRIS",
-        "link": "http://strixcdn.online:80/215974557/064570234/2300276.ts",
+        "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/1249217",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -1171,7 +1184,20 @@
     },
     {
         "channelName": "ESPN 2 SD",
-        "link": "http://strixcdn.online:80/215974557/064570234/2302894.ts",
+        "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/2108",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
+        "pausado": 0
+    },
+     {
+        "channelName": "ESPN 3",
+        "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/2103",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1275,7 +1301,7 @@
     },
     {
         "channelName": "WARNER BROS SD",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22631",
+        "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/2265",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1314,7 +1340,7 @@
     },
     {
         "channelName": "MEGAPIX",
-        "link": "http://strixcdn.online:80/215974557/064570234/1107723.ts",
+        "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/2164",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1379,7 +1405,7 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18823",
+        "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/2081",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
