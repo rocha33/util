@@ -26,6 +26,19 @@
         "pausado": 0
     },
     {
+        "channelName": "RECORD TV CONQUISTA",
+        "link": "http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
+        "pausado": 0
+    },
+    {
         "channelName": "RECORD SP",
         "link": "https://embedcanais.store/Ln03ovXjYrcrdspYMar2jiIqZlhQ3biawY/tracks-v1a1/mono.ts.m3u8",
         "ativo": 1,
@@ -143,7 +156,7 @@
         "pausado": 0
     },
     {
-        "channelName": "SBT TV RJ",
+        "channelName": "SBT RJ",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18608",
         "ativo": 1,
         "contactpage": "",
@@ -196,7 +209,7 @@
     },
     {
         "channelName": "TV Aparecida",
-        "link": "http://strixcdn.online:80/215974557/064570234/17937.ts",
+        "link": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -235,7 +248,7 @@
     },
     {
         "channelName": "RECORD NEWS",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18592",
+        "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown",
         "ativo": 1,
         "contactpage": "",
         "categoria": "noticias",
@@ -404,12 +417,12 @@
     },
     {
         "channelName": "BAND SPORTS",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18623",
+        "link": "https://embedcanais.store/VrpoiVgRbndsprV5IfLBcbfnoGM/tracks-v1a1/mono.ts.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 OPR/125.0.0.0",
+        "referrer": "https://embedcanais.com/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
@@ -481,8 +494,8 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO RIO SD",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18556",
+        "channelName": "GLOBO RIO",
+        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/300035",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -490,7 +503,20 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedcanais.com/images/globo.webp",
+        "pausado": 0
+    },
+    {
+        "channelName": "GLOBO RIO SD",
+        "link": "https://embedcanais.store/K5FMIbOGglbrjpTjsBaNwpKAlQQ/tracks-v1a1/mono.ts.m3u8",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://embedcanais.com/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://embedcanais.com/images/globo.webp",
         "pausado": 0
     },
     {
@@ -503,7 +529,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedcanais.com/images/globo.webp",
         "pausado": 0
     },
     {
@@ -516,7 +542,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedcanais.com/images/globo.webp",
         "pausado": 0
     },
     {
@@ -529,20 +555,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
-        "pausado": 0
-    },
-    {
-        "channelName": "GLOBO RIO",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/300035",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedcanais.com/images/globo.webp",
         "pausado": 0
     },
     {
@@ -568,7 +581,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedcanais.com/images/globo.webp",
         "pausado": 0
     },
     {
@@ -677,7 +690,7 @@
     },
     {
         "channelName": "TV Evangelizar SD",
-        "link": "http://strixcdn.online:80/215974557/064570234/39227.ts",
+        "link": "http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -703,7 +716,7 @@
     },
     {
         "channelName": "SBT SP SD",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/125494",
+        "link": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -857,7 +870,7 @@
         "urlImagem": "https://embedcanais.com/images/sportv3.png",
         "pausado": 0
     },
-     {
+    {
         "channelName": "SPORTV 3 SD",
         "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/2037",
         "ativo": 0,
@@ -1183,6 +1196,19 @@
         "pausado": 0
     },
     {
+        "channelName": "ESPN 2 HD",
+        "link": "https://embedcanais.store/QoXsf2o3spn2gyrDO1xkxwnQrS7/tracks-v1a1/mono.ts.m3u8",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 OPR/125.0.0.0",
+        "referrer": "https://embedcanais.com/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
+        "pausado": 0
+    },
+    {
         "channelName": "ESPN 2 SD",
         "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/2108",
         "ativo": 0,
@@ -1195,7 +1221,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
         "pausado": 0
     },
-     {
+    {
         "channelName": "ESPN 3",
         "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/2103",
         "ativo": 0,
@@ -1203,6 +1229,19 @@
         "categoria": "esportes",
         "userAgent": "",
         "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
+        "pausado": 0
+    },
+    {
+        "channelName": "ESPN 3 HD",
+        "link": "https://embedcanais.store/OkIUpkDyr7OSspn3JoRu1XXdo0c/tracks-v1a1/mono.ts.m3u8",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 OPR/125.0.0.0",
+        "referrer": "https://embedcanais.com/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
@@ -1233,7 +1272,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
         "pausado": 0
-    },    
+    },
     {
         "channelName": "AMC FHD",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18788",
