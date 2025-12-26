@@ -573,7 +573,7 @@
     },
     {
         "channelName": "GLOBO MG SD",
-        "link": "vKaSFpMQNbSCIZfqqlFL5fJBtw/XHD9zAr5VdqNH1FfHFG8tUgLIt3YaTxxDUFujqBV0qNZD0c0Ayz5nrE7GdQ==",
+        "link": "https://agropesca.live/live/globomg/index.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -594,7 +594,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "hhttps://embedcanais.com/images/globo.webp",
         "pausado": 0
     },
     {
@@ -607,7 +607,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedcanais.com/images/globo.webp",
         "pausado": 0
     },
     {
@@ -620,7 +620,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedcanais.com/images/globo.webp",
         "pausado": 0
     },
     {
@@ -633,7 +633,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.digital/assets/images/globorj.png",
+        "urlImagem": "https://embedcanais.com/images/globo.webp",
         "pausado": 0
     },
     {
@@ -690,7 +690,7 @@
     },
     {
         "channelName": "TV Evangelizar SD",
-        "link": "http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8",
+        "link": "https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -806,7 +806,7 @@
         "pausado": 0
     },
     {
-        "channelName": "SPORTV HD",
+        "channelName": "SPORTV SD",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18659",
         "ativo": 0,
         "contactpage": "",
@@ -824,8 +824,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+        "referrer": " https://embedcanais.com/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedcanais.com/images/sportv.png",
@@ -1210,7 +1210,7 @@
     },
     {
         "channelName": "ESPN 2 SD",
-        "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/2108",
+        "link": "https://dlnmh9ip6v2cxz.cloudfontes.net/espn2.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1491,7 +1491,7 @@
         "referrer": "https://embedcanais.com/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedcanais.com/images/nossofutebol.png",
+        "urlImagem": "https://embedcanais.com/images/discoverychannel.png",
         "pausado": 0
     },
     {
@@ -1518,7 +1518,7 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedcanais.com/images/nossofutebol.png",
-        "pausado": 0
+        "pausado": 1
     },
     {
         "channelName": "STUDIO UNIVERSAL",
