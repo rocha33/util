@@ -131,7 +131,7 @@
     },
     {
         "channelName": "Rede Vida",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22384",
+        "link": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
         "ativo": 1,
         "contactpage": "",
         "categoria": "religiao",
@@ -170,7 +170,7 @@
     },
     {
         "channelName": "SBT Guaruja",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/118358",
+        "link": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -241,6 +241,19 @@
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedcanais.com/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cultura@3x.png",
+        "pausado": 0
+    },
+    {
+        "channelName": "CULTURA SD",
+        "link": "https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "",
+        "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cultura@3x.png",
