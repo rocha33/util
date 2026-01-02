@@ -274,13 +274,13 @@
     },
     {
         "channelName": "TELE CINE ACTION HD",
-        "link": "http://strixcdn.online:80/215974557/064570234/18071.ts",
+        "link": "https://nossoplayeronlinehd.online/tv/telecineaction",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
         "userAgent": "",
         "referrer": "",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png",
         "pausado": 0
@@ -426,7 +426,7 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "",
-        "pausado": 0
+        "pausado": 1
     },
     {
         "channelName": "CARTOON NETWORK SD",
@@ -499,8 +499,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://nossoplayeronlinehd.online/",
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
@@ -716,13 +716,13 @@
     },
     {
         "channelName": "GLOBO NEWS HD",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22542",
+        "link": "https://www1.embedtv.best/globonews",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
         "userAgent": "",
         "referrer": "",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/globonews@3x.png",
         "pausado": 0
