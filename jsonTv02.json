@@ -495,12 +495,12 @@
     },
     {
         "channelName": "BAND SPORTS SD",
-        "link": "https://nossoplayeronlinehd.online/tv/bandsports",
+        "link": "https://www1.embedtv.best/bandsports",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://nossoplayeronlinehd.online/",
+        "userAgent": "",
+        "referrer": "",
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
@@ -573,7 +573,7 @@
     },
     {
         "channelName": "GLOBO RIO SD",
-        "link": "https://nossoplayeronlinehd.online/tv/globorj",
+        "link": "https://www1.embedtv.best/globorj",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -599,7 +599,7 @@
     },
     {
         "channelName": "GLOBO SP HD",
-        "link": "https://nossoplayeronlinehd.online/tv/globosp",
+        "link": "https://www1.embedtv.best/globosp",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -638,7 +638,7 @@
     },
     {
         "channelName": "GLOBO MG SD",
-        "link": "https://nossoplayeronlinehd.online/tv/globomg",
+        "link": "https://www1.embedtv.best/globomg",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1223,7 +1223,7 @@
     },
     {
         "channelName": "ESPN 2 SD",
-        "link": "https://nossoplayeronlinehd.online/tv/espn2",
+        "link": "https://www1.embedtv.best/espn2",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1236,7 +1236,7 @@
     },
     {
         "channelName": "ESPN 3",
-        "link": "https://nossoplayeronlinehd.online/tv/espn3",
+        "link": "https://www1.embedtv.best/espn3",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
