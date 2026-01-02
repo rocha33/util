@@ -129,6 +129,32 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0
     },
+     {
+        "channelName": "RECORD NEWS",
+        "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "noticias",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/recordnews@3x.png",
+        "pausado": 0
+    },
+    {
+        "channelName": "RECORD NEWS SD",
+        "link": "https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn_540p.m3u8",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "noticias",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/recordnews@3x.png",
+        "pausado": 0
+    },
     {
         "channelName": "Rede Vida",
         "link": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
@@ -157,13 +183,13 @@
     },
     {
         "channelName": "SBT RJ",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18608",
+        "link": "https://nossoplayeronlinehd.online/tv/sbt",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
         "userAgent": "",
         "referrer": "",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
         "pausado": 0
@@ -310,33 +336,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cultura@3x.png",
         "pausado": 0
-    },
-    {
-        "channelName": "RECORD NEWS",
-        "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "noticias",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/recordnews@3x.png",
-        "pausado": 0
-    },
-    {
-        "channelName": "RECORD NEWS SD",
-        "link": "https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn_540p.m3u8",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "noticias",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/recordnews@3x.png",
-        "pausado": 0
-    },
+    },   
     {
         "channelName": "BAND CAMPINAS",
         "link": "http://cloudsalex.space:80/Lelei786546/72635846/9014331",
@@ -430,13 +430,13 @@
     },
     {
         "channelName": "CARTOON NETWORK SD",
-        "link": "https://outbound-proxy-us-east1-0-glob-usercontent-client-id-2437529607.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo/docs/cartoon/__index.m3u8?cc=y&sv=112&nu3zAQc9HC3GbwJq=1767059688-Wz4Z%2B1I9WYNzhzmNZqGiyiEHuwAUVYl7WE4ZrRotj%2BM%3D",
+        "link": "https://nossoplayeronlinehd.org/tv/cartoonnetwork",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 OPR/125.0.0.0",
-        "referrer": "https://streamrdc.xyz/",
-        "isEmbed": 0,
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cartoon-network@3x.png",
         "pausado": 0
