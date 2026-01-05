@@ -650,14 +650,14 @@
         "pausado": 0
     },
     {
-        "channelName": "GLOBO RPC",
-        "link": "http://d.plmv.site:8080/8eGECctymB/nQXYQG8PVD/1944",
+        "channelName": "GLOBO BRASILIA",
+        "link": "https://rdcanais.top/globodf",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://rdcplayer.online/",
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "hhttps://embedtvonline.com/images/globo.webp",
         "pausado": 0
@@ -674,20 +674,7 @@
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
         "pausado": 0
-    },
-    {
-        "channelName": "GLOBO RPC TV Maringa",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/109088",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://embedtvonline.com/images/globo.webp",
-        "pausado": 0
-    },
+    },   
     {
         "channelName": "GLOBO RS",
         "link": "https://embedtvonline.com/globors/",
