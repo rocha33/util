@@ -1314,13 +1314,13 @@
     },
     {
         "channelName": "AMC",
-        "link": "http://strixcdn.online:80/215974557/064570234/17987.ts",
+        "link": "https://rdcanais.top/amc",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://rdcplayer.online/",
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/amc@3x.png",
         "pausado": 0
