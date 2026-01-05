@@ -349,20 +349,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
         "pausado": 0
-    },
-    {
-        "channelName": "BAND BA",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/125418",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
-        "pausado": 0
-    },
+    },    
     {
         "channelName": "BAND SP",
         "link": "https://tvmaxplay.xyz/QLxEJHwBVJbndspvwSDrtqohUmuhV/tracks-v1a1/mono.ts.m3u8",
@@ -456,26 +443,26 @@
     },
     {
         "channelName": "TOONCAST",
-        "link": "https://outbound-proxy-us-east1-0-glob-usercontent-client-id-2436949045.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo/docs/tooncast/__index.m3u8?cc=y&sv=60&nu3zAQc9HC3GbwJq=1767060636-asPXBW0bMg%2F2lgz%2FRc9GiheafHXfVHB8iOTQ4hDXaIQ%3D",
+        "link": "https://rdcanais.top/tooncast",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://streamrdc.xyz/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/wp-content/uploads/2024/10/tooncast.webp",
         "pausado": 0
     },
     {
         "channelName": "TOONCAST SD",
-        "link": "http://strixcdn.online:80/215974557/064570234/113225.ts",
+        "link": "https://rdcanais.top/tooncast",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://streamrdc.xyz/",
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/wp-content/uploads/2024/10/tooncast.webp",
         "pausado": 0
@@ -508,13 +495,13 @@
     },
     {
         "channelName": "CNN BRASIL",
-        "link": "http://cloudsalex.space:80/Lelei786546/72635846/9014722",
+        "link": "https://rdcanais.top/cnnbrasil",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://rdcplayer.online/",
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cnn-brasil@3x.png",
         "pausado": 0
@@ -726,20 +713,7 @@
         "contaisToken": 0,
         "urlImagem": "https://embedtv.digital/assets/images/24h.png",
         "pausado": 0
-    },
-    {
-        "channelName": "TV Evangelizar",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22409",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "religiao",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tve@3x.png",
-        "pausado": 0
-    },
+    },    
     {
         "channelName": "TV Evangelizar SD",
         "link": "https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8",
@@ -778,20 +752,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/redetv!@3x.png",
         "pausado": 0
-    },
-    {
-        "channelName": "BAND RJ HD",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/125416",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
-        "pausado": 0
-    },
+    },    
     {
         "channelName": "SPORTV",
         "link": "https://www1.embedtv.best/sportv",
