@@ -338,13 +338,13 @@
         "pausado": 0
     },   
     {
-        "channelName": "BAND CAMPINAS",
-        "link": "http://cloudsalex.space:80/Lelei786546/72635846/9014331",
+        "channelName": "BAND SD",
+        "link": "https://embedtv-5.icu/band",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://embedtv-5.icu/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
