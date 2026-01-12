@@ -129,7 +129,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0
     },
-     {
+    {
         "channelName": "RECORD NEWS",
         "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown",
         "ativo": 1,
@@ -207,7 +207,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
         "pausado": 0
     },
-     {
+    {
         "channelName": "SBT SP SD",
         "link": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
         "ativo": 1,
@@ -336,7 +336,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cultura@3x.png",
         "pausado": 0
-    },   
+    },
     {
         "channelName": "BAND SD",
         "link": "https://embedtv-5.icu/band",
@@ -349,7 +349,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
         "pausado": 0
-    },    
+    },
     {
         "channelName": "BAND SP",
         "link": "https://tvmaxplay.xyz/QLxEJHwBVJbndspvwSDrtqohUmuhV/tracks-v1a1/mono.ts.m3u8",
@@ -469,25 +469,25 @@
     },
     {
         "channelName": "BAND SPORTS",
-        "link": "https://tvmaxplay.xyz/VrpoiVgRbndsprV5IfLBcbfnoGM/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://embedtvonline.com/bandsports/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 OPR/125.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
         "pausado": 0
     },
     {
         "channelName": "BAND SPORTS SD",
-        "link": "https://www1.embedtv.best/bandsports",
+        "link": "https://rdcanais.top/bandsports",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://rdcplayer.online/",
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
@@ -572,6 +572,19 @@
         "pausado": 0
     },
     {
+        "channelName": "GLOBO RIO HD",
+        "link": "https://rdcanais.top/globorj",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://rdcplayer.online/",
+        "isEmbed": 1,
+        "contaisToken": 0,
+        "urlImagem": "https://embedtvonline.com/images/globo.webp",
+        "pausado": 0
+    },
+    {
         "channelName": "GLOBO SP",
         "link": "https://tvmaxplay.xyz/obu7g1TPvYglbspjics61ES1iWT/tracks-v1a1/mono.ts.m3u8",
         "ativo": 0,
@@ -625,12 +638,12 @@
     },
     {
         "channelName": "GLOBO MG SD",
-        "link": "https://www1.embedtv.best/globomg",
+        "link": "https://rdcanais.top/globomg",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://rdcplayer.online/",
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
@@ -651,17 +664,17 @@
     },
     {
         "channelName": "GLOBO BA",
-        "link": "https://agropesca.live/live/globoba/index.m3u8",
+        "link": "https://rdcanais.top/globoba",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://rdcplayer.online/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
         "pausado": 0
-    },   
+    },
     {
         "channelName": "GLOBO RS",
         "link": "https://embedtvonline.com/globors/",
@@ -713,7 +726,7 @@
         "contaisToken": 0,
         "urlImagem": "https://embedtv.digital/assets/images/24h.png",
         "pausado": 0
-    },    
+    },
     {
         "channelName": "TV Evangelizar SD",
         "link": "https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8",
@@ -739,7 +752,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
         "pausado": 0
-    },   
+    },
     {
         "channelName": "REDE TV",
         "link": "https://tvmaxplay.xyz/suhaFVBliyrdtvIToGJ1QZwez3Vc/tracks-v1a1/mono.ts.m3u8",
@@ -752,7 +765,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/redetv!@3x.png",
         "pausado": 0
-    },    
+    },
     {
         "channelName": "SPORTV",
         "link": "https://www1.embedtv.best/sportv",
@@ -1106,12 +1119,12 @@
     },
     {
         "channelName": "ESPN",
-        "link": "https://www1.embedtv.best/espn",
+        "link": "https://embedtvonline.com/espn/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://www1.embedtv.best/",
+        "referrer": "https://embedtvonline.com/",
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/espn.png",
@@ -1145,12 +1158,12 @@
     },
     {
         "channelName": "ESPN 2",
-        "link": "https://www1.embedtv.best/espn2",
+        "link": "https://embedtvonline.com/espn2/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://embedtvonline.com/",
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
@@ -1234,7 +1247,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
         "pausado": 0
     },
-     {
+    {
         "channelName": "AXN HD",
         "link": "https://nossoplayeronlinehd.online/tv/axn",
         "ativo": 0,
@@ -1288,12 +1301,12 @@
     },
     {
         "channelName": "ANIMAL PLANET SD",
-        "link": "https://nossoplayeronlinehd.online/tv/animalplanet",
+        "link": "https://rdcanais.top/animalplanet",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://rdcplayer.online/",
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/animal-planet@3x.png",
@@ -1327,12 +1340,12 @@
     },
     {
         "channelName": "MULTISHOW",
-        "link": "https://nossoplayeronlinehd.online/tv/multishow",
+        "link": "https://embedtvonline.com/multishow/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://embedtvonline.com/",
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/multishow@3x.png",
@@ -1353,12 +1366,12 @@
     },
     {
         "channelName": "MEGAPIX",
-        "link": "https://nossoplayeronlinehd.online/tv/megapix",
+        "link": "https://rdcanais.top/megapix",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://rdcplayer.online/",
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/megapix@3x.png",
