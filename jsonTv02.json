@@ -1273,6 +1273,32 @@
         "urlImagem": "https://embedtv.best/assets/images/espn4.png",
         "pausado": 0
     },
+     {
+        "channelName": "X SPORTS",
+        "link": "https://www1.embedtv.best/xsports",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 1,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/default/xsports.svg",
+        "pausado": 0
+    },
+     {
+        "channelName": "X SPORTS HD",
+        "link": "https://embedtv-5.icu/xsports",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://embedtv-5.icu/",
+        "isEmbed": 1,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/default/xsports.svg",
+        "pausado": 0
+    },
     {
         "channelName": "AXN",
         "link": "https://www1.embedtv.best/axn",
