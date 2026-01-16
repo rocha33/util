@@ -286,6 +286,32 @@
         "pausado": 0
     },
     {
+        "channelName": "TELE CINE PIPOCA",
+        "link": "https://nossoplayeronlinehd.online/tv/telecinepipoca",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 1,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png",
+        "pausado": 0
+    },
+     {
+        "channelName": "TELE CINE PIPOCA HD",
+        "link": "https://embedtvonline.com/tcpipoca/",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://embedtvonline.com/",
+        "isEmbed": 1,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png",
+        "pausado": 0
+    },
+    {
         "channelName": "TV Aparecida",
         "link": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8",
         "ativo": 1,
@@ -345,7 +371,7 @@
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtv-5.icu/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
         "pausado": 0
@@ -495,12 +521,12 @@
     },
     {
         "channelName": "CNN BRASIL",
-        "link": "https://rdcanais.top/cnnbrasil",
+        "link": "https://www1.embedtv.best/cnnbrasil",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://rdcplayer.online/",
+        "referrer": "https://www1.embedtv.best/",
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cnn-brasil@3x.png",
@@ -525,8 +551,8 @@
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://embedtvonline.com/",
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-news@3x.png",
@@ -534,13 +560,13 @@
     },
     {
         "channelName": "BAND NEWS",
-        "link": "https://tvmaxplay.xyz/aH8mfpUAFJWpbndnwsSEPTFCYbfsoz/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://www1.embedtv.best/bandnews",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "referrer": "https://www1.embedtv.best/",
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-news@3x.png",
         "pausado": 0
@@ -911,13 +937,13 @@
     },
     {
         "channelName": "CURTA!",
-        "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/22501",
+        "link": "https://rdcanais.top/curta",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://streamrdc.xyz/",
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://supertvaovivo.app/wp-content/uploads/2023/02/assistir-curta-ao-vivo.webp",
         "pausado": 0
@@ -1205,7 +1231,7 @@
         "referrer": "",
         "isEmbed": 1,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png",
         "pausado": 0
     },
     {
@@ -1218,7 +1244,7 @@
         "referrer": "https://embedtvonline.com/",
         "isEmbed": 1,
         "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png",
         "pausado": 0
     },
     {
@@ -1457,13 +1483,13 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL",
-        "link": "http://cloudsalex.space:80/Lelei786546/72635846/9014589",
+        "link": "https://rdcanais.top/discoverychannel",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
-        "userAgent": "",
-        "referrer": "",
-        "isEmbed": 0,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://streamrdc.xyz/",
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/discovery@3x.png",
         "pausado": 0
@@ -1483,13 +1509,13 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL SD",
-        "link": "https://tvmaxplay.xyz/jZK8tfphJdscvryWAMMYNoXHyC/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://embedtv-5.icu/discoverychannel",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "referrer": "https://embedtv-5.icu/",
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/discoverychannel.png",
         "pausado": 0
@@ -1570,6 +1596,32 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/cinemax.png",
+        "pausado": 0
+    },
+    {
+        "channelName": "BIS",
+        "link": "https://tvmaxplay.xyz/g3aKsEECvl9cnnbrsdq83Eh0ezFe/tracks-v1a1/mono.ts.m3u8",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "musical",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://embedtvonline.com/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://api.reidoscanais.io/img/bis.png",
+        "pausado": 0
+    },
+    {
+        "channelName": "BIS SD",
+        "link": "https://www1.embedtv.best/bis",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "musical",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://www1.embedtv.best/",
+        "isEmbed": 1,
+        "contaisToken": 0,
+        "urlImagem": "https://api.reidoscanais.io/img/bis.png",
         "pausado": 0
     }
 ]
