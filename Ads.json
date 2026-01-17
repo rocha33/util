@@ -34,5 +34,14 @@
         "descricao": "Rádio Mp3 H-tech Ht-1200 Com Suporte Celular Usb Bluetooth",
         "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_769017-MLA99936672085_112025-F.webp",
         "link": "https://mercadolivre.com/sec/16A4sEH"
+    },
+     {
+        "id": "ad_005",
+        "tipo": "interstitial",
+        "plataforma": "mercadoLivre",
+        "titulo": "Assista e ganhe",
+        "descricao": "Assistindo videos no mercado livre você pode ganhar prêmios incríveis",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_752412-MLA74331028883_012024-OO.webp",
+        "link": "https://www.mercadolivre.com.br/clips/?shortsparams=true&type=short&short_id=Gr0qEi&origin=share&st=2639827632&matt_tool=73180307#origin=share"
     }
 ]
