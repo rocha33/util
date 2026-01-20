@@ -1247,6 +1247,19 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png",
         "pausado": 0
     },
+     {
+        "channelName": "ESPN 3 SD",
+        "link": "https://nossoplayeronlinehd.online/tv/espn3",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 1,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png",
+        "pausado": 0
+    },
     {
         "channelName": "ESPN 4",
         "link": "https://embedtvonline.com/espn4/",
