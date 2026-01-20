@@ -1171,13 +1171,13 @@
     },
     {
         "channelName": "ESPN SD",
-        "link": "https://tvmaxplay.xyz/fygw2wMqspnZcUDIh7yfJs1ON43xKmT/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://www1.embedtv.best/espn",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "referrer": "https://www1.embedtv.best/",
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn@3x.png",
         "pausado": 0
