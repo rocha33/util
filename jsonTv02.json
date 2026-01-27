@@ -1662,5 +1662,31 @@
         "contaisToken": 0,
         "urlImagem": "https://api.reidoscanais.io/img/bis.png",
         "pausado": 0
+    },
+     {
+        "channelName": "BBB 01",
+        "link": "https://embedtvonline.com/bbb01/",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://embedtvonline.com/",
+        "isEmbed": 1,
+        "contaisToken": 0,
+        "urlImagem": "https://api.reidoscanais.io/img/bis.png",
+        "pausado": 0
+    },
+     {
+        "channelName": "BBB 02",
+        "link": "https://embedtvonline.com/bbb02/",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://embedtvonline.com/",
+        "isEmbed": 1,
+        "contaisToken": 0,
+        "urlImagem": "https://api.reidoscanais.io/img/bis.png",
+        "pausado": 0
     }
 ]
