@@ -259,7 +259,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
         "pausado": 0
     },
-     {
+    {
         "channelName": "SBT NEWS",
         "link": "https://outbound-proxy-us-east1-0-glob-usercontent-client-id-2483805788.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo/docs/sbtnews/__index.m3u8?sv=147&nu3zAQc9HC3GbwJq=1769714947-8paOHoW1wE2swO1orqGWVjjtlWmOplEXBo7ZwyMXXck%3D",
         "ativo": 0,
@@ -311,7 +311,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png",
         "pausado": 0
     },
-     {
+    {
         "channelName": "TELE CINE PIPOCA HD",
         "link": "https://embedtvonline.com/tcpipoca/",
         "ativo": 0,
@@ -1117,7 +1117,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png",
         "pausado": 0
     },
-     {
+    {
         "channelName": "HBO 2 SD",
         "link": "http://vrpro.fun:80/vennxz3n0p01/gold81500/784727.ts",
         "ativo": 0,
@@ -1191,6 +1191,19 @@
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://www1.embedtv.best/",
         "isEmbed": 1,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/gnt@3x.png",
+        "pausado": 0
+    },
+    {
+        "channelName": "GNT",
+        "link": "http://vrpro.fun:80/vennxz3n0p01/gold81500/99951.ts",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/gnt@3x.png",
         "pausado": 0
@@ -1312,7 +1325,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png",
         "pausado": 0
     },
-     {
+    {
         "channelName": "ESPN 3 SD",
         "link": "https://nossoplayeronlinehd.online/tv/espn3",
         "ativo": 0,
@@ -1351,7 +1364,7 @@
         "urlImagem": "https://embedtv.best/assets/images/espn4.png",
         "pausado": 0
     },
-     {
+    {
         "channelName": "X SPORTS",
         "link": "https://www1.embedtv.best/xsports",
         "ativo": 0,
@@ -1377,7 +1390,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/default/xsports.svg",
         "pausado": 0
     },
-     {
+    {
         "channelName": "X SPORTS HD",
         "link": "https://embedtv-5.icu/xsports",
         "ativo": 0,
@@ -1754,7 +1767,7 @@
         "urlImagem": "https://api.reidoscanais.io/img/bis.png",
         "pausado": 0
     },
-     {
+    {
         "channelName": "BBB 01",
         "link": "https://embedtvonline.com/bbb01/",
         "ativo": 0,
@@ -1767,7 +1780,7 @@
         "urlImagem": "https://vipapp.site/images/bbb.png",
         "pausado": 0
     },
-     {
+    {
         "channelName": "BBB 02",
         "link": "https://embedtvonline.com/bbb02/",
         "ativo": 0,
