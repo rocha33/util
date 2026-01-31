@@ -1312,6 +1312,19 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/default/xsports.svg",
         "pausado": 0
     },
+    {
+        "channelName": "X SPORTS SD",
+        "link": "https://rdcanais.top/xsports",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0",
+        "referrer": "https://p2player.live/",
+        "isEmbed": 1,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/default/xsports.svg",
+        "pausado": 0
+    },
      {
         "channelName": "X SPORTS HD",
         "link": "https://embedtv-5.icu/xsports",
