@@ -988,6 +988,19 @@
         "pausado": 0
     },
     {
+        "channelName": "VIVA SD",
+        "link": "http://vrpro.fun:80/vennxz3n0p01/gold81500/99967.ts",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
+        "pausado": 0
+    },
+    {
         "channelName": "VIVA HD",
         "link": "https://www1.embedtv.best/viva",
         "ativo": 0,
@@ -995,7 +1008,7 @@
         "categoria": "outros",
         "userAgent": "",
         "referrer": "",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
         "pausado": 0
@@ -1066,6 +1079,19 @@
         "pausado": 0
     },
     {
+        "channelName": "History 2 SD",
+        "link": "http://vrpro.fun:80/vennxz3n0p01/gold81500/94213.ts",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-2@3x.png",
+        "pausado": 0
+    },
+    {
         "channelName": "HBO 2",
         "link": "https://embedtvonline.com/hbo2/",
         "ativo": 0,
@@ -1087,6 +1113,19 @@
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://www1.embedtv.best/",
         "isEmbed": 1,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png",
+        "pausado": 0
+    },
+     {
+        "channelName": "HBO 2 SD",
+        "link": "http://vrpro.fun:80/vennxz3n0p01/gold81500/784727.ts",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png",
         "pausado": 0
