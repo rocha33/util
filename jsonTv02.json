@@ -923,6 +923,19 @@
         "pausado": 0
     },
     {
+        "channelName": "TNT Novelas SD",
+        "link": "https://nossoplayeronlinehd.online/tv/tntnovelas",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 1,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png",
+        "pausado": 0
+    },
+    {
         "channelName": "TNT Series",
         "link": "https://www1.embedtv.best/tntseries",
         "ativo": 0,
