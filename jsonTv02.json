@@ -1249,13 +1249,13 @@
     },
     {
         "channelName": "ESPN SD",
-        "link": "https://www1.embedtv.best/espn",
+        "link": "http://vrpro.fun:80/vennxz3n0p01/gold81500/1479360.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer": "https://www1.embedtv.best/",
-        "isEmbed": 1,
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn@3x.png",
         "pausado": 0
@@ -1288,13 +1288,13 @@
     },
     {
         "channelName": "ESPN 2 SD",
-        "link": "https://www1.embedtv.best/espn2",
+        "link": "http://vrpro.fun:80/vennxz3n0p01/gold81500/1479345.ts",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "",
         "referrer": "",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
         "pausado": 0
