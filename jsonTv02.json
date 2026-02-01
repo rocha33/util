@@ -1079,17 +1079,17 @@
     },
     {
         "channelName": "VIVA HD",
-        "link": "https://www1.embedtv.best/viva",
+        "link": "https://www2.embedtv.best/viva",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "userAgent": "",
         "referrer": "",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "TV BRASIL",
