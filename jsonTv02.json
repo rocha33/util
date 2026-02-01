@@ -10,7 +10,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "RECORD",
@@ -23,7 +24,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "RECORD TV CONQUISTA",
@@ -36,7 +38,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "RECORD SP",
@@ -49,7 +52,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "RECORD RJ SD",
@@ -62,7 +66,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "RECORD RJ",
@@ -75,7 +80,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "RECORD BA",
@@ -88,7 +94,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "RECORD GO",
@@ -101,7 +108,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "RECORDTV MG",
@@ -114,7 +122,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "RECORDTV SD",
@@ -127,7 +136,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "RECORD NEWS",
@@ -140,7 +150,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/recordnews@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "RECORD NEWS SD",
@@ -153,7 +164,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/recordnews@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "Rede Vida",
@@ -166,7 +178,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/rede-vida@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SBT",
@@ -179,7 +192,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SBT RJ",
@@ -192,7 +206,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SBT Guaruja",
@@ -205,7 +220,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SBT SP SD",
@@ -218,7 +234,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SBT (alter)",
@@ -231,7 +248,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SBT PA",
@@ -244,7 +262,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SBT RIO",
@@ -257,7 +276,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SBT NEWS",
@@ -270,7 +290,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
-        "pausado": 1
+        "pausado": 1,
+        "webView": 0
     },
     {
         "channelName": "TELE CINE ACTION",
@@ -283,7 +304,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TELE CINE ACTION HD",
@@ -296,7 +318,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TELE CINE PIPOCA",
@@ -309,7 +332,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TELE CINE PIPOCA HD",
@@ -322,7 +346,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TV Aparecida",
@@ -335,7 +360,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tv-aparecida@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "FUTURA",
@@ -348,7 +374,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/futura@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "CULTURA",
@@ -361,7 +388,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cultura@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "CULTURA SD",
@@ -374,7 +402,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cultura@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "BAND SD",
@@ -387,7 +416,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "BAND SP",
@@ -400,7 +430,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "BAND",
@@ -413,7 +444,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "CANÇÃO NOVA",
@@ -426,7 +458,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cancao-nova@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "CANÇÃO NOVA SD",
@@ -439,7 +472,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cancao-nova@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TOPTV",
@@ -452,7 +486,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "",
-        "pausado": 1
+        "pausado": 1,
+        "webView": 0
     },
     {
         "channelName": "CARTOON NETWORK SD",
@@ -465,7 +500,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cartoon-network@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "CARTOON NETWORK HD",
@@ -478,7 +514,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cartoon-network@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TOONCAST",
@@ -491,7 +528,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/wp-content/uploads/2024/10/tooncast.webp",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TOONCAST SD",
@@ -504,7 +542,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/wp-content/uploads/2024/10/tooncast.webp",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "BAND SPORTS",
@@ -517,7 +556,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "BAND SPORTS SD",
@@ -530,7 +570,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "CNN BRASIL",
@@ -543,7 +584,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cnn-brasil@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "CNN BRASIL SD",
@@ -556,7 +598,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cnn-brasil@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "BAND NEWS HD",
@@ -569,7 +612,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-news@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "BAND NEWS",
@@ -582,7 +626,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-news@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GLOBO RIO",
@@ -595,7 +640,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GLOBO RIO SD",
@@ -608,7 +654,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GLOBO RIO HD",
@@ -621,7 +668,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GLOBO SP",
@@ -634,7 +682,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GLOBO SP HD",
@@ -647,7 +696,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GLOBO NORDESTE",
@@ -660,7 +710,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GLOBO MG",
@@ -673,7 +724,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GLOBO MG SD",
@@ -686,7 +738,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GLOBO BRASILIA",
@@ -699,7 +752,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GLOBO BA",
@@ -712,7 +766,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GLOBO RS",
@@ -725,7 +780,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GLOBO NEWS",
@@ -738,7 +794,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/globonews@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GLOBO NEWS HD",
@@ -751,7 +808,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/globonews@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "Chespirito",
@@ -764,7 +822,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.digital/assets/images/24h.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TV Evangelizar SD",
@@ -777,7 +836,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tve@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "Jovem Pan News",
@@ -790,7 +850,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "REDE TV",
@@ -803,7 +864,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/redetv!@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SPORTV",
@@ -816,7 +878,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/sportv.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SPORTV SD",
@@ -829,7 +892,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/sportv.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SPORTV HD",
@@ -842,7 +906,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/sportv.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SPORTV 2",
@@ -855,7 +920,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/sportv2.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SPORTV 2 HD",
@@ -868,7 +934,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/sportv2.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SPORTV 3 HD",
@@ -881,7 +948,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/sportv3.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "SPORTV 3 SD",
@@ -894,7 +962,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/sportv3.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TNT Novelas",
@@ -907,7 +976,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TNT Novelas SD",
@@ -920,7 +990,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TNT Novelas SD",
@@ -933,7 +1004,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TNT Series",
@@ -946,7 +1018,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tnt-series@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TNT Series SD",
@@ -959,7 +1032,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tnt-series@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "CURTA!",
@@ -972,7 +1046,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://supertvaovivo.app/wp-content/uploads/2023/02/assistir-curta-ao-vivo.webp",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "VIVA",
@@ -985,7 +1060,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "VIVA SD",
@@ -998,7 +1074,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "VIVA HD",
@@ -1011,7 +1088,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TV BRASIL",
@@ -1024,7 +1102,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tv-brasil@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "History",
@@ -1037,7 +1116,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-channel@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "History HD",
@@ -1050,7 +1130,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-channel@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "History 2 HD",
@@ -1063,7 +1144,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-2@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "History 2",
@@ -1076,7 +1158,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-2@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "History 2 SD",
@@ -1089,7 +1172,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-2@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "HBO 2",
@@ -1102,7 +1186,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "HBO 2 HD",
@@ -1115,7 +1200,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "HBO 2 SD",
@@ -1128,7 +1214,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "MTV",
@@ -1141,7 +1228,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/mtv@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "MTV SD",
@@ -1154,7 +1242,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/mtv@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "EU A PATROA AS CRIANÇAS",
@@ -1167,7 +1256,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.digital/assets/images/24h.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TODO MUNDO ODEIA O CRIS",
@@ -1180,7 +1270,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.digital/assets/images/24h.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GNT",
@@ -1193,10 +1284,11 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/gnt@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
-        "channelName": "GNT",
+        "channelName": "GNT SD",
         "link": "http://vrpro.fun:80/vennxz3n0p01/gold81500/99951.ts",
         "ativo": 0,
         "contactpage": "",
@@ -1206,7 +1298,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/gnt@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "GNT HD",
@@ -1219,7 +1312,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/gnt@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "ESPN",
@@ -1232,7 +1326,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/espn.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "ESPN HD",
@@ -1245,7 +1340,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/espn.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "ESPN SD",
@@ -1258,7 +1354,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "ESPN 2",
@@ -1271,7 +1368,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "ESPN 2 HD",
@@ -1284,7 +1382,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "ESPN 2 SD",
@@ -1297,7 +1396,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "ESPN 3",
@@ -1310,7 +1410,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "ESPN 3 HD",
@@ -1323,7 +1424,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "ESPN 3 SD",
@@ -1336,7 +1438,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "ESPN 4",
@@ -1349,7 +1452,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/espn4.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "ESPN 4 SD",
@@ -1362,7 +1466,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/espn4.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "X SPORTS",
@@ -1375,7 +1480,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/default/xsports.svg",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "X SPORTS SD",
@@ -1388,7 +1494,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/default/xsports.svg",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "X SPORTS HD",
@@ -1401,7 +1508,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/default/xsports.svg",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "AXN",
@@ -1414,7 +1522,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "AXN SD",
@@ -1427,7 +1536,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "AXN HD",
@@ -1440,7 +1550,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "AMC FHD",
@@ -1453,7 +1564,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/amc@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "AMC",
@@ -1466,7 +1578,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/amc@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "ANIMAL PLANET",
@@ -1479,7 +1592,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/animal-planet@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "ANIMAL PLANET SD",
@@ -1492,7 +1606,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/animal-planet@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "WARNER BROS",
@@ -1505,7 +1620,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/warner-channel@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "WARNER BROS SD",
@@ -1518,7 +1634,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/warner-channel@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "MULTISHOW",
@@ -1531,7 +1648,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/multishow@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "MULTISHOW HD",
@@ -1544,7 +1662,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/multishow@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "MEGAPIX",
@@ -1557,7 +1676,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/megapix@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "MEGAPIX SD",
@@ -1570,7 +1690,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/megapix@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "Premiere Clubes",
@@ -1583,7 +1704,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/premiere-clubes-hd@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "Premieres Clubes SD",
@@ -1596,7 +1718,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/premiere-clubes-hd@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "TV Brasil Central",
@@ -1609,7 +1732,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tv-brasil@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "DISCOVERY CHANNEL",
@@ -1622,7 +1746,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/discovery@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "DISCOVERY CHANNEL HD",
@@ -1635,7 +1760,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/discoverychannel.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "DISCOVERY CHANNEL SD",
@@ -1648,7 +1774,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/discoverychannel.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "Nosso Futebol",
@@ -1661,7 +1788,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/nossofutebol.png",
-        "pausado": 1
+        "pausado": 1,
+        "webView": 0
     },
     {
         "channelName": "Nosso Futebol SD",
@@ -1674,7 +1802,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/nossofutebol.png",
-        "pausado": 1
+        "pausado": 1,
+        "webView": 0
     },
     {
         "channelName": "STUDIO UNIVERSAL",
@@ -1687,7 +1816,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/studio-universal@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "STUDIO UNIVERSAL HD",
@@ -1700,7 +1830,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/studio-universal@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "STUDIO UNIVERSAL SD",
@@ -1713,7 +1844,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/studio-universal@3x.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "CINEMAX",
@@ -1726,7 +1858,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/cinemax.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "CINEMAX SD",
@@ -1739,7 +1872,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/cinemax.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "BIS",
@@ -1752,7 +1886,8 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://api.reidoscanais.io/img/bis.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "BIS SD",
@@ -1765,7 +1900,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://api.reidoscanais.io/img/bis.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "BBB 01",
@@ -1778,7 +1914,8 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://vipapp.site/images/bbb.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     },
     {
         "channelName": "BBB 02",
@@ -1791,6 +1928,7 @@
         "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://vipapp.site/images/bbb.png",
-        "pausado": 0
+        "pausado": 0,
+        "webView": 0
     }
 ]
