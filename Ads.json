@@ -20,11 +20,11 @@
     {
         "id": "ad_003",
         "tipo": "interstitial",
-        "plataforma": "ali",
-        "titulo": "Tennis Sole Normal",
-        "descricao": "Tennis Sole Normal Leather Sneakers Woman Luxury Sneakers Skateboarding Shoes Size 50 Beige Loafers Sports Tenia Sapatos.",
-        "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S9ebbcb98dc9b4b749d0e7b35fed229acv.jpg_960x960q75.jpg_.avif",
-        "link": "https://s.click.aliexpress.com/e/_c3bQo4iL"
+        "plataforma": "encurta",
+        "titulo": "Kit 2 Camisetas",
+        "descricao": "Kit Masculino 2 Camisetas TXC Country Rodeio Premium Camisa Estilo Country Txc Envio Imediato",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7raue-martdeyofgub67.webp",
+        "link": "https://tpi.li/shopeeKitcamisetas"
     },
     {
         "id": "ad_004",
@@ -34,5 +34,23 @@
         "descricao": "Rádio Mp3 H-tech Ht-1200 Com Suporte Celular Usb Bluetooth",
         "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_769017-MLA99936672085_112025-F.webp",
         "link": "https://mercadolivre.com/sec/16A4sEH"
+    },
+    {
+        "id": "ad_005",
+        "tipo": "interstitial",
+        "plataforma": "encurta",
+        "titulo": "Kit 2 Camisetas",
+        "descricao": "Kit Masculino 2 Camisetas TXC Country Rodeio Premium Camisa Estilo Country Txc Envio Imediato",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7raue-martdeyofgub67.webp",
+        "link": "https://tpi.li/shopeeKitcamisetas"
+    },
+    {
+        "id": "ad_006",
+        "tipo": "interstitial",
+        "plataforma": "encurta",
+        "titulo": "Kit 2 Camisetas",
+        "descricao": "Kit Masculino 2 Camisetas TXC Country Rodeio Premium Camisa Estilo Country Txc Envio Imediato",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7raue-martdeyofgub67.webp",
+        "link": "https://tpi.li/shopeeKitcamisetas"
     }
 ]
