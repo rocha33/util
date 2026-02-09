@@ -1933,16 +1933,16 @@
     },
     {
         "channelName": "BBB 02",
-        "link": "https://embedtvonline.com/bbb02/",
+        "link": "https://www2.embedtv.best/bbb2",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://embedtvonline.com/",
-        "isEmbed": 1,
+        "referrer": "https://www1.embedtv.best/",
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://vipapp.site/images/bbb.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     }
 ]
