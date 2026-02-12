@@ -223,6 +223,20 @@
         "pausado": 0,
         "webView": 0
     },
+     {
+        "channelName": "SBT News HD",
+        "link": "https://redecanaistv.fm/player3/ch.php?canal=sbtnews",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://redecanaistv.fm/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://api.reidoscanais.io/img/sbtnews.png",
+        "pausado": 0,
+        "webView": 1
+    },
     {
         "channelName": "SBT Guaruja",
         "link": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8",
