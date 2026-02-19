@@ -1149,12 +1149,12 @@
     },
     {
         "channelName": "History",
-        "link": "https://redecanaistv.fm/player3/ch.php?canal=history",
+        "link": "https://rdcanais.top/history",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://redecanaistv.fm/",
+        "referrer": "https://streamrdc.xyz/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-channel@3x.png",
@@ -1541,7 +1541,7 @@
     },
     {
         "channelName": "X SPORTS HD",
-        "link": "https://redecanaistv.fm/player3/ch.php?canal=xsports",
+        "link": "https://rdcanais.top/xsports",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
