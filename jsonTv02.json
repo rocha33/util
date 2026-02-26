@@ -217,11 +217,11 @@
         "categoria": "noticias",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://rdcplayer.online/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://api.reidoscanais.io/img/sbtnews.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "SBT News HD",
@@ -883,7 +883,7 @@
     },
     {
         "channelName": "Jovem Pan News",
-        "link": "https://tvmaxplay.xyz/xe9HIGYGJby3jvmpnnEcOyxqVbw/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://1.embedtvonline.com/jovempannews/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -893,7 +893,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "REDE TV",
@@ -911,21 +911,21 @@
     },
     {
         "channelName": "SPORTV",
-        "link": "https://embedflix.cv/tv/player.php?id=sportv",
+        "link": "https://rdcanais.top/sportv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://embedflix.cv/",
-        "isEmbed": 1,
+        "referrer": "https://p2player.live/",
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/sportv.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "SPORTV SD",
-        "link": "https://tvmaxplay.xyz/OB1rcavXsprtviOqkVCJTBJahe/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://www1.embedtv.best/sportv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -935,11 +935,11 @@
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/sportv.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "SPORTV HD",
-        "link": "https://tvmaxplay.xyz/OB1rcavXsprtviOqkVCJTBJahe/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://embedflix.click/tv/player.php?id=sportv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -949,7 +949,7 @@
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/sportv.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "SPORTV 2",
