@@ -183,17 +183,17 @@
     },
     {
         "channelName": "SBT",
-        "link": "https://tvmaxplay.xyz/gjqmlMjWWsbtspPel8XOFDWKWLCR/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://rdcanais.top/sbt",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://embedtvonline.com/",
+        "userAgent": "",
+        "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "SBT RJ",
@@ -267,7 +267,7 @@
     },
     {
         "channelName": "SBT (alter)",
-        "link": "https://tvmaxplay.xyz/gjqmlMjWWsbtspPel8XOFDWKWLCR/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://www2.embedtv.best/sbt",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -277,7 +277,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "SBT PA",
@@ -561,13 +561,13 @@
     },
     {
         "channelName": "TOONCAST",
-        "link": "https://rdcanais.top/tooncast",
+        "link": "http://54k.store:80/059980y48/mario5t318/6452",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://streamrdc.xyz/",
-        "isEmbed": 1,
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/wp-content/uploads/2024/10/tooncast.webp",
         "pausado": 0,
@@ -896,6 +896,20 @@
         "webView": 1
     },
     {
+        "channelName": "Jovem Pan News",
+        "link": "http://54k.store:80/059980y48/mario5t318/203502",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "noticias",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
+        "pausado": 0,
+        "webView": 0
+    },
+    {
         "channelName": "REDE TV",
         "link": "https://tvmaxplay.xyz/suhaFVBliyrdtvIToGJ1QZwez3Vc/tracks-v1a1/mono.ts.m3u8",
         "ativo": 1,
@@ -1043,11 +1057,11 @@
         "categoria": "filmes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://rdcplayer.online/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "TNT Series",
@@ -1177,17 +1191,17 @@
     },
     {
         "channelName": "History 2 HD",
-        "link": "https://tvmaxplay.xyz/zrm9h820hstry2DfQnPOMbdYvpiYKne/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://rdcanais.top/history2",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://embedtvonline.com/",
+        "userAgent": "",
+        "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-2@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "History 2",
@@ -1617,11 +1631,11 @@
         "categoria": "filmes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://streamrdc.xyz/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/amc@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "ANIMAL PLANET",
@@ -1659,25 +1673,25 @@
         "categoria": "filmes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0",
         "referrer": "https://rdcplayer.online/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/warner-channel@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "WARNER BROS SD",
-        "link": "https://embedtvonline.com/warner/",
+        "link": "https://www2.embedtv.best/warnerchannel",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0",
-        "referrer": "https://embedtvonline.com/",
-        "isEmbed": 1,
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/warner-channel@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "MULTISHOW",
@@ -1863,17 +1877,17 @@
     },
     {
         "channelName": "CINEMAX",
-        "link": "https://tvmaxplay.xyz/mnVErULWHcnmxMsg1msoxltaTIircdJsS8/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://rdcanais.top/cinemax",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer": "https://embedtvonline.com/",
+        "userAgent": "",
+        "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/cinemax.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "CINEMAX SD",
