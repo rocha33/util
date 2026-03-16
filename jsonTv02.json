@@ -43,7 +43,7 @@
     },
     {
         "channelName": "RECORD SP",
-        "link": "https://tvmaxplay.xyz/Ln03ovXjYrcrdspYMar2jiIqZlhQ3biawY/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://embedcanaisonline.com/recordsp/",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -53,11 +53,11 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "RECORD RJ SD",
-        "link": "https://tvmaxplay.xyz/yADvkxtUurcrdrjX8KMf4djkWNdRfrCQBF/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://embedcanaisonline.com/recordrj/",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -67,22 +67,8 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0,
-        "webView": 0
-    },
-    {
-        "channelName": "RECORD RJ",
-        "link": "https://tvmaxplay.xyz/Ln03ovXjYrcrdspYMar2jiIqZlhQ3biawY/tracks-v1a1/mono.ts.m3u8",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
-        "pausado": 0,
-        "webView": 0
-    },
+        "webView": 1
+    },    
     {
         "channelName": "RECORD BA",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/28783",
@@ -113,7 +99,7 @@
     },
     {
         "channelName": "RECORDTV MG",
-        "link": "https://tvmaxplay.xyz/rnWGhwBhsRRrcrdmgLFHQtcozMdant8nX/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://embedcanaisonline.com/recordmg/",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -123,7 +109,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "RECORDTV SD",
@@ -435,7 +421,7 @@
     },
     {
         "channelName": "CULTURA",
-        "link": "https://tvmaxplay.xyz/pBLzHfz3tvcltrtVvovXkeGOhHGm5Xww/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://api-cdn-mega.vercel.app/api/play.php?canal=tvcultura",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -445,7 +431,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cultura@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "CULTURA SD",
@@ -469,15 +455,15 @@
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://streamrdc.xyz/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "BAND SP",
-        "link": "https://tvmaxplay.xyz/QLxEJHwBVJbndspvwSDrtqohUmuhV/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://embedcanaisonline.com/bandsp/",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -487,7 +473,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "BAND",
@@ -623,11 +609,11 @@
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "BAND SPORTS SD",
@@ -637,11 +623,11 @@
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://streamrdc.xyz/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "CNN BRASIL",
@@ -659,7 +645,7 @@
     },
     {
         "channelName": "CNN BRASIL SD",
-        "link": "https://tvmaxplay.xyz/g3aKsEECvl9cnnbrsdq83Eh0ezFe/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://embedcanaisonline.com/cnnbrasil/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -669,35 +655,35 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cnn-brasil@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "BAND NEWS HD",
-        "link": "https://embedtvonline.com/bandnews/",
+        "link": "https://embedcanaisonline.com/bandnews/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-news@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "BAND NEWS",
-        "link": "https://embedflix.cv/tv/player.php?id=band-news",
+        "link": "https://www3.embedtv.best/bandnews",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedflix.cv/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-news@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "GLOBO RIO",
@@ -707,25 +693,25 @@
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "GLOBO RIO SD",
-        "link": "https://embedflix.cv/tv/player.php?id=globo-rj",
+        "link": "https://www3.embedtv.best/globorj",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedflix.cv/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "GLOBO RIO HD",
@@ -743,7 +729,7 @@
     },
     {
         "channelName": "GLOBO SP",
-        "link": "https://tvmaxplay.xyz/obu7g1TPvYglbspjics61ES1iWT/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://rdcanais.top/globosp",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -753,21 +739,21 @@
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "GLOBO SP HD",
-        "link": "https://embedflix.cv/tv/player.php?id=globo-sp",
+        "link": "https://www3.embedtv.best/globosp",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedflix.cv/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "GLOBO NORDESTE",
@@ -819,11 +805,11 @@
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://rdcplayer.online/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "GLOBO BA",
@@ -833,11 +819,11 @@
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://rdcplayer.online/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "GLOBO RS",
@@ -855,7 +841,7 @@
     },
     {
         "channelName": "GLOBO NEWS",
-        "link": "https://tvmaxplay.xyz/bOMZpTktglbnwsJaJAfo16hD8hP1jF7Ts/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://www3.embedtv.best/globonews",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -865,21 +851,21 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/globonews@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "GLOBO NEWS HD",
-        "link": "https://1.embedtvonline.com/globonews/",
+        "link": "https://embedcanaisonline.com/globonews/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://1.embedtvonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/globonews@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "Chespirito",
@@ -939,7 +925,7 @@
     },
     {
         "channelName": "REDE TV",
-        "link": "https://tvmaxplay.xyz/suhaFVBliyrdtvIToGJ1QZwez3Vc/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://embedcanaisonline.com/redetv/",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -949,7 +935,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/redetv!@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "SPORTV",
@@ -981,7 +967,7 @@
     },
     {
         "channelName": "SPORTV HD",
-        "link": "https://embedflix.click/tv/player.php?id=sportv",
+        "link": "https://nossoplayeronlinehd.site/tv/sportv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1009,21 +995,21 @@
     },
     {
         "channelName": "SPORTV 2 HD",
-        "link": "https://tvmaxplay.xyz/c1xLJjBictx5sprtv2gY3c5wnRpQ/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://nossoplayeronlinehd.site/tv/sportv2",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
-        "referrer": "https://embedtvonline.com/",
+        "referrer": "https://nossoplayeronlinehd.site",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/sportv2.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "SPORTV 3 HD",
-        "link": "https://tvmaxplay.xyz/Z3ANVj77p3kZsprtv3l4AblV7vY7AZQ/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://nossoplayeronlinehd.site/tv/sportv3",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1033,21 +1019,21 @@
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/sportv3.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "SPORTV 3 SD",
-        "link": "https://embedflix.cv/tv/player.php?id=sportv-3",
+        "link": "https://rdcanais.top/sportv3",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedflix.cv/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/sportv3.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "TNT Novelas",
@@ -1205,7 +1191,7 @@
     },
     {
         "channelName": "History HD",
-        "link": "https://tvmaxplay.xyz/Pg1FNA88rcShstryxnCC8p2xgRxI/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://www3.embedtv.best/history",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1215,7 +1201,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-channel@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "History 2 HD",
@@ -1387,7 +1373,7 @@
     },
     {
         "channelName": "GNT HD",
-        "link": "https://tvmaxplay.xyz/A1EEpDJjymgntUMGV4i3erXY2Av7YGr0as/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://rdcanais.top/gnt",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1397,7 +1383,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/gnt@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "ESPN",
@@ -1485,17 +1471,17 @@
     },
     {
         "channelName": "ESPN 3",
-        "link": "https://embedflix.cv/tv/player.php?id=espn-3",
+        "link": "https://nossoplayeronlinehd.site/tv/espn3",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedflix.click/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "ESPN 3 HD",
@@ -1541,17 +1527,17 @@
     },
     {
         "channelName": "ESPN 4 SD",
-        "link": "https://embedflix.cv/tv/player.php?id=espn-4",
+        "link": "https://nossoplayeronlinehd.site/tv/espn4",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedflix.click/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/espn4.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "X SPORTS",
@@ -1611,7 +1597,7 @@
     },
     {
         "channelName": "AXN SD",
-        "link": "https://tvmaxplay.xyz/Dp17fr4CpWaxnKNQyvbF2ulFnwZqvr/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://nossoplayeronlinehd.site/tv/axn",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1621,7 +1607,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "AXN HD",
@@ -1631,11 +1617,11 @@
         "categoria": "filmes",
         "userAgent": "",
         "referrer": "",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "AMC FHD",
@@ -1667,17 +1653,17 @@
     },
     {
         "channelName": "ANIMAL PLANET",
-        "link": "https://embedtvonline.com/animalplanet/",
+        "link": "https://www3.embedtv.best/animalplanet",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/animal-planet@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "ANIMAL PLANET SD",
@@ -1687,11 +1673,11 @@
         "categoria": "documentarios",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://rdcplayer.online/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/animal-planet@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "WARNER BROS",
@@ -1827,11 +1813,11 @@
         "categoria": "documentarios",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://streamrdc.xyz/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/discovery@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "DISCOVERY CHANNEL HD",
@@ -1849,17 +1835,17 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL SD",
-        "link": "https://embedtv-5.icu/discoverychannel",
+        "link": "https://rdcanais.top/discoverychannel",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtv-5.icu/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/discoverychannel.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "STUDIO UNIVERSAL",
@@ -1891,7 +1877,7 @@
     },
     {
         "channelName": "STUDIO UNIVERSAL SD",
-        "link": "https://tvmaxplay.xyz/jCeECOtYrLstdnvrdwGetDCcdx1seP3/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://redecanais.cafe/player3/ch.php?canal=studiouniversal",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1901,7 +1887,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/studio-universal@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "CINEMAX",
@@ -1933,7 +1919,7 @@
     },
     {
         "channelName": "BIS",
-        "link": "https://tvmaxplay.xyz/g3aKsEECvl9cnnbrsdq83Eh0ezFe/tracks-v1a1/mono.ts.m3u8",
+        "link": "https://redecanais.cafe/player3/ch.php?canal=bis",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -1943,7 +1929,7 @@
         "contaisToken": 0,
         "urlImagem": "https://api.reidoscanais.io/img/bis.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "BIS SD",
@@ -1967,11 +1953,11 @@
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://vipapp.site/images/bbb.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "BBB 02",
