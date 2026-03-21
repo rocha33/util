@@ -329,11 +329,11 @@
         "categoria": "filmes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png",
         "pausado": 0,
-        "webView": 1
+        "webView": 0
     },
     {
         "channelName": "TELE CINE ACTION HD",
@@ -371,11 +371,11 @@
         "categoria": "filmes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png",
         "pausado": 0,
-        "webView": 1
+        "webView": 0
     },
      {
         "channelName": "TELE CINE PIPOCA SD",
@@ -539,11 +539,11 @@
         "categoria": "animacao",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cartoon-network@3x.png",
         "pausado": 0,
-        "webView": 1
+        "webView": 0
     },
     {
         "channelName": "CARTOON NETWORK HD",
@@ -609,11 +609,11 @@
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
         "pausado": 0,
-        "webView": 1
+        "webView": 0
     },
     {
         "channelName": "BAND SPORTS SD",
@@ -693,11 +693,11 @@
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
         "pausado": 0,
-        "webView": 1
+        "webView": 0
     },
     {
         "channelName": "GLOBO RIO SD",
@@ -1309,11 +1309,11 @@
         "categoria": "musical",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/mtv@3x.png",
         "pausado": 0,
-        "webView": 1
+        "webView": 0
     },
     {
         "channelName": "EU A PATROA AS CRIANÇAS",
@@ -1393,11 +1393,11 @@
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/espn.png",
         "pausado": 0,
-        "webView": 1
+        "webView": 0
     },
     {
         "channelName": "ESPN HD",
@@ -1435,11 +1435,11 @@
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
         "pausado": 0,
-        "webView": 1
+        "webView": 0
     },
     {
         "channelName": "ESPN 2 HD",
@@ -1491,11 +1491,11 @@
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 OPR/125.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png",
         "pausado": 0,
-        "webView": 1
+        "webView": 0
     },
     {
         "channelName": "ESPN 3 SD",
@@ -1519,11 +1519,11 @@
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 OPR/125.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/espn4.png",
         "pausado": 0,
-        "webView": 1
+        "webView": 0
     },
     {
         "channelName": "ESPN 4 SD",
@@ -1771,11 +1771,11 @@
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/premiere-clubes-hd@3x.png",
         "pausado": 0,
-        "webView": 1
+        "webView": 0
     },
     {
         "channelName": "Premieres Clubes SD",
@@ -1953,11 +1953,11 @@
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 0,
+        "isEmbed": 1,
         "contaisToken": 0,
         "urlImagem": "https://vipapp.site/images/bbb.png",
         "pausado": 0,
-        "webView": 1
+        "webView": 0
     },
     {
         "channelName": "BBB 02",
