@@ -1387,7 +1387,7 @@
     },
     {
         "channelName": "ESPN",
-        "link": "https://embedtvonline.com/espn/",
+        "link": "https://redecanais.cafe/player3/ch.php?canal=espn",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1429,7 +1429,7 @@
     },
     {
         "channelName": "ESPN 2",
-        "link": "https://embedtvonline.com/espn2/",
+        "link": "https://redecanais.cafe/player3/ch.php?canal=espn2",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1471,7 +1471,7 @@
     },
     {
         "channelName": "ESPN 3",
-        "link": "https://nossoplayeronlinehd.site/tv/espn3",
+        "link": "https://redecanais.cafe/player3/ch.php?canal=espn3",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1485,17 +1485,17 @@
     },
     {
         "channelName": "ESPN 3 HD",
-        "link": "https://embedtvonline.com/espn3/",
+        "link": "https://embedflix.click/tv/player.php?id=espn-3",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 OPR/125.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "ESPN 3 SD",
