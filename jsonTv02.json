@@ -127,17 +127,17 @@
     },
     {
         "channelName": "RECORD NEWS",
-        "link": "https://embedtvonline.com/recordnews/",
+        "link": "https://rdcanais.com/recordnews",
         "ativo": 1,
         "contactpage": "",
         "categoria": "noticias",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedcanaisonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/recordnews@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "RECORD NEWS SD",
@@ -323,17 +323,17 @@
     },
     {
         "channelName": "TELE CINE ACTION",
-        "link": "https://embedtvonline.com/tcaction/",
+        "link": "https://rdcanais.com/telecineaction",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedcanaisonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-action@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "TELE CINE ACTION HD",
@@ -365,17 +365,17 @@
     },
     {
         "channelName": "TELE CINE PIPOCA HD",
-        "link": "https://embedtvonline.com/tcpipoca/",
+        "link": "https://rdcanais.com/telecinepipoca",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedcanaisonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
      {
         "channelName": "TELE CINE PIPOCA SD",
@@ -533,17 +533,17 @@
     },
     {
         "channelName": "CARTOON NETWORK SD",
-        "link": "https://embedtvonline.com/cartoonnetwork/",
+        "link": "https://rdcanais.com/cartoonnetwork",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedcanaisonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cartoon-network@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "CARTOON NETWORK HD",
@@ -603,7 +603,7 @@
     },
     {
         "channelName": "BAND SPORTS",
-        "link": "https://embedtvonline.com/bandsports/",
+        "link": "https://www4.embedtv.best/bandsports",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -687,17 +687,17 @@
     },
     {
         "channelName": "GLOBO RIO",
-        "link": "https://embedtvonline.com/globorj/",
+        "link": "https://www4.embedtv.best/globorj",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedcanaisonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtvonline.com/images/globo.webp",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "GLOBO RIO SD",
@@ -1303,17 +1303,17 @@
     },
     {
         "channelName": "MTV SD",
-        "link": "https://embedtvonline.com/mtv/",
+        "link": "https://rdcanais.com/mtv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedcanaisonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/mtv@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "EU A PATROA AS CRIANÇAS",
@@ -1625,17 +1625,17 @@
     },
     {
         "channelName": "AMC FHD",
-        "link": "https://embedtvonline.com/amc/",
+        "link": "https://www4.embedtv.best/amc",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedcanaisonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/amc@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "AMC",
@@ -1709,17 +1709,17 @@
     },
     {
         "channelName": "MULTISHOW",
-        "link": "https://embedtvonline.com/multishow/",
+        "link": "https://rdcanais.com/multishow",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/multishow@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "MULTISHOW HD",
@@ -1765,17 +1765,17 @@
     },
     {
         "channelName": "Premiere Clubes",
-        "link": "https://embedtvonline.com/premiereclubes/",
+        "link": "https://rdcanais.com/premiereclubes",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
         "referrer": "https://embedcanaisonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/premiere-clubes-hd@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "Premieres Clubes SD",
@@ -1947,17 +1947,17 @@
     },
     {
         "channelName": "BBB 01",
-        "link": "https://embedtvonline.com/bbb01/",
+        "link": "https://rdcanais.com/bbb1",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedcanaisonline.com/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://vipapp.site/images/bbb.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "BBB 02",
