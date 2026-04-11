@@ -967,7 +967,7 @@
     },
     {
         "channelName": "SPORTV HD",
-        "link": "https://nossoplayeronlinehd.site/tv/sportv",
+        "link": "https://www4.embedtv.cv/sportv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -995,7 +995,7 @@
     },
     {
         "channelName": "SPORTV 2 HD",
-        "link": "https://nossoplayeronlinehd.site/tv/sportv2",
+        "link": "https://www4.embedtv.cv/sportv2",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1009,7 +1009,7 @@
     },
     {
         "channelName": "SPORTV 3 HD",
-        "link": "https://nossoplayeronlinehd.site/tv/sportv3",
+        "link": "https://redecanaistv.be/player3/ch.php?canal=sportv1",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1513,7 +1513,21 @@
     },
     {
         "channelName": "ESPN 4",
-        "link": "https://embedflix.click/tv/player.php?id=espn-4",
+        "link": "https://www4.embedtv.cv/espn4",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 OPR/125.0.0.0",
+        "referrer": "https://embedtvonline.com/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://embedtv.best/assets/images/espn4.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "ESPN 4 HD",
+        "link": "https://rdcanais.com/espn4",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
