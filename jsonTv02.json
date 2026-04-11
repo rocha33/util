@@ -1288,6 +1288,34 @@
         "webView": 0
     },
     {
+        "channelName": "HBO XTREME",
+        "link": "https://www4.embedtv.cv/hboxtreme",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent": "",
+        "referrer": "https://www4.embedtv.cv/hboxtreme",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-xtreme@3x.png",
+        "pausado": 0,
+        "webView": 1
+    },
+     {
+        "channelName": "HBO XTREME HD",
+        "link": "https://rdcanais.top/hboxtreme",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent": "",
+        "referrer": "https://rdcanais.top",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-xtreme@3x.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
         "channelName": "MTV",
         "link": "https://www2.embedtv.cv/mtv",
         "ativo": 0,
