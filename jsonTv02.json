@@ -183,12 +183,12 @@
     },
     {
         "channelName": "SBT RJ",
-        "link": "https://nossoplayeronlinehd.online/tv/sbt",
+        "link": "https://nossoplayeronlinehd.org/tv/sbt",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://nossoplayeronlinehd.org",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
@@ -583,7 +583,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtvonline.com/wp-content/uploads/2024/10/tooncast.webp",
+        "urlImagem": "https://api.reidoscanais.ooo/img/tooncast.png",
         "pausado": 0,
         "webView": 0
     },
@@ -597,7 +597,7 @@
         "referrer": "https://streamrdc.xyz/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtvonline.com/wp-content/uploads/2024/10/tooncast.webp",
+        "urlImagem": "https://api.reidoscanais.ooo/img/tooncast.png",
         "pausado": 0,
         "webView": 1
     },
@@ -765,7 +765,7 @@
         "referrer": "https://rdcplayer.online/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globope.png",
+        "urlImagem": "https://embedtv.best/assets/images/globorj.png",
         "pausado": 0,
         "webView": 1
     },
@@ -779,7 +779,7 @@
         "referrer": "https://nossoplayeronlinehd.org/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globomg.png",
+        "urlImagem": "https://embedtv.best/assets/images/globorj.png",
         "pausado": 0,
         "webView": 1
     },
@@ -807,7 +807,7 @@
         "referrer": "https://rdcplayer.online/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globodf.png",
+        "urlImagem": "https://embedtv.best/assets/images/globorj.png",
         "pausado": 0,
         "webView": 1
     },
@@ -835,7 +835,7 @@
         "referrer": " hhttps://www2.embedtv.cv/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globors.png",
+        "urlImagem": "https://embedtv.best/assets/images/globorj.png",
         "pausado": 0,
         "webView": 1
     },
@@ -947,7 +947,7 @@
         "referrer": "https://p2player.live/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtvonline.com/images/sportv.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv@3x.png",
         "pausado": 0,
         "webView": 1
     },
@@ -961,7 +961,7 @@
         "referrer": "https://www1.embedtv.cv/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtvonline.com/images/sportv.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv@3x.png",
         "pausado": 0,
         "webView": 1
     },
@@ -975,7 +975,7 @@
         "referrer": " https://embedtvonline.com/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtvonline.com/images/sportv.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv@3x.png",
         "pausado": 0,
         "webView": 1
     },
@@ -989,7 +989,7 @@
         "referrer": "https://p2player.live/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtvonline.com/images/sportv2.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv-2@3x.png",
         "pausado": 0,
         "webView": 1
     },
@@ -1003,7 +1003,7 @@
         "referrer": "https://nossoplayeronlinehd.org",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtvonline.com/images/sportv2.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv-2@3x.png",
         "pausado": 0,
         "webView": 1
     },
@@ -1017,7 +1017,7 @@
         "referrer": "https://embedtvonline.com/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtvonline.com/images/sportv3.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv-3@3x.png",
         "pausado": 0,
         "webView": 1
     },
@@ -1031,7 +1031,7 @@
         "referrer": "https://embedflix.cv/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtvonline.com/images/sportv3.png",
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv-3@3x.png",
         "pausado": 0,
         "webView": 1
     },
@@ -1339,9 +1339,23 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.digital/assets/images/24h.png",
+        "urlImagem": "https://embedtv.cv/assets/images/24h.png",
         "pausado": 0,
         "webView": 0
+    },
+    {
+        "channelName": "TODO MUNDO ODEIA O CRIS",
+        "link": "https://www4.embedtv.cv/24h_odeiachris",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "animacao",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://embedtv.cv/assets/images/24h.png",
+        "pausado": 0,
+        "webView": 1
     },
     {
         "channelName": "GNT",
