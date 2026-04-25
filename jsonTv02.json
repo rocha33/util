@@ -2029,4 +2029,18 @@
         "pausado": 0,
         "webView": 1
     }
+     {
+        "channelName": "GETV",
+        "link": "https://3embeddecanais.xyz/getv/",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "esportes",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://3embeddecanais.xyz/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://vipapp.site/images/bbb.png",
+        "pausado": 0,
+        "webView": 1
+    }
 ]
