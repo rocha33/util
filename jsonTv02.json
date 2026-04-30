@@ -365,12 +365,12 @@
     },
     {
         "channelName": "TELE CINE PIPOCA HD",
-        "link": "https://rdcanais.com/telecinepipoca",
+        "link": "https://www4.embedtv.live/telecinepipoca",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://embedcanaisonline.com/",
+        "referrer": "https://www4.embedtv.live/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png",
@@ -2039,7 +2039,7 @@
         "referrer": "https://3embeddecanais.xyz/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://vipapp.site/images/bbb.png",
+        "urlImagem": "https://embedcanaisdetv.com/images/getv.png",
         "pausado": 0,
         "webView": 1
     }
