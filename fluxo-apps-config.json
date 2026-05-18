@@ -1,0 +1,20 @@
+{
+  "supported_apps": {
+    "com.nu.production": "Nubank",
+    "com.nu.productionapp": "Nubank",
+    "com.nu.nuconta": "Nubank",
+    "br.com.intermedium": "Inter",
+    "com.picpay": "PicPay",
+    "com.mercadopago.wallet": "Mercado Pago",
+    "com.itau": "Itaú",
+    "br.com.bb.android": "Banco do Brasil",
+    "br.gov.caixa.internet.handset": "Caixa",
+    "com.santander.app": "Santander",
+    "com.bradesco": "Bradesco",
+    "com.c6bank.app": "C6 Bank",
+    "br.com.neon": "Neon",
+    "com.shopee.br": "Shopee",
+    "br.com.ifood.customer": "iFood",
+    "com.mercadolivre.android": "Mercado Livre"
+  }
+}
