@@ -1,20 +1,79 @@
 {
   "supported_apps": {
+
     "com.nu.production": "Nubank",
     "com.nu.productionapp": "Nubank",
     "com.nu.nuconta": "Nubank",
+
     "br.com.intermedium": "Inter",
-    "com.picpay": "PicPay",
-    "com.mercadopago.wallet": "Mercado Pago",
     "com.itau": "Itaú",
+    "com.itau.minhasfinancas": "Itaú",
     "br.com.bb.android": "Banco do Brasil",
     "br.gov.caixa.internet.handset": "Caixa",
     "com.santander.app": "Santander",
     "com.bradesco": "Bradesco",
     "com.c6bank.app": "C6 Bank",
     "br.com.neon": "Neon",
+    "br.com.next": "Next",
+    "com.digio.android": "Digio",
+    "com.agibank.app": "Agibank",
+    "com.bancopan.android": "Banco Pan",
+    "br.com.original.bank": "Banco Original",
+    "br.com.sicoob.mobile": "Sicoob",
+    "com.sicredi.app": "Sicredi",
+    "com.btgpactual.app": "BTG Pactual",
+    "br.com.xp.carteira": "XP Investimentos",
+    "com.getmoney.creditcard": "Will Bank",
+    "com.cora.business": "Cora",
+    "br.com.stone.bankingapp": "Stone",
+
+    "com.picpay": "PicPay",
+    "com.mercadopago.wallet": "Mercado Pago",
+    "com.paypal.android.p2pmobile": "PayPal",
+    "br.com.amedigital.ame": "Ame Digital",
+    "br.com.pagbank": "PagBank",
+    "br.com.pagseguro.pagseguropro": "PagSeguro",
+    "br.com.getnet.app": "Getnet",
+    "com.infinitepay.pos": "InfinitePay",
+    "com.sumup.merchant": "SumUp",
+
+    "com.primety.sodexomobile": "Sodexo",
+    "br.com.alelo.cartao": "Alelo",
+    "com.ticket.edenred.br": "Ticket",
+    "br.com.vr.vrpay": "VR Benefícios",
+    "br.com.flash.app": "Flash Benefícios",
+    "br.com.caju.app": "Caju",
+    "br.com.benvisa.app": "Ben Visa Vale",
+
     "com.shopee.br": "Shopee",
     "br.com.ifood.customer": "iFood",
-    "com.mercadolivre.android": "Mercado Livre"
+    "com.mercadolivre.android": "Mercado Livre",
+    "com.amazon.mShop.android.shopping": "Amazon",
+    "com.luizalabs.mlapp": "Magazine Luiza",
+    "com.magazineluiza": "Magazine Luiza",
+    "com.b2w.americanas": "Americanas",
+    "br.com.kabum.webviewapp": "Kabum",
+    "com.novapontocom.casasbahia": "Casas Bahia",
+    "br.com.lojasrenner": "Renner",
+    "br.com.cea.appb2c": "C&A",
+    "com.aliexpress.buyer": "AliExpress",
+    "com.zzkko": "Shein",
+    "br.com.netshoes.app": "Netshoes",
+    "br.com.riachuelo.app": "Riachuelo",
+    "com.centauro.app": "Centauro",
+    "br.com.leroymerlin.leroymerlin": "Leroy Merlin",
+    "com.decathlon.app": "Decathlon",
+
+    "com.ubercab": "Uber",
+    "com.app99": "99",
+    "com.indrive.passenger": "inDrive",
+
+    "com.rappi.app.brazil": "Rappi",
+    "com.ubereats.client.android": "Uber Eats",
+
+    "com.binance.dev": "Binance",
+    "br.com.mercadobitcoin.android": "Mercado Bitcoin",
+    "br.com.foxbit.foxbitandroid": "Foxbit"
+
   }
 }
