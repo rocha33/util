@@ -3,9 +3,9 @@
         "id": "adBanner_001",
         "tipo": "banner",
         "plataforma": "gplay",
-        "titulo": "Precisa de cupon de desconto?",
-        "descricao": "Tenha acesso a muitos cupons exclusivos!",
-        "imagem": "https://raw.githubusercontent.com/rocha33/util/main/images/anuncio_cupons.png",
-        "link": "https://play.google.com/store/apps/details?id=com.vr.games.coupon.app.mania.cupons_mania"
+        "titulo": "Gostaria de assistir algum filme ou serie?",
+        "descricao": "Assista filmes e séries online, com qualidade HD e legendas em português.",
+        "imagem": "https://raw.githubusercontent.com/rocha33/util/main/images/filmes_series.png",
+        "link": "https://meu.catalogo24h.workers.dev/"
     }
 ]
