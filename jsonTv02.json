@@ -869,17 +869,17 @@
     },
     {
         "channelName": "Chespirito",
-        "link": "http://vrpro.fun:80/vennxz3n0p01/gold81500/3330682.ts",
+        "link": "https://rde.buzz/24h-chaves",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://rde.buzz/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.digital/assets/images/24h.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "TV Evangelizar SD",
@@ -1009,7 +1009,7 @@
     },
     {
         "channelName": "SPORTV 3 HD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=sportv1",
+        "link": "https://redecanaistv.be/player3/ch.php?canal=sportv3",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1050,7 +1050,7 @@
         "webView": 1
     },
     {
-        "channelName": "TNT Novelas SD",
+        "channelName": "TNT Novelas HD",
         "link": "https://rde.buzz/tntnovelas",
         "ativo": 0,
         "contactpage": "",
@@ -1373,7 +1373,7 @@
     },
     {
         "channelName": "TODO MUNDO ODEIA O CRIS Op 2",
-        "link": "https://rde.buzz/24h_odeiachris",
+        "link": "https://rde.buzz/24h-todo-mundo-odeia-o-chris",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -1779,7 +1779,7 @@
     },
     {
         "channelName": "MULTISHOW HD",
-        "link": "https://rde.buzz//multishow",
+        "link": "https://rde.buzz/multishow",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -2031,12 +2031,12 @@
     },
      {
         "channelName": "GETV",
-        "link": "https://3embeddecanais.xyz/getv/",
+        "link": "https://rde.buzz/getv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://3embeddecanais.xyz/",
+        "referrer": "https://rde.buzz/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedcanaisdetv.com/images/getv.png",
