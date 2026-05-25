@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Exclusão de Conta e Dados – Ore Por Mim</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --primary:       #4A6A58;
+      --primary-light: #e8f0ec;
+      --danger:        #dc2626;
+      --danger-light:  #fef2f2;
+      --text:          #1a1a1a;
+      --muted:         #6b7280;
+      --border:        #e5e7eb;
+      --bg:            #f9fafb;
+      --card:          #ffffff;
+      --radius:        12px;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                   "Helvetica Neue", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      min-height: 100vh;
+    }
+
+    header {
+      background: var(--primary);
+      color: #fff;
+      padding: 40px 24px 32px;
+      text-align: center;
+    }
+    header .icon { font-size: 48px; display: block; margin-bottom: 12px; }
+    header h1 {
+      font-size: clamp(1.5rem, 4vw, 2rem);
+      font-weight: 700;
+      letter-spacing: -0.3px;
+    }
+    header p {
+      margin-top: 8px;
+      font-size: 0.9rem;
+      opacity: 0.85;
+    }
+
+    main {
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 32px 20px 60px;
+    }
+
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 32px;
+    }
+    .badge {
+      background: var(--primary-light);
+      color: var(--primary);
+      border-radius: 999px;
+      padding: 5px 14px;
+      font-size: 0.8rem;
+      font-weight: 600;
+    }
+
+    .section {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 28px;
+      margin-bottom: 18px;
+    }
+    .section h2 {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--primary);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .section h2 .num {
+      background: var(--primary);
+      color: #fff;
+      border-radius: 50%;
+      width: 28px;
+      height: 28px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.8rem;
+      flex-shrink: 0;
+    }
+    .section p, .section ul, .section ol { font-size: 0.93rem; color: #374151; }
+    .section p + p { margin-top: 10px; }
+
+    .section ul, .section ol { margin-top: 8px; }
+    .section ul { list-style: none; }
+    .section ul li {
+      padding: 5px 0 5px 20px;
+      position: relative;
+    }
+    .section ul li::before {
+      content: "•";
+      color: var(--primary);
+      font-weight: 700;
+      position: absolute;
+      left: 4px;
+    }
+    .section ol {
+      padding-left: 22px;
+    }
+    .section ol li {
+      padding: 5px 0;
+    }
+
+    /* Step cards */
+    .steps {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-top: 14px;
+    }
+    .step {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      background: var(--primary-light);
+      border-radius: 10px;
+      padding: 14px 16px;
+    }
+    .step-num {
+      background: var(--primary);
+      color: #fff;
+      border-radius: 50%;
+      width: 30px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.85rem;
+      font-weight: 700;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+    .step-text strong {
+      display: block;
+      font-size: 0.93rem;
+      color: var(--primary);
+      font-weight: 700;
+      margin-bottom: 3px;
+    }
+    .step-text span {
+      font-size: 0.87rem;
+      color: #374151;
+    }
+
+    /* highlight box */
+    .highlight {
+      background: var(--primary-light);
+      border-left: 4px solid var(--primary);
+      border-radius: 0 8px 8px 0;
+      padding: 12px 16px;
+      margin-top: 12px;
+      font-size: 0.88rem;
+      color: var(--primary);
+      font-weight: 500;
+    }
+
+    /* danger box */
+    .danger-box {
+      background: var(--danger-light);
+      border-left: 4px solid var(--danger);
+      border-radius: 0 8px 8px 0;
+      padding: 12px 16px;
+      margin-top: 12px;
+      font-size: 0.88rem;
+      color: var(--danger);
+      font-weight: 500;
+    }
+
+    /* Table */
+    .table-wrap { overflow-x: auto; margin-top: 14px; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+    }
+    thead tr { background: var(--primary-light); }
+    thead th {
+      text-align: left;
+      padding: 10px 14px;
+      color: var(--primary);
+      font-weight: 700;
+    }
+    tbody tr:nth-child(odd) { background: #f8fafc; }
+    tbody td { padding: 9px 14px; color: #374151; vertical-align: top; }
+    .tag-del  { color: var(--danger); font-weight: 600; }
+    .tag-keep { color: var(--primary); font-weight: 600; }
+
+    /* Contact card */
+    .contact-card {
+      background: var(--primary);
+      color: #fff;
+      border-radius: var(--radius);
+      padding: 24px 28px;
+      text-align: center;
+      margin-bottom: 18px;
+    }
+    .contact-card h3 { font-size: 1.05rem; margin-bottom: 8px; }
+    .contact-card p  { font-size: 0.9rem; opacity: 0.9; }
+    .contact-card a  {
+      display: inline-block;
+      margin-top: 14px;
+      background: #fff;
+      color: var(--primary);
+      padding: 10px 28px;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 0.92rem;
+      text-decoration: none;
+    }
+    .contact-card a:hover { opacity: 0.9; }
+
+    footer {
+      text-align: center;
+      padding: 24px 20px;
+      font-size: 0.82rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <span class="icon">🗑️</span>
+  <h1>Exclusão de Conta e Dados</h1>
+  <p>Ore Por Mim · Desenvolvido por VR Games</p>
+</header>
+
+<main>
+
+  <div class="badge-row">
+    <span class="badge">🔒 Conformidade LGPD</span>
+    <span class="badge">⚡ Exclusão imediata no app</span>
+    <span class="badge">📧 Suporte por e-mail</span>
+  </div>
+
+  <!-- 1. Visão geral -->
+  <div class="section">
+    <h2><span class="num">1</span> Visão geral</h2>
+    <p>
+      O aplicativo <strong>Ore Por Mim</strong>, desenvolvido por <strong>VR Games</strong>,
+      respeita o seu direito à privacidade e ao controle sobre os seus dados pessoais,
+      conforme a Lei Geral de Proteção de Dados (LGPD – Lei 13.709/2018).
+    </p>
+    <p>
+      Você pode solicitar a exclusão da sua conta e dos seus dados a qualquer momento,
+      diretamente pelo aplicativo ou por e-mail. A solicitação é processada de forma
+      imediata no app.
+    </p>
+  </div>
+
+  <!-- 2. Como excluir pelo app (método principal) -->
+  <div class="section">
+    <h2><span class="num">2</span> Como excluir sua conta pelo aplicativo</h2>
+    <p>Este é o método mais rápido. A exclusão é processada de forma imediata.</p>
+
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-text">
+          <strong>Abra o aplicativo Ore Por Mim</strong>
+          <span>Faça login com a sua conta Google, se ainda não estiver logado.</span>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-text">
+          <strong>Acesse as Configurações</strong>
+          <span>Na tela principal, toque no ícone de <em>engrenagem ⚙️</em> no canto superior direito.</span>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-text">
+          <strong>Role até "Zona de Perigo"</strong>
+          <span>Na parte inferior da tela de Configurações de Perfil, localize a seção em vermelho.</span>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-text">
+          <strong>Toque em "Excluir conta"</strong>
+          <span>Confirme a ação no diálogo de confirmação. A exclusão é <strong>irreversível</strong>.</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="danger-box">
+      ⚠️ Esta ação é irreversível. Após a confirmação, seus dados pessoais serão anonimizados imediatamente e você será desconectado.
+    </div>
+  </div>
+
+  <!-- 3. Como solicitar por e-mail -->
+  <div class="section">
+    <h2><span class="num">3</span> Como solicitar exclusão por e-mail</h2>
+    <p>
+      Caso não consiga acessar o aplicativo, envie um e-mail para
+      <strong>vrgames.app@gmail.com</strong> com o assunto
+      <strong>"Solicitação de exclusão de dados – Ore Por Mim"</strong>
+      e inclua:
+    </p>
+    <ul>
+      <li>O endereço de e-mail vinculado à sua conta Google no app.</li>
+      <li>Uma breve descrição do motivo (opcional).</li>
+    </ul>
+    <div class="highlight">
+      Prazo de atendimento: até <strong>15 dias úteis</strong> a partir do recebimento do e-mail,
+      conforme previsto pela LGPD.
+    </div>
+  </div>
+
+  <!-- 4. Dados excluídos e retidos -->
+  <div class="section">
+    <h2><span class="num">4</span> O que é excluído e o que é retido</h2>
+    <p>
+      Ao excluir sua conta, aplicamos a política de anonimização para preservar
+      o valor espiritual dos pedidos de oração compartilhados com a comunidade.
+    </p>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Tipo de dado</th>
+            <th>O que acontece</th>
+            <th>Prazo</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>E-mail</td>
+            <td class="tag-del">Excluído / anonimizado</td>
+            <td>Imediato</td>
+          </tr>
+          <tr>
+            <td>Nome e foto de perfil</td>
+            <td class="tag-del">Excluído / anonimizado</td>
+            <td>Imediato</td>
+          </tr>
+          <tr>
+            <td>Apelido (nickname)</td>
+            <td class="tag-del">Excluído / anonimizado</td>
+            <td>Imediato</td>
+          </tr>
+          <tr>
+            <td>Bio do perfil</td>
+            <td class="tag-del">Excluída</td>
+            <td>Imediato</td>
+          </tr>
+          <tr>
+            <td>Token FCM (notificações)</td>
+            <td class="tag-del">Excluído</td>
+            <td>Imediato</td>
+          </tr>
+          <tr>
+            <td>Usuários bloqueados</td>
+            <td class="tag-del">Excluído</td>
+            <td>Imediato</td>
+          </tr>
+          <tr>
+            <td>Pedidos de oração criados</td>
+            <td class="tag-keep">Retido de forma anônima</td>
+            <td>Indefinido (sem autoria)</td>
+          </tr>
+          <tr>
+            <td>Orações registradas por você</td>
+            <td class="tag-keep">Retido de forma anônima</td>
+            <td>Indefinido (sem autoria)</td>
+          </tr>
+          <tr>
+            <td>Comentários publicados</td>
+            <td class="tag-keep">Retido de forma anônima</td>
+            <td>Indefinido (sem autoria)</td>
+          </tr>
+          <tr>
+            <td>Logs de denúncias enviadas</td>
+            <td class="tag-keep">Retido para fins de segurança</td>
+            <td>Até 6 meses</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="highlight">
+      "Retido de forma anônima" significa que o conteúdo permanece na comunidade
+      sem qualquer vínculo com seu nome, e-mail ou foto — tornando-se impossível
+      rastreá-lo até você.
+    </div>
+  </div>
+
+  <!-- 5. Dados de terceiros -->
+  <div class="section">
+    <h2><span class="num">5</span> Dados em serviços de terceiros</h2>
+    <p>
+      O <strong>Ore Por Mim</strong> utiliza serviços externos cujos dados
+      são gerenciados pelas respectivas políticas:
+    </p>
+    <ul>
+      <li>
+        <strong>Google Firebase Authentication:</strong> o vínculo de autenticação
+        com sua conta Google é removido do nosso sistema imediatamente. Para revogar
+        completamente o acesso OAuth, acesse
+        <a href="https://myaccount.google.com/permissions" target="_blank" rel="noopener">
+          myaccount.google.com/permissions
+        </a>.
+      </li>
+      <li>
+        <strong>Firebase Cloud Messaging (FCM):</strong> o token de notificações
+        push é excluído dos nossos registros imediatamente.
+      </li>
+    </ul>
+  </div>
+
+  <!-- Contato -->
+  <div class="contact-card">
+    <h3>Dúvidas ou solicitações?</h3>
+    <p>Entre em contato com o desenvolvedor VR Games.</p>
+    <a href="mailto:vrgames.app@gmail.com?subject=Solicita%C3%A7%C3%A3o%20de%20exclus%C3%A3o%20de%20dados%20%E2%80%93%20Ore%20Por%20Mim">
+      vrgames.app@gmail.com
+    </a>
+  </div>
+
+</main>
+
+<footer>
+  <p>Ore Por Mim · VR Games · Atualizado em maio de 2026</p>
+  <p style="margin-top:6px;">
+    <a href="privacy_policy.html" style="color: var(--primary); text-decoration: none;">
+      Política de Privacidade
+    </a>
+  </p>
+</footer>
+
+</body>
+</html>
