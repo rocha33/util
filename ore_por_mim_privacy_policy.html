@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Política de Privacidade – Ore Por Mim</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --primary:   #4A6A58;
+      --primary-light: #e8f0ec;
+      --text:      #1a1a1a;
+      --muted:     #6b7280;
+      --border:    #e5e7eb;
+      --bg:        #f9fafb;
+      --card:      #ffffff;
+      --radius:    12px;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                   "Helvetica Neue", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--primary);
+      color: #fff;
+      padding: 40px 24px 32px;
+      text-align: center;
+    }
+    header .icon { font-size: 48px; display: block; margin-bottom: 12px; }
+    header h1 {
+      font-size: clamp(1.5rem, 4vw, 2rem);
+      font-weight: 700;
+      letter-spacing: -0.3px;
+    }
+    header p {
+      margin-top: 8px;
+      font-size: 0.9rem;
+      opacity: 0.85;
+    }
+
+    /* ── Layout ── */
+    main {
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 32px 20px 60px;
+    }
+
+    /* ── Badge ── */
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 32px;
+    }
+    .badge {
+      background: var(--primary-light);
+      color: var(--primary);
+      border-radius: 999px;
+      padding: 5px 14px;
+      font-size: 0.8rem;
+      font-weight: 600;
+    }
+
+    /* ── Section cards ── */
+    .section {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 28px;
+      margin-bottom: 18px;
+      transition: box-shadow 0.15s;
+    }
+    .section:hover { box-shadow: 0 4px 18px rgba(74,106,88,.10); }
+
+    .section h2 {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--primary);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .section h2 .num {
+      background: var(--primary);
+      color: #fff;
+      border-radius: 50%;
+      width: 24px;
+      height: 24px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.75rem;
+      flex-shrink: 0;
+    }
+
+    .section p, .section ul { font-size: 0.93rem; color: #374151; }
+    .section p + p { margin-top: 10px; }
+
+    .section ul {
+      list-style: none;
+      margin-top: 8px;
+    }
+    .section ul li {
+      padding: 5px 0 5px 20px;
+      position: relative;
+    }
+    .section ul li::before {
+      content: "•";
+      color: var(--primary);
+      font-weight: 700;
+      position: absolute;
+      left: 4px;
+    }
+
+    /* highlight box */
+    .highlight {
+      background: var(--primary-light);
+      border-left: 4px solid var(--primary);
+      border-radius: 0 8px 8px 0;
+      padding: 12px 16px;
+      margin-top: 12px;
+      font-size: 0.88rem;
+      color: var(--primary);
+      font-weight: 500;
+    }
+
+    /* ── Table ── */
+    .table-wrap { overflow-x: auto; margin-top: 14px; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+    }
+    thead tr { background: var(--primary-light); }
+    thead th {
+      text-align: left;
+      padding: 10px 14px;
+      color: var(--primary);
+      font-weight: 700;
+    }
+    tbody tr:nth-child(odd) { background: #f8fafc; }
+    tbody td { padding: 9px 14px; color: #374151; vertical-align: top; }
+
+    /* ── Contact card ── */
+    .contact-card {
+      background: var(--primary);
+      color: #fff;
+      border-radius: var(--radius);
+      padding: 24px 28px;
+      text-align: center;
+      margin-bottom: 18px;
+    }
+    .contact-card h2 { font-size: 1.05rem; margin-bottom: 8px; }
+    .contact-card a {
+      color: #b3ffcd;
+      font-weight: 600;
+      text-decoration: none;
+      font-size: 1rem;
+    }
+    .contact-card a:hover { text-decoration: underline; }
+    .contact-card p { font-size: 0.85rem; opacity: 0.85; margin-top: 6px; }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      padding: 24px;
+      font-size: 0.8rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 480px) {
+      .section { padding: 18px 16px; }
+      header { padding: 28px 16px 22px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <span class="icon">🙏</span>
+  <h1>Política de Privacidade</h1>
+  <p>Ore Por Mim &nbsp;·&nbsp; Última atualização: maio de 2026</p>
+</header>
+
+<main>
+
+  <!-- Badges -->
+  <div class="badge-row">
+    <span class="badge">✅ Conformidade LGPD</span>
+    <span class="badge">🔒 Dados protegidos</span>
+    <span class="badge">🚫 Sem publicidade</span>
+    <span class="badge">🗑️ Exclusão garantida</span>
+  </div>
+
+  <!-- 1. Quem somos -->
+  <div class="section">
+    <h2><span class="num">1</span> Quem somos</h2>
+    <p>
+      O aplicativo <strong>Ore Por Mim</strong> é um serviço gratuito de comunidade de oração,
+      desenvolvido de forma independente. Neste documento, os termos <em>"nós"</em>,
+      <em>"nosso"</em> ou <em>"Ore Por Mim"</em> referem-se ao responsável pelo tratamento
+      dos seus dados pessoais.
+    </p>
+    <p>Identificador do aplicativo: <code>vr.orepomim.com</code></p>
+  </div>
+
+  <!-- 2. Dados coletados -->
+  <div class="section">
+    <h2><span class="num">2</span> Dados pessoais que coletamos</h2>
+    <p><strong>Ao realizar login com a conta Google, coletamos automaticamente:</strong></p>
+    <ul>
+      <li>Endereço de e-mail</li>
+      <li>Nome de exibição (<em>display name</em>)</li>
+      <li>URL da foto de perfil fornecida pelo Google</li>
+      <li>Token FCM (Firebase Cloud Messaging) para envio de notificações push</li>
+    </ul>
+    <p style="margin-top:12px"><strong>Dados que você fornece durante o uso do app:</strong></p>
+    <ul>
+      <li>Apelido (<em>nickname</em>) e biografia do perfil</li>
+      <li>Pedidos de oração e mensagens de agradecimento</li>
+      <li>Mensagens de oração em pedidos de outros usuários</li>
+      <li>Relações de seguidor/seguindo entre usuários</li>
+    </ul>
+    <div class="highlight">
+      Pedidos de oração podem ser enviados de forma anônima — nesse caso, seu nome
+      não é exibido publicamente para os demais usuários.
+    </div>
+  </div>
+
+  <!-- 3. Finalidade -->
+  <div class="section">
+    <h2><span class="num">3</span> Finalidade do tratamento</h2>
+    <p>Tratamos seus dados pessoais exclusivamente para:</p>
+    <ul>
+      <li>Autenticar sua identidade e manter sua sessão ativa com segurança</li>
+      <li>Exibir seu perfil na comunidade de oração</li>
+      <li>Enviar notificações push sobre atividades relevantes (respostas, agradecimentos)</li>
+      <li>Permitir que outros usuários orem pelos seus pedidos</li>
+      <li>Garantir a segurança e integridade do serviço</li>
+    </ul>
+    <div class="highlight">
+      Seus dados <strong>não são usados para fins publicitários</strong>, não são
+      vendidos e não são compartilhados com terceiros para finalidades comerciais.
+    </div>
+  </div>
+
+  <!-- 4. Base legal LGPD -->
+  <div class="section">
+    <h2><span class="num">4</span> Base legal (LGPD – Lei nº 13.709/2018)</h2>
+    <p>O tratamento dos seus dados é realizado com base nas seguintes hipóteses legais:</p>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Base legal</th>
+            <th>Aplicação</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Consentimento</strong><br><small>Art. 7º, I</small></td>
+            <td>Você autoriza expressamente a coleta dos dados ao aceitar esta política e realizar o login.</td>
+          </tr>
+          <tr>
+            <td><strong>Execução de contrato</strong><br><small>Art. 7º, V</small></td>
+            <td>Alguns dados são estritamente necessários para prestar o serviço solicitado por você.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- 5. Compartilhamento -->
+  <div class="section">
+    <h2><span class="num">5</span> Compartilhamento de dados</h2>
+    <p>
+      Seus dados são processados pelos seguintes serviços de terceiros, estritamente
+      necessários para o funcionamento do app:
+    </p>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>Serviço</th><th>Finalidade</th><th>Política</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Google Firebase Authentication</td>
+            <td>Autenticação segura via conta Google</td>
+            <td><a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">Ver política</a></td>
+          </tr>
+          <tr>
+            <td>Google Firebase Cloud Messaging</td>
+            <td>Notificações push</td>
+            <td><a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">Ver política</a></td>
+          </tr>
+          <tr>
+            <td>Hostinger (servidor de hospedagem)</td>
+            <td>Armazenamento dos dados do aplicativo</td>
+            <td><a href="https://www.hostinger.com.br/politica-de-privacidade" target="_blank" rel="noopener">Ver política</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p style="margin-top:12px">
+      Não vendemos, alugamos nem compartilhamos seus dados pessoais com quaisquer
+      outras partes além das listadas acima.
+    </p>
+  </div>
+
+  <!-- 6. Direitos LGPD -->
+  <div class="section">
+    <h2><span class="num">6</span> Seus direitos (LGPD, Art. 18)</h2>
+    <p>Você tem os seguintes direitos sobre seus dados pessoais:</p>
+    <ul>
+      <li><strong>Confirmação e acesso:</strong> saber se tratamos seus dados e acessar o que temos.</li>
+      <li><strong>Correção:</strong> corrigir dados incompletos ou desatualizados via configurações do perfil.</li>
+      <li><strong>Exclusão:</strong> solicitar a exclusão completa dos seus dados — disponível diretamente em <em>Configurações → Desativar conta</em>.</li>
+      <li><strong>Revogação do consentimento:</strong> você pode revogar a qualquer momento desativando sua conta.</li>
+      <li><strong>Portabilidade:</strong> solicitar seus dados em formato estruturado e legível.</li>
+      <li><strong>Oposição:</strong> se opor ao tratamento com base em interesse legítimo.</li>
+    </ul>
+    <div class="highlight">
+      Para exercer esses direitos, acesse <strong>Configurações do app</strong> ou
+      entre em contato pelo e-mail indicado ao final desta política.
+    </div>
+  </div>
+
+  <!-- 7. Retenção -->
+  <div class="section">
+    <h2><span class="num">7</span> Retenção dos dados</h2>
+    <p>
+      Seus dados são mantidos enquanto sua conta estiver ativa. Ao utilizar a opção
+      <strong>"Desativar conta"</strong> nas configurações do app:
+    </p>
+    <ul>
+      <li>Os dados pessoais identificáveis (e-mail, nome, foto de perfil) são <strong>anonimizados imediatamente</strong>.</li>
+      <li>O token de notificação (FCM) é excluído imediatamente.</li>
+      <li>Os dados armazenados localmente no dispositivo (preferências, cache) são removidos.</li>
+      <li>O aceite desta política é apagado, exigindo novo consentimento em eventual novo cadastro.</li>
+    </ul>
+  </div>
+
+  <!-- 8. Segurança -->
+  <div class="section">
+    <h2><span class="num">8</span> Segurança</h2>
+    <p>Adotamos as seguintes medidas técnicas para proteger seus dados:</p>
+    <ul>
+      <li>Autenticação via tokens JWT verificados com as chaves públicas do Google</li>
+      <li>Comunicação exclusiva via <strong>HTTPS</strong> (TLS)</li>
+      <li>Consultas ao banco de dados com <em>prepared statements</em> (proteção contra SQL Injection)</li>
+      <li>Sanitização e validação de todas as entradas de usuário</li>
+      <li>Rate limiting nas requisições da API para prevenir abusos</li>
+    </ul>
+  </div>
+
+  <!-- 9. Armazenamento local -->
+  <div class="section">
+    <h2><span class="num">9</span> Armazenamento local no dispositivo</h2>
+    <p>O app armazena localmente, <strong>apenas no seu dispositivo</strong>, os seguintes dados:</p>
+    <ul>
+      <li>Preferência de notificações (ativadas/desativadas)</li>
+      <li>Apelido em cache (para exibição rápida)</li>
+      <li>Indicador de onboarding concluído</li>
+      <li>Aceite desta política de privacidade</li>
+    </ul>
+    <p style="margin-top:10px">Esses dados não são transmitidos a terceiros e permanecem apenas no seu aparelho.</p>
+  </div>
+
+  <!-- 10. Crianças -->
+  <div class="section">
+    <h2><span class="num">10</span> Crianças e adolescentes</h2>
+    <p>
+      O <strong>Ore Por Mim</strong> não é direcionado a menores de 13 anos.
+      Não coletamos intencionalmente dados pessoais de crianças. Caso identifique
+      que uma criança forneceu dados sem consentimento dos responsáveis, entre em
+      contato conosco para que possamos excluí-los imediatamente.
+    </p>
+  </div>
+
+  <!-- 11. Alterações -->
+  <div class="section">
+    <h2><span class="num">11</span> Alterações desta política</h2>
+    <p>
+      Podemos atualizar esta Política de Privacidade periodicamente. Notificaremos
+      você sobre alterações relevantes por meio do próprio aplicativo. O uso
+      continuado do app após a notificação implica aceitação das mudanças.
+    </p>
+    <p>A data da última revisão está indicada no topo desta página.</p>
+  </div>
+
+  <!-- Contato -->
+  <div class="contact-card">
+    <h2>📬 Entre em contato</h2>
+    <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a>
+    <p>
+      Dúvidas, solicitações de acesso, correção ou exclusão de dados conforme
+      a LGPD? Envie um e-mail e responderemos em até 15 dias úteis.
+    </p>
+  </div>
+
+</main>
+
+<footer>
+  &copy; 2026 Ore Por Mim &nbsp;·&nbsp; Todos os direitos reservados &nbsp;·&nbsp;
+  Desenvolvido de forma independente
+</footer>
+
+</body>
+</html>
