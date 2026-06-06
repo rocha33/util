@@ -267,7 +267,7 @@
     },
     {
         "channelName": "SBT (alter)",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=sbt",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=sbt",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -365,7 +365,7 @@
     },
     {
         "channelName": "TELE CINE PIPOCA HD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=telecinepipoca",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=telecinepipoca",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -547,7 +547,7 @@
     },
     {
         "channelName": "CARTOON NETWORK HD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=cartoonnetwork",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=cartoonnetwork",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -631,7 +631,7 @@
     },
     {
         "channelName": "CNN BRASIL",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=cnnbrasil",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=cnnbrasil",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -673,7 +673,7 @@
     },
     {
         "channelName": "BAND NEWS",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=bandnews",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=bandnews",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -701,7 +701,7 @@
     },
     {
         "channelName": "GLOBO RIO SD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=globorj",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=globorj",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -743,7 +743,7 @@
     },
     {
         "channelName": "GLOBO SP HD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=globosp",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=globosp",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -855,7 +855,7 @@
     },
     {
         "channelName": "GLOBO NEWS HD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=globonews",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=globonews",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -869,7 +869,7 @@
     },
     {
         "channelName": "Chespirito",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=24h-chaves",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=24h-chaves",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -953,7 +953,7 @@
     },
     {
         "channelName": "SPORTV SD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=sportv",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=sportv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -967,7 +967,7 @@
     },
     {
         "channelName": "SPORTV HD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=sportv",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=sportv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -995,7 +995,7 @@
     },
     {
         "channelName": "SPORTV 2 HD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=sportv2",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=sportv2",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1009,7 +1009,7 @@
     },
     {
         "channelName": "SPORTV 3 HD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=sportv3",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=sportv3",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1051,7 +1051,7 @@
     },
     {
         "channelName": "TNT Novelas HD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=tntnovelas",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=tntnovelas",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1149,7 +1149,7 @@
     },
     {
         "channelName": "GLOBO NOVELAS SD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=globoplaynovelas",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=globoplaynovelas",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1191,7 +1191,7 @@
     },
     {
         "channelName": "History HD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=history",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=history",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1219,7 +1219,7 @@
     },
     {
         "channelName": "History 2",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=history2",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=history2",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1261,7 +1261,7 @@
     },
     {
         "channelName": "HBO 2 HD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=hbo2",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=hbo2",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1289,7 +1289,7 @@
     },
     {
         "channelName": "HBO XTREME",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=hboxtreme",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=hboxtreme",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1317,7 +1317,7 @@
     },
     {
         "channelName": "MTV",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=mtv",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=mtv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -1373,7 +1373,7 @@
     },
     {
         "channelName": "TODO MUNDO ODEIA O CRIS Op 2",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=24h-todo-mundo-odeia-o-chris",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=24h-todo-mundo-odeia-o-chris",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -1387,7 +1387,7 @@
     },
     {
         "channelName": "GNT",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=gnt",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=gnt",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1429,7 +1429,7 @@
     },
     {
         "channelName": "ESPN",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=espn",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=espn",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1527,7 +1527,7 @@
     },
     {
         "channelName": "ESPN 3 HD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=espn3",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=espn3",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1555,7 +1555,7 @@
     },
     {
         "channelName": "ESPN 4",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=espn4",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=espn4",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1583,7 +1583,7 @@
     },
     {
         "channelName": "ESPN 4 SD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=espn4",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=espn4",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1597,7 +1597,7 @@
     },
     {
         "channelName": "X SPORTS",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=xsports",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=xsports",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1639,7 +1639,7 @@
     },
     {
         "channelName": "AXN",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=axn",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=axn",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1709,7 +1709,7 @@
     },
     {
         "channelName": "ANIMAL PLANET",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=animalplanet",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=animalplanet",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1751,7 +1751,7 @@
     },
     {
         "channelName": "WARNER BROS SD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=warnerchannel",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=warnerchannel",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1779,7 +1779,7 @@
     },
     {
         "channelName": "MULTISHOW HD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=multishow",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=multishow",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -1835,7 +1835,7 @@
     },
     {
         "channelName": "Premieres Clubes SD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=premiere",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=premiere",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1877,7 +1877,7 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL HD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=discoverychannel",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=discoverychannel",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1905,7 +1905,7 @@
     },
     {
         "channelName": "STUDIO UNIVERSAL",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=studiouniversal",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=studiouniversal",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1933,7 +1933,7 @@
     },
     {
         "channelName": "STUDIO UNIVERSAL SD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=studiouniversal",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=studiouniversal",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1975,7 +1975,7 @@
     },
     {
         "channelName": "BIS",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=bis",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=bis",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -1989,7 +1989,7 @@
     },
     {
         "channelName": "BIS SD",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=bis",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=bis",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -2003,7 +2003,7 @@
     },   
      {
         "channelName": "GETV",
-        "link": "https://redecanaistv.be/player3/ch.php?canal=getv",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=getv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
