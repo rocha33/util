@@ -743,12 +743,12 @@
     },
     {
         "channelName": "GLOBO NORDESTE",
-        "link": "https://iframe.embedtv.lat/globope",
+        "link": "https://redecanaistv.fyi/player3/ch.php?canal=bobonordeste",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://iframe.embedtv.lat/",
+        "referrer": "https://redecanaistv.fyi/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/globorj.png",
@@ -799,7 +799,7 @@
     },
     {
         "channelName": "GLOBO BA",
-        "link": "https://rdcanais.top/globoba",
+        "link": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -809,7 +809,7 @@
         "contaisToken": 0,
         "urlImagem": "https://embedtv.best/assets/images/globorj.png",
         "pausado": 0,
-        "webView": 1
+        "webView": 0
     },
     {
         "channelName": "GLOBO RS",
@@ -1120,7 +1120,7 @@
         "webView": 1
     },
     {
-        "channelName": "Gobo Novelas",
+        "channelName": "Globo Novelas",
         "link": "https://10embeddecanais.xyz/globoplaynovelas/",
         "ativo": 0,
         "contactpage": "",
@@ -1803,7 +1803,7 @@
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/megapix@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "MEGAPIX SD",
