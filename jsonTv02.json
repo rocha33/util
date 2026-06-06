@@ -715,7 +715,7 @@
     },
     {
         "channelName": "GLOBO SP",
-        "link": "https://10embeddecanais.xyz/globosp",
+        "link": "https://10embeddecanais.xyz/globosp/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -813,7 +813,7 @@
     },
     {
         "channelName": "GLOBO RS",
-        "link": "https://10embeddecanais.xyz/globors",
+        "link": "https://10embeddecanais.xyz/globors/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1065,7 +1065,7 @@
     },
     {
         "channelName": "TNT Series",
-        "link": "https://10embeddecanais.xyz/tntseries",
+        "link": "https://10embeddecanais.xyz/tntseries/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1332,7 +1332,7 @@
     },
     {
         "channelName": "MTV SD",
-        "link": "https://10embeddecanais.xyz/mtv",
+        "link": "https://10embeddecanais.xyz/mtv/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -1472,7 +1472,7 @@
     },
     {
         "channelName": "ESPN 2",
-        "link": "https://10embeddecanais.xyz/espn2",
+        "link": "https://10embeddecanais.xyz/espn2/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1514,7 +1514,7 @@
     },
     {
         "channelName": "ESPN 3",
-        "link": "https://10embeddecanais.xyz/espn3", 
+        "link": "https://10embeddecanais.xyz/espn3/", 
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
