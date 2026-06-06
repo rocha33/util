@@ -785,7 +785,7 @@
     },
     {
         "channelName": "GLOBO BRASILIA",
-        "link": "https://10embeddecanais.xyz/globodf",
+        "link": "https://10embeddecanais.xyz/globodf/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -1800,11 +1800,11 @@
         "categoria": "filmes",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://p2player.live/",
-        "isEmbed": 1,
+        "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/megapix@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "MEGAPIX",
