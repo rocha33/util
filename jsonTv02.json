@@ -1261,17 +1261,17 @@
     },
     {
         "channelName": "HBO 2 SD",
-        "link": "http://vrpro.fun:80/vennxz3n0p01/gold81500/784727.ts",
+        "link": "https://10embeddecanais.xyz/hbo2/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
-        "userAgent": "",
-        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://10embeddecanais.xyz/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png",
         "pausado": 0,
-        "webView": 0
+        "webView": 1
     },
     {
         "channelName": "HBO XTREME",
@@ -1281,6 +1281,20 @@
         "categoria": "filmes",
         "userAgent": "",
         "referrer": "https://redecanaistv.be/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-xtreme@3x.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "HBO XTREME SD",
+        "link": "https://10embeddecanais.xyz/hboxtreme/",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent": "",
+        "referrer": "https://10embeddecanais.xyz/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-xtreme@3x.png",
@@ -1301,6 +1315,7 @@
         "pausado": 0,
         "webView": 1
     },
+    
     {
         "channelName": "MTV",
         "link": "https://redecanaistv.fyi/player3/ch.php?canal=mtv",
@@ -2012,6 +2027,20 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://embedcanaisdetv.com/images/getv.png",
+        "pausado": 0,
+        "webView": 1
+    },
+      {
+        "channelName": "TOP TV",
+        "link": "https://canais.free.nf/player/toptv.html?i=1",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "musical",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://redecanaistv.be/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pt.wikipedia.org/wiki/Top_TV#/media/Ficheiro:Top_TV_logo.svg",
         "pausado": 0,
         "webView": 1
     }
