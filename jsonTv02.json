@@ -1794,7 +1794,7 @@
     },
     {
         "channelName": "WARNER BROS SD",
-        "link": "https://redecanaistv.wales/player3/ch.php?canal=warnerchannel",
+        "link": "https://redecanaistv.wales/player3/ch.php?categoria=live&canal=warner",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1974,7 +1974,20 @@
         "pausado": 0,
         "webView": 1
     },
-   
+    {
+        "channelName": "DISCOVERY SIENCE SD",
+        "link": "https://www3.embedtv.lat/discoveryscience",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://www3.embedtv.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/discovery-science.svg",
+        "pausado": 0,
+        "webView": 1
+    },   
     {
         "channelName": "STUDIO UNIVERSAL",
         "link": "https://redecanaistv.wales/player3/ch.php?canal=studiouniversal",
