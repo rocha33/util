@@ -68,7 +68,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0,
         "webView": 1
-    },    
+    },
     {
         "channelName": "RECORD BA",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/28783",
@@ -222,7 +222,7 @@
         "urlImagem": "https://api.reidoscanais.io/img/sbtnews.png",
         "pausado": 0,
         "webView": 1
-    },    
+    },
     {
         "channelName": "SBT News SD",
         "link": "https://dai.google.com/linear/hls/pa/event/xeOYqkegRUyawPuCPaN2Rw/stream/c6b8b00c-b4f3-47b7-8f80-b03a9544efe4:SCL2/variant/c99d2ab0d64c3b2c5e12915279ff25a7/bandwidth/3126348.m3u8",
@@ -337,7 +337,7 @@
     },
     {
         "channelName": "TELE CINE ACTION HD",
-        "link": "https://nossoplayeronlinehd.ink/tv/telecineaction", 
+        "link": "https://nossoplayeronlinehd.ink/tv/telecineaction",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -376,7 +376,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "TV Aparecida",
         "link": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8",
@@ -1301,7 +1301,7 @@
         "pausado": 0,
         "webView": 1
     },
-     {
+    {
         "channelName": "HBO XTREME HD",
         "link": "https://rdcanais.top/hboxtreme",
         "ativo": 0,
@@ -1315,7 +1315,6 @@
         "pausado": 0,
         "webView": 1
     },
-    
     {
         "channelName": "MTV",
         "link": "https://redecanaistv.wales/player3/ch.php?canal=mtv",
@@ -1528,7 +1527,7 @@
     },
     {
         "channelName": "ESPN 3",
-        "link": "https://10embeddecanais.xyz/espn3/", 
+        "link": "https://10embeddecanais.xyz/espn3/",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1567,8 +1566,8 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png",
         "pausado": 0,
         "webView": 0
-    },    
-     {
+    },
+    {
         "channelName": "ESPN 4",
         "link": "https://rdcanais.top/espn4",
         "ativo": 0,
@@ -1595,8 +1594,8 @@
         "urlImagem": "https://embedtv.best/assets/images/espn4.png",
         "pausado": 0,
         "webView": 1
-    },   
-     {
+    },
+    {
         "channelName": "ESPN 5 HD",
         "link": "https://redecanaistv.wales/player3/ch.php?canal=espn5",
         "ativo": 0,
@@ -1609,8 +1608,8 @@
         "urlImagem": "https://embedtv.best/assets/images/espn5.png",
         "pausado": 0,
         "webView": 1
-    },  
-      {
+    },
+    {
         "channelName": "ESPN 5 SD",
         "link": "https://rdcanais.top/espn5",
         "ativo": 0,
@@ -1623,8 +1622,8 @@
         "urlImagem": "https://embedtv.best/assets/images/espn5.png",
         "pausado": 0,
         "webView": 1
-    },   
-       {
+    },
+    {
         "channelName": "ESPN 5",
         "link": "https://nossoplayeronlinehd.ink/tv/espn5",
         "ativo": 0,
@@ -1637,7 +1636,7 @@
         "urlImagem": "https://embedtv.best/assets/images/espn5.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "X SPORTS",
         "link": "https://redecanaistv.wales/player3/ch.php?canal=xsports",
@@ -1834,7 +1833,7 @@
         "pausado": 0,
         "webView": 1
     },
-      {
+    {
         "channelName": "MULTISHOW SD",
         "link": "https://www3.embedtv.lat/multishow",
         "ativo": 0,
@@ -2015,7 +2014,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/discovery-science.svg",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "STUDIO UNIVERSAL",
         "link": "https://redecanaistv.wales/player3/ch.php?canal=studiouniversal",
@@ -2113,8 +2112,8 @@
         "urlImagem": "https://api.reidoscanais.io/img/bis.png",
         "pausado": 0,
         "webView": 1
-    },   
-     {
+    },
+    {
         "channelName": "GETV",
         "link": "https://redecanaistv.wales/player3/ch.php?canal=getv",
         "ativo": 0,
@@ -2128,7 +2127,7 @@
         "pausado": 0,
         "webView": 1
     },
-      {
+    {
         "channelName": "TOP TV",
         "link": "https://canais.free.nf/player/toptv.html?i=1",
         "ativo": 0,
