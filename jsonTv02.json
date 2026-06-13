@@ -1751,6 +1751,20 @@
         "webView": 1
     },
     {
+        "channelName": "AMC SD",
+        "link": "https://www3.embedtv.lat/amc",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://www3.embedtv.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/amc@3x.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
         "channelName": "ANIMAL PLANET",
         "link": "https://redecanaistv.wales/player3/ch.php?canal=animalplanet",
         "ativo": 0,
@@ -1814,6 +1828,20 @@
         "categoria": "musical",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
         "referrer": "https://embedtvonline.com/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/multishow@3x.png",
+        "pausado": 0,
+        "webView": 1
+    },
+      {
+        "channelName": "MULTISHOW SD",
+        "link": "https://www3.embedtv.lat/multishow",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "musical",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://www3.embedtv.lat/",
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/multishow@3x.png",
