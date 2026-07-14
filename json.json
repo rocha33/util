@@ -1,55 +1,380 @@
-[{"nomeAudio": "Chuva com trovões", "NomeAudioIngles": "Rain with thunder", "tipo":"sleep", "link":"https://onedrive.live.com/download?resid=1CD9497B8250EE35%218773&authkey=!AKQj-AxoUtH4U1o", "idAudio":  "01"},
-      {"nomeAudio":  "Chuva forte com trovões", "NomeAudioIngles": "Heavy rain with thunder","tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%218814&authkey=!AIl_h90B0lCa5t0", "idAudio":  "02"},
-      {"nomeAudio":  "Chuva parque", "NomeAudioIngles": "Park rain", "tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110453&authkey=!AK-OU7Q0tz4nb90", "idAudio":  "03"},
-      {"nomeAudio":  "Chuva forte no telhado", "NomeAudioIngles": "Heavy rain on the roof", "tipo":"sleep",  "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110458&authkey=!AEvoS_7Y4pHmhbE", "idAudio":  "04"},
-      {"nomeAudio":  "Vença insônia chuva forte", "NomeAudioIngles": "Beat insomnia heavy rain", "tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110495&authkey=!AM6MENdSfhj9AEI", "idAudio":  "05"},
-      {"nomeAudio":  "Sono profundo chuva forte", "NomeAudioIngles": "Deep sleep heavy rain", "tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110494&authkey=!AB2s7ExAOOFguW8", "idAudio":  "06"},
-      {"nomeAudio":  "Chuva leve sem trovões", "NomeAudioIngles": "Light rain without thunder", "tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110449&authkey=!AHBhrasqJvvNEU4", "idAudio":  "07"},
-      {"nomeAudio":  "Chuva Nas Telhas De Barro", "NomeAudioIngles": "Rain on Clay Tiles", "tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110452&authkey=!AFPPfPVnkFUzUis", "idAudio":  "08"},
-      {"nomeAudio":  "Chuva leve nas folhas", "NomeAudioIngles": "Light rain on the leaves", "tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110447&authkey=!AKFuJV5od73sxUk", "idAudio":  "09"},
-      {"nomeAudio":  "Chuva na barraca", "NomeAudioIngles": "Rain on the tent", "tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110448&authkey=!ADCUUHjEobjzBNk", "idAudio":  "10"},
-      {"nomeAudio":  "Chuva forte na barraca", "NomeAudioIngles": "Heavy rain on the tent", "tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110496&authkey=!AFT0_7EYjdtVY9k", "idAudio":  "11"},
-      {"nomeAudio":  "Chuva calma com goteiras", "NomeAudioIngles": "Calm rain with drips", "tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%218772&authkey=!AK5UkpzKGkbxTxA", "idAudio":  "12"},
-      {"nomeAudio":  "Chuva Goteira Na Lata 8D", "NomeAudioIngles": "Rain Drips On Can 8D","tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%216917&authkey=!AAl_Tr1FiYUldS4", "idAudio":  "13"},
-      {"nomeAudio":  "Chuva no rio", "NomeAudioIngles": "Rain on the river","tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110451&authkey=!AOhulRMCWOUkD4Q", "idAudio":  "14"},
-      {"nomeAudio":  "Piano ninar durma em 3 minutos", "NomeAudioIngles": "Lullaby piano, sleep in 3 minutes", "tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110481&authkey=!AIbety-vYgvdcag", "idAudio":  "15"},
-      {"nomeAudio":  "Piano acalmar a mente", "NomeAudioIngles": "Piano calm the mind", "tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110478&authkey=!AHrKqnCvhsOi2RA", "idAudio":  "16"},
-      {"nomeAudio":  "Piano calma coleção", "NomeAudioIngles": "Piano calm collection", "tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110482&authkey=!AKo8fL2DpeOD2Vk", "idAudio":  "17"},
-      {"nomeAudio":  "Piano cura insonia coleção", "NomeAudioIngles": "Piano cures insomnia collection", "tipo":"sleep", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110483&authkey=!AJ7jTC5kh1CdIc4", "idAudio":  "18"},
-      {"nomeAudio":  "Som do Mar para Relaxar", "NomeAudioIngles": "Sound of the Sea to Relax", "tipo":"relax", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110490&authkey=!AB1uhb8bdtb04iw", "idAudio":  "19"},
-      {"nomeAudio":  "Lareira relaxante", "NomeAudioIngles": "Relaxing fireplace", "tipo":"relax", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110467&authkey=!AJ4h-_mCC9l2NaU", "idAudio":  "20"},
-      {"nomeAudio":  "Piano relaxamento profundo", "NomeAudioIngles": "Piano deep relaxation", "tipo":"relax", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110484&authkey=!AORwmfK81l9vwag", "idAudio":  "21"},
-      {"nomeAudio":  "Piano melhora o humor", "NomeAudioIngles": "Piano improves mood", "tipo":"relax", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110480&authkey=!AMUEe5z05HGcYNI", "idAudio":  "22"},
-      {"nomeAudio":  "Piano super calma", "NomeAudioIngles": "Super calm piano", "tipo":"relax", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110486&authkey=!AFNzwmD4fqjffY8", "idAudio":  "23"},
-      {"nomeAudio":  "Piano que toca a alma", "NomeAudioIngles": "Piano that touches the soul", "tipo":"relax", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110485&authkey=!ANjPpAo0vSFOSR8", "idAudio":  "24"},
-      {"nomeAudio":  "Piano você é amado", "NomeAudioIngles": "Piano you are loved", "tipo":"relax", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110479&authkey=!ABDHzjvvA9oQKXg", "idAudio":  "25"},
-      {"nomeAudio":  "Natureza floresta passáros", "NomeAudioIngles": "Nature forest birds", "tipo":"relax", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110475&authkey=!ACcOl-50Y1e5DqI", "idAudio":  "26"},
-      {"nomeAudio":  "Violão relaxante", "NomeAudioIngles": "Relaxing guitar", "tipo":"relax", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110489&authkey=!ABicLvyHCjvs7Kw", "idAudio":  "27"},
-      {"nomeAudio":  "Estudar e Manter o Foco", "NomeAudioIngles": "Study and Stay Focused", "tipo":"focus", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110463&authkey=!AJX8bEu-x41cgIU", "idAudio":  "28"},
-      {"nomeAudio":  "Super foco", "NomeAudioIngles": "Super focus", "tipo":"focus", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110493&authkey=!ADw6IJ6in8PX93Y", "idAudio":  "29"},
-      {"nomeAudio":  "Acima do planeta", "NomeAudioIngles": "Above the planet", "tipo":"focus", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110456&authkey=!AH_8-mYb73blVwo", "idAudio":  "30"},
-      {"nomeAudio":  "Longe", "NomeAudioIngles": "Far away", "tipo":"focus", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110468&authkey=!AOSkFdLMe7UGb_w", "idAudio":  "31"},
-      {"nomeAudio":  "Ondulações de água", "NomeAudioIngles": "Water ripples", "tipo":"focus", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110477&authkey=!APs3vp_a8ebmdNI", "idAudio":  "32"},
-      {"nomeAudio":  "Jazz café coleção", "NomeAudioIngles": "Jazz coffe collection", "tipo":"focus", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110469&authkey=!AE_SpXzEgzZCFVA", "idAudio":  "33"},
-      {"nomeAudio":  "Orquestral inspiradora", "NomeAudioIngles": "Inspirational Orchestral", "tipo":"focus", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110465&authkey=!AEQoQW2Fp2zqUTc", "idAudio":  "34"},
-      {"nomeAudio":  "Na zona focus", "NomeAudioIngles": "In the focus zone", "tipo":"focus", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110473&authkey=!AG0esrtmbWOdDhk", "idAudio":  "35"},
-      {"nomeAudio":  "Sessão da meia-noite", "NomeAudioIngles": "Midnight Session", "tipo":"focus", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110470&authkey=!AOpoWzeJ5l2kF_Y", "idAudio":  "36"},
-      {"nomeAudio":  "Almoço", "NomeAudioIngles": "Lunch", "tipo":"focus", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110464&authkey=!AIZ8jWWN0oMteyI", "idAudio":  "37"},
-      {"nomeAudio":  "Meditação do nascer do sol", "NomeAudioIngles": "Sunrise meditation", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110471&authkey=!AHhpGSm0IXs885A", "idAudio":  "38"},
-      {"nomeAudio":  "Paciência", "NomeAudioIngles": "Patience", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110472&authkey=!ALSj_ctyBwFdHi8", "idAudio":  "39"},
-      {"nomeAudio":  "Flauta e Tabla relaxante", "NomeAudioIngles": "Relaxing Flute and Tabla", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110462&authkey=!APcd-PHvO6g6xns", "idAudio":  "40"},
-      {"nomeAudio":  "Oceano de pensamentos", "NomeAudioIngles": "Ocean of thoughts", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110474&authkey=!ANpKIEx4T-4LgQ0", "idAudio":  "41"},
-      {"nomeAudio":  "Elimine o Estresse Ansiedade", "NomeAudioIngles": "Eliminate Stress Anxiety", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110461&authkey=!AO9an59OXStydOo", "idAudio":  "42"},
-      {"nomeAudio":  "Cura ansiedade", "NomeAudioIngles": "Cure anxiety", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110450&authkey=!AJYpRhyU42_PRWg", "idAudio":  "43"},
-      {"nomeAudio":  "Som do silêncio", "NomeAudioIngles": "Sound Of Silence", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110492&authkey=!ADVVF6a_HZXtwq4f", "idAudio":  "44"},
-      {"nomeAudio":  "Apenas acredite", "NomeAudioIngles": "Just Believe", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110466&authkey=!ABTLSVteWLlGPVI", "idAudio":  "45"},
-      {"nomeAudio":  "Ondas do mar acalmar", "NomeAudioIngles": "Sea waves calm", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110476&authkey=!AE-9HQB9OAqDUpE", "idAudio":  "46"},
-      {"nomeAudio":  "Rio calmante", "NomeAudioIngles": "Calming river", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110487&authkey=!AEbYcNeFAaIG94I", "idAudio":  "47"},
-      {"nomeAudio":  "Águas rolando no riacho", "NomeAudioIngles": "Waters rolling in the stream", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110459&authkey=!ANMA9NwnOIOwQHc", "idAudio":  "48"},
-      {"nomeAudio":  "432Hz- Alfa Ondas Curam o Corpo", "NomeAudioIngles": "432Hz-Alpha Waves Heal the Body", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110454&authkey=!AN6b3fvh8JerR34", "idAudio":  "49"},
-      {"nomeAudio":  "Desintoxicação Espiritual", "NomeAudioIngles": "Spiritual Detox", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110460&authkey=!AA94hLq9Bn4A2Hk", "idAudio":  "50"},
-      {"nomeAudio":  "Xamânica  limpeza energias negativas", "NomeAudioIngles": "Shamanic cleansing of negative energies", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110488&authkey=!AJToSW17g7T5bh8", "idAudio":  "51"},
-      {"nomeAudio":  "Ritual de cura proteção espiritual", "NomeAudioIngles": "Spiritual protection healing ritual", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110491&authkey=!ABSiproh7pJ45pU", "idAudio":  "52"},
-      {"nomeAudio":  "432Hz-Zen tibetano cura todo corpo", "NomeAudioIngles": "432Hz- Tibetan Zen Heals Whole Body", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110455&authkey=!APVCBKJVWNsJtLc", "idAudio":  "53"},
-      {"nomeAudio":  "Acalmar Pensamentos Intrusivos", "NomeAudioIngles": "Calm Intrusive Thoughts", "tipo":"anxious", "link": "https://onedrive.live.com/download?resid=1CD9497B8250EE35%2110457&authkey=!AMwLyJz1DMTJlVo", "idAudio":  "54"}]
-
+[
+    {
+        "nomeAudio": "Chuva com trovões",
+        "NomeAudioIngles": "Rain with thunder",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Chuva%20com%20trov%C3%B5es.m4a",
+        "idAudio": "01"
+    },
+    {
+        "nomeAudio": "Chuva forte com trovões",
+        "NomeAudioIngles": "Heavy rain with thunder",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Chuva%20forte%20com%20trovoes.m4a",
+        "idAudio": "02"
+    },
+    {
+        "nomeAudio": "Chuva parque",
+        "NomeAudioIngles": "Park rain",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Chuva%20parque.m4a",
+        "idAudio": "03"
+    },
+    {
+        "nomeAudio": "Chuva forte no telhado",
+        "NomeAudioIngles": "Heavy rain on the roof",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Chuva%20forte%20no%20telhado.m4a",
+        "idAudio": "04"
+    },
+    {
+        "nomeAudio": "Vença insônia chuva forte",
+        "NomeAudioIngles": "Beat insomnia heavy rain",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Venca%20insonia%20chuva%20forte.m4a",
+        "idAudio": "05"
+    },
+    {
+        "nomeAudio": "Sono profundo chuva forte",
+        "NomeAudioIngles": "Deep sleep heavy rain",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Sono%20profundo%20chuva%20forte.m4a",
+        "idAudio": "06"
+    },
+    {
+        "nomeAudio": "Chuva leve sem trovões",
+        "NomeAudioIngles": "Light rain without thunder",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Chuva%20leve%20sem%20trovoes.m4a",
+        "idAudio": "07"
+    },
+    {
+        "nomeAudio": "Chuva Nas Telhas De Barro",
+        "NomeAudioIngles": "Rain on Clay Tiles",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Chuva%20Nas%20Telhas%20De%20Barro.m4a",
+        "idAudio": "08"
+    },
+    {
+        "nomeAudio": "Chuva leve nas folhas",
+        "NomeAudioIngles": "Light rain on the leaves",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Chuva%20leve%20nas%20folhas.m4a",
+        "idAudio": "09"
+    },
+    {
+        "nomeAudio": "Chuva na barraca",
+        "NomeAudioIngles": "Rain on the tent",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Chuva%20na%20barraca.m4a",
+        "idAudio": "10"
+    },
+    {
+        "nomeAudio": "Chuva forte na barraca",
+        "NomeAudioIngles": "Heavy rain on the tent",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Chuva%20forte%20na%20barraca.m4a",
+        "idAudio": "11"
+    },
+    {
+        "nomeAudio": "Chuva calma com goteiras",
+        "NomeAudioIngles": "Calm rain with drips",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Chuva%20calma%20goteiras.mp3",
+        "idAudio": "12"
+    },
+    {
+        "nomeAudio": "Chuva Goteira Na Lata 8D",
+        "NomeAudioIngles": "Rain Drips On Can 8D",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Chuva%20Goteira%20Na%20Lata%208D.m4a",
+        "idAudio": "13"
+    },
+    {
+        "nomeAudio": "Chuva no rio",
+        "NomeAudioIngles": "Rain on the river",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Chuva%20no%20rio.m4a",
+        "idAudio": "14"
+    },
+    {
+        "nomeAudio": "Piano ninar durma em 3 minutos",
+        "NomeAudioIngles": "Lullaby piano, sleep in 3 minutes",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Piano%20ninar%20durma3m.mp3",
+        "idAudio": "15"
+    },
+    {
+        "nomeAudio": "Piano acalmar a mente",
+        "NomeAudioIngles": "Piano calm the mind",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Piano%20acalmar%20mente.mp3",
+        "idAudio": "16"
+    },
+    {
+        "nomeAudio": "Piano calma coleção",
+        "NomeAudioIngles": "Piano calm collection",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Piano%20calma%20lista.m4a",
+        "idAudio": "17"
+    },
+    {
+        "nomeAudio": "Piano cura insonia coleção",
+        "NomeAudioIngles": "Piano cures insomnia collection",
+        "tipo": "sleep",
+        "link": "https://centraldocurso.top/audio/Piano%20cura%20insonia%20lista.m4a",
+        "idAudio": "18"
+    },
+    {
+        "nomeAudio": "Som do Mar para Relaxar",
+        "NomeAudioIngles": "Sound of the Sea to Relax",
+        "tipo": "relax",
+        "link": "https://centraldocurso.top/audio/Som%20do%20Mar%20Relaxar.mp3",
+        "idAudio": "19"
+    },
+    {
+        "nomeAudio": "Lareira relaxante",
+        "NomeAudioIngles": "Relaxing fireplace",
+        "tipo": "relax",
+        "link": "https://centraldocurso.top/audio/Lareira%20relaxante.mp3",
+        "idAudio": "20"
+    },
+    {
+        "nomeAudio": "Piano relaxamento profundo",
+        "NomeAudioIngles": "Piano deep relaxation",
+        "tipo": "relax",
+        "link": "https://centraldocurso.top/audio/Piano%20relaxamento%20profundo.mp3",
+        "idAudio": "21"
+    },
+    {
+        "nomeAudio": "Piano melhora o humor",
+        "NomeAudioIngles": "Piano improves mood",
+        "tipo": "relax",
+        "link": "https://centraldocurso.top/audio/Piano%20melhora%20o%20humor.mp3",
+        "idAudio": "22"
+    },
+    {
+        "nomeAudio": "Piano super calma",
+        "NomeAudioIngles": "Super calm piano",
+        "tipo": "relax",
+        "link": "https://centraldocurso.top/audio/piano%20super%20calma.mp3",
+        "idAudio": "23"
+    },
+    {
+        "nomeAudio": "Piano que toca a alma",
+        "NomeAudioIngles": "Piano that touches the soul",
+        "tipo": "relax",
+        "link": "https://centraldocurso.top/audio/piano%20que%20toca%20a%20alma.mp3",
+        "idAudio": "24"
+    },
+    {
+        "nomeAudio": "Piano você é amado",
+        "NomeAudioIngles": "Piano you are loved",
+        "tipo": "relax",
+        "link": "https://centraldocurso.top/audio/Piano%20voce%20e%20amado.mp3",
+        "idAudio": "25"
+    },
+    {
+        "nomeAudio": "Natureza floresta passáros",
+        "NomeAudioIngles": "Nature forest birds",
+        "tipo": "relax",
+        "link": "https://centraldocurso.top/audio/Natureza%20mata%20pass%C3%A1ros.mp3",
+        "idAudio": "26"
+    },
+    {
+        "nomeAudio": "Violão relaxante",
+        "NomeAudioIngles": "Relaxing guitar",
+        "tipo": "relax",
+        "link": "https://centraldocurso.top/audio/viol%C3%A3o%20relaxante.mp3",
+        "idAudio": "27"
+    },
+    {
+        "nomeAudio": "Estudar e Manter o Foco",
+        "NomeAudioIngles": "Study and Stay Focused",
+        "tipo": "focus",
+        "link": "https://centraldocurso.top/audio/EstudarManterFoco.mp3",
+        "idAudio": "28"
+    },
+    {
+        "nomeAudio": "Super foco",
+        "NomeAudioIngles": "Super focus",
+        "tipo": "focus",
+        "link": "https://centraldocurso.top/audio/superfocus.mp3",
+        "idAudio": "29"
+    },
+    {
+        "nomeAudio": "Acima do planeta",
+        "NomeAudioIngles": "Above the planet",
+        "tipo": "focus",
+        "link": "https://centraldocurso.top/audio/Acima%20do%20planeta.mp3",
+        "idAudio": "30"
+    },
+    {
+        "nomeAudio": "Longe",
+        "NomeAudioIngles": "Far away",
+        "tipo": "focus",
+        "link": "https://centraldocurso.top/audio/Longe.mp3",
+        "idAudio": "31"
+    },
+    {
+        "nomeAudio": "Ondulações de água",
+        "NomeAudioIngles": "Water ripples",
+        "tipo": "focus",
+        "link": "https://centraldocurso.top/audio/Ondula%C3%A7%C3%B5es%20de%20%C3%A1gua.mp3",
+        "idAudio": "32"
+    },
+    {
+        "nomeAudio": "Jazz café coleção",
+        "NomeAudioIngles": "Jazz coffe collection",
+        "tipo": "focus",
+        "link": "https://centraldocurso.top/audio/Jazz%20caf%C3%A9.m4a",
+        "idAudio": "33"
+    },
+    {
+        "nomeAudio": "Orquestral inspiradora",
+        "NomeAudioIngles": "Inspirational Orchestral",
+        "tipo": "focus",
+        "link": "https://centraldocurso.top/audio/Inspirational%20Orchestral.mp3",
+        "idAudio": "34"
+    },
+    {
+        "nomeAudio": "Na zona focus",
+        "NomeAudioIngles": "In the focus zone",
+        "tipo": "focus",
+        "link": "https://centraldocurso.top/audio/Na%20zona.mp3",
+        "idAudio": "35"
+    },
+    {
+        "nomeAudio": "Sessão da meia-noite",
+        "NomeAudioIngles": "Midnight Session",
+        "tipo": "focus",
+        "link": "https://centraldocurso.top/audio/Midnight%20Session.mp3",
+        "idAudio": "36"
+    },
+    {
+        "nomeAudio": "Almoço",
+        "NomeAudioIngles": "Lunch",
+        "tipo": "focus",
+        "link": "https://centraldocurso.top/audio/Lunch.mp3",
+        "idAudio": "37"
+    },
+    {
+        "nomeAudio": "Meditação do nascer do sol",
+        "NomeAudioIngles": "Sunrise meditation",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/Medita%C3%A7%C3%A3o%20do%20nascer%20do%20sol.mp3",
+        "idAudio": "38"
+    },
+    {
+        "nomeAudio": "Paciência",
+        "NomeAudioIngles": "Patience",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/Paciencia.mp3",
+        "idAudio": "39"
+    },
+    {
+        "nomeAudio": "Flauta e Tabla relaxante",
+        "NomeAudioIngles": "Relaxing Flute and Tabla",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/Flauta%20e%20Tabla%20relaxante.m4a",
+        "idAudio": "40"
+    },
+    {
+        "nomeAudio": "Oceano de pensamentos",
+        "NomeAudioIngles": "Ocean of thoughts",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/Oceano%20de%20pensamentos.mp3",
+        "idAudio": "41"
+    },
+    {
+        "nomeAudio": "Elimine o Estresse Ansiedade",
+        "NomeAudioIngles": "Eliminate Stress Anxiety",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/Elimine%20o%20Estresse%20e%20a%20Ansiedade.m4a",
+        "idAudio": "42"
+    },
+    {
+        "nomeAudio": "Cura ansiedade",
+        "NomeAudioIngles": "Cure anxiety",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/cura%20ansiedade.mp3",
+        "idAudio": "43"
+    },
+    {
+        "nomeAudio": "Som do silêncio",
+        "NomeAudioIngles": "Sound Of Silence",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/Sound%20Of%20Silence.mp3",
+        "idAudio": "44"
+    },
+    {
+        "nomeAudio": "Apenas acredite",
+        "NomeAudioIngles": "Just Believe",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/Just%20Believe.mp3",
+        "idAudio": "45"
+    },
+    {
+        "nomeAudio": "Ondas do mar acalmar",
+        "NomeAudioIngles": "Sea waves calm",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/Ondas%20do%20mar%20acalmar.mp3",
+        "idAudio": "46"
+    },
+    {
+        "nomeAudio": "Rio calmante",
+        "NomeAudioIngles": "Calming river",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/Rio%20calmante.mp3",
+        "idAudio": "47"
+    },
+    {
+        "nomeAudio": "Águas rolando no riacho",
+        "NomeAudioIngles": "Waters rolling in the stream",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/%C3%A1guas%20rolando%20no%20riacho.m4a",
+        "idAudio": "48"
+    },
+    {
+        "nomeAudio": "432Hz- Alfa Ondas Curam o Corpo",
+        "NomeAudioIngles": "432Hz-Alpha Waves Heal the Body",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/432Hz-%20Alfa%20As%20Ondas%20Curam%20Todo%20o%20Corpo.mp3",
+        "idAudio": "49"
+    },
+    {
+        "nomeAudio": "Desintoxicação Espiritual",
+        "NomeAudioIngles": "Spiritual Detox",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/Desintoxica%C3%A7%C3%A3o%20Espiritual.mp3",
+        "idAudio": "50"
+    },
+    {
+        "nomeAudio": "Xamânica  limpeza energias negativas",
+        "NomeAudioIngles": "Shamanic cleansing of negative energies",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/Xamanica%20limpeza%20energias%20negativas.m4a",
+        "idAudio": "51"
+    },
+    {
+        "nomeAudio": "Ritual de cura proteção espiritual",
+        "NomeAudioIngles": "Spiritual protection healing ritual",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/Ritual%20de%20cura%20prote%C3%A7%C3%A3o%20espiritual.m4a",
+        "idAudio": "52"
+    },
+    {
+        "nomeAudio": "432Hz-Zen tibetano cura todo corpo",
+        "NomeAudioIngles": "432Hz- Tibetan Zen Heals Whole Body",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/432Hz-%20Tibetan%20Zen%20Heals%20the%20Whole%20Body.m4a",
+        "idAudio": "53"
+    },
+    {
+        "nomeAudio": "Acalmar Pensamentos Intrusivos",
+        "NomeAudioIngles": "Calm Intrusive Thoughts",
+        "tipo": "anxious",
+        "link": "https://centraldocurso.top/audio/Acalmar%20Pensamentos%20Intrusivos.m4a",
+        "idAudio": "54"
+    }
+]
