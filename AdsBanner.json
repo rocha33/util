@@ -7,5 +7,14 @@
         "descricao": "Ore por alguem e receba orações, maior portal de bençãos.",
         "imagem": "https://raw.githubusercontent.com/rocha33/util/main/images/ore_pormim.png",
         "link": "https://play.google.com/store/apps/details?id=vr.orepomim.com"
+    },
+    {
+        "id": "adBanner_001",
+        "tipo": "banner",
+        "plataforma": "gplay",
+        "titulo": "Precisa de Oração?",
+        "descricao": "Ore por alguem e receba orações, maior portal de bençãos.",
+        "imagem": "https://raw.githubusercontent.com/rocha33/util/main/images/ore_pormim.png",
+        "link": "https://play.google.com/store/apps/details?id=vr.orepomim.com"
     }
 ]
