@@ -3,9 +3,9 @@
         "id": "adBanner_001",
         "tipo": "banner",
         "plataforma": "gplay",
-        "titulo": "Gostaria de assistir algum filme ou serie?",
-        "descricao": "Assista filmes e séries online, com qualidade HD e legendas em português.",
-        "imagem": "https://raw.githubusercontent.com/rocha33/util/main/images/filmes_series.png",
-        "link": "https://meu.catalogo24h.workers.dev/"
+        "titulo": "Precisa de Oração?",
+        "descricao": "Ore por alguem e receba orações, maior portal de bençãos.",
+        "imagem": "https://raw.githubusercontent.com/rocha33/util/main/images/ore_pormim.png",
+        "link": "https://play.google.com/store/apps/details?id=vr.orepomim.com"
     }
 ]
