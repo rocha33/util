@@ -3,18 +3,18 @@
         "id": "adBanner_001",
         "tipo": "banner",
         "plataforma": "gplay",
-        "titulo": "Precisa de Oração?",
-        "descricao": "Ore por alguem e receba orações, maior portal de bençãos.",
-        "imagem": "https://raw.githubusercontent.com/rocha33/util/main/images/ore_pormim.png",
-        "link": "https://play.google.com/store/apps/details?id=vr.orepomim.com"
+        "titulo": "Assista filmes e series",
+        "descricao": "Assista filmes e series, totalmente grátis.",
+        "imagem": "https://raw.githubusercontent.com/rocha33/util/main/images/filmes_series.png",
+        "link": "https://meu.catalogo24h.workers.dev/"
     },
     {
         "id": "adBanner_002",
         "tipo": "banner",
         "plataforma": "gplay",
-        "titulo": "Precisa de Oração?",
-        "descricao": "Ore por alguem e receba orações, maior portal de bençãos.",
-        "imagem": "https://raw.githubusercontent.com/rocha33/util/main/images/ore_pormim.png",
-        "link": "https://play.google.com/store/apps/details?id=vr.orepomim.com"
+        "titulo": "Assista filmes e series",
+        "descricao": "Assista filmes e series, totalmente grátis.",
+        "imagem": "https://raw.githubusercontent.com/rocha33/util/main/images/filmes_series.png",
+        "link": "https://meu.catalogo24h.workers.dev/"
     }
 ]
