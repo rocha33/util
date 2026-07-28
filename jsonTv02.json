@@ -1764,6 +1764,20 @@
         "webView": 1
     },
     {
+        "channelName": "AMC SD 2",
+        "link": "https://c7558e9d1f956b016d1fdba7ea132378.cazetv.shop/embedtv/d0075ab9411568ffba89fd0c6aeb5129/file.txt",
+        "ativo": 0,
+        "contactpage": "",
+        "categoria": "filmes",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
+        "referrer": "https://www3.embedtv.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/amc@3x.png",
+        "pausado": 0,
+        "webView": 0
+    },
+    {
         "channelName": "ANIMAL PLANET",
         "link": "https://redecanaistv.capital/player3/ch.php?canal=animalplanet",
         "ativo": 0,
