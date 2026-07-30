@@ -224,10 +224,10 @@
         "idAudio": "32"
     },
     {
-        "nomeAudio": "Jazz café coleção",
-        "NomeAudioIngles": "Jazz coffe collection",
+        "nomeAudio": "Jazz café calmo",
+        "NomeAudioIngles": "calm jazz caffe",
         "tipo": "focus",
-        "link": "https://centraldocurso.top/audio/Jazz%20caf%C3%A9.m4a",
+        "link": "https://centraldocurso.top/audio/jazz_cafe_calmo",
         "idAudio": "33"
     },
     {
@@ -383,5 +383,19 @@
         "tipo": "sleep",
         "link": "https://centraldocurso.top/audio/som_chuva_claraboia.ogg",
         "idAudio": "55"
+    },
+     {
+        "nomeAudio": "Jazz café Nostalgia",
+        "NomeAudioIngles": "Nostalgic jazz and coffee",
+        "tipo": "focus",
+        "link": "https://centraldocurso.top/audio/Jezz_Cafe_nostaugia.ogg",
+        "idAudio": "56"
+    },
+     {
+        "nomeAudio": "Jazz café Elegancia",
+        "NomeAudioIngles": "Jazz with coffee and elegance",
+        "tipo": "focus",
+        "link": "https://centraldocurso.top/audio/Jezz_cafe_elegancia.ogg",
+        "idAudio": "57"
     }
 ]
