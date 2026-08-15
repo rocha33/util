@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark light">
+  <title>WikiGuess — Política de Privacidade</title>
+  <meta name="description" content="Política de privacidade do jogo WikiGuess: dados coletados, anúncios AdMob, ranking e seus direitos (LGPD/GDPR).">
+  <style>
+    :root {
+      --bg: #0d1117;
+      --card: #161b22;
+      --elevated: #1c2333;
+      --cyan: #58d5e3;
+      --green: #56d364;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --border: #30363d;
+      --warn: #fbbf24;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.65;
+    }
+    a { color: var(--cyan); }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      background: var(--elevated);
+      border-bottom: 1px solid var(--border);
+      padding: 0.85rem 1.25rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+    .brand { font-weight: 700; letter-spacing: -0.03em; }
+    .brand span { color: var(--cyan); }
+    .lang {
+      display: flex;
+      gap: 0.35rem;
+    }
+    .lang button {
+      background: transparent;
+      color: var(--muted);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.35rem 0.7rem;
+      cursor: pointer;
+      font: inherit;
+    }
+    .lang button[aria-pressed="true"] {
+      color: var(--bg);
+      background: var(--cyan);
+      border-color: var(--cyan);
+      font-weight: 700;
+    }
+    main {
+      max-width: 46rem;
+      margin: 0 auto;
+      padding: 2rem 1.25rem 4rem;
+    }
+    .hero {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1.25rem 1.35rem;
+      margin-bottom: 2rem;
+    }
+    .hero p { margin: 0.4rem 0 0; color: var(--muted); }
+    .notice {
+      margin-top: 1rem;
+      padding: 0.75rem 1rem;
+      border-radius: 10px;
+      border: 1px solid #6b5a1e;
+      background: #2a2310;
+      color: var(--warn);
+      font-size: 0.95rem;
+    }
+    h1 { font-size: 1.75rem; letter-spacing: -0.03em; margin: 0; }
+    h2 {
+      font-size: 1.15rem;
+      margin: 2rem 0 0.6rem;
+      color: var(--cyan);
+    }
+    h3 { font-size: 1rem; margin: 1.1rem 0 0.4rem; }
+    ul { padding-left: 1.2rem; }
+    li { margin: 0.35rem 0; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.92rem;
+      margin: 0.75rem 0 1rem;
+    }
+    th, td {
+      border: 1px solid var(--border);
+      padding: 0.55rem 0.65rem;
+      text-align: left;
+      vertical-align: top;
+    }
+    th { background: var(--elevated); color: var(--muted); font-weight: 600; }
+    .muted { color: var(--muted); font-size: 0.92rem; }
+    footer {
+      margin-top: 3rem;
+      padding-top: 1.25rem;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+    .hidden { display: none; }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #f6f8fa;
+        --card: #ffffff;
+        --elevated: #ffffff;
+        --cyan: #0891b2;
+        --text: #1f2937;
+        --muted: #6b7280;
+        --border: #e5e7eb;
+      }
+      .notice { background: #fffbeb; border-color: #fcd34d; color: #92400e; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand">Wiki<span>Guess</span></div>
+    <div class="lang" role="group" aria-label="Idioma">
+      <button type="button" id="btn-pt" aria-pressed="true">PT</button>
+      <button type="button" id="btn-en" aria-pressed="false">EN</button>
+    </div>
+  </header>
+
+  <main>
+    <article id="pt">
+      <div class="hero">
+        <h1>Política de Privacidade</h1>
+        <p>Última atualização: 15 de agosto de 2026</p>
+        <p>Esta política descreve como o aplicativo <strong>WikiGuess</strong> (pacote Android <code>com.vr.wiki_guess_app</code>) trata dados pessoais. O jogo é um desafio diário: um artigo da Wikipédia por idioma (português e inglês), texto mascarado, ranking e streak. Não há conta com e-mail ou senha.</p>
+        
+      </div>
+
+      <h2>1. Quem é o responsável</h2>
+      <p>O controlador dos dados do WikiGuess é o desenvolvedor do aplicativo publicado na Google Play sob o nome WikiGuess.</p>
+      <ul>
+        <li>Aplicativo: WikiGuess</li>
+        <li>Pacote: com.vr.wiki_guess_app</li>
+        <li>Contato para privacidade: <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a></li>
+      </ul>
+      <p class="muted">Este documento atende à Lei Geral de Proteção de Dados (LGPD, Brasil) e, quando aplicável, ao Regulamento Geral de Proteção de Dados (GDPR, União Europeia/Reino Unido).</p>
+
+      <h2>2. Resumo</h2>
+      <ul>
+        <li>Não pedimos nome civil, e-mail, telefone nem cadastro tradicional.</li>
+        <li>Identificamos o jogador por um identificador gerado no aparelho e, no Android/iOS, por um hash do identificador do dispositivo, para manter ranking e progresso se os dados do app forem apagados.</li>
+        <li>O apelido que você escolhe aparece no ranking público.</li>
+        <li>Anúncios recompensados (Google AdMob) são opcionais: só para revelar uma dica (uma palavra do corpo do artigo, nunca do título). O jogo funciona sem dica e sem anúncio.</li>
+        <li>Notificações locais (lembrete do artigo do dia) são opt-in e não passam por nossos servidores.</li>
+        <li>Não vendemos seus dados.</li>
+      </ul>
+
+      <h2>3. Dados que tratamos</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Dado</th>
+            <th>Onde fica</th>
+            <th>Para quê</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Identificador do jogador (UUID gerado no aparelho)</td>
+            <td>No aparelho (armazenamento local) e no servidor do jogo</td>
+            <td>Criar o perfil anônimo, salvar resultado, streak, histórico e ranking</td>
+          </tr>
+          <tr>
+            <td>Hash do identificador do aparelho (SHA-256 do ANDROID_ID ou identifierForVendor, com um prefixo do jogo). Não enviamos o ID bruto</td>
+            <td>Servidor do jogo</td>
+            <td>Reconhecer o mesmo aparelho se o app for reinstalado ou os dados locais forem limpos</td>
+          </tr>
+          <tr>
+            <td>Apelido (até 50 caracteres, escolhido por você)</td>
+            <td>Servidor e aparelho</td>
+            <td>Exibir no ranking diário e semanal</td>
+          </tr>
+          <tr>
+            <td>Dados de jogo: idioma, artigo, pontos, tentativas, tempo, dicas usadas, streak, data</td>
+            <td>Servidor e, no aparelho, o progresso da partida em andamento</td>
+            <td>Funcionar o jogo, ranking, histórico e evitar trapaça no cronômetro</td>
+          </tr>
+          <tr>
+            <td>Preferências (idioma da interface, tema, se notificações estão ligadas)</td>
+            <td>Só no aparelho</td>
+            <td>Lembrar suas escolhas</td>
+          </tr>
+          <tr>
+            <td>Endereço IP</td>
+            <td>Servidor (limitação de requisições) e logs da hospedagem</td>
+            <td>Segurança, abuso e funcionamento da API. O limite por IP é temporário (cerca de 2 horas)</td>
+          </tr>
+          <tr>
+            <td>Identificador de publicidade (AAID / IDFA, quando o sistema permitir)</td>
+            <td>Google AdMob e parceiros de anúncio</td>
+            <td>Exibir e medir anúncios recompensados, se você pedir uma dica e o consentimento permitir</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>Não coletamos localização precisa, contatos, fotos da galeria, microfone, câmera nem dados de pagamento. Compartilhar resultado (texto ou imagem) só ocorre se você tocar em compartilhar; o destino (WhatsApp, e-mail etc.) é o app que você escolher.</p>
+
+      <h2>4. Bases legais (LGPD / GDPR)</h2>
+      <ul>
+        <li><strong>Execução do serviço / legítimo interesse:</strong> identificador, hash do aparelho, pontuação, ranking e segurança da API, para o jogo funcionar.</li>
+        <li><strong>Consentimento:</strong> apelido público no ranking; notificações; anúncios personalizados (formulário UMP/GDPR no EEE/Reino Unido e opções do sistema Android/iOS).</li>
+        <li><strong>Obrigação legal:</strong> atender solicitações de titulares e autoridades.</li>
+      </ul>
+
+      <h2>5. Anúncios (Google AdMob)</h2>
+      <p>A dica opcional usa anúncio recompensado do Google AdMob. Você confirma antes de cada anúncio. Fechar ou pular não trava o jogo. A palavra só é revelada se o anúncio for concluído. Não há reprodução automática do próximo anúncio e o jogo permanece jogável sem dica.</p>
+      <p>O Google e sua rede de anunciantes podem tratar identificador de publicidade, dados técnicos do aparelho, aproximação de região, e — se houver consentimento — dados para anúncios personalizados. No Espaço Econômico Europeu e no Reino Unido, o app solicita consentimento pelo Google User Messaging Platform (UMP) antes de pedir anúncios.</p>
+      <p>Política do Google: <a href="https://policies.google.com/privacy" rel="noopener noreferrer">https://policies.google.com/privacy</a>. Você pode limitar anúncios personalizados nas configurações do Android (anúncios / ID de publicidade) ou do iOS (Rastrear).</p>
+
+      <h2>6. Notificações</h2>
+      <p>Os lembretes do artigo do dia (por exemplo 9h e, se você ainda não venceu, 22h no fuso America/São Paulo) são <strong>notificações locais</strong> no aparelho. Não usamos serviço de push na nuvem para isso. Você pode recusar na primeira vez e desligar depois nas configurações do app ou do sistema.</p>
+
+      <h2>7. Conteúdo da Wikipédia e outros serviços</h2>
+      <ul>
+        <li><strong>Wikipédia:</strong> o servidor busca o texto do artigo do dia na API da Wikimedia. O WikiGuess não é afiliado à Wikimedia Foundation. Não enviamos seu apelido à Wikipédia.</li>
+        <li><strong>Google Play:</strong> atualização do app e pedido opcional de avaliação usam os serviços da Google.</li>
+        <li><strong>Fontes:</strong> o app pode baixar a família Inter via Google Fonts em tempo de execução.</li>
+        <li>A comunicação com nossa API usa HTTPS.</li>
+      </ul>
+
+      <h2>8. Compartilhamento</h2>
+      <p>Compartilhamos dados somente com:</p>
+      <ul>
+        <li><strong>Hospedagem / servidor</strong> do jogo (armazenamento do perfil anônimo e resultados);</li>
+        <li><strong>Google</strong> (AdMob, Play, eventualmente Fonts), conforme as políticas deles;</li>
+        <li><strong>Outros jogadores:</strong> apelido, pontos, tempo e posição no ranking público (top 50 por idioma);</li>
+        <li>Autoridades, se houver obrigação legal.</li>
+      </ul>
+      <p>Não vendemos dados pessoais. Dados tratados pelo Google podem ser transferidos para os Estados Unidos e outros países, com as salvaguardas descritas na política do Google.</p>
+
+      <h2>9. Conservação</h2>
+      <ul>
+        <li>Perfil, resultados, streak e ranking: enquanto a conta anônima existir e o serviço estiver ativo.</li>
+        <li>Partida em andamento no aparelho: até você concluir, o dia virar ou você limpar os dados do app.</li>
+        <li>Registros de limite por IP: cerca de 2 horas.</li>
+        <li>Logs da hospedagem: conforme o provedor (em geral dias ou poucas semanas).</li>
+      </ul>
+
+      <h2>10. Seus direitos</h2>
+      <p>Você pode solicitar acesso, correção, exclusão, portabilidade (quando aplicável), informação sobre compartilhamentos e revogação de consentimento. No Brasil, também pode peticionar à ANPD.</p>
+      <p>Caminhos práticos:</p>
+      <ul>
+        <li>Apagar dados do aplicativo nas configurações do Android remove o UUID e o progresso locais. O perfil no servidor pode permanecer associado ao hash do aparelho.</li>
+        <li>Para apagar apelido, ranking e registro no servidor, envie e-mail para <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a> informando o apelido usado no ranking e, se possível, o idioma (pt/en). Sem login, podemos precisar de dados extras para confirmar que o pedido é seu.</li>
+        <li>Consentimento de anúncios: formulário UMP (quando exibido) e configurações do sistema.</li>
+      </ul>
+
+      <h2>11. Crianças</h2>
+      <p>O WikiGuess não se destina a menores de 13 anos e não coleta dados de crianças de forma intencional. Anúncios de terceiros não são apropriados para público infantil no sentido da COPPA. Se um responsável acreditar que um menor nos enviou dados, contate-nos para exclusão.</p>
+
+      <h2>12. Segurança</h2>
+      <p>Usamos HTTPS, chave de API no app, consultas preparadas no banco e limite de requisições por IP. Nenhum sistema é infalível. Não envie senhas — o jogo não usa senha.</p>
+
+      <h2>13. Alterações</h2>
+      <p>Podemos atualizar esta política. A data no topo indica a versão vigente. Mudanças relevantes serão refletidas nesta página e, se o impacto for grande, por aviso no app ou na ficha da loja quando possível.</p>
+
+      <h2>14. Contato</h2>
+      <p>Dúvidas, exercício de direitos LGPD/GDPR ou denúncia: <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a>.</p>
+      <footer>
+        WikiGuess não é afiliado à Wikimedia Foundation. Artigos da Wikipédia são usados no jogo conforme as licenças da Wikimedia. Esta página não usa cookies de rastreamento; o idioma escolhido fica só neste navegador.
+      </footer>
+    </article>
+
+    <article id="en" class="hidden" lang="en">
+      <div class="hero">
+        <h1>Privacy Policy</h1>
+        <p>Last updated: 15 August 2026</p>
+        <p>This policy explains how the <strong>WikiGuess</strong> app (Android package <code>com.vr.wiki_guess_app</code>) handles personal data. WikiGuess is a daily game: one Wikipedia article per language (Portuguese and English), masked text, ranking, and streaks. There is no email/password account.</p>
+       
+      </div>
+
+      <h2>1. Controller</h2>
+      <p>The data controller is the developer of the WikiGuess app on Google Play.</p>
+      <ul>
+        <li>App: WikiGuess</li>
+        <li>Package: com.vr.wiki_guess_app</li>
+        <li>Privacy contact: <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a></li>
+      </ul>
+      <p class="muted">This notice is intended to meet Brazil’s LGPD and, where applicable, the EU/UK GDPR.</p>
+
+      <h2>2. Summary</h2>
+      <ul>
+        <li>We do not ask for your legal name, email, phone number, or a traditional sign-up.</li>
+        <li>We identify a player with a device-generated UUID and, on Android/iOS, a hash of a device identifier so ranking and progress can survive clearing app data.</li>
+        <li>The nickname you choose appears on the public leaderboard.</li>
+        <li>Rewarded ads (Google AdMob) are optional and only used for a hint (one body word, never a title word). The game is fully playable without hints or ads.</li>
+        <li>Daily reminders are local notifications (opt-in) and are not sent through our servers.</li>
+        <li>We do not sell your data.</li>
+      </ul>
+
+      <h2>3. Data we process</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Data</th>
+            <th>Where</th>
+            <th>Purpose</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Player identifier (UUID generated on the device)</td>
+            <td>On-device storage and our game server</td>
+            <td>Anonymous profile, results, streak, history, and ranking</td>
+          </tr>
+          <tr>
+            <td>Hashed device identifier (SHA-256 of ANDROID_ID or identifierForVendor with a game-specific prefix). We do not send the raw ID</td>
+            <td>Game server</td>
+            <td>Recognize the same device after reinstall or clearing local data</td>
+          </tr>
+          <tr>
+            <td>Nickname (up to 50 characters, chosen by you)</td>
+            <td>Server and device</td>
+            <td>Show on daily and weekly leaderboards</td>
+          </tr>
+          <tr>
+            <td>Gameplay data: language, article, score, attempts, time, hints used, streak, date</td>
+            <td>Server; in-progress match also on the device</td>
+            <td>Run the game, ranking, history, and timer integrity</td>
+          </tr>
+          <tr>
+            <td>Preferences (UI language, theme, notification toggle)</td>
+            <td>Device only</td>
+            <td>Remember your choices</td>
+          </tr>
+          <tr>
+            <td>IP address</td>
+            <td>Rate-limit table and hosting logs</td>
+            <td>Security and API abuse prevention. IP rate-limit records last about 2 hours</td>
+          </tr>
+          <tr>
+            <td>Advertising ID (AAID / IDFA, if the OS allows)</td>
+            <td>Google AdMob and ad partners</td>
+            <td>Serve and measure rewarded ads when you request a hint and consent allows it</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>We do not collect precise location, contacts, gallery photos, microphone, camera, or payment data. Sharing a result (text or image) happens only if you tap share; the destination app is yours to choose.</p>
+
+      <h2>4. Legal bases</h2>
+      <ul>
+        <li><strong>Performance of the service / legitimate interests:</strong> identifiers, device hash, scores, ranking, and API security so the game can work.</li>
+        <li><strong>Consent:</strong> public nickname; notifications; personalized ads (UMP/GDPR form in the EEA/UK and OS-level ad settings).</li>
+        <li><strong>Legal obligation:</strong> responding to data-subject and authority requests.</li>
+      </ul>
+
+      <h2>5. Ads (Google AdMob)</h2>
+      <p>Optional hints use a Google AdMob rewarded ad. You confirm before each ad. Closing or skipping does not freeze the game. The hint is granted only if the ad completes. There is no autoplay of the next ad.</p>
+      <p>Google and its ad network may process advertising ID, device technical data, coarse region, and — with consent — data for personalized ads. In the EEA and UK, the app requests consent via Google’s User Messaging Platform (UMP) before requesting ads.</p>
+      <p>Google policy: <a href="https://policies.google.com/privacy" rel="noopener noreferrer">https://policies.google.com/privacy</a>. You can limit personalized ads in Android (Ads / Advertising ID) or iOS (Tracking) settings.</p>
+
+      <h2>6. Notifications</h2>
+      <p>Daily article reminders (for example 9:00 and, if you have not won yet, 22:00 in America/São Paulo) are <strong>local notifications</strong> on the device. We do not use a cloud push service for this. You can decline the first prompt and turn them off later in the app or system settings.</p>
+
+      <h2>7. Wikipedia and other services</h2>
+      <ul>
+        <li><strong>Wikipedia:</strong> our server fetches today’s article from the Wikimedia API. WikiGuess is not affiliated with the Wikimedia Foundation. We do not send your nickname to Wikipedia.</li>
+        <li><strong>Google Play:</strong> app updates and an optional in-app review use Google services.</li>
+        <li><strong>Fonts:</strong> the app may download the Inter family via Google Fonts at runtime.</li>
+        <li>API traffic uses HTTPS.</li>
+      </ul>
+
+      <h2>8. Sharing</h2>
+      <p>We share data only with:</p>
+      <ul>
+        <li>the <strong>game hosting / server</strong> (anonymous profile and results);</li>
+        <li><strong>Google</strong> (AdMob, Play, possibly Fonts), under their policies;</li>
+        <li><strong>other players:</strong> nickname, score, time, and rank on the public top-50 leaderboard per language;</li>
+        <li>authorities, if legally required.</li>
+      </ul>
+      <p>We do not sell personal data. Data processed by Google may be transferred to the United States and other countries under Google’s safeguards.</p>
+
+      <h2>9. Retention</h2>
+      <ul>
+        <li>Profile, results, streak, and ranking: for as long as the anonymous account exists and the service is running.</li>
+        <li>In-progress match on the device: until you finish, the day rolls over, or you clear app data.</li>
+        <li>IP rate-limit records: about 2 hours.</li>
+        <li>Hosting logs: according to the provider (typically days or a few weeks).</li>
+      </ul>
+
+      <h2>10. Your rights</h2>
+      <p>You may request access, correction, deletion, portability (where applicable), information about sharing, and withdrawal of consent. In Brazil you may also contact the ANPD.</p>
+      <ul>
+        <li>Clearing app storage on Android removes the local UUID and progress. The server profile may remain tied to the device hash.</li>
+        <li>To delete your nickname, ranking, and server record, email <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a> with the leaderboard nickname and language (pt/en) if you can. Without a login, we may need extra information to verify the request.</li>
+        <li>Ad consent: UMP form (when shown) and OS settings.</li>
+      </ul>
+
+      <h2>11. Children</h2>
+      <p>WikiGuess is not directed at children under 13 and we do not knowingly collect children’s data. Third-party ads are not intended for a child-directed audience under COPPA. If a parent believes a child provided data, contact us for deletion.</p>
+
+      <h2>12. Security</h2>
+      <p>We use HTTPS, an API key, parameterized database queries, and IP rate limits. No system is perfect. Do not send passwords — the game does not use passwords.</p>
+
+      <h2>13. Changes</h2>
+      <p>We may update this policy. The date at the top is the current version. Material changes will appear on this page and, when feasible, in the app or store listing.</p>
+
+      <h2>14. Contact</h2>
+      <p>Questions, LGPD/GDPR requests, or complaints: <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a>.</p>
+      <footer>
+        WikiGuess is not affiliated with the Wikimedia Foundation. Wikipedia articles are used under Wikimedia licenses. This page does not use tracking cookies; the language choice stays in this browser only.
+      </footer>
+    </article>
+  </main>
+
+  <script>
+    (function () {
+      var pt = document.getElementById('pt');
+      var en = document.getElementById('en');
+      var btnPt = document.getElementById('btn-pt');
+      var btnEn = document.getElementById('btn-en');
+
+      function setLang(lang) {
+        var isEn = lang === 'en';
+        pt.classList.toggle('hidden', isEn);
+        en.classList.toggle('hidden', !isEn);
+        btnPt.setAttribute('aria-pressed', String(!isEn));
+        btnEn.setAttribute('aria-pressed', String(isEn));
+        document.documentElement.lang = isEn ? 'en' : 'pt-BR';
+        try { localStorage.setItem('wg-privacy-lang', isEn ? 'en' : 'pt'); } catch (e) {}
+      }
+
+      btnPt.addEventListener('click', function () { setLang('pt'); });
+      btnEn.addEventListener('click', function () { setLang('en'); });
+
+      var saved = null;
+      try { saved = localStorage.getItem('wg-privacy-lang'); } catch (e) {}
+      if (saved === 'en' || saved === 'pt') {
+        setLang(saved);
+      } else if ((navigator.language || '').toLowerCase().indexOf('pt') !== 0) {
+        setLang('en');
+      }
+    })();
+  </script>
+</body>
+</html>
