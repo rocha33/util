@@ -17,68 +17,26 @@
     <script>
         class MobileRedirector {
             constructor() {
-                this.storage = this.getStorageType();
                 this.init();
             }
             
-            getStorageType() {
-                if (this.isAndroid()) return 'localStorage';
-                if (this.isIOS()) return 'indexedDB';
-                return 'cookie';
-            }
-            
             async init() {
-                const stored = await this.getRedirectData();
-                if (stored && !this.hasExpired(stored)) {
-                    this.redirect(stored.url);
-                } else {
-                    await this.setRedirectData();
+                // Verifica se já foi redirecionado
+                if (document.cookie.includes('affiliate_redirected=true')) {
+                    return;
                 }
-            }
-            https://shopee.com.br/list/Ta%C3%A7as/Oxford
-            async setRedirectData() {
-                const data = {
-                    url: 'https://shopee.com.br/list/Ta%C3%A7as/Oxford' ,
-                    timestamp: Date.now(),
-                    expires: Date.now() + 2592000000
-                };
                 
-                await this.storage.set('affiliate_redirect', data);
-                this.redirect(data.url);
+                // Define cookie para evitar múltiplos redirecionamentos
+                document.cookie = 'affiliate_redirected=true; max-age=2592000; path=/';
+                
+                // Redireciona imediatamente
+                this.redirect('https://shopee.com.br/list/Ta%C3%A7as/Oxford');
             }
             
             redirect(url) {
                 setTimeout(() => {
                     window.location = url;
                 }, 1000);
-            }
-            
-            isAndroid() {
-                return /Android/i.test(navigator.userAgent);
-            }
-            
-            isIOS() {
-                return /iPhone|iPad|iPod/i.test(navigator.userAgent);
-            }
-            
-            async getRedirectData() {
-                try {
-                    if (this.storage === 'localStorage') {
-                        return JSON.parse(localStorage.getItem('affiliate_redirect'));
-                    } else if (this.storage === 'indexedDB') {
-                        // Implementação para IndexedDB
-                        return null;
-                    } else {
-                        // Implementação para cookies
-                        return null;
-                    }
-                } catch(e) {
-                    return null;
-                }
-            }
-            
-            hasExpired(data) {
-                return Date.now() > data.expires;
             }
         }
 
