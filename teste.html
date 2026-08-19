@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Afiliado Shopee</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+        .loading { display: inline-block; width: 20px; height: 20px; border: 3px solid rgba(0,0,0,.3); border-radius: 50%; border-top-color: #000; animation: spin 1s linear infinite; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+    </style>
+</head>
+<body>
+    <div id="loading" class="loading"></div>
+    <p>Redirecionando...</p>
+
+    <script>
+        class MobileRedirector {
+            constructor() {
+                this.storage = this.getStorageType();
+                this.init();
+            }
+            
+            getStorageType() {
+                if (this.isAndroid()) return 'localStorage';
+                if (this.isIOS()) return 'indexedDB';
+                return 'cookie';
+            }
+            
+            async init() {
+                const stored = await this.getRedirectData();
+                if (stored && !this.hasExpired(stored)) {
+                    this.redirect(stored.url);
+                } else {
+                    await this.setRedirectData();
+                }
+            }
+            https://shopee.com.br/list/Ta%C3%A7as/Oxford
+            async setRedirectData() {
+                const data = {
+                    url: 'https://shopee.com.br/list/Ta%C3%A7as/Oxford' ,
+                    timestamp: Date.now(),
+                    expires: Date.now() + 2592000000
+                };
+                
+                await this.storage.set('affiliate_redirect', data);
+                this.redirect(data.url);
+            }
+            
+            redirect(url) {
+                setTimeout(() => {
+                    window.location = url;
+                }, 1000);
+            }
+            
+            isAndroid() {
+                return /Android/i.test(navigator.userAgent);
+            }
+            
+            isIOS() {
+                return /iPhone|iPad|iPod/i.test(navigator.userAgent);
+            }
+            
+            async getRedirectData() {
+                try {
+                    if (this.storage === 'localStorage') {
+                        return JSON.parse(localStorage.getItem('affiliate_redirect'));
+                    } else if (this.storage === 'indexedDB') {
+                        // Implementação para IndexedDB
+                        return null;
+                    } else {
+                        // Implementação para cookies
+                        return null;
+                    }
+                } catch(e) {
+                    return null;
+                }
+            }
+            
+            hasExpired(data) {
+                return Date.now() > data.expires;
+            }
+        }
+
+        new MobileRedirector();
+    </script>
+</body>
+</html>
