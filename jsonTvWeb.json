@@ -404,21 +404,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cartoon-network@3x.png",
         "pausado": 0,
         "webView": 1
-    },  
-    {
-        "channelName": "TOONCAST",
-        "link": "https://13embeddecanais.xyz/tooncast/",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "animacao",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://13embeddecanais.xyz/",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://api.reidoscanais.ooo/img/tooncast.png",
-        "pausado": 0,
-        "webView": 1
-    }, 
+    },   
     {
         "channelName": "BAND SPORTS SD",
         "link": "https://rdcanais.top/bandsports",
@@ -434,36 +420,8 @@
         "webView": 1
     },  
     {
-        "channelName": "CNN BRASIL SD",
-        "link": "https://13embeddecanais.xyz/cnnbrasil/",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "noticias",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://13embeddecanais.xyz/",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cnn-brasil@3x.png",
-        "pausado": 0,
-        "webView": 1
-    },
-    {
-        "channelName": "BAND NEWS HD",
-        "link": "https://13embeddecanais.xyz/bandnews/",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "noticias",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://13embeddecanais.xyz/",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-news@3x.png",
-        "pausado": 0,
-        "webView": 1
-    },  
-    {
         "channelName": "GLOBO RIO",
-        "link": "https://ww4.embedtv.lat/globorj",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/globorj",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -519,7 +477,7 @@
     },
     {
         "channelName": "GLOBO SP HD",
-        "link": "https://iframe.embedtv.lat/globosp",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://iframe.embedtv.lat/globosp",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -533,7 +491,7 @@
     },
     {
         "channelName": "GLOBO NORDESTE",
-        "link": "https://ww4.embedtv.lat/globope",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/globope",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -561,7 +519,7 @@
     },
     {
         "channelName": "GLOBO MG SD",
-        "link": "https://ww4.embedtv.lat/globomg",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/globomg",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -572,21 +530,7 @@
         "urlImagem": "https://embedtv.best/assets/images/globorj.png",
         "pausado": 0,
         "webView": 1
-    },
-    {
-        "channelName": "GLOBO BRASILIA",
-        "link": "https://13embeddecanais.xyz/globodf/",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://13embeddecanais.xyz/",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globorj.png",
-        "pausado": 0,
-        "webView": 1
-    },
+    },   
     {
         "channelName": "GLOBO BA",
         "link": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
@@ -603,7 +547,7 @@
     },
     {
         "channelName": "GLOBO RS",
-        "link": "https://ww4.embedtv.lat/globors",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/globors",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -617,7 +561,7 @@
     },
     {
         "channelName": "GLOBO NEWS",
-        "link": "https://ww4.embedtv.lat/globonews",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/globonews",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -631,7 +575,7 @@
     },  
     {
         "channelName": "Chespirito",
-        "link": "https://maxsaidapp.embedtv.lat/24h_chaves",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://maxsaidapp.embedtv.lat/24h_chaves",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -656,21 +600,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tve@3x.png",
         "pausado": 0,
         "webView": 0
-    },
-    {
-        "channelName": "Jovem Pan News",
-        "link": "https://13embeddecanais.xyz/jovempannews/",
-        "ativo": 0,
-        "contactpage": "",
-        "categoria": "noticias",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://13embeddecanais.xyz/",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
-        "pausado": 0,
-        "webView": 1
-    },
+    },   
     {
         "channelName": "Jovem Pan News",
         "link": "http://54k.store:80/059980y48/mario5t318/203502",
@@ -684,21 +614,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
         "pausado": 0,
         "webView": 0
-    },
-    {
-        "channelName": "REDE TV",
-        "link": "https://13embeddecanais.xyz/redetv/",
-        "ativo": 1,
-        "contactpage": "",
-        "categoria": "outros",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0",
-        "referrer": "https://13embeddecanais.xyz/",
-        "isEmbed": 0,
-        "contaisToken": 0,
-        "urlImagem": "https://mondrian.claro.com.br/channels/inverse/redetv!@3x.png",
-        "pausado": 0,
-        "webView": 1
-    },
+    },   
     {
         "channelName": "SPORTV",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww3.embedtv.lat/sportv",
@@ -771,7 +687,7 @@
     },
     {
         "channelName": "TNT Series",
-        "link": "https://ww4.embedtv.lat/tntseries",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/tntseries",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -827,7 +743,7 @@
     },
     {
         "channelName": "Globo Novelas",
-        "link": "https://ww4.embedtv.lat/globonovelas",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/globonovelas",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -869,7 +785,7 @@
     },   
     {
         "channelName": "History 2 HD",
-        "link": "https://ww4.embedtv.lat/history2",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/history2",
         "ativo": 0,
         "contactpage": "",
         "categoria": "documentarios",
@@ -911,7 +827,7 @@
     },   
     {
         "channelName": "HBO 2 SD",
-        "link": "https://ww4.embedtv.lat/hbo2",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/hbo2",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -925,7 +841,7 @@
     },  
     {
         "channelName": "HBO XTREME SD",
-        "link": "https://ww4.embedtv.lat/hboxtreme",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/hboxtreme",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -953,7 +869,7 @@
     },  
     {
         "channelName": "MTV SD",
-        "link": "https://ww4.embedtv.lat/mtv",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/mtv",
         "ativo": 0,
         "contactpage": "",
         "categoria": "musical",
@@ -995,7 +911,7 @@
     },
     {
         "channelName": "TODO MUNDO ODEIA O CRIS Op 2",
-        "link": "https://maxsaidapp.embedtv.lat/24h_odeiachris",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://maxsaidapp.embedtv.lat/24h_odeiachris",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -1065,7 +981,7 @@
     },
     {
         "channelName": "ESPN 2",
-        "link": "https://ww4.embedtv.lat/espn2",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/espn2",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1093,7 +1009,7 @@
     },  
     {
         "channelName": "ESPN 3",
-        "link": "https://ww4.embedtv.lat/espn3",
+        "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/espn3",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
