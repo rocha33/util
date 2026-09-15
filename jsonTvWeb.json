@@ -127,7 +127,7 @@
     },
     {
         "channelName": "SBT",
-        "link": "https://rdcanais.top/sbt",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/sbt",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -141,7 +141,7 @@
     },
     {
         "channelName": "SBT RJ",
-        "link": "https://rdcanais.top/tvaratu",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/tvaratu",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -155,7 +155,7 @@
     },
     {
         "channelName": "SBT News",
-        "link": "https://rdcanais.top/sbtnews",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/sbtnews",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -178,7 +178,7 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://api.reidoscanais.io/img/sbtnews.png",
-        "pausado": 0,
+        "pausado": 1,
         "webView": 0
     },
     {
@@ -239,7 +239,7 @@
     },
     {
         "channelName": "TELE CINE ACTION HD",
-        "link": "https://rdcanais.top/telecineaction",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/telecineaction",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -253,7 +253,7 @@
     },
     {
         "channelName": "TELE CINE PIPOCA",
-        "link": "https://rdcanais.top/telecinepipoca",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/telecinepipoca",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -332,7 +332,7 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
-        "pausado": 0,
+        "pausado": 1,
         "webView": 0
     },
     {
@@ -346,7 +346,7 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band@3x.png",
-        "pausado": 0,
+        "pausado": 1,
         "webView": 0
     },
     {
@@ -393,7 +393,7 @@
     },
     {
         "channelName": "CARTOON NETWORK SD",
-        "link": "https://rdcanais.top/cartoonnetwork",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/cartoonnetwork",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -407,7 +407,7 @@
     },
     {
         "channelName": "BAND SPORTS SD",
-        "link": "https://rdcanais.top/bandsports",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/bandsports",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -505,7 +505,7 @@
     },
     {
         "channelName": "GLOBO MG",
-        "link": "https://rdcanais.top/globomg",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/globomg",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -631,7 +631,7 @@
     },
     {
         "channelName": "SPORTV 2",
-        "link": "https://rdcanais.top/sportv2",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/sportv2",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -645,7 +645,7 @@
     },
     {
         "channelName": "SPORTV 3 SD",
-        "link": "https://rdcanais.top/sportv3",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/sportv3",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -659,7 +659,7 @@
     },
     {
         "channelName": "TNT Novelas",
-        "link": "https://rdcanais.top/tntnovelas",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/tntnovelas",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -673,7 +673,7 @@
     },
     {
         "channelName": "TNT Novelas SD",
-        "link": "https://rdcanais.top/tntnovelas",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/tntnovelas",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -701,7 +701,7 @@
     },
     {
         "channelName": "TNT Series SD",
-        "link": "https://rdcanais.top/tntseries",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/tntseries",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -715,7 +715,7 @@
     },
     {
         "channelName": "CURTA!",
-        "link": "https://rdcanais.top/curta",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/curta",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -729,7 +729,7 @@
     },
     {
         "channelName": "GLOBO NOVELAS HD",
-        "link": "https://rdcanais.top/globoplaynovelas",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/globoplaynovelas",
         "ativo": 0,
         "contactpage": "",
         "categoria": "outros",
@@ -813,7 +813,7 @@
     },
     {
         "channelName": "HBO 2",
-        "link": "https://rdcanais.top/hbo2",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/hbo2",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -855,7 +855,7 @@
     },
     {
         "channelName": "HBO XTREME HD",
-        "link": "https://rdcanais.top/hboxtreme",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/hboxtreme",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -967,7 +967,7 @@
     },
     {
         "channelName": "ESPN SD",
-        "link": "https://rdcanais.top/espn",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/espn",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1023,7 +1023,7 @@
     },
     {
         "channelName": "ESPN 3 SD",
-        "link": "https://rdcanais.top/espn3",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/espn3",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1037,7 +1037,7 @@
     },
     {
         "channelName": "ESPN 4",
-        "link": "https://rdcanais.top/espn4",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/espn4",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1065,7 +1065,7 @@
     },
     {
         "channelName": "ESPN 5",
-        "link": "https://rdcanais.top/espn5",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/espn5",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1079,7 +1079,7 @@
     },
     {
         "channelName": "X SPORTS SD",
-        "link": "https://rdcanais.top/xsports",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/xsports",
         "ativo": 0,
         "contactpage": "",
         "categoria": "esportes",
@@ -1107,7 +1107,7 @@
     },
     {
         "channelName": "AXN SD *",
-        "link": "https://rdcanais.top/axn",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/axn",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1303,7 +1303,7 @@
     },
     {
         "channelName": "CINEMAX SD",
-        "link": "https://rdcanais.top/cinemax",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/cinemax",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1317,7 +1317,7 @@
     },
     {
         "channelName": "CINEMAX SD *",
-        "link": "https://rdcanais.top/cinemax",
+        "link": "https://centraldocurso.top/audio/proxy.php?url=https://rdcanais.top/cinemax",
         "ativo": 0,
         "contactpage": "",
         "categoria": "filmes",
@@ -1340,11 +1340,11 @@
         "isEmbed": 0,
         "contaisToken": 0,
         "urlImagem": "https://pt.wikipedia.org/wiki/Top_TV#/media/Ficheiro:Top_TV_logo.svg",
-        "pausado": 0,
+        "pausado": 1,
         "webView": 0
     },
     {
-        "channelName": "DISCOVERY SCIENCE (LIMPO)",
+        "channelName": "DISCOVERY SCIENCE",
         "link": "https://centraldocurso.top/audio/player.php?slug=discoveryscience&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1358,7 +1358,7 @@
         "webView": 1
     },
     {
-        "channelName": "DISCOVERY SCIENCE OP2 (LIMPO)",
+        "channelName": "DISCOVERY SCIENCE OP2",
         "link": "https://centraldocurso.top/audio/player.php?slug=discoveryscience&fonte=superflixapi.monster",
         "ativo": 1,
         "contactpage": "",
@@ -1372,7 +1372,7 @@
         "webView": 1
     },
     {
-        "channelName": "GLOBO AL (LIMPO)",
+        "channelName": "GLOBO AL",
         "link": "https://centraldocurso.top/audio/player.php?slug=globoal&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1386,7 +1386,7 @@
         "webView": 1
     },
     {
-        "channelName": "GLOBO AM (LIMPO)",
+        "channelName": "GLOBO AM",
         "link": "https://centraldocurso.top/audio/player.php?slug=globoam&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1400,7 +1400,7 @@
         "webView": 1
     },
     {
-        "channelName": "GLOBO BA (LIMPO)",
+        "channelName": "GLOBO BA",
         "link": "https://centraldocurso.top/audio/player.php?slug=globoba&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1414,7 +1414,7 @@
         "webView": 1
     },
     {
-        "channelName": "GLOBO DF (LIMPO)",
+        "channelName": "GLOBO DF",
         "link": "https://centraldocurso.top/audio/player.php?slug=globodf&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1428,7 +1428,7 @@
         "webView": 1
     },
     {
-        "channelName": "GLOBO GO (LIMPO)",
+        "channelName": "GLOBO GO",
         "link": "https://centraldocurso.top/audio/player.php?slug=globogo&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1442,7 +1442,7 @@
         "webView": 1
     },
     {
-        "channelName": "GLOBO MG (LIMPO)",
+        "channelName": "GLOBO MG",
         "link": "https://centraldocurso.top/audio/player.php?slug=globomg&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1456,7 +1456,7 @@
         "webView": 1
     },
     {
-        "channelName": "GLOBO MS (LIMPO)",
+        "channelName": "GLOBO MS",
         "link": "https://centraldocurso.top/audio/player.php?slug=globoms&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1470,7 +1470,7 @@
         "webView": 1
     },
     {
-        "channelName": "GLOBO NEWS (LIMPO)",
+        "channelName": "GLOBO NEWS",
         "link": "https://centraldocurso.top/audio/player.php?slug=globonews&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1484,7 +1484,7 @@
         "webView": 1
     },
     {
-        "channelName": "GLOBOPLAY NOVELAS (LIMPO)",
+        "channelName": "GLOBOPLAY NOVELAS",
         "link": "https://centraldocurso.top/audio/player.php?slug=globoplaynovelas&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1498,7 +1498,7 @@
         "webView": 1
     },
     {
-        "channelName": "GLOBO RJ (LIMPO)",
+        "channelName": "GLOBO RJ",
         "link": "https://centraldocurso.top/audio/player.php?slug=globorj&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1512,7 +1512,7 @@
         "webView": 1
     },
     {
-        "channelName": "GLOBO RS (LIMPO)",
+        "channelName": "GLOBO RS",
         "link": "https://centraldocurso.top/audio/player.php?slug=globors&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1526,7 +1526,7 @@
         "webView": 1
     },
     {
-        "channelName": "GLOBO SP (LIMPO)",
+        "channelName": "GLOBO SP",
         "link": "https://centraldocurso.top/audio/player.php?slug=globosp&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1540,7 +1540,7 @@
         "webView": 1
     },
     {
-        "channelName": "24H - SPACETODAY (LIMPO)",
+        "channelName": "24H - SPACETODAY",
         "link": "https://centraldocurso.top/audio/player.php?slug=24h-spacetoday&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1554,7 +1554,7 @@
         "webView": 1
     },
     {
-        "channelName": "A&E (LIMPO)",
+        "channelName": "A&E",
         "link": "https://centraldocurso.top/audio/player.php?slug=ae&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1568,7 +1568,7 @@
         "webView": 1
     },
     {
-        "channelName": "ANIMAL PLANET (LIMPO)",
+        "channelName": "ANIMAL PLANET",
         "link": "https://centraldocurso.top/audio/player.php?slug=animalplanet&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1582,7 +1582,7 @@
         "webView": 1
     },
     {
-        "channelName": "ARTE1 (LIMPO)",
+        "channelName": "ARTE1",
         "link": "https://centraldocurso.top/audio/player.php?slug=arte1&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1596,7 +1596,7 @@
         "webView": 1
     },
     {
-        "channelName": "CURTA! (LIMPO)",
+        "channelName": "CURTA!",
         "link": "https://centraldocurso.top/audio/player.php?slug=curta&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1610,7 +1610,7 @@
         "webView": 1
     },
     {
-        "channelName": "DISCOVERY CHANNEL (LIMPO)",
+        "channelName": "DISCOVERY CHANNEL",
         "link": "https://centraldocurso.top/audio/player.php?slug=discoverychannel&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1624,7 +1624,7 @@
         "webView": 1
     },
     {
-        "channelName": "DISCOVERY HOME & HEALTH (LIMPO)",
+        "channelName": "DISCOVERY HOME & HEALTH",
         "link": "https://centraldocurso.top/audio/player.php?slug=discoveryheh&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1638,7 +1638,7 @@
         "webView": 1
     },
     {
-        "channelName": "DISCOVERY ID (LIMPO)",
+        "channelName": "DISCOVERY ID",
         "link": "https://centraldocurso.top/audio/player.php?slug=discoveryid&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1652,7 +1652,7 @@
         "webView": 1
     },
     {
-        "channelName": "DISCOVERY THEATER (LIMPO)",
+        "channelName": "DISCOVERY THEATER",
         "link": "https://centraldocurso.top/audio/player.php?slug=discoverytheater&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1666,7 +1666,7 @@
         "webView": 1
     },
     {
-        "channelName": "DISCOVERY WORLD (LIMPO)",
+        "channelName": "DISCOVERY WORLD",
         "link": "https://centraldocurso.top/audio/player.php?slug=discoveryworld&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1680,7 +1680,7 @@
         "webView": 1
     },
     {
-        "channelName": "FILM&ARTS (LIMPO)",
+        "channelName": "FILM&ARTS",
         "link": "https://centraldocurso.top/audio/player.php?slug=filmarts&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1694,7 +1694,7 @@
         "webView": 1
     },
     {
-        "channelName": "HGTV (LIMPO)",
+        "channelName": "HGTV",
         "link": "https://centraldocurso.top/audio/player.php?slug=hgtv&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1708,7 +1708,7 @@
         "webView": 1
     },
     {
-        "channelName": "HISTORY (LIMPO)",
+        "channelName": "HISTORY",
         "link": "https://centraldocurso.top/audio/player.php?slug=history&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1722,7 +1722,7 @@
         "webView": 1
     },
     {
-        "channelName": "HISTORY 2 (LIMPO)",
+        "channelName": "HISTORY 2",
         "link": "https://centraldocurso.top/audio/player.php?slug=history2&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1736,7 +1736,7 @@
         "webView": 1
     },
     {
-        "channelName": "RED BULL TV (LIMPO)",
+        "channelName": "RED BULL TV",
         "link": "https://centraldocurso.top/audio/player.php?slug=redbulltv&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1750,7 +1750,7 @@
         "webView": 1
     },
     {
-        "channelName": "REDE MINAS (LIMPO)",
+        "channelName": "REDE MINAS",
         "link": "https://centraldocurso.top/audio/player.php?slug=redeminas&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1764,7 +1764,7 @@
         "webView": 1
     },
     {
-        "channelName": "SESCTV (LIMPO)",
+        "channelName": "SESCTV",
         "link": "https://centraldocurso.top/audio/player.php?slug=sesctv&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1778,7 +1778,7 @@
         "webView": 1
     },
     {
-        "channelName": "TRACE BRASIL (LIMPO)",
+        "channelName": "TRACE BRASIL",
         "link": "https://centraldocurso.top/audio/player.php?slug=tracebrasil&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1792,7 +1792,7 @@
         "webView": 1
     },
     {
-        "channelName": "TV ESCOLA (LIMPO)",
+        "channelName": "TV ESCOLA",
         "link": "https://centraldocurso.top/audio/player.php?slug=tvescola&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
@@ -1806,7 +1806,7 @@
         "webView": 1
     },
     {
-        "channelName": "WOOHOO (LIMPO)",
+        "channelName": "WOOHOO",
         "link": "https://centraldocurso.top/audio/player.php?slug=woohoo&fonte=warezcdn.sbs",
         "ativo": 1,
         "contactpage": "",
