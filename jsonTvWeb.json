@@ -40,7 +40,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0,
         "webView": 0
-    },    
+    },
     {
         "channelName": "RECORD BA",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/28783",
@@ -68,7 +68,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/record-tv@3x.png",
         "pausado": 0,
         "webView": 0
-    },   
+    },
     {
         "channelName": "RECORDTV SD",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/7668",
@@ -166,7 +166,7 @@
         "urlImagem": "https://api.reidoscanais.io/img/sbtnews.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "SBT News SD",
         "link": "https://dai.google.com/linear/hls/pa/event/xeOYqkegRUyawPuCPaN2Rw/stream/c6b8b00c-b4f3-47b7-8f80-b03a9544efe4:SCL2/variant/c99d2ab0d64c3b2c5e12915279ff25a7/bandwidth/3126348.m3u8",
@@ -208,7 +208,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
         "pausado": 0,
         "webView": 0
-    },   
+    },
     {
         "channelName": "SBT PA",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/18607",
@@ -236,7 +236,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sbt@3x.png",
         "pausado": 0,
         "webView": 0
-    },    
+    },
     {
         "channelName": "TELE CINE ACTION HD",
         "link": "https://rdcanais.top/telecineaction",
@@ -264,7 +264,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tc-pipoca@3x.png",
         "pausado": 0,
         "webView": 1
-    },  
+    },
     {
         "channelName": "TV Aparecida",
         "link": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8",
@@ -292,7 +292,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/futura@3x.png",
         "pausado": 0,
         "webView": 0
-    },   
+    },
     {
         "channelName": "CULTURA SD",
         "link": "https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br",
@@ -404,7 +404,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/cartoon-network@3x.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "BAND SPORTS SD",
         "link": "https://rdcanais.top/bandsports",
@@ -418,7 +418,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
         "pausado": 0,
         "webView": 1
-    },  
+    },
     {
         "channelName": "GLOBO RIO",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/globorj",
@@ -460,7 +460,7 @@
         "urlImagem": "https://embedtv.best/assets/images/globorj.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "GLOBO SP HD",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww3.embedtv.lat/globosp",
@@ -530,7 +530,7 @@
         "urlImagem": "https://embedtv.best/assets/images/globorj.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "GLOBO BA",
         "link": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
@@ -572,7 +572,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/globonews@3x.png",
         "pausado": 0,
         "webView": 1
-    },  
+    },
     {
         "channelName": "Chespirito",
         "link": "https://centraldocurso.top/audio/player.php?url=https://maxsaidapp.embedtv.lat/24h_chaves",
@@ -600,7 +600,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tve@3x.png",
         "pausado": 0,
         "webView": 0
-    },   
+    },
     {
         "channelName": "Jovem Pan News",
         "link": "http://54k.store:80/059980y48/mario5t318/203502",
@@ -614,7 +614,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/band-sports@3x.png",
         "pausado": 0,
         "webView": 0
-    },   
+    },
     {
         "channelName": "SPORTV",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww3.embedtv.lat/sportv",
@@ -628,7 +628,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv@3x.png",
         "pausado": 0,
         "webView": 1
-    },    
+    },
     {
         "channelName": "SPORTV 2",
         "link": "https://rdcanais.top/sportv2",
@@ -642,7 +642,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/sportv-2@3x.png",
         "pausado": 0,
         "webView": 1
-    },  
+    },
     {
         "channelName": "SPORTV 3 SD",
         "link": "https://rdcanais.top/sportv3",
@@ -670,7 +670,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "TNT Novelas SD",
         "link": "https://rdcanais.top/tntnovelas",
@@ -754,7 +754,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/viva@3x.png",
         "pausado": 0,
         "webView": 1
-    },  
+    },
     {
         "channelName": "TV BRASIL",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/30256",
@@ -782,7 +782,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-channel@3x.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "History 2 HD",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/history2",
@@ -796,7 +796,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/history-2@3x.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "History 2 SD",
         "link": "http://vrpro.fun:80/vennxz3n0p01/gold81500/94213.ts",
@@ -824,7 +824,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "HBO 2 SD",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/hbo2",
@@ -838,7 +838,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-2@3x.png",
         "pausado": 0,
         "webView": 1
-    },  
+    },
     {
         "channelName": "HBO XTREME SD",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/hboxtreme",
@@ -866,7 +866,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/hbo-xtreme@3x.png",
         "pausado": 0,
         "webView": 1
-    },  
+    },
     {
         "channelName": "MTV SD",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/mtv",
@@ -922,7 +922,7 @@
         "urlImagem": "https://embedtv.lat/assets/images/24h.png",
         "pausado": 0,
         "webView": 1
-    },    
+    },
     {
         "channelName": "GNT SD",
         "link": "http://vrpro.fun:80/vennxz3n0p01/gold81500/99951.ts",
@@ -950,7 +950,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/gnt@3x.png",
         "pausado": 0,
         "webView": 1
-    },    
+    },
     {
         "channelName": "ESPN HD",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww3.embedtv.lat/espn",
@@ -1006,7 +1006,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png",
         "pausado": 0,
         "webView": 1
-    },  
+    },
     {
         "channelName": "ESPN 3",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/espn3",
@@ -1020,7 +1020,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "ESPN 3 SD",
         "link": "https://rdcanais.top/espn3",
@@ -1048,7 +1048,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/espn-4@3x.png",
         "pausado": 0,
         "webView": 1
-    },    
+    },
     {
         "channelName": "ESPN 5 SD",
         "link": "https://ww4.embedtv.lat/espn5",
@@ -1076,7 +1076,7 @@
         "urlImagem": "https://embedtv.best/assets/images/espn5.png",
         "pausado": 0,
         "webView": 1
-    },    
+    },
     {
         "channelName": "X SPORTS SD",
         "link": "https://rdcanais.top/xsports",
@@ -1104,7 +1104,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/xsports.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "AXN SD *",
         "link": "https://rdcanais.top/axn",
@@ -1132,7 +1132,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/axn@3x.png",
         "pausado": 0,
         "webView": 1
-    },  
+    },
     {
         "channelName": "AMC SD",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww3.embedtv.lat/amc",
@@ -1160,7 +1160,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/amc@3x.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "ANIMAL PLANET SD",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww3.embedtv.lat/animalplanet",
@@ -1188,7 +1188,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/warner-channel@3x.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "MULTISHOW SD",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww3.embedtv.lat/multishow",
@@ -1202,7 +1202,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/multishow@3x.png",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "MEGAPIX",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww3.embedtv.lat/megapix",
@@ -1216,7 +1216,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/megapix@3x.png",
         "pausado": 0,
         "webView": 1
-    },    
+    },
     {
         "channelName": "Premiere Clubes",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww3.embedtv.lat/premiere",
@@ -1230,7 +1230,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/premiere-clubes-hd@3x.png",
         "pausado": 0,
         "webView": 1
-    },    
+    },
     {
         "channelName": "TV Brasil Central",
         "link": "http://7semfronteiras.cc:8080/Tatianepereira/hkgh7ua9js/27888",
@@ -1244,7 +1244,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/tv-brasil@3x.png",
         "pausado": 0,
         "webView": 0
-    },       
+    },
     {
         "channelName": "DISCOVERY CHANNEL SD",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww3.embedtv.lat/discoverychannel",
@@ -1258,7 +1258,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/discovery@3x.png",
         "pausado": 0,
         "webView": 1
-    },    
+    },
     {
         "channelName": "DISCOVERY SIENCE SD",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww3.embedtv.lat/discoveryscience",
@@ -1272,7 +1272,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/discovery-science.svg",
         "pausado": 0,
         "webView": 1
-    },   
+    },
     {
         "channelName": "STUDIO UNIVERSAL HD",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww3.embedtv.lat/studiouniversal",
@@ -1286,7 +1286,7 @@
         "urlImagem": "https://mondrian.claro.com.br/channels/inverse/studio-universal@3x.png",
         "pausado": 0,
         "webView": 1
-    },    
+    },
     {
         "channelName": "CINEMAX",
         "link": "https://centraldocurso.top/audio/player.php?url=https://ww4.embedtv.lat/cinemax",
@@ -1315,7 +1315,7 @@
         "pausado": 0,
         "webView": 0
     },
-     {
+    {
         "channelName": "CINEMAX SD *",
         "link": "https://rdcanais.top/cinemax",
         "ativo": 0,
@@ -1328,7 +1328,7 @@
         "urlImagem": "https://embedtv.best/assets/images/cinemax.png",
         "pausado": 0,
         "webView": 0
-    },  
+    },
     {
         "channelName": "TOP TV",
         "link": "https://tvacabo.top/player.html?url=https://isaocorp.cloudecast.com/toptv/index.m3u8",
@@ -1342,5 +1342,481 @@
         "urlImagem": "https://pt.wikipedia.org/wiki/Top_TV#/media/Ficheiro:Top_TV_logo.svg",
         "pausado": 0,
         "webView": 0
+    },
+    {
+        "channelName": "DISCOVERY SCIENCE (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=discoveryscience&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/discoveryscience.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "DISCOVERY SCIENCE OP2 (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=discoveryscience&fonte=superflixapi.monster",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/discoveryscience.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "GLOBO AL (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=globoal&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/globoal.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "GLOBO AM (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=globoam&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/globoam.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "GLOBO BA (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=globoba&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/globoba.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "GLOBO DF (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=globodf&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/globodf.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "GLOBO GO (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=globogo&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/globogo.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "GLOBO MG (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=globomg&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/globomg.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "GLOBO MS (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=globoms&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/globoms.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "GLOBO NEWS (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=globonews&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "noticias",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/globonews.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "GLOBOPLAY NOVELAS (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=globoplaynovelas&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/globoplaynovelas.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "GLOBO RJ (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=globorj&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/globorj.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "GLOBO RS (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=globors&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/globors.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "GLOBO SP (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=globosp&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "outros",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/globosp.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "24H - SPACETODAY (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=24h-spacetoday&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/24h-spacetoday.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "A&E (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=ae&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/ae.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "ANIMAL PLANET (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=animalplanet&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/animalplanet.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "ARTE1 (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=arte1&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/arte1.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "CURTA! (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=curta&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/curta.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "DISCOVERY CHANNEL (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=discoverychannel&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/discoverychannel.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "DISCOVERY HOME & HEALTH (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=discoveryheh&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/discoveryheh.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "DISCOVERY ID (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=discoveryid&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/discoveryid.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "DISCOVERY THEATER (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=discoverytheater&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/discoverytheater.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "DISCOVERY WORLD (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=discoveryworld&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/discoveryworld.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "FILM&ARTS (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=filmarts&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/filmarts.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "HGTV (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=hgtv&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/hgtv.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "HISTORY (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=history&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/history.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "HISTORY 2 (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=history2&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/history2.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "RED BULL TV (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=redbulltv&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/redbulltv.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "REDE MINAS (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=redeminas&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/redeminas.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "SESCTV (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=sesctv&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/sesctv.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "TRACE BRASIL (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=tracebrasil&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/tracebrasil.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "TV ESCOLA (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=tvescola&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/tvescola.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "WOOHOO (LIMPO)",
+        "link": "https://centraldocurso.top/audio/player.php?slug=woohoo&fonte=warezcdn.sbs",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "documentarios",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "referrer": "https://pobreflixoficial.lat/",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://pobreflixoficial.lat/img/woohoo.png",
+        "pausado": 0,
+        "webView": 1
     }
 ]
