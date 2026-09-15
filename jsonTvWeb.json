@@ -163,7 +163,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://api.reidoscanais.io/img/sbtnews.png",
+        "urlImagem": "https://visioncine.lat/img/sbtnews.png",
         "pausado": 0,
         "webView": 1
     },
@@ -177,7 +177,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://api.reidoscanais.io/img/sbtnews.png",
+        "urlImagem": "https://visioncine.lat/img/sbtnews.png",
         "pausado": 1,
         "webView": 0
     },
@@ -387,7 +387,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "",
+        "urlImagem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Top_TV_logo.svg",
         "pausado": 1,
         "webView": 0
     },
@@ -429,7 +429,7 @@
         "referrer": "https://13embeddecanais.xyz/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globorj.png",
+        "urlImagem": "https://visioncine.lat/img/globorj.png",
         "pausado": 0,
         "webView": 1
     },
@@ -443,7 +443,7 @@
         "referrer": "https://iframe.embedtv.lat/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globorj.png",
+        "urlImagem": "https://visioncine.lat/img/globorj.png",
         "pausado": 0,
         "webView": 1
     },
@@ -457,7 +457,7 @@
         "referrer": "https://rdcplayer.online/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globorj.png",
+        "urlImagem": "https://visioncine.lat/img/globorj.png",
         "pausado": 0,
         "webView": 1
     },
@@ -471,7 +471,7 @@
         "referrer": "https://13embeddecanais.xyz/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globosp.png",
+        "urlImagem": "https://visioncine.lat/img/globosp.png",
         "pausado": 0,
         "webView": 1
     },
@@ -485,7 +485,7 @@
         "referrer": "https://iframe.embedtv.lat/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globosp.png",
+        "urlImagem": "https://visioncine.lat/img/globosp.png",
         "pausado": 0,
         "webView": 1
     },
@@ -499,7 +499,7 @@
         "referrer": "https://redecanaistv.fyi/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globorj.png",
+        "urlImagem": "https://visioncine.lat/img/globorj.png",
         "pausado": 0,
         "webView": 1
     },
@@ -513,7 +513,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globorj.png",
+        "urlImagem": "https://visioncine.lat/img/globomg.png",
         "pausado": 0,
         "webView": 1
     },
@@ -527,7 +527,7 @@
         "referrer": "https://ww4.embedtv.lat/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globorj.png",
+        "urlImagem": "https://visioncine.lat/img/globomg.png",
         "pausado": 0,
         "webView": 1
     },
@@ -541,7 +541,7 @@
         "referrer": "https://rdcplayer.online/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globorj.png",
+        "urlImagem": "https://visioncine.lat/img/globoba.png",
         "pausado": 0,
         "webView": 0
     },
@@ -555,7 +555,7 @@
         "referrer": "https://ww4.embedtv.lat/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/globorj.png",
+        "urlImagem": "https://visioncine.lat/img/globors.png",
         "pausado": 0,
         "webView": 1
     },
@@ -583,7 +583,7 @@
         "referrer": "https://maxsaidapp.embedtv.lat/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.digital/assets/images/24h.png",
+        "urlImagem": "https://visioncine.lat/img/24h-chaves.png",
         "pausado": 0,
         "webView": 1
     },
@@ -897,7 +897,7 @@
     },
     {
         "channelName": "TODO MUNDO ODEIA O CRIS",
-        "link": "http://vrpro.fun:80/vennxz3n0p01/gold81500/3330748.ts",
+        "link": "https://centraldocurso.top/audio/player.php?slug=24h-todo-mundo-odeia-o-chris&fonte=pobreflixoficial.lat",
         "ativo": 0,
         "contactpage": "",
         "categoria": "animacao",
@@ -905,9 +905,9 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.lat/assets/images/24h.png",
-        "pausado": 1,
-        "webView": 0
+        "urlImagem": "https://visioncine.lat/img/24h-todo-mundo-odeia-o-chris.png",
+        "pausado": 0,
+        "webView": 1
     },
     {
         "channelName": "TODO MUNDO ODEIA O CRIS Op 2",
@@ -961,7 +961,7 @@
         "referrer": "ttps://ww3.embedtv.lat/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/espn.png",
+        "urlImagem": "https://visioncine.lat/img/espn.png",
         "pausado": 0,
         "webView": 1
     },
@@ -1059,7 +1059,7 @@
         "referrer": "https://13embeddecanais.xyz/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/espn5.png",
+        "urlImagem": "https://visioncine.lat/img/espn5.png",
         "pausado": 0,
         "webView": 1
     },
@@ -1073,7 +1073,7 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/espn5.png",
+        "urlImagem": "https://visioncine.lat/img/espn5.png",
         "pausado": 0,
         "webView": 1
     },
@@ -1297,7 +1297,7 @@
         "referrer": "https://ww4.embedtv.lat/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/cinemax.png",
+        "urlImagem": "https://visioncine.lat/img/cinemax.png",
         "pausado": 0,
         "webView": 1
     },
@@ -1311,7 +1311,7 @@
         "referrer": "",
         "isEmbed": 1,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/cinemax.png",
+        "urlImagem": "https://visioncine.lat/img/cinemax.png",
         "pausado": 0,
         "webView": 0
     },
@@ -1325,7 +1325,7 @@
         "referrer": "",
         "isEmbed": 1,
         "contaisToken": 0,
-        "urlImagem": "https://embedtv.best/assets/images/cinemax.png",
+        "urlImagem": "https://visioncine.lat/img/cinemax.png",
         "pausado": 0,
         "webView": 0
     },
@@ -1339,7 +1339,7 @@
         "referrer": "https://canais.free.nf/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://pt.wikipedia.org/wiki/Top_TV#/media/Ficheiro:Top_TV_logo.svg",
+        "urlImagem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Top_TV_logo.svg",
         "pausado": 1,
         "webView": 0
     },
@@ -1409,7 +1409,7 @@
         "referrer": "https://pobreflixoficial.lat/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://pobreflixoficial.lat/img/globoba.png",
+        "urlImagem": "https://visioncine.lat/img/globoba.png",
         "pausado": 0,
         "webView": 1
     },
@@ -1451,7 +1451,7 @@
         "referrer": "https://pobreflixoficial.lat/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://pobreflixoficial.lat/img/globomg.png",
+        "urlImagem": "https://visioncine.lat/img/globomg.png",
         "pausado": 0,
         "webView": 1
     },
@@ -1521,7 +1521,7 @@
         "referrer": "https://pobreflixoficial.lat/",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "https://pobreflixoficial.lat/img/globors.png",
+        "urlImagem": "https://visioncine.lat/img/globors.png",
         "pausado": 0,
         "webView": 1
     },
@@ -1829,7 +1829,35 @@
         "referrer": "",
         "isEmbed": 0,
         "contaisToken": 0,
-        "urlImagem": "",
+        "urlImagem": "https://visioncine.lat/img/gloob.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "24H CHAPOLIN",
+        "link": "https://centraldocurso.top/audio/player.php?slug=24h-chapolin&fonte=pobreflixoficial.lat",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "animacao",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://visioncine.lat/img/24h-chapolin.png",
+        "pausado": 0,
+        "webView": 1
+    },
+    {
+        "channelName": "24H CHAVES",
+        "link": "https://centraldocurso.top/audio/player.php?slug=24h-chaves&fonte=pobreflixoficial.lat",
+        "ativo": 1,
+        "contactpage": "",
+        "categoria": "animacao",
+        "userAgent": "",
+        "referrer": "",
+        "isEmbed": 0,
+        "contaisToken": 0,
+        "urlImagem": "https://visioncine.lat/img/24h-chaves.png",
         "pausado": 0,
         "webView": 1
     }
