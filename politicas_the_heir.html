@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Privacy Policy · O Herdeiro / The Heir</title>
+  <meta name="description" content="Privacy Policy for O Herdeiro / The Heir — Portuguese and English." />
+  <style>
+    :root {
+      --bg: #0f1210;
+      --surface: #1a1f1c;
+      --text: #e8ebe6;
+      --muted: #9aa39a;
+      --accent: #c4a35a;
+      --line: #2a322c;
+      --link: #d4b86a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      background: radial-gradient(ellipse at top, #1c2420 0%, var(--bg) 55%);
+      color: var(--text);
+      line-height: 1.65;
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 2rem 1.25rem 4rem;
+    }
+    header {
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 1.25rem;
+      margin-bottom: 1.75rem;
+    }
+    .brand {
+      font-size: 0.85rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin: 0 0 0.5rem;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.1rem);
+      font-weight: normal;
+      margin: 0 0 0.75rem;
+    }
+    .meta { color: var(--muted); font-size: 0.95rem; margin: 0; }
+    .lang-switch {
+      display: flex;
+      gap: 0.5rem;
+      margin-top: 1.25rem;
+    }
+    .lang-switch button {
+      font-family: inherit;
+      font-size: 0.9rem;
+      padding: 0.45rem 0.9rem;
+      border: 1px solid var(--line);
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      border-radius: 2px;
+    }
+    .lang-switch button[aria-pressed="true"] {
+      border-color: var(--accent);
+      color: var(--accent);
+      background: var(--surface);
+    }
+    h2 {
+      font-size: 1.15rem;
+      font-weight: normal;
+      color: var(--accent);
+      margin: 2rem 0 0.75rem;
+      letter-spacing: 0.02em;
+    }
+    p, li { font-size: 1.02rem; }
+    ul { padding-left: 1.25rem; }
+    li { margin-bottom: 0.4rem; }
+    a { color: var(--link); }
+    .panel {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      padding: 1rem 1.1rem;
+      margin: 1rem 0;
+      border-radius: 2px;
+    }
+    .panel strong { color: var(--accent); }
+    footer {
+      margin-top: 3rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+    [hidden] { display: none !important; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">O Herdeiro · The Heir</p>
+      <h1 data-i18n="title">Política de Privacidade</h1>
+      <p class="meta">
+        <span data-i18n="updated">Última atualização:</span>
+        <span data-i18n="date">18 de setembro de 2026</span>
+        · <code>com.herdeiro.herdeiro_esquecido</code>
+      </p>
+      <div class="lang-switch" role="group" aria-label="Language">
+        <button type="button" id="btn-pt" aria-pressed="true">Português</button>
+        <button type="button" id="btn-en" aria-pressed="false">English</button>
+      </div>
+    </header>
+
+    <!-- ========== PORTUGUÊS ========== -->
+    <article id="content-pt" lang="pt-BR">
+      <div class="panel">
+        Esta Política de Privacidade descreve como o aplicativo móvel
+        <strong>O Herdeiro</strong> (“App”, “nós”) trata informações quando você
+        o utiliza no Android. O App é um jogo de mistério point-and-click.
+      </div>
+
+      <h2>1. Quem somos</h2>
+      <p>
+        O Herdeiro é desenvolvido e publicado de forma independente
+        (pacote Android: <code>com.herdeiro.herdeiro_esquecido</code>).
+      </p>
+      <p>
+        Contato sobre privacidade:
+        <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a>
+      </p>
+
+      <h2>2. Resumo</h2>
+      <ul>
+        <li>Não pedimos cadastro, login, nome, e-mail ou conta.</li>
+        <li>O progresso do jogo fica salvo <strong>somente no seu aparelho</strong>.</li>
+        <li>Exibimos anúncios via <strong>Google AdMob</strong> (vídeos de dica e um anúncio interstitial).</li>
+        <li>Na União Europeia, Reino Unido e regiões equivalentes, pedimos consentimento de anúncios pelo formulário UMP do Google antes de medir/exibir anúncios personalizados.</li>
+        <li>Não vendemos seus dados pessoais.</li>
+      </ul>
+
+      <h2>3. Dados que tratamos</h2>
+
+      <h2 style="font-size:1rem;color:var(--muted);margin-top:1.25rem;">3.1 Dados salvos localmente (pelo App)</h2>
+      <p>
+        Usamos armazenamento local do aparelho (SharedPreferences) para guardar
+        o progresso do jogo, por exemplo:
+      </p>
+      <ul>
+        <li>cena / capítulo atual;</li>
+        <li>inventário e itens coletados;</li>
+        <li>flags de puzzles resolvidos;</li>
+        <li>histórico de cenas visitadas.</li>
+      </ul>
+      <p>
+        Esses dados <strong>não são enviados aos nossos servidores</strong>
+        (não operamos um servidor de conta ou nuvem de saves). Eles permanecem
+        no dispositivo até você desinstalar o App ou limpar os dados do aplicativo.
+      </p>
+
+      <h2 style="font-size:1rem;color:var(--muted);margin-top:1.25rem;">3.2 Dados relacionados a anúncios (Google AdMob)</h2>
+      <p>
+        O App integra o SDK do Google Mobile Ads (AdMob) para:
+      </p>
+      <ul>
+        <li><strong>anúncios recompensados</strong> — dicas opcionais ao assistir um vídeo;</li>
+        <li><strong>anúncio interstitial</strong> — exibido em um momento específico da progressão.</li>
+      </ul>
+      <p>
+        A Google e suas redes de parceiros podem processar identificadores de
+        publicidade (por exemplo, o ID de publicidade do Android / AD_ID),
+        endereço IP, informações do dispositivo, dados de uso de anúncios e
+        sinais de diagnóstico, conforme as políticas da Google. Em regiões
+        reguladas, isso ocorre de acordo com as escolhas que você fizer no
+        formulário de consentimento (UMP).
+      </p>
+      <p>
+        Saiba mais:
+        <a href="https://policies.google.com/privacy" rel="noopener noreferrer" target="_blank">Política de Privacidade da Google</a>
+        e
+        <a href="https://support.google.com/admob/answer/6128543" rel="noopener noreferrer" target="_blank">Como o AdMob usa dados</a>.
+      </p>
+
+      <h2 style="font-size:1rem;color:var(--muted);margin-top:1.25rem;">3.3 Dados que NÃO coletamos diretamente</h2>
+      <ul>
+        <li>não coletamos nome, e-mail, telefone ou documentos;</li>
+        <li>não acessamos contatos, fotos, microfone ou localização precisa;</li>
+        <li>não operamos chat, redes sociais ou compras dentro do jogo que exijam conta nossa.</li>
+      </ul>
+
+      <h2>4. Permissões do Android</h2>
+      <ul>
+        <li><strong>INTERNET</strong> e <strong>ACCESS_NETWORK_STATE</strong> — carregar anúncios e verificar conectividade.</li>
+        <li><strong>AD_ID</strong> — permitir que o AdMob use o identificador de publicidade do dispositivo, quando aplicável e conforme o consentimento/configurações do usuário.</li>
+      </ul>
+
+      <h2>5. Finalidades</h2>
+      <ul>
+        <li>permitir que você jogue e continue o progresso no mesmo aparelho;</li>
+        <li>oferecer dicas opcionais via anúncio recompensado;</li>
+        <li>monetizar o App de forma sustentável com anúncios;</li>
+        <li>cumprir obrigações legais de transparência e consentimento (ex.: EEA/UK).</li>
+      </ul>
+
+      <h2>6. Base legal (EEA / Reino Unido / LGPD)</h2>
+      <p>
+        Quando a legislação de proteção de dados se aplicar (incluindo LGPD no
+        Brasil e GDPR no EEE/UK), o tratamento ocorre, conforme o caso, com base em:
+      </p>
+      <ul>
+        <li><strong>execução do serviço / interesse legítimo</strong> — funcionamento do jogo e salvamento local do progresso;</li>
+        <li><strong>consentimento</strong> — anúncios personalizados e tecnologias de medição quando exigidos (formulário UMP / opções de privacidade no menu);</li>
+        <li><strong>obrigação legal</strong> — quando necessário para cumprir leis aplicáveis.</li>
+      </ul>
+      <p>
+        Em regiões onde o Google exige, você pode reabrir as
+        <strong>Opções de privacidade</strong> pelo menu do App.
+      </p>
+
+      <h2>7. Compartilhamento</h2>
+      <p>
+        Não vendemos dados pessoais. Podemos compartilhar ou permitir o
+        processamento por prestadores estritamente necessários à operação do App,
+        em especial:
+      </p>
+      <ul>
+        <li><strong>Google LLC / AdMob</strong> — exibição e medição de anúncios;</li>
+        <li>autoridades, se exigido por lei.</li>
+      </ul>
+
+      <h2>8. Retenção</h2>
+      <ul>
+        <li><strong>Progresso do jogo:</strong> no aparelho, até exclusão dos dados do App ou desinstalação.</li>
+        <li><strong>Dados de anúncios:</strong> retidos pela Google / parceiros conforme as respectivas políticas.</li>
+      </ul>
+
+      <h2>9. Segurança</h2>
+      <p>
+        Adotamos medidas razoáveis no desenvolvimento do App (por exemplo,
+        não operar servidor próprio de dados de jogadores). Nenhum método de
+        transmissão ou armazenamento eletrônico é 100% seguro.
+      </p>
+
+      <h2>10. Crianças</h2>
+      <p>
+        O App não é dirigido a crianças menores de 13 anos (ou idade mínima
+        equivalente na sua jurisdição). Não coletamos conscientemente dados
+        pessoais de crianças. Se você for responsável legal e acreditar que
+        uma criança nos forneceu dados via serviços de terceiros (anúncios),
+        contate-nos para avaliarmos o caso.
+      </p>
+
+      <h2>11. Seus direitos</h2>
+      <p>
+        Dependendo da lei aplicável (incluindo LGPD e GDPR), você pode ter
+        direito de acesso, correção, exclusão, oposição, portabilidade e
+        revogação de consentimento. Como o progresso fica no aparelho, você
+        pode excluí-lo limpando os dados do App ou desinstalando-o. Para
+        preferências de anúncios, use as configurações do Android / Google e,
+        quando disponível, as Opções de privacidade no menu do App.
+      </p>
+      <p>
+        Para exercer direitos relacionados aos dados tratados por nós, escreva
+        para o e-mail de contato acima. Solicitações sobre dados processados
+        pela Google/AdMob devem ser tratadas também pelos canais da Google.
+      </p>
+
+      <h2>12. Alterações</h2>
+      <p>
+        Podemos atualizar esta Política periodicamente. A data no topo desta
+        página indica a versão vigente. O uso continuado do App após alterações
+        significa que você está ciente da versão atualizada, na medida permitida
+        pela lei.
+      </p>
+
+      <h2>13. Contato</h2>
+      <p>
+        Dúvidas sobre esta Política de Privacidade:<br />
+        E-mail: <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a><br />
+        App: O Herdeiro / The Heir · <code>com.herdeiro.herdeiro_esquecido</code>
+      </p>
+    </article>
+
+    <!-- ========== ENGLISH ========== -->
+    <article id="content-en" lang="en" hidden>
+      <div class="panel">
+        This Privacy Policy explains how the mobile application
+        <strong>The Heir</strong> (“App”, “we”, “us”) handles information when
+        you use it on Android. The App is a point-and-click mystery game
+        (also known as <em>O Herdeiro</em>).
+      </div>
+
+      <h2>1. Who we are</h2>
+      <p>
+        The Heir is developed and published independently
+        (Android package: <code>com.herdeiro.herdeiro_esquecido</code>).
+      </p>
+      <p>
+        Privacy contact:
+        <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a>
+      </p>
+
+      <h2>2. Summary</h2>
+      <ul>
+        <li>We do not require sign-up, login, name, email, or an account.</li>
+        <li>Game progress is stored <strong>only on your device</strong>.</li>
+        <li>We show ads through <strong>Google AdMob</strong> (rewarded hint videos and one interstitial).</li>
+        <li>In the EEA, UK, and equivalent regions, we request ads consent via Google’s UMP form before personalized ads/measurement where required.</li>
+        <li>We do not sell your personal data.</li>
+      </ul>
+
+      <h2>3. Information we process</h2>
+
+      <h2 style="font-size:1rem;color:var(--muted);margin-top:1.25rem;">3.1 Locally stored data (by the App)</h2>
+      <p>
+        We use on-device storage (SharedPreferences) to save gameplay progress, such as:
+      </p>
+      <ul>
+        <li>current scene / chapter;</li>
+        <li>inventory and collected items;</li>
+        <li>solved-puzzle flags;</li>
+        <li>visited scenes history.</li>
+      </ul>
+      <p>
+        This data is <strong>not sent to our servers</strong>
+        (we do not operate an account or cloud-save backend). It remains on
+        your device until you uninstall the App or clear the app’s data.
+      </p>
+
+      <h2 style="font-size:1rem;color:var(--muted);margin-top:1.25rem;">3.2 Advertising-related data (Google AdMob)</h2>
+      <p>
+        The App integrates the Google Mobile Ads (AdMob) SDK to provide:
+      </p>
+      <ul>
+        <li><strong>rewarded ads</strong> — optional hints after watching a video;</li>
+        <li><strong>interstitial ad</strong> — shown at a specific progression point.</li>
+      </ul>
+      <p>
+        Google and its partner networks may process advertising identifiers
+        (such as the Android Advertising ID / AD_ID), IP address, device
+        information, ad interaction data, and diagnostic signals, under Google’s
+        policies. In regulated regions, this follows the choices you make in the
+        consent form (UMP).
+      </p>
+      <p>
+        Learn more:
+        <a href="https://policies.google.com/privacy" rel="noopener noreferrer" target="_blank">Google Privacy Policy</a>
+        and
+        <a href="https://support.google.com/admob/answer/6128543" rel="noopener noreferrer" target="_blank">How AdMob uses data</a>.
+      </p>
+
+      <h2 style="font-size:1rem;color:var(--muted);margin-top:1.25rem;">3.3 Data we do NOT collect directly</h2>
+      <ul>
+        <li>we do not collect your name, email, phone number, or ID documents;</li>
+        <li>we do not access contacts, photos, microphone, or precise location;</li>
+        <li>we do not operate chat, social networks, or in-app purchases that require an account with us.</li>
+      </ul>
+
+      <h2>4. Android permissions</h2>
+      <ul>
+        <li><strong>INTERNET</strong> and <strong>ACCESS_NETWORK_STATE</strong> — to load ads and check connectivity.</li>
+        <li><strong>AD_ID</strong> — to allow AdMob to use the device advertising identifier where applicable and according to user consent/settings.</li>
+      </ul>
+
+      <h2>5. Purposes</h2>
+      <ul>
+        <li>let you play and continue progress on the same device;</li>
+        <li>offer optional hints via rewarded ads;</li>
+        <li>monetize the App sustainably with advertising;</li>
+        <li>meet legal transparency and consent obligations (e.g., EEA/UK).</li>
+      </ul>
+
+      <h2>6. Legal bases (EEA / UK / LGPD)</h2>
+      <p>
+        Where data-protection law applies (including Brazil’s LGPD and the
+        GDPR in the EEA/UK), processing is based, as applicable, on:
+      </p>
+      <ul>
+        <li><strong>performance of the service / legitimate interests</strong> — running the game and local save data;</li>
+        <li><strong>consent</strong> — personalized ads and measurement technologies when required (UMP form / in-app privacy options);</li>
+        <li><strong>legal obligation</strong> — when needed to comply with applicable law.</li>
+      </ul>
+      <p>
+        Where Google requires it, you can reopen
+        <strong>Privacy options</strong> from the App menu.
+      </p>
+
+      <h2>7. Sharing</h2>
+      <p>
+        We do not sell personal data. We may share or allow processing by
+        providers strictly needed to operate the App, in particular:
+      </p>
+      <ul>
+        <li><strong>Google LLC / AdMob</strong> — ad serving and measurement;</li>
+        <li>authorities, if required by law.</li>
+      </ul>
+
+      <h2>8. Retention</h2>
+      <ul>
+        <li><strong>Game progress:</strong> on-device until you clear app data or uninstall.</li>
+        <li><strong>Ad-related data:</strong> retained by Google / partners under their policies.</li>
+      </ul>
+
+      <h2>9. Security</h2>
+      <p>
+        We take reasonable steps in developing the App (for example, we do not
+        run our own player-data server). No method of electronic transmission
+        or storage is 100% secure.
+      </p>
+
+      <h2>10. Children</h2>
+      <p>
+        The App is not directed to children under 13 (or the equivalent minimum
+        age in your jurisdiction). We do not knowingly collect personal data
+        from children. If you are a parent or guardian and believe a child has
+        provided data through third-party ad services, contact us so we can
+        review the matter.
+      </p>
+
+      <h2>11. Your rights</h2>
+      <p>
+        Depending on applicable law (including LGPD and GDPR), you may have
+        rights to access, correct, delete, object, port data, and withdraw
+        consent. Because progress is stored on-device, you can delete it by
+        clearing the App’s data or uninstalling. For ad preferences, use your
+        Android / Google settings and, when available, Privacy options in the
+        App menu.
+      </p>
+      <p>
+        To exercise rights regarding data we control, email the contact above.
+        Requests about data processed by Google/AdMob should also be handled
+        through Google’s channels.
+      </p>
+
+      <h2>12. Changes</h2>
+      <p>
+        We may update this Policy from time to time. The date at the top of
+        this page shows the current version. Continued use of the App after
+        changes means you are aware of the updated version, to the extent
+        permitted by law.
+      </p>
+
+      <h2>13. Contact</h2>
+      <p>
+        Questions about this Privacy Policy:<br />
+        Email: <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a><br />
+        App: The Heir / O Herdeiro · <code>com.herdeiro.herdeiro_esquecido</code>
+      </p>
+    </article>
+
+    <footer>
+      <span data-i18n="footer">O Herdeiro / The Heir — Política de Privacidade bilíngue (PT/EN).</span>
+    </footer>
+  </div>
+
+  <script>
+    (function () {
+      var titles = {
+        pt: "Política de Privacidade",
+        en: "Privacy Policy"
+      };
+      var updated = {
+        pt: "Última atualização:",
+        en: "Last updated:"
+      };
+      var dates = {
+        pt: "18 de setembro de 2026",
+        en: "September 18, 2026"
+      };
+      var footer = {
+        pt: "O Herdeiro / The Heir — Política de Privacidade bilíngue (PT/EN).",
+        en: "The Heir / O Herdeiro — Bilingual Privacy Policy (EN/PT)."
+      };
+
+      function setLang(lang) {
+        var isPt = lang === "pt";
+        document.documentElement.lang = isPt ? "pt-BR" : "en";
+        document.getElementById("content-pt").hidden = !isPt;
+        document.getElementById("content-en").hidden = isPt;
+        document.getElementById("btn-pt").setAttribute("aria-pressed", String(isPt));
+        document.getElementById("btn-en").setAttribute("aria-pressed", String(!isPt));
+        document.querySelector('[data-i18n="title"]').textContent = titles[lang];
+        document.querySelector('[data-i18n="updated"]').textContent = updated[lang];
+        document.querySelector('[data-i18n="date"]').textContent = dates[lang];
+        document.querySelector('[data-i18n="footer"]').textContent = footer[lang];
+        try { localStorage.setItem("privacy_lang", lang); } catch (e) {}
+        if (history.replaceState) {
+          history.replaceState(null, "", "#" + lang);
+        } else {
+          location.hash = lang;
+        }
+      }
+
+      document.getElementById("btn-pt").addEventListener("click", function () { setLang("pt"); });
+      document.getElementById("btn-en").addEventListener("click", function () { setLang("en"); });
+
+      var hash = (location.hash || "").replace("#", "").toLowerCase();
+      var saved = null;
+      try { saved = localStorage.getItem("privacy_lang"); } catch (e) {}
+      var initial = (hash === "en" || hash === "pt") ? hash
+        : (saved === "en" || saved === "pt") ? saved
+        : (navigator.language || "").toLowerCase().startsWith("pt") ? "pt" : "en";
+      setLang(initial);
+    })();
+  </script>
+</body>
+</html>
