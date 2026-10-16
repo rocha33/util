@@ -8,29 +8,61 @@
     body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 2rem auto; padding: 0 1.25rem; line-height: 1.5; color: #1b3a5c; }
     h1 { font-size: 1.6rem; }
     h2 { font-size: 1.15rem; margin-top: 1.6rem; }
+    ul { padding-left: 1.25rem; }
+    li { margin-bottom: 0.35rem; }
+    a { color: #1a5fb4; }
     .muted { color: #5f6368; font-size: 0.9rem; }
   </style>
 </head>
 <body>
   <h1>DOT Lookup privacy policy</h1>
-  <p class="muted">Last updated: August 25, 2026</p>
-  <p>DOT Lookup is a lookup tool. It is not a social network, it does not create accounts, and it does not run a backend of our own.</p>
+  <p class="muted">Last updated: October 15, 2026</p>
+  <p>This policy explains what information the DOT Lookup Android app (package <code>com.dotlookup.dot_lookup</code>) handles, why, and what choices you have. DOT Lookup is a lookup tool. It is not a social network, it does not create accounts, and it does not run a backend of our own.</p>
+
+  <h2>Information we collect</h2>
+  <p>We, the developer, do not collect, receive, or store any personal information. There is no sign-up, no login, and no server of ours that your data passes through.</p>
 
   <h2>What stays on this phone</h2>
-  <p>USDOT / MC lookups, recent searches, starred carriers, and cached FMCSA records are stored only in the app’s local storage. We do not receive them. Clearing data in About wipes that copy.</p>
+  <p>USDOT / MC lookups, recent searches, starred carriers (watchlist), cached FMCSA records, and simple usage counters (for example, how many lookups succeeded, used to decide when to ask for a rating) are stored only in the app’s local storage. We do not receive them.</p>
+  <p>“Clear saved data” in the app’s About screen deletes your recent lookups, carrier list, and cached records. To delete everything, including the usage counters, clear the app’s storage in Android Settings or uninstall the app.</p>
 
   <h2>What leaves this phone</h2>
-  <p>Lookups are sent to the FMCSA QCMobile (SAFER) public API so the app can return the federal carrier record. That request includes the number or name you typed and a rate-limiting WebKey. It does not include your Google account, contacts, or location.</p>
-  <p>If you tap Call, Email, Maps, Share, Rate, or an FMCSA website link, the operating system opens another app. Those apps have their own policies.</p>
+  <ul>
+    <li><strong>FMCSA lookups.</strong> Lookups are sent to the FMCSA QCMobile (SAFER) public API so the app can return the federal carrier record. That request includes the number or name you typed and a rate-limiting WebKey. It does not include your Google account, contacts, or location. Carrier records are public information published by FMCSA.</li>
+    <li><strong>Advertising (Google AdMob).</strong> See the Advertising section below.</li>
+    <li><strong>Google Play services.</strong> The app uses Google Play’s in-app review and in-app update features. These are handled by Google Play, under <a href="https://policies.google.com/privacy">Google’s privacy policy</a>.</li>
+    <li><strong>Other apps you open.</strong> If you tap Call, Email, Maps, Share, Rate, or an FMCSA website link, the operating system opens another app. Those apps have their own policies.</li>
+  </ul>
 
   <h2>Advertising</h2>
-  <p>A single banner ad may appear below results, served by Google AdMob. Google may use the Android Advertising ID and device / network signals to fill that banner. We do not use that ID for anything else, and we do not sell lookup history.</p>
-  <p>You can reset or opt out of ads personalization in Android Settings → Privacy → Ads.</p>
+  <p>A banner ad and one native ad may appear around search results, served by Google AdMob. To serve, measure, and limit fraud on those ads, Google may collect:</p>
+  <ul>
+    <li>the Android Advertising ID;</li>
+    <li>device and network information (such as device model, OS version, IP address, and approximate location derived from it);</li>
+    <li>ad interactions (such as impressions and taps).</li>
+  </ul>
+  <p>This collection is done by Google, not by us, and is governed by Google’s policies: <a href="https://policies.google.com/technologies/partner-sites">How Google uses information from sites or apps that use its services</a> and <a href="https://support.google.com/admob/answer/6128543">AdMob data disclosure</a>. We do not use the Advertising ID for anything else, and we do not sell or share your lookup history.</p>
+  <p>You can reset or delete your Advertising ID, or opt out of ads personalization, in Android Settings → Privacy → Ads (or Settings → Google → Ads on some devices). You will still see ads, but they will be less relevant.</p>
+
+  <h2>Data retention and deletion</h2>
+  <p>Data stored on your phone stays there until you clear it or uninstall the app. We hold no copy, so there is nothing for us to delete on our side. For data collected by Google for advertising, see <a href="https://policies.google.com/privacy">Google’s privacy policy</a> and your Google account controls.</p>
+
+  <h2>Security</h2>
+  <p>All network requests from the app use encrypted connections (HTTPS). Local data is kept in the app’s private storage, which other apps cannot read.</p>
+
+  <h2>Your privacy rights</h2>
+  <p>Depending on where you live (for example, California under the CCPA/CPRA, or other U.S. states with privacy laws), you may have the right to know, access, delete, or opt out of the sale or sharing of personal information. Because we do not collect or hold personal information ourselves, you can exercise these rights directly by clearing the app’s data as described above, and by using the advertising controls in Android Settings. For data processed by Google, use <a href="https://myaccount.google.com/data-and-privacy">Google’s privacy controls</a>. You can also contact us with any request.</p>
 
   <h2>Children</h2>
-  <p>This app is built for freight brokers, dispatchers, and motor carriers. It is not directed at children under 13.</p>
+  <p>This app is built for freight brokers, dispatchers, and motor carriers. It is not directed at children under 13, and we do not knowingly collect information from children.</p>
 
   <h2>Independent of FMCSA</h2>
   <p>This app is not affiliated with, endorsed by, or operated by FMCSA or the U.S. Department of Transportation.</p>
+
+  <h2>Changes to this policy</h2>
+  <p>If this policy changes, we will update this page and the “Last updated” date above. Material changes will also be noted in the app’s release notes.</p>
+
+  <h2>Contact</h2>
+  <p>Questions or requests about this policy: <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a></p>
 </body>
 </html>
