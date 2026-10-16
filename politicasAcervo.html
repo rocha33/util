@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Acervo — Privacy Policy / Política de Privacidade / Política de Privacidad</title>
+<style>
+  :root { --bg:#f7f8fa; --card:#fff; --text:#1f2430; --muted:#5b6475; --accent:#2f5bea; --line:#e2e5ec; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#14161b; --card:#1d2027; --text:#e8eaf0; --muted:#9aa3b5; --accent:#7f9cff; --line:#2c303a; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font:16px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+  header { padding:28px 16px 8px; max-width:820px; margin:0 auto; }
+  header h1 { margin:0 0 4px; font-size:1.7rem; }
+  header p { margin:0; color:var(--muted); }
+  nav { max-width:820px; margin:16px auto 0; padding:0 16px; display:flex; gap:8px; }
+  nav button { flex:1; padding:10px; border:1px solid var(--line); background:var(--card); color:var(--text);
+    border-radius:10px; font:inherit; font-weight:600; cursor:pointer; }
+  nav button[aria-pressed="true"] { background:var(--accent); color:#fff; border-color:var(--accent); }
+  main { max-width:820px; margin:16px auto 48px; padding:0 16px; }
+  section.lang { display:none; background:var(--card); border:1px solid var(--line); border-radius:14px; padding:8px 22px 22px; }
+  section.lang.active { display:block; }
+  h2 { font-size:1.15rem; margin:26px 0 6px; color:var(--accent); }
+  p, li { margin:6px 0; }
+  ul { padding-left:22px; }
+  table { width:100%; border-collapse:collapse; margin:10px 0; font-size:.93rem; }
+  th, td { text-align:left; vertical-align:top; padding:8px; border-bottom:1px solid var(--line); }
+  th { color:var(--muted); font-weight:600; }
+  code { background:var(--bg); padding:1px 5px; border-radius:5px; font-size:.88em; word-break:break-word; }
+  a { color:var(--accent); }
+  .updated { color:var(--muted); font-size:.9rem; }
+  @media (max-width:560px) { section.lang { padding:4px 14px 18px; } table { font-size:.85rem; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Acervo</h1>
+  <p>Privacy Policy · Política de Privacidade · Política de Privacidad</p>
+</header>
+<nav aria-label="Language">
+  <button data-lang="en" aria-pressed="true">English</button>
+  <button data-lang="pt" aria-pressed="false">Português</button>
+  <button data-lang="es" aria-pressed="false">Español</button>
+</nav>
+<main>
+
+<!-- ============================ ENGLISH ============================ -->
+<section class="lang active" id="en" lang="en">
+  <h2>Privacy Policy</h2>
+  <p class="updated">Last updated: October 15, 2026 · App: Acervo (<code>acervo.vr.documentos.gallery.ai</code>) · Developer: VR Games</p>
+  <p>Acervo is an Android app for offline semantic search of your photos and videos, smart cleanup, documents and receipts, and smart albums. This policy explains what the app accesses, what it does with it, and your choices.</p>
+
+  <h2>1. Summary</h2>
+  <ul>
+    <li>Your photos, videos, documents and the index built from them <strong>stay on your device</strong>. We do not upload them, and we have no server that receives them.</li>
+    <li>Analysis (search, OCR, similarity) runs <strong>on the device</strong>.</li>
+    <li>The app connects to the internet to download the AI model once, to show ads (Google AdMob), and for Google Play update and review features.</li>
+    <li>We do not sell your personal data.</li>
+  </ul>
+
+  <h2>2. Data the app accesses on your device</h2>
+  <ul>
+    <li><strong>Photos and videos</strong> (file names, folders, dates, sizes, thumbnails and, when permitted, location metadata) to build the local search index, find similar photos and screenshots, and build albums.</li>
+    <li><strong>Documents</strong> (PDF, Word and Excel files, up to 30 MB each) and photos of receipts, to list them and read their text.</li>
+    <li><strong>Text recognized in images</strong> (merchant, date, amount) extracted on the device with Google ML Kit text recognition (bundled in the app) and saved only locally.</li>
+    <li><strong>App settings</strong> (language, albums you create, warranty reminders, biometric lock on/off) stored locally.</li>
+  </ul>
+  <p>This information is not sent to us or to third parties. App data is excluded from Android backup and device transfer.</p>
+
+  <h2>3. Permissions</h2>
+  <table>
+    <tr><th>Permission</th><th>Why the app needs it</th></tr>
+    <tr><td><code>READ_MEDIA_IMAGES</code>, <code>READ_MEDIA_VIDEO</code>, <code>READ_MEDIA_VISUAL_USER_SELECTED</code>, <code>READ_EXTERNAL_STORAGE</code> (Android 12 and below)</td><td>Read your photos and videos to index, search and clean them. With partial access, only the items you select are used.</td></tr>
+    <tr><td><code>ACCESS_MEDIA_LOCATION</code></td><td>Android 10+ removes GPS data from photos unless this is granted. Used only locally to understand places in your photos.</td></tr>
+    <tr><td><code>MANAGE_EXTERNAL_STORAGE</code> (all files access)</td><td>Find and read documents (PDF, DOCX, XLSX) in your device folders for the Documents tab. Optional: the rest of the app works without it. Files are read locally and never uploaded.</td></tr>
+    <tr><td><code>INTERNET</code></td><td>Download the AI model (one time), load ads, and use Google Play features.</td></tr>
+    <tr><td><code>USE_BIOMETRIC</code></td><td>Optional fingerprint/face/PIN lock for the Documents area. Handled by Android; the app never receives your biometric data.</td></tr>
+    <tr><td><code>RECEIVE_BOOT_COMPLETED</code></td><td>Keep warranty reminders and background indexing scheduled after the device restarts.</td></tr>
+    <tr><td>Notifications (Android 13+)</td><td>Show the warranty reminder you choose to set. Optional.</td></tr>
+  </table>
+  <p>Background indexing runs only while the device is charging. You can revoke any permission in Android settings; the related features will stop working.</p>
+
+  <h2>4. The AI model download</h2>
+  <p>On first run the app downloads the EmbeddingGemma model (about 462 MB) from Hugging Face (<code>huggingface.co/valdec/embeddinggemma-2-740m-litert-lm</code>). The download request exposes your IP address and basic device/connection data to that host under its own privacy policy. The file is verified (size and SHA-256) before use. No user content is sent in this process.</p>
+
+  <h2>5. Advertising (Google AdMob)</h2>
+  <p>The app shows ads served by Google AdMob. Google and its partners may collect and use device identifiers (such as the advertising ID), IP address, and ad interaction data to serve and measure ads and, depending on your consent, to personalize them. Where required (for example in the EEA and UK), the app shows a consent form (Google User Messaging Platform) and you can change your choice later. You can also reset or opt out of ad personalization in your Android settings (Settings › Google › Ads). Learn more: <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">policies.google.com/technologies/ads</a> and <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a>.</p>
+
+  <h2>6. Google Play services</h2>
+  <p>The app uses Google Play in-app update and in-app review. These are provided by Google Play and subject to Google's privacy policy. The app does not receive your Google account data through them.</p>
+
+  <h2>7. Deleting files</h2>
+  <p>The cleanup feature only deletes files after you review and confirm. On Android 11+ files go to the system trash; on Android 10 and below, deletion is permanent and the app warns you first. Favorites are never selected automatically.</p>
+
+  <h2>8. Data retention and your control</h2>
+  <p>Local data stays until you clear the app's storage or uninstall it. Removing an item from an album or the document list does not delete the original file. You can revoke permissions, turn off the biometric lock and reset ad consent at any time.</p>
+
+  <h2>9. Children</h2>
+  <p>Acervo is not directed to children under 13 and we do not knowingly collect their personal information.</p>
+
+  <h2>10. Security</h2>
+  <p>Because data is processed and stored on your device, its protection depends on your device's security. The model download uses HTTPS and integrity verification.</p>
+
+  <h2>11. Changes to this policy</h2>
+  <p>We may update this policy. The date at the top shows the latest revision; material changes will be reflected in the app listing or this page.</p>
+
+  <h2>12. Contact</h2>
+  <p>Questions or requests: <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a></p>
+</section>
+
+<!-- ============================ PORTUGUÊS ============================ -->
+<section class="lang" id="pt" lang="pt-BR">
+  <h2>Política de Privacidade</h2>
+  <p class="updated">Última atualização: 15 de outubro de 2026 · App: Acervo (<code>acervo.vr.documentos.gallery.ai</code>) · Desenvolvedor: VR Games</p>
+  <p>O Acervo é um app Android de busca semântica offline em fotos e vídeos, limpeza inteligente, documentos e comprovantes e álbuns inteligentes. Esta política explica o que o app acessa, o que faz com isso e quais são as suas escolhas.</p>
+
+  <h2>1. Resumo</h2>
+  <ul>
+    <li>Suas fotos, vídeos, documentos e o índice criado a partir deles <strong>ficam no seu aparelho</strong>. Não os enviamos e não temos servidor que os receba.</li>
+    <li>A análise (busca, OCR, similaridade) é feita <strong>no próprio aparelho</strong>.</li>
+    <li>O app usa a internet para baixar o modelo de IA uma vez, exibir anúncios (Google AdMob) e usar recursos de atualização e avaliação do Google Play.</li>
+    <li>Não vendemos seus dados pessoais.</li>
+  </ul>
+
+  <h2>2. Dados que o app acessa no aparelho</h2>
+  <ul>
+    <li><strong>Fotos e vídeos</strong> (nomes, pastas, datas, tamanhos, miniaturas e, quando permitido, metadados de localização) para montar o índice local de busca, achar fotos parecidas e prints e criar álbuns.</li>
+    <li><strong>Documentos</strong> (arquivos PDF, Word e Excel de até 30 MB) e fotos de comprovantes, para listá-los e ler o texto.</li>
+    <li><strong>Texto reconhecido em imagens</strong> (estabelecimento, data, valor) extraído no aparelho com o reconhecimento de texto Google ML Kit (embutido no app) e salvo apenas localmente.</li>
+    <li><strong>Configurações do app</strong> (idioma, álbuns criados, lembretes de garantia, trava biométrica ligada/desligada) guardadas localmente.</li>
+  </ul>
+  <p>Essas informações não são enviadas a nós nem a terceiros. Os dados do app ficam fora do backup do Android e da transferência entre aparelhos.</p>
+
+  <h2>3. Permissões</h2>
+  <table>
+    <tr><th>Permissão</th><th>Por que o app precisa</th></tr>
+    <tr><td><code>READ_MEDIA_IMAGES</code>, <code>READ_MEDIA_VIDEO</code>, <code>READ_MEDIA_VISUAL_USER_SELECTED</code>, <code>READ_EXTERNAL_STORAGE</code> (Android 12 ou anterior)</td><td>Ler suas fotos e vídeos para indexar, buscar e limpar. Com acesso parcial, só os itens que você escolher são usados.</td></tr>
+    <tr><td><code>ACCESS_MEDIA_LOCATION</code></td><td>O Android 10+ remove o GPS das fotos se isso não for concedido. Usado só localmente para entender os lugares das fotos.</td></tr>
+    <tr><td><code>MANAGE_EXTERNAL_STORAGE</code> (acesso a todos os arquivos)</td><td>Encontrar e ler documentos (PDF, DOCX, XLSX) nas pastas do aparelho para a aba Documentos. Opcional: o resto do app funciona sem ela. Os arquivos são lidos localmente e nunca enviados.</td></tr>
+    <tr><td><code>INTERNET</code></td><td>Baixar o modelo de IA (uma vez), carregar anúncios e usar recursos do Google Play.</td></tr>
+    <tr><td><code>USE_BIOMETRIC</code></td><td>Trava opcional por digital/rosto/PIN na área de Documentos. Tratada pelo Android; o app nunca recebe seus dados biométricos.</td></tr>
+    <tr><td><code>RECEIVE_BOOT_COMPLETED</code></td><td>Manter lembretes de garantia e a indexação em segundo plano agendados após reiniciar o aparelho.</td></tr>
+    <tr><td>Notificações (Android 13+)</td><td>Mostrar o lembrete de garantia que você decidir criar. Opcional.</td></tr>
+  </table>
+  <p>A indexação em segundo plano só roda com o aparelho na tomada. Você pode revogar qualquer permissão nas configurações do Android; os recursos relacionados deixarão de funcionar.</p>
+
+  <h2>4. Download do modelo de IA</h2>
+  <p>Na primeira execução o app baixa o modelo EmbeddingGemma (cerca de 462 MB) do Hugging Face (<code>huggingface.co/valdec/embeddinggemma-2-740m-litert-lm</code>). A requisição expõe seu endereço IP e dados básicos de conexão a esse servidor, sob a política de privacidade dele. O arquivo é verificado (tamanho e SHA-256) antes do uso. Nenhum conteúdo seu é enviado nesse processo.</p>
+
+  <h2>5. Publicidade (Google AdMob)</h2>
+  <p>O app exibe anúncios do Google AdMob. O Google e seus parceiros podem coletar e usar identificadores do dispositivo (como o ID de publicidade), endereço IP e dados de interação com anúncios para exibi-los, medi-los e, conforme seu consentimento, personalizá-los. Quando exigido (por exemplo no EEE e no Reino Unido), o app mostra um formulário de consentimento (Google User Messaging Platform) e você pode mudar a escolha depois. Também é possível redefinir ou desativar a personalização de anúncios nas configurações do Android (Configurações › Google › Anúncios). Saiba mais: <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">policies.google.com/technologies/ads</a> e <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a>.</p>
+
+  <h2>6. Serviços do Google Play</h2>
+  <p>O app usa a atualização no app e a avaliação no app do Google Play. Esses recursos são fornecidos pelo Google Play e seguem a política de privacidade do Google. O app não recebe dados da sua conta Google por meio deles.</p>
+
+  <h2>7. Exclusão de arquivos</h2>
+  <p>A limpeza só apaga arquivos depois que você revisa e confirma. No Android 11 ou mais novo os arquivos vão para a lixeira do sistema; no Android 10 ou anterior a exclusão é permanente e o app avisa antes. Favoritos nunca são marcados automaticamente.</p>
+
+  <h2>8. Retenção de dados e seu controle</h2>
+  <p>Os dados locais permanecem até você limpar o armazenamento do app ou desinstalá-lo. Tirar um item de um álbum ou da lista de documentos não apaga o arquivo original. Você pode revogar permissões, desligar a trava biométrica e redefinir o consentimento de anúncios a qualquer momento.</p>
+
+  <h2>9. Crianças</h2>
+  <p>O Acervo não é direcionado a menores de 13 anos e não coletamos intencionalmente informações pessoais deles.</p>
+
+  <h2>10. Segurança</h2>
+  <p>Como os dados são processados e guardados no seu aparelho, a proteção deles depende da segurança do aparelho. O download do modelo usa HTTPS e verificação de integridade.</p>
+
+  <h2>11. Alterações nesta política</h2>
+  <p>Podemos atualizar esta política. A data no topo indica a revisão mais recente; mudanças relevantes serão refletidas na página do app ou nesta página.</p>
+
+  <h2>12. Contato</h2>
+  <p>Dúvidas ou solicitações: <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a></p>
+</section>
+
+<!-- ============================ ESPAÑOL ============================ -->
+<section class="lang" id="es" lang="es">
+  <h2>Política de Privacidad</h2>
+  <p class="updated">Última actualización: 15 de octubre de 2026 · App: Acervo (<code>acervo.vr.documentos.gallery.ai</code>) · Desarrollador: VR Games</p>
+  <p>Acervo es una app para Android de búsqueda semántica sin conexión en fotos y videos, limpieza inteligente, documentos y comprobantes y álbumes inteligentes. Esta política explica a qué accede la app, qué hace con ello y cuáles son tus opciones.</p>
+
+  <h2>1. Resumen</h2>
+  <ul>
+    <li>Tus fotos, videos, documentos y el índice creado a partir de ellos <strong>permanecen en tu dispositivo</strong>. No los subimos y no tenemos ningún servidor que los reciba.</li>
+    <li>El análisis (búsqueda, OCR, similitud) se realiza <strong>en el propio dispositivo</strong>.</li>
+    <li>La app usa internet para descargar el modelo de IA una vez, mostrar anuncios (Google AdMob) y usar funciones de actualización y valoración de Google Play.</li>
+    <li>No vendemos tus datos personales.</li>
+  </ul>
+
+  <h2>2. Datos a los que accede la app en tu dispositivo</h2>
+  <ul>
+    <li><strong>Fotos y videos</strong> (nombres, carpetas, fechas, tamaños, miniaturas y, si lo permites, metadatos de ubicación) para crear el índice local de búsqueda, encontrar fotos parecidas y capturas de pantalla y crear álbumes.</li>
+    <li><strong>Documentos</strong> (archivos PDF, Word y Excel de hasta 30 MB) y fotos de comprobantes, para listarlos y leer su texto.</li>
+    <li><strong>Texto reconocido en imágenes</strong> (establecimiento, fecha, importe) extraído en el dispositivo con el reconocimiento de texto de Google ML Kit (incluido en la app) y guardado solo de forma local.</li>
+    <li><strong>Ajustes de la app</strong> (idioma, álbumes creados, recordatorios de garantía, bloqueo biométrico activado/desactivado) guardados localmente.</li>
+  </ul>
+  <p>Esta información no se envía a nosotros ni a terceros. Los datos de la app quedan excluidos de la copia de seguridad de Android y de la transferencia entre dispositivos.</p>
+
+  <h2>3. Permisos</h2>
+  <table>
+    <tr><th>Permiso</th><th>Por qué lo necesita la app</th></tr>
+    <tr><td><code>READ_MEDIA_IMAGES</code>, <code>READ_MEDIA_VIDEO</code>, <code>READ_MEDIA_VISUAL_USER_SELECTED</code>, <code>READ_EXTERNAL_STORAGE</code> (Android 12 o anterior)</td><td>Leer tus fotos y videos para indexarlos, buscarlos y limpiarlos. Con acceso parcial, solo se usan los elementos que selecciones.</td></tr>
+    <tr><td><code>ACCESS_MEDIA_LOCATION</code></td><td>Android 10+ elimina el GPS de las fotos si no se concede. Se usa solo de forma local para entender los lugares de tus fotos.</td></tr>
+    <tr><td><code>MANAGE_EXTERNAL_STORAGE</code> (acceso a todos los archivos)</td><td>Encontrar y leer documentos (PDF, DOCX, XLSX) en las carpetas del dispositivo para la pestaña Documentos. Opcional: el resto de la app funciona sin él. Los archivos se leen localmente y nunca se suben.</td></tr>
+    <tr><td><code>INTERNET</code></td><td>Descargar el modelo de IA (una vez), cargar anuncios y usar funciones de Google Play.</td></tr>
+    <tr><td><code>USE_BIOMETRIC</code></td><td>Bloqueo opcional por huella/rostro/PIN en el área de Documentos. Lo gestiona Android; la app nunca recibe tus datos biométricos.</td></tr>
+    <tr><td><code>RECEIVE_BOOT_COMPLETED</code></td><td>Mantener programados los recordatorios de garantía y la indexación en segundo plano tras reiniciar el dispositivo.</td></tr>
+    <tr><td>Notificaciones (Android 13+)</td><td>Mostrar el recordatorio de garantía que decidas crear. Opcional.</td></tr>
+  </table>
+  <p>La indexación en segundo plano solo se ejecuta con el dispositivo cargando. Puedes revocar cualquier permiso en los ajustes de Android; las funciones relacionadas dejarán de funcionar.</p>
+
+  <h2>4. Descarga del modelo de IA</h2>
+  <p>En la primera ejecución la app descarga el modelo EmbeddingGemma (unos 462 MB) desde Hugging Face (<code>huggingface.co/valdec/embeddinggemma-2-740m-litert-lm</code>). La solicitud expone tu dirección IP y datos básicos de conexión a ese servidor, bajo su propia política de privacidad. El archivo se verifica (tamaño y SHA-256) antes de usarse. En este proceso no se envía ningún contenido tuyo.</p>
+
+  <h2>5. Publicidad (Google AdMob)</h2>
+  <p>La app muestra anuncios de Google AdMob. Google y sus socios pueden recopilar y usar identificadores del dispositivo (como el ID de publicidad), la dirección IP y datos de interacción con los anuncios para mostrarlos, medirlos y, según tu consentimiento, personalizarlos. Cuando es obligatorio (por ejemplo en el EEE y el Reino Unido), la app muestra un formulario de consentimiento (Google User Messaging Platform) y puedes cambiar tu elección más tarde. También puedes restablecer o desactivar la personalización de anuncios en los ajustes de Android (Ajustes › Google › Anuncios). Más información: <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">policies.google.com/technologies/ads</a> y <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a>.</p>
+
+  <h2>6. Servicios de Google Play</h2>
+  <p>La app usa la actualización dentro de la app y la valoración dentro de la app de Google Play. Estas funciones las proporciona Google Play y se rigen por la política de privacidad de Google. La app no recibe datos de tu cuenta de Google a través de ellas.</p>
+
+  <h2>7. Eliminación de archivos</h2>
+  <p>La limpieza solo elimina archivos después de que los revises y confirmes. En Android 11 o posterior los archivos van a la papelera del sistema; en Android 10 o anterior la eliminación es permanente y la app te avisa antes. Los favoritos nunca se marcan automáticamente.</p>
+
+  <h2>8. Conservación de datos y tu control</h2>
+  <p>Los datos locales permanecen hasta que borres el almacenamiento de la app o la desinstales. Quitar un elemento de un álbum o de la lista de documentos no elimina el archivo original. Puedes revocar permisos, desactivar el bloqueo biométrico y restablecer el consentimiento de anuncios en cualquier momento.</p>
+
+  <h2>9. Menores</h2>
+  <p>Acervo no está dirigida a menores de 13 años y no recopilamos intencionadamente su información personal.</p>
+
+  <h2>10. Seguridad</h2>
+  <p>Como los datos se procesan y almacenan en tu dispositivo, su protección depende de la seguridad del dispositivo. La descarga del modelo usa HTTPS y verificación de integridad.</p>
+
+  <h2>11. Cambios en esta política</h2>
+  <p>Podemos actualizar esta política. La fecha al inicio indica la revisión más reciente; los cambios importantes se reflejarán en la ficha de la app o en esta página.</p>
+
+  <h2>12. Contacto</h2>
+  <p>Preguntas o solicitudes: <a href="mailto:vrgames.app@gmail.com">vrgames.app@gmail.com</a></p>
+</section>
+
+</main>
+<script>
+  (function () {
+    var buttons = document.querySelectorAll('nav button');
+    var sections = document.querySelectorAll('section.lang');
+    function show(code) {
+      sections.forEach(function (s) { s.classList.toggle('active', s.id === code); });
+      buttons.forEach(function (b) { b.setAttribute('aria-pressed', b.dataset.lang === code); });
+      document.documentElement.lang = code;
+      try { history.replaceState(null, '', '#' + code); } catch (e) {}
+    }
+    buttons.forEach(function (b) { b.addEventListener('click', function () { show(b.dataset.lang); }); });
+    var hash = location.hash.replace('#', '');
+    var nav = (navigator.language || 'en').slice(0, 2);
+    var initial = ['en', 'pt', 'es'].indexOf(hash) >= 0 ? hash : (['pt', 'es'].indexOf(nav) >= 0 ? nav : 'en');
+    show(initial);
+  })();
+</script>
+</body>
+</html>
