@@ -575,7 +575,7 @@
     },
     {
         "channelName": "BAND SPORTS",
-        "link": "https://rdcanais.net/bandsports",
+        "link": "https://v2.rdembed.sbs/bandsports",
         "ativo": 1,
         "contactpage": "",
         "categoria": "esportes",
@@ -589,7 +589,7 @@
     },
     {
         "channelName": "BAND SPORTS SD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=bandsports",
+        "link": "https://tv.embedtv.lat/bandsports",
         "ativo": 1,
         "contactpage": "",
         "categoria": "esportes",
@@ -603,7 +603,7 @@
     },
     {
         "channelName": "CNN BRASIL",
-        "link": "https://rdcanais.net/cnnbrasil",
+        "link": "https://tv.embedtv.lat/cnnbrasil",
         "ativo": 1,
         "contactpage": "",
         "categoria": "noticias",
@@ -617,7 +617,7 @@
     },
     {
         "channelName": "CNN BRASIL SD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=cnnbrasil",
+        "link": "https://tv.embedtv.lat/cnnbrasil",
         "ativo": 1,
         "contactpage": "",
         "categoria": "noticias",
@@ -981,7 +981,7 @@
     },
     {
         "channelName": "SPORTV 2 HD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=sportv2",
+        "link": "https://tv.embedtv.lat/sportv2",
         "ativo": 1,
         "contactpage": "",
         "categoria": "esportes",
@@ -1023,7 +1023,7 @@
     },
     {
         "channelName": "TNT Novelas",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=tntnovelas",
+        "link": "https://tv.embedtv.lat/tntnovelas",
         "ativo": 1,
         "contactpage": "",
         "categoria": "filmes",
@@ -1107,7 +1107,7 @@
     },
     {
         "channelName": "GLOBO NOVELAS HD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=globoplaynovelas",
+        "link": "https://tv.embedtv.lat/globoplaynovelas",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -1233,7 +1233,7 @@
     },
     {
         "channelName": "HBO 2",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=hbo2",
+        "link": "https://tv.embedtv.lat/hbo2",
         "ativo": 1,
         "contactpage": "",
         "categoria": "filmes",
@@ -1275,7 +1275,7 @@
     },
     {
         "channelName": "HBO XTREME",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=hboxtreme",
+        "link": "https://tv.embedtv.lat/hboxtreme",
         "ativo": 1,
         "contactpage": "",
         "categoria": "filmes",
@@ -1317,7 +1317,7 @@
     },
     {
         "channelName": "MTV",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=mtv",
+        "link": "https://tv.embedtv.lat/mtv",
         "ativo": 1,
         "contactpage": "",
         "categoria": "musical",
@@ -1401,7 +1401,7 @@
     },
     {
         "channelName": "GNT SD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=gnt",
+        "link": "https://tv.embedtv.lat/gnt",
         "ativo": 1,
         "contactpage": "",
         "categoria": "outros",
@@ -1513,7 +1513,7 @@
     },
     {
         "channelName": "ESPN 2 SD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=espn2",
+        "link": "https://tv.embedtv.lat/espn2",
         "ativo": 1,
         "contactpage": "",
         "categoria": "esportes",
@@ -1541,7 +1541,7 @@
     },
     {
         "channelName": "ESPN 3 HD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=espn3",
+        "link": "https://tv.embedtv.lat/espn3",
         "ativo": 1,
         "contactpage": "",
         "categoria": "esportes",
@@ -1569,7 +1569,7 @@
     },
     {
         "channelName": "ESPN 4",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=espn4",
+        "link": "https://tv.embedtv.lat/espn4",
         "ativo": 1,
         "contactpage": "",
         "categoria": "esportes",
@@ -1597,7 +1597,7 @@
     },
     {
         "channelName": "ESPN 5 HD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=espn5",
+        "link": "https://tv.embedtv.lat/espn5",
         "ativo": 1,
         "contactpage": "",
         "categoria": "esportes",
@@ -1653,7 +1653,7 @@
     },
     {
         "channelName": "X SPORTS SD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=xsports",
+        "link": "https://tv.embedtv.lat/xsports",
         "ativo": 1,
         "contactpage": "",
         "categoria": "esportes",
@@ -1695,7 +1695,7 @@
     },
     {
         "channelName": "AXN SD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=axn",
+        "link": "https://tv.embedtv.lat/axn",
         "ativo": 1,
         "contactpage": "",
         "categoria": "filmes",
@@ -1723,7 +1723,7 @@
     },
     {
         "channelName": "AMC FHD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=amc",
+        "link": "https://tv.embedtv.lat/amc",
         "ativo": 1,
         "contactpage": "",
         "categoria": "filmes",
@@ -1793,7 +1793,7 @@
     },
     {
         "channelName": "ANIMAL PLANET SD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=animalplanet",
+        "link": "https://tv.embedtv.lat/animalplanet",
         "ativo": 1,
         "contactpage": "",
         "categoria": "documentarios",
@@ -1891,7 +1891,7 @@
     },
     {
         "channelName": "MEGAPIX",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=megapix",
+        "link": "https://tv.embedtv.lat/megapix",
         "ativo": 1,
         "contactpage": "",
         "categoria": "filmes",
@@ -1975,7 +1975,7 @@
     },
     {
         "channelName": "DISCOVERY CHANNEL HD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=discoverychannel",
+        "link": "https://tv.embedtv.lat/discoverychannel",
         "ativo": 1,
         "contactpage": "",
         "categoria": "documentarios",
@@ -2003,7 +2003,7 @@
     },
     {
         "channelName": "DISCOVERY SIENCE SD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=discoveryscience",
+        "link": "https://tv.embedtv.lat/discoveryscience",
         "ativo": 1,
         "contactpage": "",
         "categoria": "documentarios",
@@ -2087,7 +2087,7 @@
     },
     {
         "channelName": "CINEMAX SD",
-        "link": "https://embedcanaisdetv.xyz/e/index.php?canal=cinemax",
+        "link": "https://tv.embedtv.lat/cinemax",
         "ativo": 1,
         "contactpage": "",
         "categoria": "filmes",
