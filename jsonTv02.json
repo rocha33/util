@@ -197,7 +197,7 @@
     },
     {
         "channelName": "SBT News",
-        "link": "https://redecanaistv.by/player3/ch.php?canal=sbtnews",
+        "link": "https://2910.playerembcanais.com/sbtnews",
         "ativo": 0,
         "contactpage": "",
         "categoria": "noticias",
@@ -309,7 +309,7 @@
     },
     {
         "channelName": "TELE CINE ACTION",
-        "link": "https://redecanaistv.plus/player3/ch.php?canal=telecineaction",
+        "link": "https://2910.playerembcanais.com/telecineaction",
         "ativo": 1,
         "contactpage": "",
         "categoria": "filmes",
@@ -505,7 +505,7 @@
     },
     {
         "channelName": "CARTOON NETWORK SD",
-        "link": "https://rdcanais.net/cartoonnetwork",
+        "link": "https://2910.playerembcanais.com/cartoonnetwork",
         "ativo": 1,
         "contactpage": "",
         "categoria": "animacao",
