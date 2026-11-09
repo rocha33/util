@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aura — Política de Privacidade</title>
+<style>
+  :root { --bg:#fbfaf7; --fg:#22201c; --muted:#6b665d; --accent:#b8741a; --line:#e6e1d6; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#16151a; --fg:#ece9e3; --muted:#a59f94; --accent:#e9a849; --line:#2c2a31; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg);
+         font:16px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:32px 16px 64px; }
+  h1 { font-size:1.8rem; line-height:1.25; margin:0 0 4px; }
+  h2 { font-size:1.2rem; margin:32px 0 8px; color:var(--accent); }
+  .meta { color:var(--muted); margin:0 0 24px; }
+  nav { margin:0 0 24px; }
+  nav a { margin-right:16px; }
+  a { color:var(--accent); }
+  ul { padding-left:1.2em; }
+  hr { border:0; border-top:1px solid var(--line); margin:56px 0; }
+</style>
+</head>
+<body>
+<main>
+
+<nav><a href="#pt">Português</a><a href="#en">English</a></nav>
+
+<!-- ============================ PORTUGUÊS ============================ -->
+<section id="pt" lang="pt-BR">
+<h1>Política de Privacidade — Aura: Diário de Gratidão</h1>
+<p class="meta">Vigente desde 9 de novembro de 2026</p>
+
+<p>Esta política explica como o aplicativo <strong>Aura: Diário de Gratidão</strong> (pacote <code>com.vr.gratidao.gratitude</code>, “o app”) trata informações. Em resumo: <strong>o seu diário fica só no seu aparelho.</strong> Não há conta, cadastro nem servidor próprio.</p>
+
+<h2>1. O que fica no seu aparelho</h2>
+<p>Tudo o que você cria no app é guardado apenas no armazenamento local do seu celular e não é enviado para nós nem para terceiros:</p>
+<ul>
+  <li>os textos de gratidão, categorias e datas;</li>
+  <li>moedas virtuais, itens, avatar, nível, missões e sequência de dias;</li>
+  <li>configurações, como horário de lembretes e idioma.</li>
+</ul>
+<p>Nós não temos acesso a esses dados. Se você desinstalar o app ou limpar os dados dele, essas informações são apagadas do aparelho.</p>
+
+<h2>2. Backup</h2>
+<p>Você pode exportar um arquivo de backup (<code>.gratidao</code>). Ele é cifrado no próprio aparelho com a senha que você escolher (AES-256-GCM) antes de ser salvo. Você decide onde guardar o arquivo (por exemplo, numa pasta do aparelho ou num serviço de nuvem de sua escolha). Nós não recebemos o arquivo nem a senha, e não conseguimos recuperar uma senha esquecida.</p>
+
+<h2>3. Cartões compartilhados</h2>
+<p>Quando você escolhe compartilhar um cartão com uma gratidão, o app gera uma imagem e abre o menu de compartilhamento do Android. A imagem só vai para o app ou a pessoa que você escolher, e passa a seguir as regras de privacidade desse destino.</p>
+
+<h2>4. Anúncios (Google AdMob)</h2>
+<p>O app exibe anúncios do <strong>Google AdMob</strong>: banners em algumas telas e, se você quiser, um vídeo opcional para dobrar uma recompensa. O conteúdo do seu diário nunca é enviado para anúncios.</p>
+<p>O SDK de anúncios do Google pode coletar e processar automaticamente, segundo a documentação do Google:</p>
+<ul>
+  <li>identificadores do aparelho, como o ID de publicidade do Android e o ID do conjunto de apps;</li>
+  <li>endereço IP, que pode indicar a localização aproximada;</li>
+  <li>interações com os anúncios (visualizações e toques);</li>
+  <li>informações de diagnóstico e desempenho.</li>
+</ul>
+<p>Esses dados são usados para exibir anúncios, medir resultados, evitar fraude e, quando permitido, personalizar anúncios. Nos locais em que a lei exige (como o Espaço Econômico Europeu e o Reino Unido), o app pede o seu consentimento antes, usando a plataforma de consentimento do Google (UMP). Você pode rever a escolha a qualquer momento em <strong>Configurações → Escolhas de privacidade de anúncios</strong>, quando essa opção aparecer.</p>
+<p>Você também pode redefinir ou excluir o ID de publicidade nas configurações do Android (Google → Anúncios). Saiba mais na <a href="https://policies.google.com/privacy">Política de Privacidade do Google</a> e em <a href="https://policies.google.com/technologies/partner-sites">Como o Google usa informações de sites ou apps que usam nossos serviços</a>.</p>
+<p>O app limita os anúncios a conteúdo adequado para todos com orientação dos pais (classificação PG) e não usa anúncios intersticiais.</p>
+
+<h2>5. Compras no app</h2>
+<p>A compra “Remover anúncios” é processada pela <strong>Google Play</strong>. Os dados de pagamento ficam com o Google; nós não recebemos o número do cartão nem outros dados financeiros. O app apenas consulta a Google Play para saber se a compra está ativa na sua conta. Veja os <a href="https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&amp;ldt=privacynotice">Termos de Privacidade do Google Payments</a>.</p>
+
+<h2>6. Notificações e widget</h2>
+<p>As notificações (por exemplo, “seu cofre está pronto”) são agendadas localmente no aparelho, sem servidor. Você pode desativá-las nas configurações do app ou do Android. O widget da tela inicial mostra o avatar, a luz e o saldo, usando apenas dados locais.</p>
+
+<h2>7. Permissões usadas</h2>
+<ul>
+  <li><strong>Internet e estado da rede:</strong> para carregar anúncios, o formulário de consentimento e verificar compras.</li>
+  <li><strong>Notificações:</strong> para os lembretes e avisos do cofre.</li>
+  <li><strong>Executar na inicialização:</strong> para reagendar as notificações depois que o aparelho reinicia.</li>
+</ul>
+<p>O app não pede acesso a localização, contatos, câmera, microfone nem fotos.</p>
+
+<h2>8. Crianças</h2>
+<p>O app não é direcionado a crianças menores de 13 anos e não coleta intencionalmente dados pessoais delas.</p>
+
+<h2>9. Seus direitos</h2>
+<p>Como os dados do diário ficam só no seu aparelho, você tem controle total: pode editá-los, exportá-los ou apagá-los a qualquer momento, desinstalando o app ou limpando os dados dele. Em relação aos dados tratados pelo Google para anúncios e compras, você pode exercer seus direitos (inclusive os previstos na LGPD e no GDPR) diretamente com o Google, pelas ferramentas citadas acima. Em caso de dúvida, fale conosco.</p>
+
+<h2>10. Alterações</h2>
+<p>Podemos atualizar esta política, por exemplo se o app passar a usar novos serviços. A versão atual fica sempre nesta página, com a data de vigência no topo.</p>
+
+<h2>11. Contato</h2>
+<p>Dúvidas sobre privacidade: <a href="mailto:SEU-EMAIL@exemplo.com">SEU-EMAIL@exemplo.com</a></p>
+</section>
+
+<hr>
+
+<!-- ============================ ENGLISH ============================ -->
+<section id="en" lang="en">
+<h1>Privacy Policy — Aura: Gratitude Journal</h1>
+<p class="meta">Effective November 9, 2026</p>
+
+<p>This policy explains how the <strong>Aura: Gratitude Journal</strong> app (package <code>com.vr.gratidao.gratitude</code>, “the app”) handles information. In short: <strong>your journal stays on your device.</strong> There is no account, no sign-up and no server of our own.</p>
+
+<h2>1. What stays on your device</h2>
+<p>Everything you create in the app is stored only in your phone’s local storage and is not sent to us or to third parties:</p>
+<ul>
+  <li>gratitude entries, categories and dates;</li>
+  <li>virtual coins, items, avatar, level, missions and streak;</li>
+  <li>settings such as reminder time and language.</li>
+</ul>
+<p>We have no access to this data. Uninstalling the app or clearing its data deletes it from the device.</p>
+
+<h2>2. Backup</h2>
+<p>You can export a backup file (<code>.gratidao</code>). It is encrypted on the device with a password you choose (AES-256-GCM) before it is saved. You decide where to keep it (for example, a device folder or a cloud service of your choice). We never receive the file or the password and cannot recover a forgotten password.</p>
+
+<h2>3. Shared cards</h2>
+<p>When you choose to share a gratitude card, the app creates an image and opens the Android share sheet. The image goes only to the app or person you pick and is then subject to that destination’s privacy rules.</p>
+
+<h2>4. Ads (Google AdMob)</h2>
+<p>The app shows ads from <strong>Google AdMob</strong>: banners on some screens and, if you want, an optional video to double a reward. Your journal content is never sent to ads.</p>
+<p>According to Google’s documentation, the Google Mobile Ads SDK may automatically collect and process:</p>
+<ul>
+  <li>device identifiers, such as the Android advertising ID and app set ID;</li>
+  <li>IP address, which may indicate approximate location;</li>
+  <li>ad interactions (views and taps);</li>
+  <li>diagnostics and performance information.</li>
+</ul>
+<p>This data is used to serve ads, measure results, prevent fraud and, where permitted, personalize ads. Where required by law (such as the EEA and the UK), the app asks for your consent first using Google’s User Messaging Platform (UMP). You can change your choice at any time under <strong>Settings → Ad privacy choices</strong> when that option is shown.</p>
+<p>You can also reset or delete your advertising ID in Android settings (Google → Ads). Learn more in the <a href="https://policies.google.com/privacy">Google Privacy Policy</a> and <a href="https://policies.google.com/technologies/partner-sites">How Google uses information from sites or apps that use our services</a>.</p>
+<p>Ads are limited to content suitable for general audiences with parental guidance (PG rating), and the app does not use interstitial ads.</p>
+
+<h2>5. In-app purchases</h2>
+<p>The “Remove ads” purchase is processed by <strong>Google Play</strong>. Payment data stays with Google; we do not receive card numbers or other financial details. The app only checks with Google Play whether the purchase is active on your account. See the <a href="https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&amp;ldt=privacynotice">Google Payments Privacy Notice</a>.</p>
+
+<h2>6. Notifications and widget</h2>
+<p>Notifications (for example, “your vault is ready”) are scheduled locally on the device, with no server. You can turn them off in the app or in Android settings. The home-screen widget shows your avatar, light and balance using local data only.</p>
+
+<h2>7. Permissions</h2>
+<ul>
+  <li><strong>Internet and network state:</strong> to load ads, the consent form and verify purchases.</li>
+  <li><strong>Notifications:</strong> for reminders and vault alerts.</li>
+  <li><strong>Run at startup:</strong> to reschedule notifications after the device restarts.</li>
+</ul>
+<p>The app does not request access to location, contacts, camera, microphone or photos.</p>
+
+<h2>8. Children</h2>
+<p>The app is not directed at children under 13 and does not knowingly collect their personal data.</p>
+
+<h2>9. Your rights</h2>
+<p>Because your journal data stays on your device, you are in full control: you can edit, export or delete it at any time by uninstalling the app or clearing its data. For data processed by Google for ads and purchases, you can exercise your rights (including under the GDPR and Brazil’s LGPD) directly with Google using the tools above. If you have questions, contact us.</p>
+
+<h2>10. Changes</h2>
+<p>We may update this policy, for example if the app starts using new services. The current version is always on this page, with the effective date at the top.</p>
+
+<h2>11. Contact</h2>
+<p>Privacy questions: <a href="mailto:SEU-EMAIL@exemplo.com">SEU-EMAIL@exemplo.com</a></p>
+</section>
+
+</main>
+</body>
+</html>
