@@ -3,7 +3,7 @@
   Página de entrada dos links de desafio: https://SEU_SITE/?c=CODIGO
 
   - Android com o jogo instalado: o botão (ou a tentativa automática) abre
-    o jogo direto no desafio (nomedojogo://c/CODIGO).
+    o jogo direto no desafio (meowp://c/CODIGO).
   - Sem o jogo: vai para a Play Store. Antes, copia a mensagem com o código;
     depois de instalar, o botão 🥊 do jogo acha o código copiado.
   - Outros aparelhos: mostra o código.
@@ -16,9 +16,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>NOME_DO_JOGO</title>
+<title>Meowp</title>
 <meta name="description" content="Same pieces, can you beat my score?">
-<meta property="og:title" content="NOME_DO_JOGO 🥊">
+<meta property="og:title" content="Meowp 🥊">
 <meta property="og:description" content="Same pieces, can you beat my score?">
 <style>
   :root {
@@ -76,9 +76,9 @@
   <p class="note hidden" id="note"></p>
 </main>
 <script>
-  const GAME = 'NOME_DO_JOGO';
-  const PACKAGE = 'com.nomedojogo.nome_do_jogo';
-  const SCHEME = 'nomedojogo';
+  const GAME = 'Meowp';
+  const PACKAGE = 'com.vr.meowp.game.puzzle';
+  const SCHEME = 'meowp';
 
   const TEXT = {
     en: { lead: 'Same pieces for you. Can you beat this score?', daily: 'Same pieces for everyone today.', open: 'Play the challenge', store: 'Get it on Google Play', note: 'After installing, open the game and tap 🥊: the code is already copied.', other: 'Open the game on Android and tap 🥊 to paste this code.' },
