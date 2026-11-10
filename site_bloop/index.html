@@ -1,0 +1,153 @@
+<!doctype html>
+<!--
+  Página de entrada dos links de desafio: https://SEU_SITE/?c=CODIGO
+
+  - Android com o jogo instalado: o botão (ou a tentativa automática) abre
+    o jogo direto no desafio (nomedojogo://c/CODIGO).
+  - Sem o jogo: vai para a Play Store. Antes, copia a mensagem com o código;
+    depois de instalar, o botão 🥊 do jogo acha o código copiado.
+  - Outros aparelhos: mostra o código.
+
+  Para publicar (GitHub Pages, por exemplo): sirva esta pasta e ponha o
+  endereço em `shareSiteUrl` (lib/app/game_info.dart). Mantenha GAME,
+  PACKAGE e SCHEME iguais a gameName, androidPackage e appLinkScheme de lá.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NOME_DO_JOGO</title>
+<meta name="description" content="Same pieces, can you beat my score?">
+<meta property="og:title" content="NOME_DO_JOGO 🥊">
+<meta property="og:description" content="Same pieces, can you beat my score?">
+<style>
+  :root {
+    --bg: #FFF5EB; --card: #FFFFFF; --ink: #3A2E39; --muted: #6B5A66;
+    --accent: #F2A65A; --accent-ink: #3A2E39; --flag: #E05A5A;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #1E1A24; --card: #2B2533; --ink: #F6EEF4; --muted: #C9B9C6;
+      --accent: #F2A65A; --accent-ink: #2B192E; --flag: #FF7A7A;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; min-height: 100vh; display: grid; place-items: center;
+    background: var(--bg); color: var(--ink);
+    font: 16px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    padding: 16px;
+  }
+  main {
+    width: 100%; max-width: 380px; background: var(--card);
+    border-radius: 28px; padding: 28px 22px; text-align: center;
+    box-shadow: 0 8px 28px rgba(0,0,0,.12);
+  }
+  h1 { margin: 0 0 4px; font-size: 30px; font-weight: 900; letter-spacing: 1px; }
+  .glove { font-size: 44px; }
+  .score { font-size: 48px; font-weight: 900; margin: 8px 0 0; }
+  .score::before { content: "🚩 "; font-size: 30px; }
+  .lead { color: var(--muted); margin: 6px 0 20px; }
+  .code {
+    font: 800 22px/1 ui-monospace, monospace; letter-spacing: 3px;
+    background: var(--bg); border-radius: 14px; padding: 14px; margin: 0 0 20px;
+    user-select: all;
+  }
+  a.btn, button.btn {
+    display: block; width: 100%; border: 0; cursor: pointer; text-decoration: none;
+    font: 800 18px/1 inherit; font-family: inherit;
+    padding: 16px; border-radius: 999px; margin: 10px 0 0;
+  }
+  .primary { background: var(--accent); color: var(--accent-ink); }
+  .secondary { background: transparent; color: var(--ink); box-shadow: inset 0 0 0 2px var(--muted); }
+  .hidden { display: none !important; }
+  .note { color: var(--muted); font-size: 13px; margin-top: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <div class="glove" aria-hidden="true">🥊</div>
+  <h1 id="game"></h1>
+  <p class="score hidden" id="score"></p>
+  <p class="lead" id="lead"></p>
+  <p class="code hidden" id="code"></p>
+  <a class="btn primary hidden" id="open" href="#"></a>
+  <a class="btn secondary hidden" id="store" href="#"></a>
+  <p class="note hidden" id="note"></p>
+</main>
+<script>
+  const GAME = 'NOME_DO_JOGO';
+  const PACKAGE = 'com.nomedojogo.nome_do_jogo';
+  const SCHEME = 'nomedojogo';
+
+  const TEXT = {
+    en: { lead: 'Same pieces for you. Can you beat this score?', daily: 'Same pieces for everyone today.', open: 'Play the challenge', store: 'Get it on Google Play', note: 'After installing, open the game and tap 🥊: the code is already copied.', other: 'Open the game on Android and tap 🥊 to paste this code.' },
+    pt: { lead: 'Você joga com as mesmas peças. Consegue passar?', daily: 'Hoje as peças são iguais para todo mundo.', open: 'Jogar o desafio', store: 'Baixar na Google Play', note: 'Depois de instalar, abra o jogo e toque em 🥊: o código já está copiado.', other: 'Abra o jogo no Android e toque em 🥊 para colar este código.' },
+    es: { lead: 'Juegas con las mismas piezas. ¿Lo superas?', daily: 'Hoy las piezas son iguales para todos.', open: 'Jugar el desafío', store: 'Descargar en Google Play', note: 'Tras instalar, abre el juego y toca 🥊: el código ya está copiado.', other: 'Abre el juego en Android y toca 🥊 para pegar este código.' },
+    id: { lead: 'Kepingannya sama persis. Bisa kalahkan skor ini?', daily: 'Hari ini kepingannya sama untuk semua.', open: 'Main tantangannya', store: 'Unduh di Google Play', note: 'Setelah instal, buka game lalu ketuk 🥊: kodenya sudah disalin.', other: 'Buka game di Android lalu ketuk 🥊 untuk menempel kode ini.' },
+    hi: { lead: 'तुम्हें भी यही टुकड़े मिलेंगे। क्या यह स्कोर हरा सकते हो?', daily: 'आज सबके लिए एक जैसे टुकड़े।', open: 'चुनौती खेलो', store: 'Google Play से पाओ', note: 'इंस्टॉल के बाद गेम खोलो और 🥊 दबाओ: कोड पहले से कॉपी है।', other: 'Android पर गेम खोलो और यह कोड पेस्ट करने के लिए 🥊 दबाओ।' },
+  };
+  const lang = (navigator.language || 'en').slice(0, 2).toLowerCase();
+  const t = TEXT[lang] || TEXT.en;
+  document.documentElement.lang = TEXT[lang] ? lang : 'en';
+
+  // Código: 12 letras do Base32 de Crockford (mesmo formato do jogo).
+  const ALPHABET = '0123456789ABCDEFGHJKMNPQRSTVWXYZ';
+  const raw = (new URLSearchParams(location.search).get('c') || '')
+    .toUpperCase().replace(/[^0-9A-Z]/g, '')
+    .replace(/O/g, '0').replace(/[IL]/g, '1');
+  const valid = raw.length === 12 && [...raw].every(ch => ALPHABET.includes(ch));
+  const pretty = valid ? `${raw.slice(0, 4)}-${raw.slice(4, 8)}-${raw.slice(8)}` : '';
+
+  // Pontos do amigo (24 bits logo antes da verificação de 8), só para
+  // mostrar; quem confere o código de verdade é o jogo.
+  function scoreOf(code) {
+    let v = 0n;
+    for (const ch of code) v = (v << 5n) | BigInt(ALPHABET.indexOf(ch));
+    return Number((v >> 8n) & 0xFFFFFFn);
+  }
+
+  const $ = id => document.getElementById(id);
+  const show = (id, text) => { const el = $(id); el.classList.remove('hidden'); if (text !== undefined) el.textContent = text; return el; };
+  $('game').textContent = GAME;
+  document.title = valid ? `${GAME} 🥊` : GAME;
+
+  const referrer = valid ? `&referrer=${encodeURIComponent('c=' + pretty)}` : '';
+  const storeUrl = `https://play.google.com/store/apps/details?id=${PACKAGE}${referrer}`;
+  const intentUrl = `intent://c/${valid ? raw : ''}#Intent;scheme=${SCHEME};package=${PACKAGE};` +
+    `S.browser_fallback_url=${encodeURIComponent(storeUrl)};end`;
+  const android = /android/i.test(navigator.userAgent);
+
+  if (valid) {
+    show('score', String(scoreOf(raw)));
+    show('lead', t.lead);
+    show('code', pretty);
+  } else {
+    show('lead', t.daily);
+  }
+
+  // Copia a mensagem com o código: depois de instalar, o 🥊 do jogo acha.
+  async function copyCode() {
+    if (!valid) return;
+    try { await navigator.clipboard.writeText(`${GAME} 🥊 ${pretty}`); } catch (_) {}
+  }
+
+  if (android) {
+    const open = show('open', t.open);
+    open.href = intentUrl;
+    open.addEventListener('click', copyCode);
+    const store = show('store', t.store);
+    store.href = storeUrl;
+    store.addEventListener('click', copyCode);
+    if (valid) show('note', t.note);
+    // Um toque abre o jogo (ou a loja, se não estiver instalado). Sem
+    // abrir sozinho: o toque é o que deixa copiar o código antes da loja.
+  } else if (valid) {
+    show('note', t.other);
+  } else {
+    const store = show('store', t.store);
+    store.href = storeUrl;
+  }
+</script>
+</body>
+</html>
